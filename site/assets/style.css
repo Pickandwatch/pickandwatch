@@ -83,8 +83,8 @@ h1 {
 .muted { color: var(--sub); }
 .check { margin: 12px 0 0; font: 12px/1.4 var(--mono); letter-spacing: 1px; text-transform: uppercase; color: var(--sub); }
 .check.ok::before { content: "✓ "; color: var(--orange); font-weight: 500; }
-.stars { margin-bottom: 8px; font: 500 15px/1 var(--mono); letter-spacing: 1.5px; text-transform: uppercase; display: flex; align-items: center; gap: 10px; }
-.stars .st { color: var(--orange); font-size: 28px; letter-spacing: 4px; line-height: 1; }
+.stars { margin-bottom: 10px; font: 500 18px/1 var(--mono); letter-spacing: 2px; text-transform: uppercase; display: flex; align-items: center; flex-wrap: wrap; gap: 6px 14px; }
+.stars .st { color: var(--orange); font-size: 76px; letter-spacing: 4px; line-height: 0.8; }
 .stars .off { color: var(--line); }
 .empty { padding: 32px 0; font-size: 22px; }
 .notes { margin: 16px 0 0; font-style: italic; color: var(--sub); }
@@ -104,5 +104,7 @@ footer { margin-top: 48px; padding-top: 18px; border-top: 2px solid var(--ink); 
   .date { display: none; }
   .match { grid-template-columns: 1fr; gap: 6px; }
   .time span { font-size: 44px; }
+  .stars .st { font-size: 60px; }
+  .stars { font-size: 15px; }
   .ball { width: 420px; height: 420px; top: -170px; right: -220px; }
 }
