@@ -1,0 +1,194 @@
+{
+  "night": "2026-10-07",
+  "generated_at": "2026-10-07T15:52+02:00",
+  "games": [
+    {
+      "id": "401914123",
+      "tip_paris": "2026-10-08T01:00:00+02:00",
+      "home": {
+        "abbr": "IND",
+        "name": "Pacers",
+        "location": "Indiana",
+        "full": "Indiana Pacers",
+        "color": "#0c2340",
+        "color2": "#ffd520"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Timberwolves",
+        "location": "Minnesota",
+        "full": "Minnesota Timberwolves",
+        "color": "#266092",
+        "color2": "#79bc43"
+      },
+      "venue": "Hilton Coliseum",
+      "city": "Ames",
+      "neutral": true,
+      "phase": "preseason",
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS MAX 5",
+          "start": "2026-10-08T01:10:00+02:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-08T11:00:00+02:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401898391",
+      "tip_paris": "2026-10-08T02:00:00+02:00",
+      "home": {
+        "abbr": "MEM",
+        "name": "Grizzlies",
+        "location": "Memphis",
+        "full": "Memphis Grizzlies",
+        "color": "#5d76a9",
+        "color2": "#12173f"
+      },
+      "away": {
+        "abbr": "ORL",
+        "name": "Magic",
+        "location": "Orlando",
+        "full": "Orlando Magic",
+        "color": "#0150b5",
+        "color2": "#9ca0a3"
+      },
+      "venue": "FedExForum",
+      "city": "Memphis",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401908620",
+      "tip_paris": "2026-10-08T02:00:00+02:00",
+      "home": {
+        "abbr": "OKC",
+        "name": "Thunder",
+        "location": "Oklahoma City",
+        "full": "Oklahoma City Thunder",
+        "color": "#007ac1",
+        "color2": "#ef3b24"
+      },
+      "away": {
+        "abbr": "MIL",
+        "name": "Bucks",
+        "location": "Milwaukee",
+        "full": "Milwaukee Bucks",
+        "color": "#00471b",
+        "color2": "#eee1c6"
+      },
+      "venue": "Paycom Center",
+      "city": "Oklahoma City",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401908939",
+      "tip_paris": "2026-10-08T02:00:00+02:00",
+      "home": {
+        "abbr": "CHI",
+        "name": "Bulls",
+        "location": "Chicago",
+        "full": "Chicago Bulls",
+        "color": "#ce1141",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "PHX",
+        "name": "Suns",
+        "location": "Phoenix",
+        "full": "Phoenix Suns",
+        "color": "#29127a",
+        "color2": "#e56020"
+      },
+      "venue": "United Center",
+      "city": "Chicago",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401914129",
+      "tip_paris": "2026-10-08T04:00:00+02:00",
+      "home": {
+        "abbr": "POR",
+        "name": "Trail Blazers",
+        "location": "Portland",
+        "full": "Portland Trail Blazers",
+        "color": "#e03a3e",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "GS",
+        "name": "Warriors",
+        "location": "Golden State",
+        "full": "Golden State Warriors",
+        "color": "#fdb927",
+        "color2": "#1d428a"
+      },
+      "venue": "Moda Center",
+      "city": "Portland",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Grizzlies – Magic : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Thunder – Bucks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Bulls – Suns : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Trail Blazers – Warriors : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  }
+}

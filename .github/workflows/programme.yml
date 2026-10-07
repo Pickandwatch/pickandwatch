@@ -1,0 +1,66 @@
+name: Programme de la nuit
+
+# Le robot quotidien : calendrier officiel + guide TV, recoupés, puis génération du site.
+# Les heures « cron » sont en UTC : 13:17 UTC = 15:17 à Paris l'été (14:17 l'hiver).
+on:
+  schedule:
+    - cron: "17 13 * * *"
+    - cron: "47 19 * * *"
+  workflow_dispatch:
+    inputs:
+      night:
+        description: "Nuit à générer (AAAA-MM-JJ). Vide = aujourd'hui."
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: programme
+  cancel-in-progress: false
+
+jobs:
+  programme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Construire et vérifier le programme
+        env:
+          NIGHT: ${{ inputs.night }}
+        run: |
+          if [ -n "$NIGHT" ]; then python -m pipeline.run --night "$NIGHT"; else python -m pipeline.run; fi
+      - name: Enregistrer dans le dépôt
+        run: |
+          git config user.name "Pick & Watch (robot)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data site
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Programme : mise à jour du $(TZ=Europe/Paris date '+%d/%m %H:%M')"
+            git push
+          fi
+      - name: Préparer le site pour la mise en ligne
+        if: vars.SITE_EN_LIGNE == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  # Mise en ligne sur pickandwatch.fr : ne tourne qu'une fois l'hébergement activé
+  # (variable de dépôt SITE_EN_LIGNE = true, réglée au moment du lancement).
+  mise-en-ligne:
+    needs: programme
+    if: vars.SITE_EN_LIGNE == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

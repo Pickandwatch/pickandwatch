@@ -1,0 +1,108 @@
+/* Pick & Watch — charte « papier » (validée le 7 octobre 2026) */
+:root {
+  --paper: #F2EEE6;
+  --ink: #111214;
+  --orange: #F06A2F;
+  --sub: #5C5850;
+  --line: rgba(17, 18, 20, 0.18);
+  --display: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --serif: 'Source Serif 4', Georgia, serif;
+}
+* { box-sizing: border-box; }
+html { background: var(--paper); overflow-x: clip; }
+body {
+  margin: 0 auto; max-width: 980px; padding: 28px 16px 56px;
+  background: var(--paper); color: var(--ink);
+  font: 18px/1.5 var(--serif);
+  position: relative; overflow-x: clip;
+}
+a { color: inherit; text-decoration-color: var(--orange); text-underline-offset: 3px; }
+
+/* Ballon en filigrane, en haut à droite */
+.ball {
+  position: absolute; z-index: -1; pointer-events: none;
+  top: -220px; right: -260px; width: 620px; height: 620px;
+  border: 6px solid rgba(240, 106, 47, 0.16); border-radius: 50%;
+  transform: rotate(-24deg);
+  background:
+    linear-gradient(rgba(240,106,47,.16), rgba(240,106,47,.16)) center / 6px 100% no-repeat,
+    linear-gradient(rgba(240,106,47,.16), rgba(240,106,47,.16)) center / 100% 6px no-repeat;
+}
+
+/* En-tête : PICK & WATCH posé sur le filet orange */
+.bar { position: relative; display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.bar::before { content: ""; position: absolute; left: 0; right: 0; top: 50%; height: 6px; margin-top: -3px; background: var(--orange); }
+.brand, .date { position: relative; background: var(--paper); }
+.brand {
+  padding-right: 16px; font: 800 30px/1 var(--display); letter-spacing: 5px;
+  text-transform: uppercase; text-decoration: none;
+}
+.date { padding-left: 12px; font: 14px/1.2 var(--mono); letter-spacing: 1.5px; color: var(--sub); text-align: right; }
+
+/* Titre : surtitre orange pleine largeur + titre noir */
+.hero { margin: 44px 0 28px; }
+.fit { display: block; width: 100%; }
+.kicker {
+  margin: 0; font: 800 clamp(52px, 14vw, 150px)/0.86 var(--display);
+  color: var(--orange); text-transform: uppercase; letter-spacing: -0.5px;
+}
+.kicker.small { font-size: clamp(30px, 6vw, 52px); }
+h1 {
+  margin: 10px 0 0; font: 800 clamp(30px, 6.4vw, 64px)/0.95 var(--display);
+  text-transform: uppercase;
+}
+.summary { margin: 18px 0 0; font: 500 15px/1.4 var(--mono); letter-spacing: 1.5px; text-transform: uppercase; color: var(--sub); }
+
+/* Matchs */
+.list { border-top: 2px solid var(--ink); }
+.match {
+  display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 20px;
+  padding: 24px 0; border-bottom: 2px solid var(--ink);
+}
+.match.top { border-bottom-color: var(--orange); }
+.time span { font: 800 56px/0.9 var(--display); }
+.match.top .time span { color: var(--orange); }
+.teams {
+  margin: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px;
+  font: 800 clamp(30px, 5.4vw, 46px)/1 var(--display); text-transform: uppercase;
+}
+.dash { color: var(--orange); }
+.flag { display: inline-flex; gap: 3px; height: 26px; }
+.flag i { width: 7px; height: 100%; display: block; }
+.place { margin: 8px 0 0; font: 14px/1.4 var(--mono); letter-spacing: 1px; text-transform: uppercase; color: var(--sub); }
+.brief { margin: 12px 0 0; }
+.tv { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 8px; font-size: 17px; }
+.tv li { display: flex; align-items: baseline; gap: 10px; }
+.pill {
+  display: inline-block; flex-shrink: 0; min-width: 86px; padding: 2px 8px;
+  font: 500 12px/1.6 var(--mono); letter-spacing: 1.5px; text-transform: uppercase; text-align: center;
+  border: 1.5px solid var(--ink);
+}
+.pill.live { background: var(--ink); color: var(--paper); }
+.muted { color: var(--sub); }
+.check { margin: 12px 0 0; font: 12px/1.4 var(--mono); letter-spacing: 1px; text-transform: uppercase; color: var(--sub); }
+.check.ok::before { content: "✓ "; color: var(--orange); font-weight: 500; }
+.stars { margin-bottom: 6px; font: 500 13px/1 var(--mono); letter-spacing: 1.5px; text-transform: uppercase; }
+.stars .st { color: var(--orange); font-size: 18px; letter-spacing: 3px; }
+.stars .off { color: var(--line); }
+.empty { padding: 32px 0; font-size: 22px; }
+.notes { margin: 16px 0 0; font-style: italic; color: var(--sub); }
+
+/* Bientôt */
+.soon { margin-top: 56px; border: 3px solid var(--orange); padding: 22px 24px; }
+.soon ul { margin: 14px 0 0; padding-left: 20px; }
+.soon li { margin: 6px 0; }
+
+footer { margin-top: 48px; padding-top: 18px; border-top: 2px solid var(--ink); font-size: 16px; }
+.sign { margin: 0 0 8px; font: 800 28px/1 var(--display); text-transform: uppercase; color: var(--orange); }
+.src { font: 12px/1.5 var(--mono); color: var(--sub); letter-spacing: .5px; }
+
+@media (max-width: 620px) {
+  body { font-size: 17px; }
+  .brand { font-size: 24px; letter-spacing: 4px; white-space: nowrap; }
+  .date { display: none; }
+  .match { grid-template-columns: 1fr; gap: 6px; }
+  .time span { font-size: 44px; }
+  .ball { width: 420px; height: 420px; top: -170px; right: -220px; }
+}
