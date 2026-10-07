@@ -83,8 +83,8 @@ h1 {
 .muted { color: var(--sub); }
 .check { margin: 12px 0 0; font: 12px/1.4 var(--mono); letter-spacing: 1px; text-transform: uppercase; color: var(--sub); }
 .check.ok::before { content: "✓ "; color: var(--orange); font-weight: 500; }
-.stars { margin-bottom: 6px; font: 500 13px/1 var(--mono); letter-spacing: 1.5px; text-transform: uppercase; }
-.stars .st { color: var(--orange); font-size: 18px; letter-spacing: 3px; }
+.stars { margin-bottom: 8px; font: 500 15px/1 var(--mono); letter-spacing: 1.5px; text-transform: uppercase; display: flex; align-items: center; gap: 10px; }
+.stars .st { color: var(--orange); font-size: 28px; letter-spacing: 4px; line-height: 1; }
 .stars .off { color: var(--line); }
 .empty { padding: 32px 0; font-size: 22px; }
 .notes { margin: 16px 0 0; font-style: italic; color: var(--sub); }
