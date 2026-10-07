@@ -1,6 +1,6 @@
 {
   "night": "2026-10-07",
-  "generated_at": "2026-10-07T17:23+02:00",
+  "generated_at": "2026-10-07T17:56+02:00",
   "games": [
     {
       "id": "401914123",
@@ -40,8 +40,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Le retour de Tyrese Haliburton, absent depuis sa rupture du tendon d'Achille en Finale 2025, dans la salle de son université. En face, les Wolves d'Anthony Edwards, renforcés par LaMelo Ball.",
       "commentators": null
     },
     {
@@ -74,8 +74,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Memphis repart de zéro autour du rookie Cameron Boozer, 3e choix de la draft. Orlando change de coach après un troisième premier tour perdu d'affilée.",
       "commentators": null
     },
     {
@@ -108,8 +108,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Le Thunder de Shai Gilgeous-Alexander, meilleur bilan de la saison dernière (64-18), face aux Bucks de l'après-Giannis, reconstruits autour de Tyler Herro.",
       "commentators": null
     },
     {
@@ -142,8 +142,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Deux équipes en transition : Chicago et son 4e choix de draft Caleb Wilson, Phoenix sans Kevin Durant, autour de Devin Booker.",
       "commentators": null
     },
     {
@@ -176,8 +176,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Blazers de Ja Morant, arrivé de Memphis cet été, face aux Warriors de Stephen Curry.",
       "commentators": null
     }
   ],

@@ -1,0 +1,31 @@
+{
+  "_statut": "validé le 7 octobre 2026",
+  "_grille": "Note par équipe : classement 2025-26 (top 4 = 2, 5e-8e = 1, sinon 0) + playoffs 2026 (Finale = 3, finale de conf. = 2, demi = 1, sinon 0) + aura des stars (superstar = 3, All-Star = 2, bons joueurs = 1, reconstruction = 0). Match = somme des deux équipes, + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1.",
+  "matchs": {
+    "401914123": {
+      "stars": 3,
+      "score": "2 + 5 + 2 (événement) = 9",
+      "brief": "Le retour de Tyrese Haliburton, absent depuis sa rupture du tendon d'Achille en Finale 2025, dans la salle de son université. En face, les Wolves d'Anthony Edwards, renforcés par LaMelo Ball."
+    },
+    "401908620": {
+      "stars": 2,
+      "score": "7 + 1 = 8",
+      "brief": "Le Thunder de Shai Gilgeous-Alexander, meilleur bilan de la saison dernière (64-18), face aux Bucks de l'après-Giannis, reconstruits autour de Tyler Herro."
+    },
+    "401914129": {
+      "stars": 2,
+      "score": "3 + 3 = 6",
+      "brief": "Les Blazers de Ja Morant, arrivé de Memphis cet été, face aux Warriors de Stephen Curry."
+    },
+    "401898391": {
+      "stars": 1,
+      "score": "1 + 3 = 4",
+      "brief": "Memphis repart de zéro autour du rookie Cameron Boozer, 3e choix de la draft. Orlando change de coach après un troisième premier tour perdu d'affilée."
+    },
+    "401908939": {
+      "stars": 1,
+      "score": "1 + 3 = 4",
+      "brief": "Deux équipes en transition : Chicago et son 4e choix de draft Caleb Wilson, Phoenix sans Kevin Durant, autour de Devin Booker."
+    }
+  }
+}
