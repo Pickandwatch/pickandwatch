@@ -1,0 +1,41 @@
+name: Publication Instagram
+
+# Vérifie toutes les 15 minutes s'il y a un post à publier (heure de Paris dans posts/*/post.json).
+on:
+  schedule:
+    - cron: "2,17,32,47 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = vérifier la clé sans publier ; publish-due = publier ce qui est prêt"
+        default: "check"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  instagram:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instagram
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MODE: ${{ inputs.mode || 'publish-due' }}
+        run: python -m pipeline.instagram "$MODE"
+      - name: Enregistrer le statut des posts
+        run: |
+          git config user.name "Pick & Watch (robot)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add posts 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Rien à enregistrer."; else
+            git commit -m "Instagram : post publié" && git pull --rebase && git push; fi

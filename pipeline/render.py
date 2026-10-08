@@ -238,6 +238,11 @@ def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict
     (site / "assets").mkdir(parents=True, exist_ok=True)
     for f in (root / "assets").iterdir():
         shutil.copy2(f, site / "assets" / f.name)
+    # Images des posts Instagram : Meta les récupère sur pickandwatch.fr/posts/…
+    for img in (root / "posts").glob("*/*.jpg"):
+        dest = site / "posts" / img.parent.name
+        dest.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(img, dest / img.name)
     d = night["night"]
     (site / "nuits" / f"{d}.html").write_text(
         page(night, canonical=f"https://pickandwatch.fr/nuits/{d}.html", depth=1), encoding="utf-8")
