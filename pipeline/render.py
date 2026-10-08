@@ -222,7 +222,7 @@ def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = Non
 </main>
 <footer>
   <p class="sign">Ton programme NBA. Zéro spoiler. Jamais.</p>
-  <p>Suis-nous sur Instagram : <a href="https://www.instagram.com/pickandwatch/">@pickandwatch</a></p>
+  <p>Suis-nous sur Instagram : <a href="https://www.instagram.com/pickandwatch.fr/">@pickandwatch.fr</a></p>
   <p class="src">Sources : calendrier NBA via ESPN, diffusions via le guide TV XMLTV France, recoupés automatiquement.
   Mis à jour le {gen.day} {MOIS[gen.month - 1]} à {gen:%H:%M}.</p>
 </footer>

@@ -2,7 +2,7 @@
 
 Le programme NBA pour les fans en France : quoi regarder, où, quand. Zéro spoiler. Jamais.
 
-Site : [pickandwatch.fr](https://pickandwatch.fr) (bientôt) · Instagram : [@pickandwatch](https://www.instagram.com/pickandwatch/)
+Site : [pickandwatch.fr](https://pickandwatch.fr) · Instagram : [@pickandwatch.fr](https://www.instagram.com/pickandwatch.fr/)
 
 ## Comment ça marche
 
