@@ -1,0 +1,11 @@
+{
+  "_statut": "validé le 8 octobre 2026",
+  "matchs": {
+    "401898394": {"stars": 3, "score": "8 + 2 = 10 (★★★ retenu : seul match en direct à la télé française, Wembanyama)", "brief": "Premier match de présaison des finalistes 2026 et de Victor Wembanyama. En face, des Hawks remodelés sans Trae Young, parti à Washington."},
+    "401898392": {"stars": 2, "score": "6 + 5 = 11 (ramené à ★★ : un seul ★★★ par nuit)", "brief": "Les finalistes de l'Est de Donovan Mitchell et James Harden face aux Celtics de Jayson Tatum, désormais seule star après le départ de Jaylen Brown à Philadelphie."},
+    "401906508": {"stars": 2, "score": "8 + 2 = 10 (ramené à ★★ : un seul ★★★ par nuit)", "brief": "Les champions en titre de Jalen Brunson face à des Wizards transformés : Trae Young, Anthony Davis, le n°1 de la draft AJ Dybantsa et les Français Alex Sarr et Bilal Coulibaly."},
+    "401898717": {"stars": 2, "score": "6 + 1 = 7", "brief": "Les Lakers de Luka Dončić entament leur première saison sans LeBron James."},
+    "401901823": {"stars": 1, "score": "0 + 5 = 5", "brief": "LeBron James et Jaylen Brown, les deux recrues de l'été à Philadelphie, face à des Nets en reconstruction."},
+    "401898393": {"stars": 1, "score": "3 + 1 = 4", "brief": "Giannis Antetokounmpo sous ses nouvelles couleurs, quelques jours après ses débuts avec le Heat à Québec."}
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "night": "2026-10-08",
+  "generated_at": "2026-10-08T14:53+02:00",
+  "games": [
+    {
+      "id": "401898392",
+      "tip_paris": "2026-10-09T01:00:00+02:00",
+      "home": {
+        "abbr": "CLE",
+        "name": "Cavaliers",
+        "location": "Cleveland",
+        "full": "Cleveland Cavaliers",
+        "color": "#860038",
+        "color2": "#bc945c"
+      },
+      "away": {
+        "abbr": "BOS",
+        "name": "Celtics",
+        "location": "Boston",
+        "full": "Boston Celtics",
+        "color": "#008348",
+        "color2": "#ffffff"
+      },
+      "venue": "Rocket Arena",
+      "city": "Cleveland",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": 2,
+      "brief": "Les finalistes de l'Est de Donovan Mitchell et James Harden face aux Celtics de Jayson Tatum, désormais seule star après le départ de Jaylen Brown à Philadelphie.",
+      "commentators": null
+    },
+    {
+      "id": "401898393",
+      "tip_paris": "2026-10-09T01:30:00+02:00",
+      "home": {
+        "abbr": "MIA",
+        "name": "Heat",
+        "location": "Miami",
+        "full": "Miami Heat",
+        "color": "#98002e",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "Pelicans",
+        "location": "New Orleans",
+        "full": "New Orleans Pelicans",
+        "color": "#0a2240",
+        "color2": "#b4975a"
+      },
+      "venue": "Kaseya Center",
+      "city": "Miami",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": 1,
+      "brief": "Giannis Antetokounmpo sous ses nouvelles couleurs, quelques jours après ses débuts avec le Heat à Québec.",
+      "commentators": null
+    },
+    {
+      "id": "401901823",
+      "tip_paris": "2026-10-09T01:30:00+02:00",
+      "home": {
+        "abbr": "BKN",
+        "name": "Nets",
+        "location": "Brooklyn",
+        "full": "Brooklyn Nets",
+        "color": "#000000",
+        "color2": "#ffffff"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "76ers",
+        "location": "Philadelphia",
+        "full": "Philadelphia 76ers",
+        "color": "#1d428a",
+        "color2": "#e01234"
+      },
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": 1,
+      "brief": "LeBron James et Jaylen Brown, les deux recrues de l'été à Philadelphie, face à des Nets en reconstruction.",
+      "commentators": null
+    },
+    {
+      "id": "401906508",
+      "tip_paris": "2026-10-09T01:30:00+02:00",
+      "home": {
+        "abbr": "NY",
+        "name": "Knicks",
+        "location": "New York",
+        "full": "New York Knicks",
+        "color": "#1d428a",
+        "color2": "#f58426"
+      },
+      "away": {
+        "abbr": "WSH",
+        "name": "Wizards",
+        "location": "Washington",
+        "full": "Washington Wizards",
+        "color": "#e31837",
+        "color2": "#002b5c"
+      },
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": 2,
+      "brief": "Les champions en titre de Jalen Brunson face à des Wizards transformés : Trae Young, Anthony Davis, le n°1 de la draft AJ Dybantsa et les Français Alex Sarr et Bilal Coulibaly.",
+      "commentators": null
+    },
+    {
+      "id": "401898394",
+      "tip_paris": "2026-10-09T02:00:00+02:00",
+      "home": {
+        "abbr": "SA",
+        "name": "Spurs",
+        "location": "San Antonio",
+        "full": "San Antonio Spurs",
+        "color": "#000000",
+        "color2": "#c4ced4"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Hawks",
+        "location": "Atlanta",
+        "full": "Atlanta Hawks",
+        "color": "#c8102e",
+        "color2": "#fdb927"
+      },
+      "venue": "Frost Bank Center",
+      "city": "San Antonio",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS MAX 4",
+          "start": "2026-10-09T02:10:00+02:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-09T11:00:00+02:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": 3,
+      "brief": "Premier match de présaison des finalistes 2026 et de Victor Wembanyama. En face, des Hawks remodelés sans Trae Young, parti à Washington.",
+      "commentators": null
+    },
+    {
+      "id": "401898717",
+      "tip_paris": "2026-10-09T04:30:00+02:00",
+      "home": {
+        "abbr": "LAL",
+        "name": "Lakers",
+        "location": "Los Angeles",
+        "full": "Los Angeles Lakers",
+        "color": "#552583",
+        "color2": "#fdb927"
+      },
+      "away": {
+        "abbr": "SAC",
+        "name": "Kings",
+        "location": "Sacramento",
+        "full": "Sacramento Kings",
+        "color": "#5a2d81",
+        "color2": "#6a7a82"
+      },
+      "venue": "crypto.com Arena",
+      "city": "Los Angeles",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": 2,
+      "brief": "Les Lakers de Luka Dončić entament leur première saison sans LeBron James.",
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Cavaliers – Celtics : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Heat – Pelicans : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Nets – 76ers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Knicks – Wizards : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Lakers – Kings : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  }
+}
