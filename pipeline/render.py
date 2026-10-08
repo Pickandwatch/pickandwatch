@@ -115,7 +115,55 @@ def game_card(g: dict, night_day: date) -> str:
 </article>"""
 
 
-def page(night: dict, *, canonical: str, depth: int = 0) -> str:
+VERDICTS = {
+    "replay": ("À voir en replay", "v-replay"),
+    "resume": ("Le résumé suffit", "v-resume"),
+    "zapper": ("Tu peux zapper", "v-zapper"),
+}
+
+
+def verdict_card(g: dict, v: dict, now: datetime) -> str:
+    label, cls = VERDICTS[v["verdict"]]
+    h, a = g["home"], g["away"]
+    where = []
+    if v["verdict"] == "replay":
+        future = [r for r in g["tv"].get("replays", []) if datetime.fromisoformat(r["start"]) > now]
+        for r in future[:1]:
+            where.append(f'Rediffusion {e(day_short(r["start"]))} à {hhmm(r["start"])} · {ch(r["channel"])}')
+        where.append("Match complet en replay sur NBA League Pass")
+    elif v["verdict"] == "resume":
+        where.append('Résumé sur la <a href="https://www.youtube.com/@NBA">chaîne YouTube de la NBA</a> '
+                     '<span class="muted">(attention : le résumé affiche le score)</span>')
+    where_html = "".join(f"<li>{w}</li>" for w in where)
+    return f"""
+<article class="verdict">
+  <p class="vlabel {cls}">{label}</p>
+  <h3 class="teams small">{flag(h)}<span>{e(h["name"])}</span> <span class="dash">–</span> {flag(a)}<span>{e(a["name"])}</span></h3>
+  <p class="brief">{e(v["text"])}</p>
+  {f'<ul class="where">{where_html}</ul>' if where_html else ''}
+</article>"""
+
+
+def verdict_section(prev: dict | None, verdicts: dict | None, now: datetime) -> str:
+    if not prev or not verdicts:
+        return ""
+    vs = verdicts.get("matchs", {})
+    order = {"replay": 0, "resume": 1, "zapper": 2}
+    games = sorted((g for g in prev["games"] if g["id"] in vs),
+                   key=lambda g: (order[vs[g["id"]]["verdict"]], g["tip_paris"]))
+    if not games:
+        return ""
+    cards = "".join(verdict_card(g, vs[g["id"]], now) for g in games)
+    return f"""
+  <section class="lastnight" aria-label="Verdicts de la nuit dernière">
+    <p class="kicker small fit" data-min="26">La nuit dernière</p>
+    <p class="summary">Ça valait le coup ? Notre verdict sur chaque match. Jamais le score.</p>
+    <div class="vlist">{cards}
+    </div>
+  </section>"""
+
+
+def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = None, verdicts: dict | None = None) -> str:
     d = date.fromisoformat(night["night"])
     up = "../" * depth
     games = night["games"]
@@ -133,6 +181,7 @@ def page(night: dict, *, canonical: str, depth: int = 0) -> str:
         notes.append("Présaison : les stars peuvent être ménagées.")
     title = night_title(d)
     gen = datetime.fromisoformat(night["generated_at"])
+    last = verdict_section(prev, verdicts, gen)
     return f"""<!doctype html>
 <html lang="fr">
 <head>
@@ -154,7 +203,7 @@ def page(night: dict, *, canonical: str, depth: int = 0) -> str:
   <a class="brand" href="{up}index.html">Pick &amp; Watch</a>
   <span class="date">{e(title.replace("Nuit du ", "").upper())}</span>
 </header>
-<main>
+<main>{last}
   <section class="hero">
     <p class="kicker fit" data-min="40">Cette nuit en NBA</p>
     <h1 class="fit" data-min="34">{e(title)}</h1>
@@ -167,7 +216,6 @@ def page(night: dict, *, canonical: str, depth: int = 0) -> str:
     <p class="kicker small fit" data-min="26">Bientôt sur pickandwatch.fr</p>
     <ul>
       <li><strong>Programme ton match</strong> : direct ou replay, dans ton agenda en 1 clic.</li>
-      <li><strong>Le lendemain</strong>, notre verdict sur chaque match. Jamais le score.</li>
       <li><strong>La newsletter</strong> du matin.</li>
     </ul>
   </section>
@@ -184,7 +232,7 @@ def page(night: dict, *, canonical: str, depth: int = 0) -> str:
 """
 
 
-def build_site(root: Path, night: dict) -> Path:
+def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict | None = None) -> Path:
     site = root / "site"
     (site / "nuits").mkdir(parents=True, exist_ok=True)
     (site / "assets").mkdir(parents=True, exist_ok=True)
@@ -193,5 +241,5 @@ def build_site(root: Path, night: dict) -> Path:
     d = night["night"]
     (site / "nuits" / f"{d}.html").write_text(
         page(night, canonical=f"https://pickandwatch.fr/nuits/{d}.html", depth=1), encoding="utf-8")
-    (site / "index.html").write_text(page(night, canonical="https://pickandwatch.fr/"), encoding="utf-8")
+    (site / "index.html").write_text(page(night, canonical="https://pickandwatch.fr/", prev=prev, verdicts=verdicts), encoding="utf-8")
     return site

@@ -9,7 +9,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from .night import PARIS, build_night
@@ -30,7 +30,12 @@ def main() -> None:
     out = ROOT / "data" / "nuits" / f"{d.isoformat()}.json"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(night, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    build_site(ROOT, night)
+    # Verdicts de la nuit précédente (validés), affichés en tête de page.
+    p = (d - timedelta(days=1)).isoformat()
+    prev_path, verd_path = ROOT / "data" / "nuits" / f"{p}.json", ROOT / "data" / "verdicts" / f"{p}.json"
+    prev = json.loads(prev_path.read_text(encoding="utf-8")) if prev_path.exists() else None
+    verdicts = json.loads(verd_path.read_text(encoding="utf-8")) if verd_path.exists() else None
+    build_site(ROOT, night, prev, verdicts)
 
     lines = [f"## Programme · nuit du {d.isoformat()}", ""]
     for g in night["games"]:
