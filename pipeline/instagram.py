@@ -24,6 +24,7 @@ CFG = json.loads((ROOT / "config" / "instagram.json").read_text(encoding="utf-8"
 API = f"https://graph.facebook.com/{CFG['graph_version']}"
 PARIS = ZoneInfo("Europe/Paris")
 SITE = "https://pickandwatch.fr"
+EARLY_WAIT = 14 * 60  # un passage peut démarrer jusqu'à 14 min avant l'heure et attendre
 
 # Garde-fou anti-spoiler : un score du type « 112-108 » ou « 112 à 108 » bloque la publication.
 SCORE_RE = re.compile(r"\b1?\d{2}\s?(?:-|–|à|a)\s?1?\d{2}\b")
@@ -100,8 +101,14 @@ def publish_due() -> list[Path]:
         post = json.loads(f.read_text(encoding="utf-8"))
         if post.get("statut") in ("annule", "publie"):
             continue
-        if datetime.fromisoformat(post["publier_a"]) > now:
+        due = datetime.fromisoformat(post["publier_a"])
+        wait = (due - datetime.now(PARIS)).total_seconds()
+        if wait > EARLY_WAIT:
             continue
+        if wait > 0:  # les crons GitHub partent souvent en retard : on attend l'heure exacte
+            print(f"{f.parent.name} : attente de {int(wait)} s jusqu'à {due:%H:%M}")
+            time.sleep(wait)
+        now = datetime.now(PARIS)
         urls = [f"{SITE}/posts/{f.parent.name}/{name}" for name in post["images"]]
         for u in urls:  # les images doivent déjà être en ligne
             with urllib.request.urlopen(urllib.request.Request(u, method="HEAD"), timeout=30) as r:
