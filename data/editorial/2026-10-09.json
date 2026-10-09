@@ -1,0 +1,16 @@
+{
+  "_statut": "validé le 9 octobre 2026",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1.",
+  "matchs": {
+    "401898395": {
+      "stars": 2,
+      "score": "1 + 3 + 2 (événement : match à Macao, le Français Risacher) = 6",
+      "brief": "Premier des deux matchs de présaison à Macao. Cooper Flagg, rookie de l'année, et le Français Zaccharie Risacher, arrivé d'Atlanta cet été, face aux Rockets de Kevin Durant et Alperen Şengün."
+    },
+    "401908940": {
+      "stars": 1,
+      "score": "1 + 1 + 2 (événement : duel des rookies Boozer–Wilson, le Français Essengue) = 4",
+      "brief": "Les deux rookies du haut de la draft 2026 se retrouvent : Cameron Boozer (3e choix, Memphis) face à Caleb Wilson (4e choix, Chicago). Côté Bulls, le Français Noa Essengue, de retour après son opération à l'épaule."
+    }
+  }
+}
