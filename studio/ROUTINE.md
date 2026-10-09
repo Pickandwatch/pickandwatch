@@ -83,6 +83,10 @@ soir D en France (matchs de D 12h à D+1 12h, heure de Paris).
 vers `data/editorial/<D>.json` (`"_statut": "validé le …"`), push, relancer le site.
 Une correction → refaire l'image ou la légende, push. « Annule » → `"statut": "annule"`, push.
 
+**Matchs en journée** (Macao, Europe, matinées du week-end) : un match qui commence avant
+19h le lendemain est déjà joué quand le carrousel de sa nuit est publié. Annonce-le donc dans
+le carrousel de la veille (« demain à 12h10 en direct sur … »), avec son heure et sa chaîne.
+
 ## 3. 18h50 : filet de sécurité
 
 Si le post de D est encore `propose` : copier `posts/<D>/editorial.json` vers
