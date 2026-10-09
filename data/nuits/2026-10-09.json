@@ -1,6 +1,6 @@
 {
   "night": "2026-10-09",
-  "generated_at": "2026-10-09T15:37+02:00",
+  "generated_at": "2026-10-09T20:01+02:00",
   "games": [
     {
       "id": "401898395",
@@ -45,7 +45,7 @@
         "status": "confirmé"
       },
       "stars": 2,
-      "brief": "Premier des deux matchs de présaison à Macao. Cooper Flagg, rookie de l'année, et le Français Zaccharie Risacher, arrivé d'Atlanta cet été, face aux Rockets de Kevin Durant et Alperen Şengün.",
+      "brief": "Premier des deux matchs de présaison à Macao. Cooper Flagg, rookie de l'année, et le Français Zaccharie Risacher, arrivé d'Atlanta cet été, face aux Rockets de Kevin Durant et Alperen Şengün. Kyrie Irving, absent depuis sa rupture du ligament croisé en mars 2025, a été préservé : son retour est attendu dimanche, lors du second match à Macao (12h10, beIN SPORTS MAX 6).",
       "commentators": null
     },
     {
@@ -84,7 +84,7 @@
     }
   ],
   "checks": [
-    "Mavericks – Rockets : statut STATUS_IN_PROGRESS (report ou annulation ?).",
+    "Mavericks – Rockets : statut STATUS_FINAL (report ou annulation ?).",
     "Bulls – Grizzlies : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
   ],
   "sources": {
