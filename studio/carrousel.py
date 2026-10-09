@@ -15,7 +15,7 @@ HEAD = '''<!doctype html><html lang="fr"><head><meta charset="utf-8"></head><bod
 def cover(c, out):
     bg, ink, head, sub, frame = '#F2EEE6', '#111214', '#F06A2F', '#5C5850', 'rgba(17,18,20,0.18)'
     b = [rule(head, 6), line('CETTE NUIT EN NBA', color=ink), rule(ink), mono(c['date'], sub), rule(ink),
-         mono("★★★ L'IMMANQUABLE", head, 26, 6)]
+         mono(c.get('top_label', "★★★ L'IMMANQUABLE"), head, 26, 6)]
     b += [line(c['top'][0] + ' – ' + c['top'][1], color=head, lh=0.84),
           mono(c['top_info'], sub, 22, 1)]
     rows = []

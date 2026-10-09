@@ -1,4 +1,25 @@
 {
   "_note": "Note de chaque équipe pour la grille d'étoiles (saison de référence 2025-26 et playoffs 2026). Compléter au fil des soirs, avec la source ; une équipe garde la même note tant que rien ne change (blessure longue, transfert majeur).",
-  "equipes": {}
+  "equipes": {
+    "DAL": {
+      "note": 1,
+      "detail": "12e Ouest (0) + pas de playoffs (0) + Cooper Flagg, rookie de l'année 2026, non All-Star (1)",
+      "source": "ESPN standings 2025-26 ; eurohoops.net (ROY 2026)"
+    },
+    "HOU": {
+      "note": 3,
+      "detail": "5e Ouest (1) + 1er tour perdu contre les Lakers (0) + Durant et Şengün All-Stars 2026 (2)",
+      "source": "ESPN standings 2025-26 ; abc7.com (Lakers-Rockets G6) ; nbcsportsboston.com et nba.com (All-Stars 2026)"
+    },
+    "CHI": {
+      "note": 1,
+      "detail": "12e Est (0) + pas de playoffs (0) + bons joueurs (1) — repris de la note du 7 octobre",
+      "source": "ESPN standings 2025-26 ; data/editorial/2026-10-07.json"
+    },
+    "MEM": {
+      "note": 1,
+      "detail": "13e Ouest (0) + pas de playoffs (0) + bons joueurs (1) — repris de la note du 7 octobre",
+      "source": "ESPN standings 2025-26 ; data/editorial/2026-10-07.json"
+    }
+  }
 }

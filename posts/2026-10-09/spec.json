@@ -1,0 +1,33 @@
+{
+ "cover": {
+  "date": "VENDREDI 9 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★ À VOIR EN DIFFÉRÉ",
+  "top": ["MAVERICKS", "ROCKETS"],
+  "top_info": "JOUÉ À 14:00 À MACAO · DIFFÉRÉ LUN. 11:00 beIN SPORTS 1",
+  "other_size": 60,
+  "others": [["BULLS – GRIZZLIES", "02:00", "★"]],
+  "note": "BULLS – GRIZZLIES : NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "MACAO · VENETIAN ARENA",
+   "home": "Mavericks",
+   "home_city": "DALLAS",
+   "home_bg": "#00538C",
+   "home_sec": "#B8C4CA",
+   "away": "Rockets",
+   "away_city": "HOUSTON",
+   "away_c1": "#CE1141",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 9 AU 10 OCT. · 2/3",
+   "label": "★★ À VOIR EN DIFFÉRÉ",
+   "time": "14:00",
+   "channel": "beIN SPORTS 1",
+   "mode": "DIFFÉRÉ LUN. 12 OCT. 11:00",
+   "brief": "Premier des deux matchs de présaison à Macao. Cooper Flagg, rookie de l'année, et le Français Zaccharie Risacher, arrivé d'Atlanta cet été, face aux Rockets de Kevin Durant et Alperen Şengün.",
+   "chips": ["C. Flagg", "Z. Risacher", "K. Durant", "A. Şengün"],
+   "foot": "Direct : MAX 4<br>Différé : beIN 1"
+  }
+ ]
+}
