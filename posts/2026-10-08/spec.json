@@ -1,0 +1,134 @@
+{
+ "cover": {
+  "date": "JEUDI 8 OCTOBRE · HEURE DE PARIS",
+  "top": [
+   "SPURS",
+   "HAWKS"
+  ],
+  "top_info": "02:00 · SAN ANTONIO · DIRECT beIN MAX 4 · DIFFÉRÉ VEN. 11:00",
+  "other_size": 60,
+  "others": [
+   [
+    "CAVALIERS – CELTICS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "KNICKS – WIZARDS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "NETS – 76ERS",
+    "01:30",
+    "★"
+   ],
+   [
+    "HEAT – PELICANS",
+    "01:30",
+    "★"
+   ],
+   [
+    "LAKERS – KINGS",
+    "04:30",
+    "★★"
+   ]
+  ],
+  "note": "LES AUTRES MATCHS : NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Hawks",
+   "away_city": "ATLANTA",
+   "away_c1": "#C8102E",
+   "away_c2": "#FDB927",
+   "counter": "NUIT DU 8 AU 9 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "02:00",
+   "channel": "beIN SPORTS",
+   "mode": "DIRECT + DIFFÉRÉ VEN. 11:00",
+   "brief": "Les finalistes 2026 reprennent la compétition devant leur public. Premier match de présaison pour Victor Wembanyama, face à des Hawks remodelés sans Trae Young, parti à Washington.",
+   "chips": [
+    "V. Wembanyama",
+    "J. Johnson",
+    "CJ McCollum"
+   ],
+   "foot": "Direct : MAX 4<br>Différé : beIN 1"
+  },
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers",
+   "home_city": "CLEVELAND",
+   "home_bg": "#860038",
+   "home_sec": "#FDBB30",
+   "away": "Celtics",
+   "away_city": "BOSTON",
+   "away_c1": "#008348",
+   "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 8 AU 9 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Finalistes de l'Est la saison dernière, les Cavaliers de Donovan Mitchell et James Harden reçoivent des Celtics reconstruits autour de Jayson Tatum, seule star depuis le départ de Jaylen Brown à Philadelphie.",
+   "chips": [
+    "D. Mitchell",
+    "J. Harden",
+    "J. Tatum"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Wizards",
+   "away_city": "WASHINGTON",
+   "away_c1": "#E31837",
+   "away_c2": "#002B5C",
+   "counter": "NUIT DU 8 AU 9 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les champions en titre de Jalen Brunson, MVP des Finales, reçoivent des Wizards transformés : Trae Young, Anthony Davis, le n°1 de la draft AJ Dybantsa et les Français Alex Sarr et Bilal Coulibaly.",
+   "chips": [
+    "J. Brunson",
+    "AJ Dybantsa",
+    "A. Sarr",
+    "B. Coulibaly"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "LOS ANGELES · CRYPTO.COM ARENA",
+   "home": "Lakers",
+   "home_city": "LOS ANGELES",
+   "home_bg": "#552583",
+   "home_sec": "#FDB927",
+   "away": "Kings",
+   "away_city": "SACRAMENTO",
+   "away_c1": "#5A2D81",
+   "away_c2": "#63727A",
+   "counter": "NUIT DU 8 AU 9 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "04:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les Lakers de Luka Dončić et Austin Reaves entament leur première saison sans LeBron James, parti aux Sixers.",
+   "chips": [
+    "L. Dončić",
+    "A. Reaves"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}

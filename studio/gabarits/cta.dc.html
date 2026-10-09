@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Pick &amp; Watch · le site</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Source+Serif+4:ital,wght@0,400;0,600;1,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+</style>
+</helmet>
+<div style="position: relative; isolation: isolate; overflow: hidden; width: 1080px; height: 1350px; box-sizing: border-box; padding: 72px; background: #F2EEE6; color: #111214; display: flex; flex-direction: column; justify-content: space-between; gap: 20px; font-family: 'Source Serif 4', Georgia, serif">
+  <svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" aria-hidden="true" style="position: absolute; left: 0; top: 0; z-index: -1; pointer-events: none"><g transform="rotate(-24 1010 110)" stroke="#F06A2F" stroke-opacity="0.16" stroke-width="6"><circle cx="1010" cy="110" r="470"></circle><path d="M1010 -360 V580"></path><path d="M540 110 H1480"></path><path d="M681.0 -225.6 Q887.6 110 681.0 445.6"></path><path d="M1339.0 -225.6 Q1132.4 110 1339.0 445.6"></path></g><rect x="30" y="30" width="1020" height="1290" stroke="rgba(17,18,20,0.18)" stroke-width="4"></rect></svg>
+  <div style="position: relative; display: flex; justify-content: space-between; align-items: center; margin-top: -14px"><div style="position: absolute; left: 0; right: 0; top: 50%; height: 6px; margin-top: -3px; background: #F06A2F"></div><span style="position: relative; background: #F2EEE6; padding-right: 22px; font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 44px; line-height: 1; letter-spacing: 7px">PICK &amp; WATCH</span></div>
+  <div style="display: flex; flex-direction: column; gap: 14px"><div style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 69px; line-height: 0.9; letter-spacing: 0.00px; margin-right: -0.00px; white-space: nowrap; text-align: center; color: #F06A2F">MAINTENANT SUR PICKANDWATCH.FR</div><div style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 214px; line-height: 0.86; letter-spacing: 0.00px; margin-right: -0.00px; white-space: nowrap; text-align: center; color: #111214">TON MATCH,</div><div style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 187px; line-height: 0.86; letter-spacing: 0.00px; margin-right: -0.00px; white-space: nowrap; text-align: center; color: #F06A2F">À TON HEURE.</div></div>
+  <div style="display: flex; flex-direction: column"><div style="padding: 14px 0; border-top: 1px solid #111214"><span style="font-size: 34px; line-height: 1.22"><strong style="font-weight: 600">Chaque jour</strong>, le programme de la nuit : heure, chaîne, direct et différés</span></div><div style="padding: 14px 0; border-top: 1px solid #111214; border-bottom: 2px solid #111214"><span style="font-size: 34px; line-height: 1.22"><strong style="font-weight: 600">Le lendemain</strong>, notre verdict sans spoiler : replay, résumé ou zapper</span></div></div>
+  <div style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 69px; line-height: 0.9; letter-spacing: 0.00px; margin-right: -0.00px; white-space: nowrap; text-align: center; color: #111214">ET BIEN SÛR C'EST GRATUIT. DE RIEN.</div>
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 24px; border: 3px solid #F06A2F; padding: 20px 30px"><div style="display: flex; flex-direction: column; gap: 4px"><span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 52px; line-height: 1">pickandwatch.fr</span><span style="font-family: 'IBM Plex Mono', monospace; font-size: 24px; color: #5C5850">Zéro spoiler. Jamais.</span></div><div style="display: flex; align-items: center; gap: 12px"><span style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 40px; letter-spacing: 2px">LIEN EN BIO</span><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#111214" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5"></path><path d="M5 12l7-7 7 7"></path></svg></div></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"siteLive":{"editor":"boolean","default":false},"$preview":{"width":1080,"height":1350}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { notLive: !(this.props.siteLive ?? false), live: (this.props.siteLive ?? false) };
+  }
+}
+</script>
+</body>
+</html>
