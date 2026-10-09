@@ -1,6 +1,6 @@
 {
   "night": "2026-10-09",
-  "generated_at": "2026-10-09T15:13+02:00",
+  "generated_at": "2026-10-09T15:37+02:00",
   "games": [
     {
       "id": "401898395",
@@ -84,7 +84,7 @@
     }
   ],
   "checks": [
-    "Mavericks – Rockets : statut STATUS_HALFTIME (report ou annulation ?).",
+    "Mavericks – Rockets : statut STATUS_IN_PROGRESS (report ou annulation ?).",
     "Bulls – Grizzlies : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
   ],
   "sources": {
