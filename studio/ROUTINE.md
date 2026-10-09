@@ -25,6 +25,7 @@ cd ~ && [ -d pickandwatch ] || git clone https://github.com/Pickandwatch/pickand
 cd pickandwatch && git pull --rebase
 python3 -c "import PIL, playwright" || pip install --break-system-packages pillow playwright
 ```
+Lire ensuite `studio/A-SUIVRE.md` : consignes éditoriales en cours d'Alexandre.
 Chromium est préinstallé (ne pas lancer `playwright install`). Dates : la « nuit D » est le
 soir D en France (matchs de D 12h à D+1 12h, heure de Paris).
 
