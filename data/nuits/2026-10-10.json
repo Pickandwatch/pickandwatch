@@ -1,6 +1,6 @@
 {
   "night": "2026-10-10",
-  "generated_at": "2026-10-10T15:32+02:00",
+  "generated_at": "2026-10-10T18:51+02:00",
   "games": [
     {
       "id": "401902645",
@@ -32,8 +32,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Délocalisé à Vancouver : Kawhi Leonard, revenu à Toronto cet été, face aux Clippers qui l'ont échangé contre Brandon Ingram et Gradey Dick.",
       "commentators": null
     },
     {
@@ -66,8 +66,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Tyrese Haliburton et Pascal Siakam face aux Hawks de Jalen Johnson, All-Star la saison dernière, qui pourrait être ménagé.",
       "commentators": null
     },
     {
@@ -100,8 +100,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Pistons de Cade Cunningham, meilleur bilan de l'Est la saison dernière, chez des Wizards remodelés autour de Trae Young, Anthony Davis et AJ Dybantsa, n°1 de la draft. Côté français, Bilal Coulibaly et Alex Sarr, incertain (pied).",
       "commentators": null
     },
     {
@@ -134,8 +134,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Avant-goût du match d'ouverture du 21 octobre : Giannis Antetokounmpo et Bam Adebayo face à Anthony Edwards et LaMelo Ball. Les Français Rudy Gobert et Joan Beringer côté Minnesota.",
       "commentators": null
     },
     {
@@ -168,8 +168,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier retour à Boston de Jaylen Brown, échangé contre Paul George : face à Jayson Tatum, il est entouré de LeBron James, Joel Embiid et Tyrese Maxey.",
       "commentators": null
     },
     {
@@ -202,8 +202,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Warriors de Stephen Curry et Kristaps Porziņģis reçoivent les Kings de Domantas Sabonis et Zach LaVine, avec le Français Maxime Raynaud.",
       "commentators": null
     },
     {
@@ -244,8 +244,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Premier des deux matchs de présaison entre les Spurs, finalistes 2026, et Phoenix. Victor Wembanyama face aux Suns de Devin Booker, qui présentent leurs recrues Miles Bridges et Koa Peat.",
       "commentators": null
     }
   ],
