@@ -1,0 +1,164 @@
+{
+ "cover": {
+  "date": "SAMEDI 10 OCTOBRE · HEURE DE PARIS",
+  "top": [
+   "SUNS",
+   "SPURS"
+  ],
+  "top_info": "04:30 · PHOENIX · DIRECT beIN MAX 5 · DIFFÉRÉ DIM. 11:00",
+  "other_size": 60,
+  "others": [
+   [
+    "RAPTORS – CLIPPERS",
+    "00:30",
+    "★"
+   ],
+   [
+    "PACERS – HAWKS",
+    "01:00",
+    "★"
+   ],
+   [
+    "WIZARDS – PISTONS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "HEAT – WOLVES",
+    "02:00",
+    "★★"
+   ],
+   [
+    "CELTICS – 76ERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "WARRIORS – KINGS",
+    "02:30",
+    "★★"
+   ]
+  ],
+  "note": "LES AUTRES MATCHS : NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE<br>ET DEMAIN 12:10 : ROCKETS – MAVERICKS EN DIRECT DE MACAO SUR beIN MAX 6",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "PHOENIX · MORTGAGE MATCHUP CENTER",
+   "home": "Suns",
+   "home_city": "PHOENIX",
+   "home_bg": "#1D1160",
+   "home_sec": "#E56020",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 10 AU 11 OCT. · 2/7",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "04:30",
+   "channel": "beIN SPORTS",
+   "mode": "DIRECT + DIFFÉRÉ DIM. 11:00",
+   "brief": "Premier des deux matchs de présaison entre les Spurs, finalistes 2026, et Phoenix. Victor Wembanyama face aux Suns de Devin Booker, qui présentent leurs recrues Miles Bridges et Koa Peat.",
+   "chips": [
+    "V. Wembanyama",
+    "D. Booker",
+    "M. Bridges"
+   ],
+   "foot": "Direct : MAX 5<br>Différé : beIN 1"
+  },
+  {
+   "venue": "BOSTON · TD GARDEN",
+   "home": "Celtics",
+   "home_city": "BOSTON",
+   "home_bg": "#007A33",
+   "home_sec": "#BA9653",
+   "away": "76ers",
+   "away_city": "PHILADELPHIE",
+   "away_c1": "#006BB6",
+   "away_c2": "#ED174C",
+   "counter": "NUIT DU 10 AU 11 OCT. · 3/7",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Premier retour à Boston de Jaylen Brown, échangé contre Paul George : face à Jayson Tatum, il est entouré de LeBron James, Joel Embiid et Tyrese Maxey.",
+   "chips": [
+    "J. Brown",
+    "J. Tatum",
+    "L. James",
+    "P. George"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "WASHINGTON · CAPITAL ONE ARENA",
+   "home": "Wizards",
+   "home_city": "WASHINGTON",
+   "home_bg": "#002B5C",
+   "home_sec": "#E31837",
+   "away": "Pistons",
+   "away_city": "DETROIT",
+   "away_c1": "#C8102E",
+   "away_c2": "#1D42BA",
+   "counter": "NUIT DU 10 AU 11 OCT. · 4/7",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les Pistons de Cade Cunningham, meilleur bilan de l'Est la saison dernière, chez des Wizards remodelés autour de Trae Young, Anthony Davis et AJ Dybantsa, n°1 de la draft. Côté français, Bilal Coulibaly et Alex Sarr, incertain (pied).",
+   "chips": [
+    "C. Cunningham",
+    "T. Young",
+    "B. Coulibaly",
+    "A. Sarr"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat",
+   "home_city": "MIAMI",
+   "home_bg": "#98002E",
+   "home_sec": "#F9A01B",
+   "away": "Timberwolves",
+   "away_city": "MINNESOTA",
+   "away_c1": "#0C2340",
+   "away_c2": "#78BE20",
+   "counter": "NUIT DU 10 AU 11 OCT. · 5/7",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Avant-goût du match d'ouverture du 21 octobre : Giannis Antetokounmpo et Bam Adebayo face à Anthony Edwards et LaMelo Ball. Les Français Rudy Gobert et Joan Beringer côté Minnesota.",
+   "chips": [
+    "G. Antetokounmpo",
+    "A. Edwards",
+    "R. Gobert"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "MACAO · VENETIAN ARENA",
+   "home": "Rockets",
+   "home_city": "HOUSTON",
+   "home_bg": "#CE1141",
+   "home_sec": "#C4CED4",
+   "away": "Mavericks",
+   "away_city": "DALLAS",
+   "away_c1": "#00538C",
+   "away_c2": "#B8C4CA",
+   "counter": "DIMANCHE 11 OCT. · 6/7",
+   "label": "DEMAIN MIDI · EN DIRECT",
+   "time": "12:10",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT DIM. 11 OCT.",
+   "brief": "Retour attendu de Kyrie Irving, absent depuis sa rupture du ligament croisé du genou gauche en mars 2025 : son coach Dusty May prévoit de l'aligner. Kevin Durant sera ménagé côté Rockets.",
+   "chips": [
+    "K. Irving",
+    "C. Flagg",
+    "A. Şengün"
+   ],
+   "foot": "Direct : MAX 6"
+  }
+ ]
+}

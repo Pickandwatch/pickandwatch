@@ -20,6 +20,76 @@
       "note": 1,
       "detail": "13e Ouest (0) + pas de playoffs (0) + bons joueurs (1) — repris de la note du 7 octobre",
       "source": "ESPN standings 2025-26 ; data/editorial/2026-10-07.json"
+    },
+    "SAS": {
+      "note": 8,
+      "detail": "2e Ouest (2) + Finale 2026 perdue contre les Knicks (3) + Victor Wembanyama, superstar (3)",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "PHX": {
+      "note": 3,
+      "detail": "8e Ouest (1) + 1er tour perdu contre OKC (0) + Devin Booker All-Star 2026 (2)",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "BOS": {
+      "note": 5,
+      "detail": "2e Est (2) + 1er tour perdu contre Philadelphie (0) + Jayson Tatum, superstar (3)",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "PHI": {
+      "note": 5,
+      "detail": "7e Est (1) + demi-finale de conférence (1) + LeBron James, Joel Embiid, Jaylen Brown, Tyrese Maxey (3)",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "MIA": {
+      "note": 3,
+      "detail": "10e Est (0) + pas de playoffs (0) + Giannis Antetokounmpo, superstar (3) — repris de la note du 8 octobre",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "MIN": {
+      "note": 5,
+      "detail": "6e Ouest (1) + demi-finale de conférence (1) + Anthony Edwards, superstar (3) — repris de la note du 7 octobre",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "WSH": {
+      "note": 2,
+      "detail": "15e Est (0) + pas de playoffs (0) + Trae Young et Anthony Davis (2) — repris de la note du 8 octobre",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "DET": {
+      "note": 5,
+      "detail": "1er Est (2) + demi-finale de conférence (1) + Cade Cunningham, All-Star 2026 (2)",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "GSW": {
+      "note": 3,
+      "detail": "10e Ouest (0) + pas de playoffs (0) + Stephen Curry, superstar (3) — repris de la note du 7 octobre",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "SAC": {
+      "note": 1,
+      "detail": "14e Ouest (0) + pas de playoffs (0) + bons joueurs (1) — repris de la note du 8 octobre",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "IND": {
+      "note": 2,
+      "detail": "14e Est (0) + pas de playoffs (0) + Pascal Siakam All-Star 2026, Tyrese Haliburton (2) — repris de la note du 7 octobre",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "ATL": {
+      "note": 3,
+      "detail": "6e Est (1) + 1er tour perdu contre les Knicks (0) + Jalen Johnson All-Star 2026 (2)",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "TOR": {
+      "note": 3,
+      "detail": "5e Est (1) + 1er tour perdu contre Cleveland (0) + Scottie Barnes All-Star 2026, retour de Kawhi Leonard (2)",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "LAC": {
+      "note": 1,
+      "detail": "9e Ouest (0) + pas de playoffs (0) + bons joueurs, Kawhi Leonard parti à Toronto (1)",
+      "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
     }
   }
 }
