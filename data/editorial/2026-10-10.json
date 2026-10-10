@@ -1,0 +1,41 @@
+{
+  "_statut": "publié sans réponse (règle de 19h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "matchs": {
+    "401898720": {
+      "stars": 3,
+      "score": "3 + 8 + 2 (événement : le Français Wembanyama) = 13 ; seul match diffusé à la télé française",
+      "brief": "Premier des deux matchs de présaison entre les Spurs, finalistes 2026, et Phoenix. Victor Wembanyama face aux Suns de Devin Booker, qui présentent leurs recrues Miles Bridges et Koa Peat."
+    },
+    "401898398": {
+      "stars": 2,
+      "score": "5 + 5 + 2 (événement : premier retour de Jaylen Brown à Boston) = 12 (ramené à ★★ : un seul ★★★ par nuit)",
+      "brief": "Premier retour à Boston de Jaylen Brown, échangé contre Paul George : face à Jayson Tatum, il est entouré de LeBron James, Joel Embiid et Tyrese Maxey."
+    },
+    "401898397": {
+      "stars": 2,
+      "score": "3 + 5 + 2 (événement : les Français Gobert et Beringer) = 10 (ramené à ★★ : un seul ★★★ par nuit)",
+      "brief": "Avant-goût du match d'ouverture du 21 octobre : Giannis Antetokounmpo et Bam Adebayo face à Anthony Edwards et LaMelo Ball. Les Français Rudy Gobert et Joan Beringer côté Minnesota."
+    },
+    "401906510": {
+      "stars": 2,
+      "score": "2 + 5 + 2 (événement : les Français Sarr et Coulibaly) = 9 (ramené à ★★ : un seul ★★★ par nuit)",
+      "brief": "Les Pistons de Cade Cunningham, meilleur bilan de l'Est la saison dernière, chez des Wizards remodelés autour de Trae Young, Anthony Davis et AJ Dybantsa, n°1 de la draft. Côté français, Bilal Coulibaly et Alex Sarr, incertain (pied)."
+    },
+    "401898399": {
+      "stars": 2,
+      "score": "3 + 1 + 2 (événement : le Français Raynaud) = 6",
+      "brief": "Les Warriors de Stephen Curry et Kristaps Porziņģis reçoivent les Kings de Domantas Sabonis et Zach LaVine, avec le Français Maxime Raynaud."
+    },
+    "401898396": {
+      "stars": 1,
+      "score": "2 + 3 = 5",
+      "brief": "Tyrese Haliburton et Pascal Siakam face aux Hawks de Jalen Johnson, All-Star la saison dernière, qui pourrait être ménagé."
+    },
+    "401902645": {
+      "stars": 1,
+      "score": "3 + 1 = 4 (match délocalisé à Vancouver, au Canada : pas compté comme match à l'étranger)",
+      "brief": "Délocalisé à Vancouver : Kawhi Leonard, revenu à Toronto cet été, face aux Clippers qui l'ont échangé contre Brandon Ingram et Gradey Dick."
+    }
+  }
+}
