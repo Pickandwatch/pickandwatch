@@ -1,0 +1,264 @@
+{
+  "night": "2026-10-10",
+  "generated_at": "2026-10-10T15:03+02:00",
+  "games": [
+    {
+      "id": "401902645",
+      "tip_paris": "2026-10-11T00:30:00+02:00",
+      "home": {
+        "abbr": "TOR",
+        "name": "Raptors",
+        "location": "Toronto",
+        "full": "Toronto Raptors",
+        "color": "#d91244",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Clippers",
+        "location": "LA",
+        "full": "LA Clippers",
+        "color": "#12173f",
+        "color2": "#c8102e"
+      },
+      "venue": "Rogers Arena",
+      "city": "Vancouver",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401898396",
+      "tip_paris": "2026-10-11T01:00:00+02:00",
+      "home": {
+        "abbr": "IND",
+        "name": "Pacers",
+        "location": "Indiana",
+        "full": "Indiana Pacers",
+        "color": "#0c2340",
+        "color2": "#ffd520"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Hawks",
+        "location": "Atlanta",
+        "full": "Atlanta Hawks",
+        "color": "#c8102e",
+        "color2": "#fdb927"
+      },
+      "venue": "Gainbridge Fieldhouse",
+      "city": "Indianapolis",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401906510",
+      "tip_paris": "2026-10-11T01:00:00+02:00",
+      "home": {
+        "abbr": "WSH",
+        "name": "Wizards",
+        "location": "Washington",
+        "full": "Washington Wizards",
+        "color": "#e31837",
+        "color2": "#002b5c"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Pistons",
+        "location": "Detroit",
+        "full": "Detroit Pistons",
+        "color": "#1d428a",
+        "color2": "#c8102e"
+      },
+      "venue": "Capital One Arena",
+      "city": "Washington",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401898397",
+      "tip_paris": "2026-10-11T02:00:00+02:00",
+      "home": {
+        "abbr": "MIA",
+        "name": "Heat",
+        "location": "Miami",
+        "full": "Miami Heat",
+        "color": "#98002e",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Timberwolves",
+        "location": "Minnesota",
+        "full": "Minnesota Timberwolves",
+        "color": "#266092",
+        "color2": "#79bc43"
+      },
+      "venue": "Kaseya Center",
+      "city": "Miami",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401898398",
+      "tip_paris": "2026-10-11T02:00:00+02:00",
+      "home": {
+        "abbr": "BOS",
+        "name": "Celtics",
+        "location": "Boston",
+        "full": "Boston Celtics",
+        "color": "#008348",
+        "color2": "#ffffff"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "76ers",
+        "location": "Philadelphia",
+        "full": "Philadelphia 76ers",
+        "color": "#1d428a",
+        "color2": "#e01234"
+      },
+      "venue": "TD Garden",
+      "city": "Boston",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401898399",
+      "tip_paris": "2026-10-11T02:30:00+02:00",
+      "home": {
+        "abbr": "GS",
+        "name": "Warriors",
+        "location": "Golden State",
+        "full": "Golden State Warriors",
+        "color": "#fdb927",
+        "color2": "#1d428a"
+      },
+      "away": {
+        "abbr": "SAC",
+        "name": "Kings",
+        "location": "Sacramento",
+        "full": "Sacramento Kings",
+        "color": "#5a2d81",
+        "color2": "#6a7a82"
+      },
+      "venue": "Chase Center",
+      "city": "San Francisco",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401898720",
+      "tip_paris": "2026-10-11T04:30:00+02:00",
+      "home": {
+        "abbr": "PHX",
+        "name": "Suns",
+        "location": "Phoenix",
+        "full": "Phoenix Suns",
+        "color": "#29127a",
+        "color2": "#e56020"
+      },
+      "away": {
+        "abbr": "SA",
+        "name": "Spurs",
+        "location": "San Antonio",
+        "full": "San Antonio Spurs",
+        "color": "#000000",
+        "color2": "#c4ced4"
+      },
+      "venue": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS MAX 5",
+          "start": "2026-10-11T04:40:00+02:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-11T11:00:00+02:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Raptors – Clippers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Pacers – Hawks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Wizards – Pistons : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Heat – Timberwolves : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Celtics – 76ers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Warriors – Kings : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  }
+}
