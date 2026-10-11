@@ -1,6 +1,6 @@
 {
   "night": "2026-10-11",
-  "generated_at": "2026-10-11T15:09+02:00",
+  "generated_at": "2026-10-11T15:11+02:00",
   "games": [
     {
       "id": "401898400",
@@ -40,8 +40,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Kyrie Irving a fait son retour : 22 minutes de jeu selon la feuille de match, sa première sortie depuis sa rupture du ligament croisé du genou gauche en mars 2025. Kevin Durant et Alperen Şengün ont été ménagés.",
       "commentators": null
     },
     {
@@ -79,8 +79,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Finalistes de l'Est la saison dernière, les Cavaliers de Donovan Mitchell et Evan Mobley reçoivent le Magic de Paolo Banchero et Franz Wagner, qu'ils retrouvent mardi à Orlando. James Harden et le Français Noah Penda sont incertains.",
       "commentators": null
     },
     {
@@ -113,8 +113,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Les Bucks reconstruits après le départ de Giannis Antetokounmpo à Miami, avec Tyler Herro, Jaime Jaquez Jr. et Kel'el Ware, arrivés dans l'échange, aux côtés de Myles Turner. Côté Charlotte, les Français Moussa Diabaté et Tidjane Salaün ; Ousmane Dieng côté Milwaukee.",
       "commentators": null
     },
     {
@@ -147,8 +147,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Nuggets de Nikola Jokić et Jamal Murray, All-Stars la saison dernière, reçoivent des Bulls emmenés par Josh Giddey, Norman Powell et le rookie Caleb Wilson. Côté Chicago, le Français Noa Essengue, revenu de son opération à l'épaule.",
       "commentators": null
     }
   ],
