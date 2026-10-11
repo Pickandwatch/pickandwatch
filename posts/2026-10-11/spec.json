@@ -1,0 +1,74 @@
+{
+ "cover": {
+  "date": "DIMANCHE 11 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★ À SURVEILLER",
+  "top": ["NUGGETS", "BULLS"],
+  "top_info": "03:00 · DENVER · NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE",
+  "other_size": 60,
+  "others": [
+   ["CAVALIERS – MAGIC", "00:30", "★★"],
+   ["HORNETS – BUCKS", "01:00", "★"]
+  ],
+  "note": "TOUS LES MATCHS DE LA NUIT : NBA LEAGUE PASS<br>JOUÉ CE MIDI À MACAO : ROCKETS – MAVERICKS, RETOUR DE KYRIE IRVING",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "DENVER · BALL ARENA",
+   "home": "Nuggets",
+   "home_city": "DENVER",
+   "home_bg": "#0E2240",
+   "home_sec": "#FEC524",
+   "away": "Bulls",
+   "away_city": "CHICAGO",
+   "away_c1": "#CE1141",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 11 AU 12 OCT. · 2/5",
+   "label": "★★ À SURVEILLER",
+   "time": "03:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les Nuggets de Nikola Jokić et Jamal Murray, All-Stars la saison dernière, reçoivent des Bulls emmenés par Josh Giddey, Norman Powell et le rookie Caleb Wilson. Côté Chicago, le Français Noa Essengue, revenu de son opération à l'épaule.",
+   "chips": ["N. Jokić", "J. Murray", "C. Wilson", "N. Essengue"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers",
+   "home_city": "CLEVELAND",
+   "home_bg": "#860038",
+   "home_sec": "#FDBB30",
+   "away": "Magic",
+   "away_city": "ORLANDO",
+   "away_c1": "#0077C0",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 11 AU 12 OCT. · 3/5",
+   "label": "★★ À SURVEILLER",
+   "time": "00:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Finalistes de l'Est la saison dernière, les Cavaliers de Donovan Mitchell et Evan Mobley reçoivent le Magic de Paolo Banchero et Franz Wagner, qu'ils retrouvent mardi à Orlando. James Harden et le Français Noah Penda sont incertains.",
+   "chips": ["D. Mitchell", "E. Mobley", "P. Banchero", "F. Wagner"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "MACAO · VENETIAN ARENA",
+   "home": "Rockets",
+   "home_city": "HOUSTON",
+   "home_bg": "#CE1141",
+   "home_sec": "#C4CED4",
+   "away": "Mavericks",
+   "away_city": "DALLAS",
+   "away_c1": "#00538C",
+   "away_c2": "#B8C4CA",
+   "counter": "DIMANCHE 11 OCT. · 4/5",
+   "label": "★★ JOUÉ CE MIDI À MACAO",
+   "time": "12:10",
+   "channel": "beIN SPORTS",
+   "mode": "PAS DE DIFFÉRÉ TV REPÉRÉ",
+   "brief": "Kyrie Irving a fait son retour : 22 minutes de jeu selon la feuille de match, sa première sortie depuis sa rupture du ligament croisé du genou gauche en mars 2025. Kevin Durant et Alperen Şengün ont été ménagés.",
+   "chips": ["K. Irving", "C. Flagg", "Z. Risacher"],
+   "foot": "Direct : MAX 6<br>Différé : non repéré"
+  }
+ ]
+}

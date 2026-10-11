@@ -90,6 +90,31 @@
       "note": 1,
       "detail": "9e Ouest (0) + pas de playoffs (0) + bons joueurs, Kawhi Leonard parti à Toronto (1)",
       "source": "ESPN standings 2025-26 ; bracket playoffs 2026 (thebasketballfans.com) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 10/10/2026"
+    },
+    "CLE": {
+      "note": 6,
+      "detail": "4e Est (2) + finale de conférence perdue contre les Knicks (2) + Donovan Mitchell All-Star 2026 (2)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (en.wikipedia.org/wiki/2026_NBA_playoffs) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 11/10/2026"
+    },
+    "ORL": {
+      "note": 2,
+      "detail": "8e Est (1) + 1er tour perdu contre Detroit (0) + bons joueurs : Paolo Banchero, Franz Wagner, Desmond Bane (1)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (en.wikipedia.org/wiki/2026_NBA_playoffs) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 11/10/2026"
+    },
+    "DEN": {
+      "note": 5,
+      "detail": "3e Ouest (2) + 1er tour perdu contre Minnesota (0) + Nikola Jokić, superstar (3)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (en.wikipedia.org/wiki/2026_NBA_playoffs) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 11/10/2026"
+    },
+    "MIL": {
+      "note": 1,
+      "detail": "11e Est (0) + pas de playoffs (0) + bons joueurs après le départ de Giannis Antetokounmpo à Miami : Tyler Herro, Myles Turner (1)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (en.wikipedia.org/wiki/2026_NBA_playoffs) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 11/10/2026 ; fox6now.com (échange Giannis, juin 2026)"
+    },
+    "CHA": {
+      "note": 1,
+      "detail": "9e Est, éliminé au play-in (0) + pas de playoffs (0) + bons joueurs : Brandon Miller, Kon Knueppel (1)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (en.wikipedia.org/wiki/2026_NBA_playoffs) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 11/10/2026"
     }
   }
 }
