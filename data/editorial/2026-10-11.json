@@ -1,0 +1,26 @@
+{
+  "_statut": "validé le 11 octobre 2026",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "matchs": {
+    "401898400": {
+      "stars": 2,
+      "score": "3 + 1 + 2 (événement : match à Macao, retour de Kyrie Irving, le Français Risacher) = 6 ; joué à 12h10, direct beIN SPORTS MAX 6",
+      "brief": "Kyrie Irving a fait son retour : 22 minutes de jeu selon la feuille de match, sa première sortie depuis sa rupture du ligament croisé du genou gauche en mars 2025. Kevin Durant et Alperen Şengün ont été ménagés."
+    },
+    "401898401": {
+      "stars": 2,
+      "score": "6 + 2 = 8 (le Français Noah Penda, incertain, n'est pas compté comme événement)",
+      "brief": "Finalistes de l'Est la saison dernière, les Cavaliers de Donovan Mitchell et Evan Mobley reçoivent le Magic de Paolo Banchero et Franz Wagner, qu'ils retrouvent mardi à Orlando. James Harden et le Français Noah Penda sont incertains."
+    },
+    "401901821": {
+      "stars": 1,
+      "score": "1 + 1 + 2 (événement : les Français Diabaté, Salaün et Dieng) = 4",
+      "brief": "Les Bucks reconstruits après le départ de Giannis Antetokounmpo à Miami, avec Tyler Herro, Jaime Jaquez Jr. et Kel'el Ware, arrivés dans l'échange, aux côtés de Myles Turner. Côté Charlotte, les Français Moussa Diabaté et Tidjane Salaün ; Ousmane Dieng côté Milwaukee."
+    },
+    "401908941": {
+      "stars": 2,
+      "score": "5 + 1 + 2 (événement : le Français Essengue) = 8 ; à égalité avec Cavaliers – Magic, en tête de la nuit grâce à l'événement",
+      "brief": "Les Nuggets de Nikola Jokić et Jamal Murray, All-Stars la saison dernière, reçoivent des Bulls emmenés par Josh Giddey, Norman Powell et le rookie Caleb Wilson. Côté Chicago, le Français Noa Essengue, revenu de son opération à l'épaule."
+    }
+  }
+}
