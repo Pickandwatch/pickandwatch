@@ -1,0 +1,165 @@
+{
+  "night": "2026-10-11",
+  "generated_at": "2026-10-11T13:28+02:00",
+  "games": [
+    {
+      "id": "401898400",
+      "tip_paris": "2026-10-11T12:00:00+02:00",
+      "home": {
+        "abbr": "HOU",
+        "name": "Rockets",
+        "location": "Houston",
+        "full": "Houston Rockets",
+        "color": "#ce0e2d",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Mavericks",
+        "location": "Dallas",
+        "full": "Dallas Mavericks",
+        "color": "#0064b1",
+        "color2": "#bbc4ca"
+      },
+      "venue": "Venetian Arena",
+      "city": null,
+      "neutral": true,
+      "phase": "preseason",
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS MAX 6",
+          "start": "2026-10-11T12:10:00+02:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-12T11:00:00+02:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401898401",
+      "tip_paris": "2026-10-12T00:30:00+02:00",
+      "home": {
+        "abbr": "CLE",
+        "name": "Cavaliers",
+        "location": "Cleveland",
+        "full": "Cleveland Cavaliers",
+        "color": "#860038",
+        "color2": "#bc945c"
+      },
+      "away": {
+        "abbr": "ORL",
+        "name": "Magic",
+        "location": "Orlando",
+        "full": "Orlando Magic",
+        "color": "#0150b5",
+        "color2": "#9ca0a3"
+      },
+      "venue": "Rocket Arena",
+      "city": "Cleveland",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-14T11:00:00+02:00"
+          }
+        ],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401901821",
+      "tip_paris": "2026-10-12T01:00:00+02:00",
+      "home": {
+        "abbr": "CHA",
+        "name": "Hornets",
+        "location": "Charlotte",
+        "full": "Charlotte Hornets",
+        "color": "#008ca8",
+        "color2": "#1d1060"
+      },
+      "away": {
+        "abbr": "MIL",
+        "name": "Bucks",
+        "location": "Milwaukee",
+        "full": "Milwaukee Bucks",
+        "color": "#00471b",
+        "color2": "#eee1c6"
+      },
+      "venue": "Spectrum Center",
+      "city": "Charlotte",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401908941",
+      "tip_paris": "2026-10-12T03:00:00+02:00",
+      "home": {
+        "abbr": "DEN",
+        "name": "Nuggets",
+        "location": "Denver",
+        "full": "Denver Nuggets",
+        "color": "#0e2240",
+        "color2": "#fec524"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Bulls",
+        "location": "Chicago",
+        "full": "Chicago Bulls",
+        "color": "#ce1141",
+        "color2": "#000000"
+      },
+      "venue": "Ball Arena",
+      "city": "Denver",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Rockets – Mavericks : statut STATUS_HALFTIME (report ou annulation ?).",
+    "Cavaliers – Magic : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Hornets – Bucks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Nuggets – Bulls : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  }
+}
