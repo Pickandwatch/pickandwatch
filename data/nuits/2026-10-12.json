@@ -1,6 +1,6 @@
 {
   "night": "2026-10-12",
-  "generated_at": "2026-10-12T15:48+02:00",
+  "generated_at": "2026-10-12T18:52+02:00",
   "games": [
     {
       "id": "401914130",
@@ -32,8 +32,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Les Trail Blazers de Deni Avdija, Damian Lillard, Jrue Holiday et Ja Morant reçoivent le club britannique des London Lions. Le Français Sidy Cissoko côté Portland ; Shaedon Sharpe est absent (genou).",
       "commentators": null
     },
     {
@@ -66,8 +66,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier de l'Ouest la saison dernière, le Thunder de Shai Gilgeous-Alexander va chez les Hawks de Jalen Johnson, où Luguentz Dort retrouve son ancienne équipe. Côté Atlanta, Kingston Flemings, 8e choix de la draft. Chet Holmgren est incertain.",
       "commentators": null
     },
     {
@@ -100,8 +100,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Les Wizards de Trae Young, Anthony Davis et du n°1 de la draft AJ Dybantsa reçoivent les Nets de Michael Porter Jr. et Julius Randle. Côté Washington, les Français Alex Sarr et Bilal Coulibaly ; Nolan Traoré côté Brooklyn.",
       "commentators": null
     },
     {
@@ -142,8 +142,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Champions NBA en juin, une première depuis 1973, les Knicks de Jalen Brunson et Karl-Anthony Towns reçoivent les Wolves, avec LaMelo Ball et Jonathan Kuminga. Anthony Edwards et Rudy Gobert, au repos lors du dernier match, sont incertains.",
       "commentators": null
     },
     {
@@ -176,8 +176,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Finalistes NBA en juin, les Spurs de Victor Wembanyama vont à Utah, où le rookie Darryn Peterson, 2e choix de la draft, joue aux côtés de Jaren Jackson Jr. Lauri Markkanen et De'Aaron Fox sont incertains.",
       "commentators": null
     }
   ],
