@@ -1,0 +1,31 @@
+{
+  "_statut": "publié sans réponse (règle de 19h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "matchs": {
+    "401914124": {
+      "stars": 3,
+      "score": "7 + 5 + 2 (événement : les Français Rudy Gobert, Joan Beringer, Pacôme Dadiet, Mohamed Diawara) = 14 ; seul match diffusé en France (beIN SPORTS MAX 4), retenu comme ★★★ de la nuit",
+      "brief": "Champions NBA en juin, une première depuis 1973, les Knicks de Jalen Brunson et Karl-Anthony Towns reçoivent les Wolves, avec LaMelo Ball et Jonathan Kuminga. Anthony Edwards et Rudy Gobert, au repos lors du dernier match, sont incertains."
+    },
+    "401898402": {
+      "stars": 2,
+      "score": "3 + 7 = 10, ramené à ★★ (un seul ★★★ par nuit : Knicks – Timberwolves l'emporte par la diffusion TV française)",
+      "brief": "Premier de l'Ouest la saison dernière, le Thunder de Shai Gilgeous-Alexander va chez les Hawks de Jalen Johnson, où Luguentz Dort retrouve son ancienne équipe. Côté Atlanta, Kingston Flemings, 8e choix de la draft. Chet Holmgren est incertain."
+    },
+    "401898721": {
+      "stars": 2,
+      "score": "1 + 8 + 2 (événement : le Français Victor Wembanyama) = 11, ramené à ★★ (un seul ★★★ par nuit : Knicks – Timberwolves l'emporte par la diffusion TV française)",
+      "brief": "Finalistes NBA en juin, les Spurs de Victor Wembanyama vont à Utah, où le rookie Darryn Peterson, 2e choix de la draft, joue aux côtés de Jaren Jackson Jr. Lauri Markkanen et De'Aaron Fox sont incertains."
+    },
+    "401901824": {
+      "stars": 1,
+      "score": "2 + 1 + 2 (événement : les Français Alex Sarr, Bilal Coulibaly, Nolan Traoré) = 5",
+      "brief": "Les Wizards de Trae Young, Anthony Davis et du n°1 de la draft AJ Dybantsa reçoivent les Nets de Michael Porter Jr. et Julius Randle. Côté Washington, les Français Alex Sarr et Bilal Coulibaly ; Nolan Traoré côté Brooklyn."
+    },
+    "401914130": {
+      "stars": 1,
+      "score": "3 + 0 (London Lions, club britannique) + 2 (événement : le Français Sidy Cissoko) = 5",
+      "brief": "Les Trail Blazers de Deni Avdija, Damian Lillard, Jrue Holiday et Ja Morant reçoivent le club britannique des London Lions. Le Français Sidy Cissoko côté Portland ; Shaedon Sharpe est absent (genou)."
+    }
+  }
+}
