@@ -1,0 +1,76 @@
+{
+ "cover": {
+  "date": "LUNDI 12 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["KNICKS", "WOLVES"],
+  "top_info": "01:30 · NEW YORK · DIRECT beIN MAX 4 · DIFFÉRÉ MAR. 11:00",
+  "other_size": 60,
+  "others": [
+   ["BLAZERS – LONDON LIONS", "22:00", "★"],
+   ["HAWKS – THUNDER", "01:00", "★★"],
+   ["WIZARDS – NETS", "01:00", "★"],
+   ["JAZZ – SPURS", "03:00", "★★"]
+  ],
+  "note": "LES AUTRES MATCHS : NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#006BB6",
+   "home_sec": "#F58426",
+   "away": "Timberwolves",
+   "away_city": "MINNESOTA",
+   "away_c1": "#0C2340",
+   "away_c2": "#78BE20",
+   "counter": "NUIT DU 12 AU 13 OCT. · 2/5",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:30",
+   "channel": "beIN SPORTS",
+   "mode": "DIRECT + DIFFÉRÉ MAR. 11:00",
+   "brief": "Champions NBA en juin, une première depuis 1973, les Knicks de Jalen Brunson et Karl-Anthony Towns reçoivent les Wolves, avec LaMelo Ball et Jonathan Kuminga. Anthony Edwards et Rudy Gobert, au repos lors du dernier match, sont incertains.",
+   "chips": ["J. Brunson", "K.-A. Towns", "A. Edwards", "R. Gobert"],
+   "foot": "Direct : MAX 4<br>Différé : beIN 1"
+  },
+  {
+   "venue": "ATLANTA · STATE FARM ARENA",
+   "home": "Hawks",
+   "home_city": "ATLANTA",
+   "home_bg": "#C8102E",
+   "home_sec": "#FDB927",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 12 AU 13 OCT. · 3/5",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Premier de l'Ouest la saison dernière, le Thunder de Shai Gilgeous-Alexander va chez les Hawks de Jalen Johnson, où Luguentz Dort retrouve son ancienne équipe. Côté Atlanta, Kingston Flemings, 8e choix de la draft. Chet Holmgren est incertain.",
+   "chips": ["S. Gilgeous-Alexander", "J. Johnson", "L. Dort"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "SALT LAKE CITY · DELTA CENTER",
+   "home": "Jazz",
+   "home_city": "UTAH",
+   "home_bg": "#4E008E",
+   "home_sec": "#79A3DC",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 12 AU 13 OCT. · 4/5",
+   "label": "★★ À SURVEILLER",
+   "time": "03:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Finalistes NBA en juin, les Spurs de Victor Wembanyama vont à Utah, où le rookie Darryn Peterson, 2e choix de la draft, joue aux côtés de Jaren Jackson Jr. Lauri Markkanen et De'Aaron Fox sont incertains.",
+   "chips": ["V. Wembanyama", "D. Peterson", "J. Jackson Jr."],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}

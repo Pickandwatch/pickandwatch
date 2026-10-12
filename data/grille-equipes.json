@@ -115,6 +115,31 @@
       "note": 1,
       "detail": "9e Est, éliminé au play-in (0) + pas de playoffs (0) + bons joueurs : Brandon Miller, Kon Knueppel (1)",
       "source": "ESPN standings 2025-26 ; playoffs 2026 (en.wikipedia.org/wiki/2026_NBA_playoffs) ; All-Stars 2026 (nbcwashington.com) ; effectifs ESPN au 11/10/2026"
+    },
+    "NY": {
+      "note": 7,
+      "detail": "3e Est (2) + champions NBA 2026, Finale gagnée contre les Spurs (3) + Jalen Brunson et Karl-Anthony Towns All-Stars 2026 (2)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (thebasketballfans.com, sny.tv) ; All-Stars 2026 (abc7news.com) ; effectifs ESPN au 12/10/2026"
+    },
+    "OKC": {
+      "note": 7,
+      "detail": "1er Ouest (2) + finale de conférence perdue contre les Spurs (2) + Shai Gilgeous-Alexander, superstar (3)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (thebasketballfans.com, sny.tv) ; All-Stars 2026 (abc7news.com) ; effectifs ESPN au 12/10/2026 ; fanatik.com.tr (finale de l'Ouest)"
+    },
+    "UTAH": {
+      "note": 1,
+      "detail": "15e Ouest (0) + pas de playoffs (0) + bons joueurs : Jaren Jackson Jr., Lauri Markkanen, le rookie Darryn Peterson (1)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (thebasketballfans.com, sny.tv) ; All-Stars 2026 (abc7news.com) ; effectifs ESPN au 12/10/2026 ; ksat.com (draft 2026)"
+    },
+    "POR": {
+      "note": 3,
+      "detail": "7e Ouest via le play-in (1) + 1er tour perdu contre les Spurs (0) + Deni Avdija All-Star 2026 (2)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (thebasketballfans.com, sny.tv) ; All-Stars 2026 (abc7news.com) ; effectifs ESPN au 12/10/2026 ; news9.com et eurohoops.net (play-in et élimination) ; blazersedge.com (Avdija All-Star)"
+    },
+    "BKN": {
+      "note": 1,
+      "detail": "13e Est (0) + pas de playoffs (0) + bons joueurs : Michael Porter Jr., Julius Randle (1)",
+      "source": "ESPN standings 2025-26 ; playoffs 2026 (thebasketballfans.com, sny.tv) ; All-Stars 2026 (abc7news.com) ; effectifs ESPN au 12/10/2026"
     }
   }
 }

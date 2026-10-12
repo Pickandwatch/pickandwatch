@@ -19,7 +19,7 @@ def cover(c, out):
     b += [line(c['top'][0] + ' – ' + c['top'][1], color=head, lh=0.84),
           mono(c['top_info'], sub, 22, 1)]
     rows = []
-    for t, info, st in sorted(c['others'], key=lambda x: x[1]):
+    for t, info, st in sorted(c['others'], key=lambda x: (int(x[1][:2]) < 12, x[1])):  # 22:00 avant 01:00
         rows.append(f'<div style="display: grid; grid-template-columns: 110px minmax(0, 1fr) auto; align-items: baseline; gap: 18px; padding: 12px 0; border-top: 1px solid {ink}">'
                     f'<span style="font-family: \'IBM Plex Mono\', monospace; font-weight: 500; font-size: 30px; color: {head}">{info}</span>'
                     f'<span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: 54px; line-height: 0.95; white-space: nowrap">{t}</span>'
