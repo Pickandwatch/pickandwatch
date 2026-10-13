@@ -1,0 +1,31 @@
+{
+  "_statut": "proposé le 13 octobre 2026 (en attente de validation)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "matchs": {
+    "401898403": {
+      "stars": 3,
+      "score": "2 + 6 + 2 (événement : le Français Noah Penda) = 10 ; seul match de la nuit diffusé à la télé française (différé beIN SPORTS 1 mercredi 11h), retenu comme ★★★",
+      "brief": "Deux jours après leur duel à Cleveland, les finalistes de l'Est de Donovan Mitchell et James Harden vont chez le Magic de Paolo Banchero, avec le Français Noah Penda. Desmond Bane (repos) et Jalen Suggs (malade) sont incertains."
+    },
+    "401908944": {
+      "stars": 2,
+      "score": "3 + 7 + 2 (événement : débuts de présaison de Kawhi Leonard avec Toronto, les Français Pacôme Dadiet et Mohamed Diawara) = 12, ramené à ★★ (un seul ★★★ par nuit : Magic – Cavaliers l'emporte par la diffusion TV française ; le cinq de départ des Knicks est laissé au repos)",
+      "brief": "Kawhi Leonard, récupéré des Clippers en septembre, doit faire ses débuts de présaison pour son retour à Toronto. Les champions laissent au repos leur cinq de départ : place au banc, avec les Français Pacôme Dadiet et Mohamed Diawara."
+    },
+    "401908621": {
+      "stars": 2,
+      "score": "7 + 2 = 9, ramené à ★★ (un seul ★★★ par nuit ; les créneaux beIN SPORTS 1 « Thunder / Pacers » à 9h15 sont des rediffusions d'archives, programmées dès le 12 octobre, pas ce match)",
+      "brief": "Le Thunder de Shai Gilgeous-Alexander reçoit les Pacers, où Tyrese Haliburton a rejoué le 7 octobre après sa rupture du tendon d'Achille en finale 2025. Haliburton (cheville) et Chet Holmgren (quadriceps) sont incertains."
+    },
+    "401898718": {
+      "stars": 2,
+      "score": "6 + 3 = 9 (Las Vegas, terrain neutre aux États-Unis : pas compté comme match à l'étranger), ramené à ★★ (un seul ★★★ par nuit)",
+      "brief": "Deuxième et dernier duel de présaison entre les Lakers de Luka Dončić et les Warriors de Stephen Curry, cette fois en terrain neutre à Las Vegas. Jimmy Butler (genou) est absent, Kristaps Porziņģis incertain."
+    },
+    "401901826": {
+      "stars": 2,
+      "score": "1 + 3 + 2 (événement : le Français Sidy Cissoko ; Maxime Raynaud, blessé au genou, absent) = 6",
+      "brief": "Les Trail Blazers de Deni Avdija, Jrue Holiday et Ja Morant vont chez les Kings de Domantas Sabonis et Zach LaVine, avec le Français Sidy Cissoko. Shaedon Sharpe et Maxime Raynaud (genou) sont absents, Damian Lillard et Sabonis incertains."
+    }
+  }
+}

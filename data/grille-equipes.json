@@ -140,6 +140,11 @@
       "note": 1,
       "detail": "13e Est (0) + pas de playoffs (0) + bons joueurs : Michael Porter Jr., Julius Randle (1)",
       "source": "ESPN standings 2025-26 ; playoffs 2026 (thebasketballfans.com, sny.tv) ; All-Stars 2026 (abc7news.com) ; effectifs ESPN au 12/10/2026"
+    },
+    "LAL": {
+      "note": 6,
+      "detail": "4e Ouest (2) + demi-finale de conférence, éliminés par OKC après un 1er tour gagné contre Houston (1) + Luka Dončić, superstar (3)",
+      "source": "ESPN standings 2025-26 ; abc7.com (Thunder-Lakers, demi-finale 2026) ; effectifs ESPN au 13/10/2026 ; note du 8 octobre (data/editorial/2026-10-08.json)"
     }
   }
 }

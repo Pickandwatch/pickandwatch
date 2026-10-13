@@ -1,0 +1,131 @@
+{
+ "cover": {
+  "date": "MARDI 13 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "MAGIC",
+   "CAVALIERS"
+  ],
+  "top_info": "01:00 · ORLANDO · LEAGUE PASS · DIFFÉRÉ beIN 1 MER. 11:00",
+  "other_size": 60,
+  "others": [
+   [
+    "RAPTORS – KNICKS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "THUNDER – PACERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "LAKERS – WARRIORS",
+    "04:00",
+    "★★"
+   ],
+   [
+    "KINGS – BLAZERS",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "LES AUTRES MATCHS : NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "ORLANDO · KIA CENTER",
+   "home": "Magic",
+   "home_city": "ORLANDO",
+   "home_bg": "#0077C0",
+   "home_sec": "#C4CED4",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#FDBB30",
+   "counter": "NUIT DU 13 AU 14 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIFFÉRÉ MERCREDI 11:00",
+   "brief": "Deux jours après leur duel à Cleveland, les finalistes de l'Est de Donovan Mitchell et James Harden vont chez le Magic de Paolo Banchero, avec le Français Noah Penda. Desmond Bane (repos) et Jalen Suggs (malade) sont incertains.",
+   "chips": [
+    "D. Mitchell",
+    "J. Harden",
+    "P. Banchero",
+    "N. Penda"
+   ],
+   "foot": "Direct : League Pass<br>Différé : beIN 1"
+  },
+  {
+   "venue": "TORONTO · SCOTIABANK ARENA",
+   "home": "Raptors",
+   "home_city": "TORONTO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Knicks",
+   "away_city": "NEW YORK",
+   "away_c1": "#006BB6",
+   "away_c2": "#F58426",
+   "counter": "NUIT DU 13 AU 14 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Kawhi Leonard, récupéré des Clippers en septembre, doit faire ses débuts de présaison pour son retour à Toronto. Les champions laissent au repos leur cinq de départ : place au banc, avec les Français Pacôme Dadiet et Mohamed Diawara.",
+   "chips": [
+    "K. Leonard",
+    "S. Barnes",
+    "P. Dadiet",
+    "M. Diawara"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder",
+   "home_city": "OKLAHOMA CITY",
+   "home_bg": "#007AC1",
+   "home_sec": "#EF3B24",
+   "away": "Pacers",
+   "away_city": "INDIANA",
+   "away_c1": "#002D62",
+   "away_c2": "#FDBB30",
+   "counter": "NUIT DU 13 AU 14 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Le Thunder de Shai Gilgeous-Alexander reçoit les Pacers, où Tyrese Haliburton a rejoué le 7 octobre après sa rupture du tendon d'Achille en finale 2025. Haliburton (cheville) et Chet Holmgren (quadriceps) sont incertains.",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "T. Haliburton",
+    "P. Siakam"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "LAS VEGAS · T-MOBILE ARENA",
+   "home": "Lakers",
+   "home_city": "LOS ANGELES",
+   "home_bg": "#552583",
+   "home_sec": "#FDB927",
+   "away": "Warriors",
+   "away_city": "GOLDEN STATE",
+   "away_c1": "#1D428A",
+   "away_c2": "#FFC72C",
+   "counter": "NUIT DU 13 AU 14 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "04:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième et dernier duel de présaison entre les Lakers de Luka Dončić et les Warriors de Stephen Curry, cette fois en terrain neutre à Las Vegas. Jimmy Butler (genou) est absent, Kristaps Porziņģis incertain.",
+   "chips": [
+    "L. Dončić",
+    "S. Curry"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
