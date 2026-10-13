@@ -1,0 +1,205 @@
+{
+  "night": "2026-10-13",
+  "generated_at": "2026-10-13T15:22+02:00",
+  "games": [
+    {
+      "id": "401898403",
+      "tip_paris": "2026-10-14T01:00:00+02:00",
+      "home": {
+        "abbr": "ORL",
+        "name": "Magic",
+        "location": "Orlando",
+        "full": "Orlando Magic",
+        "color": "#0150b5",
+        "color2": "#9ca0a3"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cavaliers",
+        "location": "Cleveland",
+        "full": "Cleveland Cavaliers",
+        "color": "#860038",
+        "color2": "#bc945c"
+      },
+      "venue": "Kia Center",
+      "city": "Orlando",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-14T11:00:00+02:00"
+          }
+        ],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401908944",
+      "tip_paris": "2026-10-14T01:00:00+02:00",
+      "home": {
+        "abbr": "TOR",
+        "name": "Raptors",
+        "location": "Toronto",
+        "full": "Toronto Raptors",
+        "color": "#d91244",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "NY",
+        "name": "Knicks",
+        "location": "New York",
+        "full": "New York Knicks",
+        "color": "#1d428a",
+        "color2": "#f58426"
+      },
+      "venue": "Scotiabank Arena",
+      "city": "Toronto",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401908621",
+      "tip_paris": "2026-10-14T02:00:00+02:00",
+      "home": {
+        "abbr": "OKC",
+        "name": "Thunder",
+        "location": "Oklahoma City",
+        "full": "Oklahoma City Thunder",
+        "color": "#007ac1",
+        "color2": "#ef3b24"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Pacers",
+        "location": "Indiana",
+        "full": "Indiana Pacers",
+        "color": "#0c2340",
+        "color2": "#ffd520"
+      },
+      "venue": "Paycom Center",
+      "city": "Oklahoma City",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-14T09:15:00+02:00"
+          },
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-15T09:15:00+02:00"
+          },
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-16T09:15:00+02:00"
+          }
+        ],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401898718",
+      "tip_paris": "2026-10-14T04:00:00+02:00",
+      "home": {
+        "abbr": "LAL",
+        "name": "Lakers",
+        "location": "Los Angeles",
+        "full": "Los Angeles Lakers",
+        "color": "#552583",
+        "color2": "#fdb927"
+      },
+      "away": {
+        "abbr": "GS",
+        "name": "Warriors",
+        "location": "Golden State",
+        "full": "Golden State Warriors",
+        "color": "#fdb927",
+        "color2": "#1d428a"
+      },
+      "venue": "T-Mobile Arena",
+      "city": "Las Vegas",
+      "neutral": true,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401901826",
+      "tip_paris": "2026-10-14T04:00:00+02:00",
+      "home": {
+        "abbr": "SAC",
+        "name": "Kings",
+        "location": "Sacramento",
+        "full": "Sacramento Kings",
+        "color": "#5a2d81",
+        "color2": "#6a7a82"
+      },
+      "away": {
+        "abbr": "POR",
+        "name": "Trail Blazers",
+        "location": "Portland",
+        "full": "Portland Trail Blazers",
+        "color": "#e03a3e",
+        "color2": "#000000"
+      },
+      "venue": "Golden 1 Center",
+      "city": "Sacramento",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Magic – Cavaliers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Raptors – Knicks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Thunder – Pacers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Lakers – Warriors : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Kings – Trail Blazers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  }
+}
