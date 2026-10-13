@@ -1,6 +1,6 @@
 {
   "night": "2026-10-13",
-  "generated_at": "2026-10-13T15:43+02:00",
+  "generated_at": "2026-10-13T18:51+02:00",
   "games": [
     {
       "id": "401898403",
@@ -37,8 +37,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Deux jours après leur duel à Cleveland, les finalistes de l'Est de Donovan Mitchell et James Harden vont chez le Magic de Paolo Banchero, avec le Français Noah Penda. Desmond Bane (repos) et Jalen Suggs (malade) sont incertains.",
       "commentators": null
     },
     {
@@ -71,8 +71,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Kawhi Leonard, récupéré des Clippers en septembre, doit faire ses débuts de présaison pour son retour à Toronto. Les champions laissent au repos leur cinq de départ : place au banc, avec les Français Pacôme Dadiet et Mohamed Diawara.",
       "commentators": null
     },
     {
@@ -118,8 +118,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Le Thunder de Shai Gilgeous-Alexander reçoit les Pacers, où Tyrese Haliburton a rejoué le 7 octobre après sa rupture du tendon d'Achille en finale 2025. Haliburton (cheville) et Chet Holmgren (quadriceps) sont incertains.",
       "commentators": null
     },
     {
@@ -152,8 +152,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Deuxième et dernier duel de présaison entre les Lakers de Luka Dončić et les Warriors de Stephen Curry, cette fois en terrain neutre à Las Vegas. Jimmy Butler (genou) est absent, Kristaps Porziņģis incertain.",
       "commentators": null
     },
     {
@@ -186,8 +186,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Trail Blazers de Deni Avdija, Jrue Holiday et Ja Morant vont chez les Kings de Domantas Sabonis et Zach LaVine, avec le Français Sidy Cissoko. Shaedon Sharpe et Maxime Raynaud (genou) sont absents, Damian Lillard et Sabonis incertains.",
       "commentators": null
     }
   ],
