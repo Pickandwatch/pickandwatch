@@ -1,6 +1,6 @@
 {
   "night": "2026-10-14",
-  "generated_at": "2026-10-14T16:14+02:00",
+  "generated_at": "2026-10-14T18:52+02:00",
   "games": [
     {
       "id": "401898404",
@@ -32,8 +32,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Le Heat de Giannis Antetokounmpo et Bam Adebayo, au repos samedi contre Minnesota, reçoit les Nets de Michael Porter Jr., avec le Français Nolan Traoré.",
       "commentators": null
     },
     {
@@ -66,8 +66,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Jayson Tatum, revenu de sa rupture du tendon d'Achille, et Paul George, recrue de l'été, reçoivent les Hornets de Brandon Miller, avec les Français Moussa Diabaté et Tidjane Salaün.",
       "commentators": null
     },
     {
@@ -112,8 +112,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Deuxième duel de présaison en quatre jours entre les Spurs, finalistes 2026, et Phoenix. Victor Wembanyama, ménagé lundi à Utah, doit rejouer. Devin Booker, absent samedi à Phoenix, est incertain.",
       "commentators": null
     },
     {
@@ -146,8 +146,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Cooper Flagg, rookie de l'année, et le Français Zaccharie Risacher reçoivent les Pelicans de Zion Williamson et Trey Murphy III.",
       "commentators": null
     },
     {
@@ -180,8 +180,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Les Bucks de Tyler Herro et Myles Turner, avec le Français Ousmane Dieng, reçoivent les Bulls de Josh Giddey, avec le Français Noa Essengue.",
       "commentators": null
     },
     {
@@ -214,8 +214,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Pistons de Cade Cunningham, meilleur bilan de l'Est la saison dernière, chez les Wolves d'Anthony Edwards et LaMelo Ball, avec les Français Rudy Gobert et Joan Beringer. Donte DiVincenzo (tendon d'Achille) est absent.",
       "commentators": null
     },
     {
@@ -248,8 +248,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Nikola Jokić et Jamal Murray chez les Clippers de Darius Garland. Brandon Ingram (tendon d'Achille) est absent.",
       "commentators": null
     }
   ],
