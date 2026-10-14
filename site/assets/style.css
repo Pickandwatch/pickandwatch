@@ -40,6 +40,19 @@ a { color: inherit; text-decoration-color: var(--orange); text-underline-offset:
 }
 .date { padding-left: 12px; font: 14px/1.2 var(--mono); letter-spacing: 1.5px; color: var(--sub); text-align: right; }
 
+/* Rubriques permanentes : onglets collés en haut de l'écran */
+.tabs {
+  position: sticky; top: 0; z-index: 5; display: grid; grid-template-columns: 1fr 1fr; gap: 8px;
+  margin: 18px -16px 0; padding: 10px 16px; background: var(--paper); border-bottom: 2px solid var(--ink);
+}
+.tabs a {
+  display: block; padding: 10px 8px; text-align: center; text-decoration: none;
+  font: 800 20px/1.1 var(--display); text-transform: uppercase; letter-spacing: 1px;
+  border: 2px solid var(--ink);
+}
+.tabs a:last-child { background: var(--ink); color: var(--paper); }
+#aujourdhui, #verdicts { scroll-margin-top: 96px; }
+
 /* Titre : surtitre orange pleine largeur + titre noir */
 .hero { margin: 44px 0 28px; }
 .fit { display: block; width: 100%; }
@@ -90,7 +103,10 @@ h1 {
 .notes { margin: 16px 0 0; font-style: italic; color: var(--sub); }
 
 /* La nuit dernière : verdicts */
-.lastnight { margin: 40px 0 8px; padding-bottom: 8px; }
+.lastnight { margin: 56px 0 8px; padding-bottom: 8px; }
+.vtitle { margin: 8px 0 0; font: 800 clamp(24px, 4.4vw, 40px)/1 var(--display); text-transform: uppercase; }
+.vwait { margin: 16px 0 0; padding-top: 16px; border-top: 2px solid var(--ink); }
+.vwait + .vwait { border-top: 0; padding-top: 0; }
 .vlist { border-top: 2px solid var(--ink); margin-top: 16px; }
 .verdict { padding: 20px 0; border-bottom: 1px solid var(--line); }
 .vlabel { display: inline-block; margin: 0 0 10px; padding: 4px 12px; font: 800 22px/1.1 var(--display); text-transform: uppercase; letter-spacing: 1px; border: 2px solid var(--ink); }
@@ -115,6 +131,7 @@ footer { margin-top: 48px; padding-top: 18px; border-top: 2px solid var(--ink); 
   body { font-size: 17px; }
   .brand { font-size: 24px; letter-spacing: 4px; white-space: nowrap; }
   .date { display: none; }
+  .tabs a { font-size: 17px; padding: 9px 6px; }
   .match { grid-template-columns: 1fr; gap: 6px; }
   .time span { font-size: 44px; }
   .stars .st { font-size: 60px; }
