@@ -11,8 +11,10 @@ prépare du contenu Pick & Watch le lit en entier avant de commencer.
 - **N'invente rien.** Chaque fait d'un brief ou d'un verdict (transfert, blessure, minutes
   jouées, retour) est vérifié dans une source ouverte et lue. Dans le doute, on retire.
 - **Validation.** Alexandre valide dans la conversation de la tâche. La notification a
-  toujours pour objet : « Post P&W à valider ». Rien d'éditorial (étoiles, briefs,
-  verdicts) n'est poussé dans `data/` avant sa validation, sauf la règle de 18h50 ci-dessous.
+  toujours pour objet : « Post P&W à valider ». Rien d'éditorial (étoiles, briefs) n'est
+  poussé dans `data/` avant sa validation, sauf la règle de 18h50 ci-dessous.
+  **Exception : les verdicts du matin sont publiés sans attendre** (consigne d'Alexandre du
+  14 octobre 2026) ; il les corrige après coup s'il le souhaite.
 - **Publication Instagram automatique à 19h** si Alexandre n'a pas répondu, sauf s'il a
   demandé l'annulation (`"statut": "annule"` dans `posts/AAAA-MM-JJ/post.json`).
 - Jamais de mot de passe ni de clé dans la conversation. La clé Instagram est un secret GitHub.
@@ -44,10 +46,14 @@ soir D en France (matchs de D 12h à D+1 12h, heure de Paris).
    Texte de 1 à 2 phrases qui dit pourquoi, sans score ni vainqueur. Pas de « match serré
    jusqu'au bout gagné par… » : on parle de ce qui vaut le coup d'œil (un retour, un rookie,
    un dernier quart-temps à regarder).
-4. Proposer les verdicts dans la conversation, envoyer la notification « Post P&W à valider ».
-5. Après validation : écrire `data/verdicts/<D-1>.json` (format de `data/verdicts/2026-10-07.json`,
-   `"_statut": "validé le …"`), commit, push, puis lancer le site :
-   `gh api -X POST repos/Pickandwatch/pickandwatch/actions/workflows/programme.yml/dispatches -f ref=main`.
+4. Publier tout de suite, sans attendre de validation : écrire `data/verdicts/<D-1>.json`
+   (format de `data/verdicts/2026-10-07.json`, `"_statut": "publié le … (sans validation préalable)"`),
+   vérifier qu'aucun texte ne déclenche `pipeline.instagram.SCORE_RE`, commit, push, puis lancer le site :
+   `gh api -X POST repos/Pickandwatch/pickandwatch/actions/workflows/programme.yml/dispatches -f ref=main`
+   (ou l'outil GitHub `actions_run_trigger`, méthode `run_workflow`). Vérifier que la rubrique
+   « Verdicts d'hier » de https://pickandwatch.fr/ affiche bien les verdicts.
+5. Présenter les verdicts dans la conversation et envoyer la notification « Verdicts P&W publiés »
+   (une ligne par match). Si Alexandre corrige : modifier le fichier, push, relancer le site.
 
 ## 2. L'après-midi (15h30) : étoiles, briefs et carrousel de la nuit D
 
