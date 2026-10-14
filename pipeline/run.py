@@ -35,7 +35,12 @@ def main() -> None:
     prev_path, verd_path = ROOT / "data" / "nuits" / f"{p}.json", ROOT / "data" / "verdicts" / f"{p}.json"
     prev = json.loads(prev_path.read_text(encoding="utf-8")) if prev_path.exists() else None
     verdicts = json.loads(verd_path.read_text(encoding="utf-8")) if verd_path.exists() else None
-    build_site(ROOT, night, prev, verdicts)
+    archive = []
+    for vf in sorted((ROOT / "data" / "verdicts").glob("*.json")):
+        nf = ROOT / "data" / "nuits" / vf.name
+        if nf.exists():
+            archive.append((json.loads(nf.read_text(encoding="utf-8")), json.loads(vf.read_text(encoding="utf-8"))))
+    build_site(ROOT, night, prev, verdicts, archive)
 
     lines = [f"## Programme · nuit du {d.isoformat()}", ""]
     for g in night["games"]:

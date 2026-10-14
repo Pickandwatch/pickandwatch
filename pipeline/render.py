@@ -144,26 +144,101 @@ def verdict_card(g: dict, v: dict, now: datetime) -> str:
 </article>"""
 
 
-def verdict_section(prev: dict | None, verdicts: dict | None, now: datetime) -> str:
-    if not prev or not verdicts:
-        return ""
+def verdict_cards(night: dict, verdicts: dict, now: datetime) -> str:
     vs = verdicts.get("matchs", {})
     order = {"replay": 0, "resume": 1, "zapper": 2}
-    games = sorted((g for g in prev["games"] if g["id"] in vs),
+    games = sorted((g for g in night["games"] if g["id"] in vs),
                    key=lambda g: (order[vs[g["id"]]["verdict"]], g["tip_paris"]))
-    if not games:
-        return ""
-    cards = "".join(verdict_card(g, vs[g["id"]], now) for g in games)
+    return "".join(verdict_card(g, vs[g["id"]], now) for g in games)
+
+
+def verdict_section(prev_date: date, prev: dict | None, verdicts: dict | None, now: datetime,
+                    latest: str | None = None) -> str:
+    """Rubrique permanente « Verdicts des matchs d'hier » : toujours affichée, même vide."""
+    cards = verdict_cards(prev, verdicts, now) if prev and verdicts else ""
+    if cards:
+        body = f'<div class="vlist">{cards}\n    </div>'
+    elif prev is not None and not prev.get("games"):
+        body = '<p class="vwait">Pas de match NBA cette nuit-là : rien à rattraper.</p>'
+    else:
+        body = '<p class="vwait">Les verdicts de cette nuit arrivent dans la matinée.</p>'
+        if latest:
+            body += (f'<p class="vwait"><a href="verdicts/{latest}.html">Voir les derniers verdicts publiés '
+                     f'({e(night_title(date.fromisoformat(latest)).replace("Nuit du ", "nuit du "))})</a></p>')
     return f"""
-  <section class="lastnight" aria-label="Verdicts de la nuit dernière">
-    <p class="kicker small fit" data-min="26">La nuit dernière</p>
+  <section class="lastnight" id="verdicts" aria-label="Verdicts des matchs d'hier">
+    <p class="kicker small fit" data-min="26">Verdicts des matchs d'hier</p>
+    <h2 class="vtitle">{e(night_title(prev_date))}</h2>
     <p class="summary">Ça valait le coup ? Notre verdict sur chaque match. Jamais le score.</p>
-    <div class="vlist">{cards}
-    </div>
+    {body}
   </section>"""
 
 
-def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = None, verdicts: dict | None = None) -> str:
+def tabs(up: str) -> str:
+    return (f'<nav class="tabs" aria-label="Rubriques">'
+            f'<a href="{up}index.html#aujourdhui">À voir aujourd\'hui</a>'
+            f'<a href="{up}index.html#verdicts">Verdicts d\'hier</a></nav>')
+
+
+def head(title: str, canonical: str, up: str, description: str) -> str:
+    return f"""<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{e(title)} · Pick &amp; Watch</title>
+<meta name="description" content="{e(description)}">
+<link rel="canonical" href="{e(canonical)}">
+<link rel="icon" type="image/png" href="{up}assets/favicon.png">
+<meta property="og:title" content="{e(title)}">
+<meta property="og:description" content="Quoi regarder, où, quand. Sans spoiler.">
+<meta property="og:image" content="https://pickandwatch.fr/assets/logo.png">
+{FONTS}
+<link rel="stylesheet" href="{up}assets/style.css">
+</head>
+<body>
+<div class="ball" aria-hidden="true"></div>
+<header class="bar">
+  <a class="brand" href="{up}index.html">Pick &amp; Watch</a>
+  <span class="date">{{date}}</span>
+</header>
+{tabs(up)}
+"""
+
+
+def foot(gen: datetime) -> str:
+    return f"""<footer>
+  <p class="sign">Ton programme NBA. Zéro spoiler. Jamais.</p>
+  <p>Suis-nous sur Instagram : <a href="https://www.instagram.com/pickandwatch.fr/">@pickandwatch.fr</a></p>
+  <p class="src">Sources : calendrier NBA via ESPN, diffusions via le guide TV XMLTV France, recoupés automatiquement.
+  Mis à jour le {gen.day} {MOIS[gen.month - 1]} à {gen:%H:%M}.</p>
+</footer>
+{FIT_JS}
+</body>
+</html>
+"""
+
+
+def verdict_page(night: dict, verdicts: dict, now: datetime) -> str:
+    """Archive permanente des verdicts d'une nuit : site/verdicts/AAAA-MM-JJ.html."""
+    d = date.fromisoformat(night["night"])
+    title = night_title(d)
+    top = head(f"Verdicts · {title}", f"https://pickandwatch.fr/verdicts/{d}.html", "../",
+               "Nos verdicts NBA sans spoiler : replay, résumé ou zapper. Jamais le score.")
+    return (top.replace("{date}", e(title.replace("Nuit du ", "").upper())) + f"""<main>
+  <section class="lastnight" aria-label="Verdicts">
+    <p class="kicker small fit" data-min="26">Nos verdicts</p>
+    <h2 class="vtitle">{e(title)}</h2>
+    <p class="summary">Ça valait le coup ? Notre verdict sur chaque match. Jamais le score.</p>
+    <div class="vlist">{verdict_cards(night, verdicts, now)}
+    </div>
+  </section>
+</main>
+""" + foot(now))
+
+
+def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = None,
+         verdicts: dict | None = None, latest: str | None = None, home: bool = False) -> str:
     d = date.fromisoformat(night["night"])
     up = "../" * depth
     games = night["games"]
@@ -181,37 +256,21 @@ def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = Non
         notes.append("Présaison : les stars peuvent être ménagées.")
     title = night_title(d)
     gen = datetime.fromisoformat(night["generated_at"])
-    last = verdict_section(prev, verdicts, gen)
-    return f"""<!doctype html>
-<html lang="fr">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cette nuit en NBA · {e(title)} · Pick &amp; Watch</title>
-<meta name="description" content="Le programme NBA de la nuit à l'heure de Paris : chaîne, lieu, direct ou différé. Zéro spoiler.">
-<link rel="canonical" href="{e(canonical)}">
-<link rel="icon" type="image/png" href="{up}assets/favicon.png">
-<meta property="og:title" content="Cette nuit en NBA · {e(title)}">
-<meta property="og:description" content="Quoi regarder, où, quand. Sans spoiler.">
-<meta property="og:image" content="https://pickandwatch.fr/assets/logo.png">
-{FONTS}
-<link rel="stylesheet" href="{up}assets/style.css">
-</head>
-<body>
-<div class="ball" aria-hidden="true"></div>
-<header class="bar">
-  <a class="brand" href="{up}index.html">Pick &amp; Watch</a>
-  <span class="date">{e(title.replace("Nuit du ", "").upper())}</span>
-</header>
-<main>{last}
-  <section class="hero">
-    <p class="kicker fit" data-min="40">Cette nuit en NBA</p>
+    last = ""
+    if home:
+        prev_date = date.fromordinal(d.toordinal() - 1)
+        last = verdict_section(prev_date, prev, verdicts, gen, latest)
+    top = head(f"Cette nuit en NBA · {title}", canonical, up,
+               "Le programme NBA de la nuit à l'heure de Paris : chaîne, lieu, direct ou différé. Zéro spoiler.")
+    return (top.replace("{date}", e(title.replace("Nuit du ", "").upper())) + f"""<main>
+  <section class="hero" id="aujourdhui">
+    <p class="kicker fit" data-min="40">{"À voir aujourd'hui" if home else "Cette nuit en NBA"}</p>
     <h1 class="fit" data-min="34">{e(title)}</h1>
     <p class="summary">{e(summary)}</p>
   </section>
   <section class="list" aria-label="Matchs de la nuit">{cards}
   </section>
-  <p class="notes">{' '.join(e(n) for n in notes)}</p>
+  <p class="notes">{' '.join(e(n) for n in notes)}</p>{last}
   <section class="soon">
     <p class="kicker small fit" data-min="26">Bientôt sur pickandwatch.fr</p>
     <ul>
@@ -220,19 +279,12 @@ def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = Non
     </ul>
   </section>
 </main>
-<footer>
-  <p class="sign">Ton programme NBA. Zéro spoiler. Jamais.</p>
-  <p>Suis-nous sur Instagram : <a href="https://www.instagram.com/pickandwatch.fr/">@pickandwatch.fr</a></p>
-  <p class="src">Sources : calendrier NBA via ESPN, diffusions via le guide TV XMLTV France, recoupés automatiquement.
-  Mis à jour le {gen.day} {MOIS[gen.month - 1]} à {gen:%H:%M}.</p>
-</footer>
-{FIT_JS}
-</body>
-</html>
-"""
+""" + foot(gen))
 
 
-def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict | None = None) -> Path:
+def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict | None = None,
+               archive: list[tuple[dict, dict]] | None = None) -> Path:
+    """archive : toutes les nuits dont les verdicts sont validés, (nuit, verdicts), par date."""
     site = root / "site"
     (site / "nuits").mkdir(parents=True, exist_ok=True)
     (site / "assets").mkdir(parents=True, exist_ok=True)
@@ -243,8 +295,17 @@ def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict
         dest = site / "posts" / img.parent.name
         dest.mkdir(parents=True, exist_ok=True)
         shutil.copy2(img, dest / img.name)
+    gen = datetime.fromisoformat(night["generated_at"])
+    latest = None
+    for n, v in archive or []:
+        (site / "verdicts").mkdir(parents=True, exist_ok=True)
+        (site / "verdicts" / f"{n['night']}.html").write_text(verdict_page(n, v, gen), encoding="utf-8")
+        if n["night"] < night["night"]:
+            latest = max(latest or n["night"], n["night"])
     d = night["night"]
     (site / "nuits" / f"{d}.html").write_text(
         page(night, canonical=f"https://pickandwatch.fr/nuits/{d}.html", depth=1), encoding="utf-8")
-    (site / "index.html").write_text(page(night, canonical="https://pickandwatch.fr/", prev=prev, verdicts=verdicts), encoding="utf-8")
+    (site / "index.html").write_text(
+        page(night, canonical="https://pickandwatch.fr/", prev=prev, verdicts=verdicts,
+             latest=latest, home=True), encoding="utf-8")
     return site

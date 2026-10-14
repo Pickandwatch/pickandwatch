@@ -4,6 +4,7 @@ name: Programme de la nuit
 # Les heures « cron » sont en UTC : 13:17 UTC = 15:17 à Paris l'été (14:17 l'hiver).
 on:
   schedule:
+    - cron: "7 4 * * *"    # 6h07 à Paris l'été : bascule « À voir aujourd'hui » sur la nouvelle journée
     - cron: "17 13 * * *"
     - cron: "47 19 * * *"
   workflow_dispatch:
