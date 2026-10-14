@@ -145,6 +145,11 @@
       "note": 6,
       "detail": "4e Ouest (2) + demi-finale de conférence, éliminés par OKC après un 1er tour gagné contre Houston (1) + Luka Dončić, superstar (3)",
       "source": "ESPN standings 2025-26 ; abc7.com (Thunder-Lakers, demi-finale 2026) ; effectifs ESPN au 13/10/2026 ; note du 8 octobre (data/editorial/2026-10-08.json)"
+    },
+    "NO": {
+      "note": 1,
+      "detail": "11e Ouest (0) + pas de playoffs (0) + bons joueurs : Zion Williamson, Trey Murphy III (1)",
+      "source": "en.wikipedia.org/wiki/2025–26_New_Orleans_Pelicans_season ; effectifs ESPN au 14/10/2026"
     }
   }
 }

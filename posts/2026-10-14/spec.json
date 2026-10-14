@@ -1,0 +1,65 @@
+{
+ "cover": {
+  "date": "MERCREDI 14 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["SPURS", "SUNS"],
+  "top_info": "02:00 · SAN ANTONIO · DIRECT beIN MAX 4 · DIFFÉRÉ JEU. 11:00",
+  "other_size": 60,
+  "others": [
+   ["HEAT – NETS", "01:30", "★★"],
+   ["CELTICS – HORNETS", "01:30", "★★"],
+   ["WOLVES – PISTONS", "02:00", "★★"],
+   ["MAVERICKS – PELICANS", "02:00", "★"],
+   ["BUCKS – BULLS", "02:00", "★"],
+   ["CLIPPERS – NUGGETS", "04:30", "★★"]
+  ],
+  "note": "LES AUTRES MATCHS : NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs", "home_city": "SAN ANTONIO", "home_bg": "#000000", "home_sec": "#C4CED4",
+   "away": "Suns", "away_city": "PHOENIX", "away_c1": "#1D1160", "away_c2": "#E56020",
+   "counter": "NUIT DU 14 AU 15 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "02:00", "channel": "beIN SPORTS", "mode": "DIRECT + DIFFÉRÉ JEU. 11:00",
+   "brief": "Deuxième duel de présaison en quatre jours entre les Spurs, finalistes 2026, et Phoenix. Victor Wembanyama, ménagé lundi à Utah, doit rejouer. Devin Booker, absent samedi à Phoenix, est incertain.",
+   "chips": ["V. Wembanyama", "D. Harper", "D. Booker"],
+   "foot": "Direct : MAX 4<br>Différé : beIN 1"
+  },
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat", "home_city": "MIAMI", "home_bg": "#98002E", "home_sec": "#F9A01B",
+   "away": "Nets", "away_city": "BROOKLYN", "away_c1": "#000000", "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 14 AU 15 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30", "channel": "League Pass*", "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Le Heat de Giannis Antetokounmpo et Bam Adebayo, au repos samedi contre Minnesota, reçoit les Nets de Michael Porter Jr., avec le Français Nolan Traoré.",
+   "chips": ["G. Antetokounmpo", "B. Adebayo", "N. Traoré"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "BOSTON · TD GARDEN",
+   "home": "Celtics", "home_city": "BOSTON", "home_bg": "#007A33", "home_sec": "#BA9653",
+   "away": "Hornets", "away_city": "CHARLOTTE", "away_c1": "#1D1160", "away_c2": "#00788C",
+   "counter": "NUIT DU 14 AU 15 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30", "channel": "League Pass*", "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Jayson Tatum, revenu de sa rupture du tendon d'Achille, et Paul George, recrue de l'été, reçoivent les Hornets de Brandon Miller, avec les Français Moussa Diabaté et Tidjane Salaün.",
+   "chips": ["J. Tatum", "P. George", "M. Diabaté", "T. Salaün"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "MINNEAPOLIS · TARGET CENTER",
+   "home": "Timberwolves", "home_city": "MINNESOTA", "home_bg": "#0C2340", "home_sec": "#78BE20",
+   "away": "Pistons", "away_city": "DETROIT", "away_c1": "#C8102E", "away_c2": "#1D42BA",
+   "counter": "NUIT DU 14 AU 15 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00", "channel": "League Pass*", "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les Pistons de Cade Cunningham, meilleur bilan de l'Est la saison dernière, chez les Wolves d'Anthony Edwards et LaMelo Ball, avec les Français Rudy Gobert et Joan Beringer. Donte DiVincenzo (tendon d'Achille) est absent.",
+   "chips": ["C. Cunningham", "A. Edwards", "R. Gobert", "J. Beringer"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
