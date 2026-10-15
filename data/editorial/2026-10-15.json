@@ -1,0 +1,16 @@
+{
+  "_statut": "publié sans réponse (règle de 19h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "matchs": {
+    "401908622": {
+      "stars": 3,
+      "score": "3 + 7 = 10 ; seul match de la nuit diffusé à la télé française (direct beIN SPORTS MAX 6), retenu comme ★★★",
+      "brief": "Dernier match de présaison, le premier à Houston après Macao : Kevin Durant et Alperen Şengün reçoivent le Thunder de Shai Gilgeous-Alexander, finaliste de l'Ouest. Chet Holmgren (quadriceps) est incertain."
+    },
+    "401908945": {
+      "stars": 2,
+      "score": "7 + 3 + 2 (événement : les Français Pacôme Dadiet et Mohamed Diawara) = 12, ramené à ★★ (un seul ★★★ par nuit : Rockets – Thunder l'emporte par la diffusion TV française)",
+      "brief": "Deuxième duel en trois jours, au Garden cette fois, pour le dernier match de présaison des champions. Jalen Brunson et Karl-Anthony Towns, au repos mardi à Toronto, pourraient jouer davantage face à Kawhi Leonard et Scottie Barnes. Avec les Français Pacôme Dadiet et Mohamed Diawara."
+    }
+  }
+}
