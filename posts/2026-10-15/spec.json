@@ -1,0 +1,70 @@
+{
+ "cover": {
+  "date": "JEUDI 15 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "ROCKETS",
+   "THUNDER"
+  ],
+  "top_info": "02:30 · HOUSTON · DIRECT beIN SPORTS MAX 6",
+  "other_size": 60,
+  "others": [
+   [
+    "KNICKS – RAPTORS",
+    "01:30",
+    "★★"
+   ]
+  ],
+  "note": "KNICKS – RAPTORS : NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "HOUSTON · TOYOTA CENTER",
+   "home": "Rockets",
+   "home_city": "HOUSTON",
+   "home_bg": "#CE1141",
+   "home_sec": "#C4CED4",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 15 AU 16 OCT. · 2/4",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "02:30",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR MAX 6",
+   "brief": "Dernier match de présaison, le premier à Houston après Macao : Kevin Durant et Alperen Şengün reçoivent le Thunder de Shai Gilgeous-Alexander, finaliste de l'Ouest. Chet Holmgren (quadriceps) est incertain.",
+   "chips": [
+    "K. Durant",
+    "A. Şengün",
+    "S. Gilgeous-Alexander"
+   ],
+   "foot": "Direct : MAX 6<br>Différé : non repéré"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Raptors",
+   "away_city": "TORONTO",
+   "away_c1": "#CE1141",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 15 AU 16 OCT. · 3/4",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième duel en trois jours, au Garden cette fois. Brunson et Towns, au repos mardi à Toronto, pourraient jouer davantage face à Kawhi Leonard. Avec les Français Pacôme Dadiet et Mohamed Diawara.",
+   "chips": [
+    "J. Brunson",
+    "K. Leonard",
+    "P. Dadiet",
+    "M. Diawara"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
