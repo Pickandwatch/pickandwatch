@@ -1,6 +1,6 @@
 {
   "night": "2026-10-15",
-  "generated_at": "2026-10-15T15:57+02:00",
+  "generated_at": "2026-10-15T18:51+02:00",
   "games": [
     {
       "id": "401908945",
@@ -32,8 +32,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Deuxième duel en trois jours, au Garden cette fois, pour le dernier match de présaison des champions. Jalen Brunson et Karl-Anthony Towns, au repos mardi à Toronto, pourraient jouer davantage face à Kawhi Leonard et Scottie Barnes. Avec les Français Pacôme Dadiet et Mohamed Diawara.",
       "commentators": null
     },
     {
@@ -69,8 +69,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Dernier match de présaison, le premier à Houston après Macao : Kevin Durant et Alperen Şengün reçoivent le Thunder de Shai Gilgeous-Alexander, finaliste de l'Ouest. Chet Holmgren (quadriceps) est incertain.",
       "commentators": null
     }
   ],
