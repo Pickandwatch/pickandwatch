@@ -1,0 +1,84 @@
+{
+  "night": "2026-10-15",
+  "generated_at": "2026-10-15T06:32+02:00",
+  "games": [
+    {
+      "id": "401908945",
+      "tip_paris": "2026-10-16T01:30:00+02:00",
+      "home": {
+        "abbr": "NY",
+        "name": "Knicks",
+        "location": "New York",
+        "full": "New York Knicks",
+        "color": "#1d428a",
+        "color2": "#f58426"
+      },
+      "away": {
+        "abbr": "TOR",
+        "name": "Raptors",
+        "location": "Toronto",
+        "full": "Toronto Raptors",
+        "color": "#d91244",
+        "color2": "#000000"
+      },
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401908622",
+      "tip_paris": "2026-10-16T02:30:00+02:00",
+      "home": {
+        "abbr": "HOU",
+        "name": "Rockets",
+        "location": "Houston",
+        "full": "Houston Rockets",
+        "color": "#ce0e2d",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "OKC",
+        "name": "Thunder",
+        "location": "Oklahoma City",
+        "full": "Oklahoma City Thunder",
+        "color": "#007ac1",
+        "color2": "#ef3b24"
+      },
+      "venue": "Toyota Center (Houston)",
+      "city": "Houston",
+      "neutral": false,
+      "phase": "preseason",
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS MAX 6",
+          "start": "2026-10-16T02:30:00+02:00"
+        },
+        "replays": [],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Knicks – Raptors : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  }
+}
