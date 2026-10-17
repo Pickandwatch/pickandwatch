@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: instagram
@@ -33,9 +34,22 @@ jobs:
           MODE: ${{ inputs.mode || 'publish-due' }}
         run: python -m pipeline.instagram "$MODE"
       - name: Enregistrer le statut des posts
+        if: always()
         run: |
           git config user.name "Pick & Watch (robot)"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add posts 2>/dev/null || true
           if git diff --cached --quiet; then echo "Rien à enregistrer."; else
-            git commit -m "Instagram : post publié" && git pull --rebase && git push; fi
+            git commit -m "Instagram : statut des posts mis à jour" && git pull --rebase && git push; fi
+      - name: Alerter en cas d'échec
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          f="$RUNNER_TEMP/pw-echecs.txt"
+          [ -s "$f" ] || exit 0
+          body="$(cat "$f")
+
+          Passage : ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          Le post est en statut « echec » : plus aucun essai. Pour le relancer, corriger puis remettre « propose » (moins de 3 h après l'heure prévue)."
+          gh issue create --title "Post P&W non publié ($(date -u +%d/%m))" --body "$body"

@@ -53,6 +53,8 @@ def call(method: str, path: str, **params) -> dict:
         body = e.read().decode(errors="replace")
         # On n'affiche jamais la clé : seule la réponse de Meta est montrée.
         raise SystemExit(f"Erreur Meta {e.code} sur {path} : {body}")
+    except urllib.error.URLError as e:
+        raise SystemExit(f"Erreur réseau sur {path} : {e.reason}")
 
 
 def check() -> None:
@@ -92,36 +94,78 @@ def publish_carousel(image_urls: list[str], caption: str) -> str:
     return res["id"]
 
 
+MAX_TENTATIVES = 3            # au-delà, le post passe en « echec »
+TROP_TARD = 3 * 3600          # un post jamais parti 3 h après l'heure prévue n'est plus publié
+ECHECS = Path(os.environ.get("RUNNER_TEMP", "/tmp")) / "pw-echecs.txt"
+
+
+def save(f: Path, post: dict) -> None:
+    f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def fail(f: Path, post: dict, msg: str, definitif: bool) -> str:
+    """Note l'échec dans post.json. Passe en « echec » si l'erreur est définitive ou répétée."""
+    post["tentatives"] = post.get("tentatives", 0) + 1
+    post["erreur"] = msg[:500]
+    post["erreur_le"] = datetime.now(PARIS).isoformat(timespec="minutes")
+    if definitif or post["tentatives"] >= MAX_TENTATIVES:
+        post["statut"] = "echec"
+    save(f, post)
+    return f"{f.parent.name} ({post['statut']}, tentative {post['tentatives']}) : {msg[:300]}"
+
+
 def publish_due() -> list[Path]:
-    """Publie les posts dont l'heure est passée et qui ne sont ni annulés ni déjà publiés.
+    """Publie les posts dont l'heure est passée et qui ne sont ni annulés, ni publiés, ni en échec.
 
     Règle validée par Alexandre : sans réponse, la version proposée part à l'heure prévue,
-    sauf si statut « annule ». Les garde-fous (score, images) peuvent toujours bloquer.
+    sauf si statut « annule ». Les garde-fous (score, longueur, images) peuvent toujours bloquer.
+    Un post en échec ne bloque jamais les suivants. Erreur passagère : nouvel essai au passage suivant
+    (3 au plus). Abandon (« echec ») : listé dans ECHECS, le workflow ouvre une issue GitHub.
     """
-    now = datetime.now(PARIS)
-    done = []
+    done, echecs = [], []
     for f in sorted((ROOT / "posts").glob("*/post.json")):
         post = json.loads(f.read_text(encoding="utf-8"))
-        if post.get("statut") in ("annule", "publie"):
+        if post.get("statut") in ("annule", "publie", "echec"):
             continue
         due = datetime.fromisoformat(post["publier_a"])
         wait = (due - datetime.now(PARIS)).total_seconds()
         if wait > EARLY_WAIT:
             continue
+        if -wait > TROP_TARD:
+            echecs.append(fail(f, post, f"jamais parti : plus de {TROP_TARD // 3600} h après l'heure prévue, "
+                                        "publication abandonnée (les matchs ont commencé)", True))
+            continue
         if wait > 0:  # les crons GitHub partent souvent en retard : on attend l'heure exacte
             print(f"{f.parent.name} : attente de {int(wait)} s jusqu'à {due:%H:%M}")
             time.sleep(wait)
-        now = datetime.now(PARIS)
-        urls = [f"{SITE}/posts/{f.parent.name}/{name}" for name in post["images"]]
-        for u in urls:  # les images doivent déjà être en ligne
-            with urllib.request.urlopen(urllib.request.Request(u, method="HEAD"), timeout=30) as r:
-                if r.status != 200:
+        try:
+            urls = [f"{SITE}/posts/{f.parent.name}/{name}" for name in post["images"]]
+            for u in urls:  # les images doivent déjà être en ligne
+                try:
+                    with urllib.request.urlopen(urllib.request.Request(u, method="HEAD"), timeout=30) as r:
+                        ok = r.status == 200
+                except urllib.error.URLError:
+                    ok = False
+                if not ok:
                     raise SystemExit(f"Image non disponible : {u}")
-        media_id = publish_carousel(urls, post["legende"])
-        post.update(statut="publie", publie_le=now.isoformat(timespec="minutes"), media_id=media_id)
-        f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            media_id = publish_carousel(urls, post["legende"])
+        except SystemExit as e:
+            msg = str(e)
+            definitif = msg.startswith("Garde-fou") or '"is_transient":false' in msg
+            line = fail(f, post, msg, definitif)
+            print(f"ÉCHEC {line}")
+            if post["statut"] == "echec":  # alerte seulement quand on abandonne ; sinon nouvel essai au passage suivant
+                echecs.append(line)
+            continue
+        post.update(statut="publie", publie_le=datetime.now(PARIS).isoformat(timespec="minutes"), media_id=media_id)
+        for k in ("erreur", "erreur_le"):
+            post.pop(k, None)
+        save(f, post)
         print(f"Publié : {f.parent.name} (média {media_id})")
         done.append(f)
+    if echecs:
+        ECHECS.write_text("\n".join(echecs) + "\n", encoding="utf-8")
+        raise SystemExit("Échec de publication :\n" + "\n".join(echecs))
     if not done:
         print("Rien à publier.")
     return done

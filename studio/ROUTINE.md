@@ -101,7 +101,17 @@ le carrousel de la veille (« demain à 12h10 en direct sur … »), avec son he
 Si le post de D est encore `propose` : copier `posts/<D>/editorial.json` vers
 `data/editorial/<D>.json` avec `"_statut": "publié sans réponse (règle de 19h)"`, push,
 relancer le site (le site et le post doivent dire la même chose). Si `annule` : ne rien faire.
-Après 19h05, vérifier le dernier passage de `instagram.yml` et le `media_id` dans `post.json`.
-Si rien n'est parti à 19h15, lancer `instagram.yml` en mode `publish-due`
-(`gh api -X POST …/workflows/instagram.yml/dispatches -f ref=main -f inputs[mode]=publish-due`)
-et prévenir Alexandre en cas d'échec.
+Après 19h05, vérifier le statut dans `posts/<D>/post.json` (après `git pull`) :
+- `publie` avec un `media_id` : rien à faire.
+- `propose` avec un champ `erreur` : erreur passagère, le robot réessaie au passage suivant
+  (3 essais au plus) ; revérifier vers 19h40.
+- `echec` : le robot a abandonné et a ouvert une issue GitHub « Post P&W non publié ».
+  **Prévenir Alexandre tout de suite** (notification « Post P&W non publié », avec l'erreur).
+  Si la cause se corrige (légende trop longue, image manquante) et qu'il est moins de 22h :
+  corriger, remettre `"statut": "propose"`, retirer `tentatives` et `erreur`, push, puis lancer
+  `instagram.yml` en mode `publish-due`
+  (`gh api -X POST …/workflows/instagram.yml/dispatches -f ref=main -f inputs[mode]=publish-due`).
+- Toujours `propose` sans `erreur` à 19h15 : lancer `instagram.yml` en mode `publish-due`.
+
+Le robot n'essaie plus un post resté sans publication 3 h après l'heure prévue (statut `echec`)
+et un post en échec ne bloque plus ceux des jours suivants.
