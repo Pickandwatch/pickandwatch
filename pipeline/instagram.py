@@ -98,6 +98,12 @@ def verify() -> None:
         if not 1 <= len(post.get("images", [])) <= 10:
             pb.append(f"{len(post.get('images', []))} image(s) (Instagram : 1 à 10)")
         pb += [f"image absente : {n}" for n in post.get("images", []) if not (f.parent / n).exists()]
+        try:  # heure d'été / d'hiver : le décalage de publier_a doit être celui de Paris à cette date
+            due = datetime.fromisoformat(post["publier_a"])
+            if due.utcoffset() != due.astimezone(PARIS).utcoffset():
+                pb.append(f"publier_a {post['publier_a']} : décalage attendu {due.astimezone(PARIS):%z} à Paris")
+        except (KeyError, TypeError, ValueError):
+            pb.append("publier_a absent ou illisible")
         print(f"{f.parent.name} : " + ("OK" if not pb else "PROBLÈME — " + " ; ".join(pb))
               + f" ({len(post.get('legende', ''))} caractères)")
         bad += bool(pb)

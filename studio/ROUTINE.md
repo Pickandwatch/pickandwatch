@@ -101,7 +101,11 @@ le carrousel de la veille (« demain à 12h10 en direct sur … »), avec son he
 ## 3. 18h50 : filet de sécurité
 
 Lancer d'abord `python3 -m pipeline.instagram verify` et corriger tout PROBLÈME signalé
-(sinon Meta refuse le post à 19h). Si le post de D est encore `propose` : copier `posts/<D>/editorial.json` vers
+(sinon Meta refuse le post à 19h), sans attendre de réponse : légende trop longue → resserrer
+les briefs ★★ et ★ jusqu'à environ 2 000 caractères, sans rien ajouter ni changer sur le fond ;
+décalage horaire faux → le corriger ; image absente → la régénérer. Push, puis notification
+« Post P&W corrigé avant 19h » avec ce qui a été coupé. (`verifier-posts.yml` refait ce contrôle
+à chaque push dans `posts/` et ouvre une issue s'il échoue.) Si le post de D est encore `propose` : copier `posts/<D>/editorial.json` vers
 `data/editorial/<D>.json` avec `"_statut": "publié sans réponse (règle de 19h)"`, push,
 relancer le site (le site et le post doivent dire la même chose). Si `annule` : ne rien faire.
 Après 19h05, vérifier le statut dans `posts/<D>/post.json` (après `git pull`) :

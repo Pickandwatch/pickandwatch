@@ -1,0 +1,40 @@
+name: Vérification des posts
+
+# Contrôle chaque post « propose » ou « valide » dès qu'il est poussé (longueur de légende,
+# garde-fou anti-score, images, fuseau horaire), pour que le problème se voie avant 19h et non à 19h.
+on:
+  push:
+    paths:
+      - "posts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    defaults:
+      run:
+        shell: bash -o pipefail {0}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Contrôler les posts à venir
+        run: python -m pipeline.instagram verify | tee "$RUNNER_TEMP/pw-verif.txt"
+      - name: Alerter
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          f="$RUNNER_TEMP/pw-verif.txt"
+          [ -s "$f" ] || exit 0
+          body="$(cat "$f")
+
+          Passage : ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          En l'état, ce post ne partira pas à l'heure prévue. Corriger post.json puis pousser : la vérification se relance seule."
+          gh issue create --title "Post P&W à corriger avant publication ($(date -u +%d/%m))" --body "$body"
