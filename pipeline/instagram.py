@@ -92,7 +92,7 @@ def verify() -> None:
     bad = 0
     for f in sorted((ROOT / "posts").glob("*/post.json")):
         post = json.loads(f.read_text(encoding="utf-8"))
-        if post.get("statut") in ("annule", "publie"):
+        if post.get("statut") in ("annule", "publie", "echec"):
             continue
         pb = caption_problems(post.get("legende", ""))
         if not 1 <= len(post.get("images", [])) <= 10:
