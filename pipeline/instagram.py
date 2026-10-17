@@ -5,6 +5,7 @@ La clé d'accès n'est jamais dans le code : elle vient du secret GitHub IG_ACCE
 Usage :
     python -m pipeline.instagram check          # vérifie la clé, ne publie rien
     python -m pipeline.instagram publish-due    # publie les posts arrivés à échéance
+    python -m pipeline.instagram verify         # contrôle hors ligne des posts en attente (sans clé)
 """
 from __future__ import annotations
 
@@ -75,11 +76,39 @@ def wait_ready(container_id: str, tries: int = 30) -> None:
     raise SystemExit(f"Conteneur {container_id} pas prêt à temps.")
 
 
-def publish_carousel(image_urls: list[str], caption: str) -> str:
+def caption_problems(caption: str) -> list[str]:
+    """Garde-fous de la légende, communs à la vérification et à la publication."""
+    pb = []
     if SCORE_RE.search(caption):
-        raise SystemExit("Garde-fou : la légende semble contenir un score. Publication bloquée.")
+        pb.append("la légende semble contenir un score")
     if len(caption) > CAPTION_MAX:
-        raise SystemExit(f"Garde-fou : légende de {len(caption)} caractères (maximum Instagram : {CAPTION_MAX}).")
+        pb.append(f"légende de {len(caption)} caractères (maximum Instagram : {CAPTION_MAX})")
+    return pb
+
+
+def verify() -> None:
+    """Contrôle, sans clé ni réseau, chaque post encore en attente : à lancer avant de pousser
+    un post.json. Sort en erreur si un post serait refusé à 19h."""
+    bad = 0
+    for f in sorted((ROOT / "posts").glob("*/post.json")):
+        post = json.loads(f.read_text(encoding="utf-8"))
+        if post.get("statut") in ("annule", "publie"):
+            continue
+        pb = caption_problems(post.get("legende", ""))
+        if not 1 <= len(post.get("images", [])) <= 10:
+            pb.append(f"{len(post.get('images', []))} image(s) (Instagram : 1 à 10)")
+        pb += [f"image absente : {n}" for n in post.get("images", []) if not (f.parent / n).exists()]
+        print(f"{f.parent.name} : " + ("OK" if not pb else "PROBLÈME — " + " ; ".join(pb))
+              + f" ({len(post.get('legende', ''))} caractères)")
+        bad += bool(pb)
+    if bad:
+        raise SystemExit(f"{bad} post(s) seraient refusés à la publication.")
+
+
+def publish_carousel(image_urls: list[str], caption: str) -> str:
+    pb = caption_problems(caption)
+    if pb:
+        raise SystemExit("Garde-fou : " + " ; ".join(pb) + ". Publication bloquée.")
     ig = CFG["ig_user_id"]
     children = []
     for u in image_urls:
@@ -173,4 +202,4 @@ def publish_due() -> list[Path]:
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
-    {"check": check, "publish-due": publish_due}[cmd]()
+    {"check": check, "publish-due": publish_due, "verify": verify}[cmd]()

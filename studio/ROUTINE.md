@@ -83,7 +83,9 @@ soir D en France (matchs de D 12h à D+1 12h, heure de Paris).
    `{"publier_a": "<D>T19:00:00+02:00", "statut": "propose", "images": [...], "legende": "..."}`
    (heure d'hiver à partir du 25 octobre : `+01:00`). Garder l'éditorial du site dans
    `posts/<D>/editorial.json` (même format que `data/editorial/`).
-7. Commit et push de `posts/<D>/`, lancer `programme.yml`, vérifier que chaque
+7. Lancer `python3 -m pipeline.instagram verify` (contrôle hors ligne de la légende et des
+   images de chaque post en attente) : il doit répondre OK, sinon corriger avant de pousser.
+   Commit et push de `posts/<D>/`, lancer `programme.yml`, vérifier que chaque
    `https://pickandwatch.fr/posts/<D>/0N.jpg` répond 200.
 8. Envoyer les images et la légende dans la conversation (SendUserFile + texte), puis la
    notification « Post P&W à valider — publication automatique à 19h sans réponse de ta part ».
@@ -98,7 +100,8 @@ le carrousel de la veille (« demain à 12h10 en direct sur … »), avec son he
 
 ## 3. 18h50 : filet de sécurité
 
-Si le post de D est encore `propose` : copier `posts/<D>/editorial.json` vers
+Lancer d'abord `python3 -m pipeline.instagram verify` et corriger tout PROBLÈME signalé
+(sinon Meta refuse le post à 19h). Si le post de D est encore `propose` : copier `posts/<D>/editorial.json` vers
 `data/editorial/<D>.json` avec `"_statut": "publié sans réponse (règle de 19h)"`, push,
 relancer le site (le site et le post doivent dire la même chose). Si `annule` : ne rien faire.
 Après 19h05, vérifier le statut dans `posts/<D>/post.json` (après `git pull`) :
