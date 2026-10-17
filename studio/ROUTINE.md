@@ -68,6 +68,13 @@ soir D en France (matchs de D 12h à D+1 12h, heure de Paris).
    **Un seul ★★★ par nuit** (départager : diffusion TV française, puis événement). Noter le
    calcul dans `"score"` de chaque match. Réutiliser et compléter `data/grille-equipes.json`
    pour que la note d'une équipe reste la même d'un soir à l'autre.
+   **Chaînes** : le robot ne lit que le guide TV de beIN SPORTS. Prime Video diffuse aussi des
+   matchs NBA en France (inclus dans Prime, depuis 2025-26) : vérifier chaque soir le programme
+   NBA de Prime Video France (page Prime Video ou annonce Amazon, recoupée avec agendatv-basket.com)
+   et l'ajouter à la main dans `data/diffuseurs.json` (`"live"`, `"source"`). Ne jamais écrire
+   « pas de chaîne TV française » sans avoir vérifié Prime Video. Un replay n'est annoncé que
+   s'il est confirmé par une source lue (chaîne, horaire ou plateforme) ; le NBA League Pass
+   (y compris via Prime Video Channels) est une option payante, jamais présenté comme « Prime ».
 3. **Briefs** : une à deux phrases d'enjeu par match, sourcées (NBA.com, previews ESPN).
    Les commentateurs ne sont indiqués que s'ils sont annoncés par le diffuseur.
 4. **Carrousel** : écrire `posts/<D>/spec.json` sur le modèle de `posts/2026-10-08/spec.json`

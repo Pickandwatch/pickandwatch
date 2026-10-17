@@ -9,3 +9,8 @@ Une consigne est retirée quand elle est traitée (noter la date dans le commit)
   (heures, chaînes, différés) et les blessures ESPN au post, corrige seulement ce qui a changé
   (garder le ton et le titre « ÇA REPREND ENFIN ! », clé `title` de la couverture), vérifie
   la longueur de la légende, puis envoie la notification habituelle.
+
+- **Diffuseurs (Alexandre, 17/10)** : être vigilant sur les chaînes. Il pense que tous les matchs
+  sont disponibles en replay (VO) sur Amazon : non confirmé à ce jour (aucune source lue ne le dit).
+  Chercher une source Amazon / Prime Video France qui le confirme ; tant que ce n'est pas fait,
+  ne pas l'écrire. Voir la règle « Chaînes » de ROUTINE.md.
