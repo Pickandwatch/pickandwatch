@@ -1,0 +1,99 @@
+{
+ "cover": {
+  "title": "ÇA REPREND ENFIN !",
+  "date": "MARDI 20 OCTOBRE · SAISON 2026-27 · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "SPURS",
+   "THUNDER"
+  ],
+  "top_info": "03:30 · SAN ANTONIO · DIRECT beIN SPORTS 1",
+  "other_size": 60,
+  "others": [
+   [
+    "PISTONS – CELTICS",
+    "21:00",
+    "★★"
+   ],
+   [
+    "KNICKS – 76ERS",
+    "01:00",
+    "★★"
+   ]
+  ],
+  "note": "LES TROIS MATCHS EN DIRECT SUR beIN SPORTS 1<br>COUP D'ENVOI DE LA SAISON À 21:00, HEURE DE PARIS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 20 AU 21 OCT. · 2/5",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "03:30",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Revanche de la finale de l'Ouest pour clore la première soirée : les Spurs de Victor Wembanyama, finalistes 2026, reçoivent le Thunder de Shai Gilgeous-Alexander, double MVP en titre.",
+   "chips": [
+    "V. Wembanyama",
+    "S. Gilgeous-Alexander",
+    "D. Fox"
+   ],
+   "foot": "Direct : beIN 1<br>Différé : non repéré"
+  },
+  {
+   "venue": "DETROIT · LITTLE CAESARS ARENA",
+   "home": "Pistons",
+   "home_city": "DETROIT",
+   "home_bg": "#1D428A",
+   "home_sec": "#C8102E",
+   "away": "Celtics",
+   "away_city": "BOSTON",
+   "away_c1": "#008348",
+   "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 20 AU 21 OCT. · 3/5",
+   "label": "★★ À SURVEILLER",
+   "time": "21:00",
+   "channel": "beIN SPORTS",
+   "mode": "DIRECT + DIFFÉRÉ MER. 09:15",
+   "brief": "Le premier match de la saison, à 21h chez nous : les Pistons de Cade Cunningham, meilleur bilan de l'Est la saison dernière, reçoivent les Celtics de Jayson Tatum et Paul George.",
+   "chips": [
+    "C. Cunningham",
+    "J. Tatum",
+    "P. George"
+   ],
+   "foot": "Direct : beIN 1<br>Différé : beIN 1"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "76ers",
+   "away_city": "PHILADELPHIE",
+   "away_c1": "#1D428A",
+   "away_c2": "#E01234",
+   "counter": "NUIT DU 20 AU 21 OCT. · 4/5",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Les champions hissent leur bannière au Garden, la première depuis 1973. En face, LeBron James et Jaylen Brown jouent leur premier match officiel avec Philadelphie. Côté français : Pacôme Dadiet, Mohamed Diawara et Rayan Rupert.",
+   "chips": [
+    "J. Brunson",
+    "L. James",
+    "J. Brown",
+    "P. Dadiet"
+   ],
+   "foot": "Direct : beIN 1<br>Différé : non repéré"
+  }
+ ]
+}

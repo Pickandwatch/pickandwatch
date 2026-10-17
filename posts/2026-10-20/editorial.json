@@ -1,0 +1,21 @@
+{
+  "_statut": "proposé le 17 octobre 2026 (en attente de validation)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "matchs": {
+    "401909090": {
+      "stars": 3,
+      "score": "8 + 7 + 2 (événement : revanche de la finale de l'Ouest, le Français Victor Wembanyama) = 17 ; meilleure note de la nuit, direct beIN SPORTS 1",
+      "brief": "Revanche de la finale de l'Ouest pour clore la première soirée : les Spurs de Victor Wembanyama, finalistes 2026, reçoivent le Thunder de Shai Gilgeous-Alexander, double MVP en titre."
+    },
+    "401909088": {
+      "stars": 2,
+      "score": "5 + 5 = 10, ramené à ★★ (un seul ★★★ par nuit : Spurs – Thunder, aussi sur beIN SPORTS 1, a la meilleure note)",
+      "brief": "Le premier match de la saison, à 21h chez nous : les Pistons de Cade Cunningham, meilleur bilan de l'Est la saison dernière, reçoivent les Celtics de Jayson Tatum et Paul George."
+    },
+    "401909089": {
+      "stars": 2,
+      "score": "7 + 5 + 2 (événement : bannière des champions, débuts de LeBron James et Jaylen Brown avec Philadelphie, les Français Dadiet, Diawara et Rupert) = 14, ramené à ★★ (un seul ★★★ par nuit : Spurs – Thunder a la meilleure note)",
+      "brief": "Les champions hissent leur bannière au Garden, la première depuis 1973. En face, LeBron James et Jaylen Brown jouent leur premier match officiel avec Philadelphie. Côté français : Pacôme Dadiet, Mohamed Diawara et Rayan Rupert."
+    }
+  }
+}

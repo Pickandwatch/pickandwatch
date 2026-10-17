@@ -14,7 +14,7 @@ FONTS = '<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:w
 HEAD = '''<!doctype html><html lang="fr"><head><meta charset="utf-8"></head><body><x-dc><helmet></helmet>'''
 def cover(c, out):
     bg, ink, head, sub, frame = '#F2EEE6', '#111214', '#F06A2F', '#5C5850', 'rgba(17,18,20,0.18)'
-    b = [rule(head, 6), line('CETTE NUIT EN NBA', color=ink), rule(ink), mono(c['date'], sub), rule(ink),
+    b = [rule(head, 6), line(c.get('title', 'CETTE NUIT EN NBA'), color=ink), rule(ink), mono(c['date'], sub), rule(ink),
          mono(c.get('top_label', "★★★ L'IMMANQUABLE"), head, 26, 6)]
     b += [line(c['top'][0] + ' – ' + c['top'][1], color=head, lh=0.84),
           mono(c['top_info'], sub, 22, 1)]
