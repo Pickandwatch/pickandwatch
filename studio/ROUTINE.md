@@ -77,6 +77,8 @@ soir D en France (matchs de D 12h à D+1 12h, heure de Paris).
    débordement. Regarder chaque image avant d'aller plus loin.
 5. **Légende** : modèle de `posts/2026-10-08/post.json`. Doit passer le garde-fou anti-score
    (`pipeline.instagram.SCORE_RE`) : écrire les heures « 1h30 », jamais « 01:30 – 02:00 ».
+   **2 200 caractères au maximum** (limite Instagram, espaces et sauts de ligne compris) :
+   vérifier `len(legende)` ; au-delà, Meta refuse le post et rien ne part. Viser 2 000.
 6. Écrire `posts/<D>/post.json` :
    `{"publier_a": "<D>T19:00:00+02:00", "statut": "propose", "images": [...], "legende": "..."}`
    (heure d'hiver à partir du 25 octobre : `+01:00`). Garder l'éditorial du site dans

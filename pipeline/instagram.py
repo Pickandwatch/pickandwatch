@@ -28,6 +28,7 @@ EARLY_WAIT = 14 * 60  # un passage peut démarrer jusqu'à 14 min avant l'heure 
 
 # Garde-fou anti-spoiler : un score du type « 112-108 » ou « 112 à 108 » bloque la publication.
 SCORE_RE = re.compile(r"\b1?\d{2}\s?(?:-|–|à|a)\s?1?\d{2}\b")
+CAPTION_MAX = 2200  # limite Instagram (caractères)
 
 
 def token() -> str:
@@ -75,6 +76,8 @@ def wait_ready(container_id: str, tries: int = 30) -> None:
 def publish_carousel(image_urls: list[str], caption: str) -> str:
     if SCORE_RE.search(caption):
         raise SystemExit("Garde-fou : la légende semble contenir un score. Publication bloquée.")
+    if len(caption) > CAPTION_MAX:
+        raise SystemExit(f"Garde-fou : légende de {len(caption)} caractères (maximum Instagram : {CAPTION_MAX}).")
     ig = CFG["ig_user_id"]
     children = []
     for u in image_urls:
