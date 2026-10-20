@@ -1,6 +1,6 @@
 {
   "night": "2026-10-20",
-  "generated_at": "2026-10-20T18:46+02:00",
+  "generated_at": "2026-10-20T22:09+02:00",
   "games": [
     {
       "id": "401909088",
@@ -119,7 +119,9 @@
       "commentators": null
     }
   ],
-  "checks": [],
+  "checks": [
+    "Pistons – Celtics : statut STATUS_HALFTIME (report ou annulation ?)."
+  ],
   "sources": {
     "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
     "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
