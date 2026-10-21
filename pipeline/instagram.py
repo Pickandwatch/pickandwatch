@@ -25,7 +25,7 @@ CFG = json.loads((ROOT / "config" / "instagram.json").read_text(encoding="utf-8"
 API = f"https://graph.facebook.com/{CFG['graph_version']}"
 PARIS = ZoneInfo("Europe/Paris")
 SITE = "https://pickandwatch.fr"
-EARLY_WAIT = 14 * 60  # un passage peut démarrer jusqu'à 14 min avant l'heure et attendre
+EARLY_WAIT = 40 * 60  # les crons GitHub passent parfois toutes les 35 min : un passage peut démarrer jusqu'à 40 min avant l'heure et attendre
 
 # Garde-fou anti-spoiler : un score du type « 112-108 » ou « 112 à 108 » bloque la publication.
 SCORE_RE = re.compile(r"\b1?\d{2}\s?(?:-|–|à|a)\s?1?\d{2}\b")

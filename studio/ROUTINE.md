@@ -152,6 +152,8 @@ décalage horaire faux → le corriger ; image absente → la régénérer. Push
 `data/editorial/<D>.json` avec `"_statut": "publié sans réponse (règle de 19h)"`, push,
 relancer le site (le site et le post doivent dire la même chose). Si `annule` : ne rien faire.
 Si `posts/<D>-story/` manque alors que le carrousel existe, lancer `story_soir.py <D>` et pousser.
+**À 19h00 pile** (attendre si besoin), lancer `instagram.yml` en mode `publish-due` sans attendre le cron, qui peut passer avec 30 min de retard :
+`gh api -X POST repos/Pickandwatch/pickandwatch/actions/workflows/instagram.yml/dispatches -f ref=main -f inputs[mode]=publish-due`.
 Après 19h05, vérifier le statut dans `posts/<D>/post.json` et `posts/<D>-story/post.json` (après `git pull`) :
 - `publie` avec un `media_id` : rien à faire.
 - `propose` avec un champ `erreur` : erreur passagère, le robot réessaie au passage suivant
