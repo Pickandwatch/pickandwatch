@@ -1,0 +1,134 @@
+{
+ "cover": {
+  "title": "22 ÉQUIPES FONT LEUR RENTRÉE",
+  "date": "MERCREDI 21 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "HEAT",
+   "TIMBERWOLVES"
+  ],
+  "top_info": "01:30 · MIAMI · DIRECT beIN SPORTS 1 · DIFFÉRÉ JEU. 09:15",
+  "other_size": 44,
+  "others": [
+   [
+    "RAPTORS – BULLS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "ROCKETS – MAVERICKS",
+    "02:30",
+    "★★"
+   ],
+   [
+    "LAKERS – WARRIORS",
+    "04:00",
+    "★★"
+   ],
+   [
+    "BLAZERS – SUNS",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "★ AUSSI : MAGIC – HAWKS 01:00 · WIZARDS – BUCKS 01:00<br>NETS – HORNETS 01:30 · GRIZZLIES – JAZZ 02:00<br>PELICANS – PACERS 02:00 · CLIPPERS – KINGS 04:30<br>TV : HEAT – WOLVES ET LAKERS – WARRIORS SUR beIN<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat",
+   "home_city": "MIAMI",
+   "home_bg": "#98002E",
+   "home_sec": "#F9A01B",
+   "away": "Timberwolves",
+   "away_city": "MINNEAPOLIS",
+   "away_c1": "#266092",
+   "away_c2": "#79BC43",
+   "counter": "NUIT DU 21 AU 22 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:30",
+   "channel": "beIN SPORTS",
+   "mode": "DIRECT + DIFFÉRÉ JEU. 09:15",
+   "brief": "Premier match officiel de Giannis Antetokounmpo à Miami, avec Bam Adebayo et les recrues Klay Thompson et Bobby Portis. En face, LaMelo Ball débute avec les Wolves d'Anthony Edwards et des Français Rudy Gobert et Joan Beringer.",
+   "chips": [
+    "G. Antetokounmpo",
+    "A. Edwards",
+    "L. Ball",
+    "R. Gobert"
+   ],
+   "foot": "Direct : beIN 1<br>Différé : beIN 1"
+  },
+  {
+   "venue": "LOS ANGELES · CRYPTO.COM ARENA",
+   "home": "Lakers",
+   "home_city": "LOS ANGELES",
+   "home_bg": "#552583",
+   "home_sec": "#FDB927",
+   "away": "Warriors",
+   "away_city": "SAN FRANCISCO",
+   "away_c1": "#1D428A",
+   "away_c2": "#FDB927",
+   "counter": "NUIT DU 21 AU 22 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "04:00",
+   "channel": "beIN SPORTS",
+   "mode": "DIRECT + DIFFÉRÉ JEU. 11:00",
+   "brief": "Luka Dončić et Austin Reaves ouvrent leur saison face à Stephen Curry. Touché à la cheville droite dimanche à l'entraînement, Curry doit jouer selon Steve Kerr. Kristaps Porziņģis et Brandin Podziemski sont absents.",
+   "chips": [
+    "L. Dončić",
+    "S. Curry",
+    "A. Reaves"
+   ],
+   "foot": "Direct : beIN 1<br>Différé : beIN 1"
+  },
+  {
+   "venue": "PORTLAND · MODA CENTER",
+   "home": "Trail Blazers",
+   "home_city": "PORTLAND",
+   "home_bg": "#E03A3E",
+   "home_sec": "#000000",
+   "away": "Suns",
+   "away_city": "PHOENIX",
+   "away_c1": "#29127A",
+   "away_c2": "#E56020",
+   "counter": "NUIT DU 21 AU 22 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "04:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deni Avdija (cheville, incertain), Jrue Holiday, Ja Morant et le Français Sidy Cissoko reçoivent les Suns de Devin Booker et Jalen Green. Shaedon Sharpe (genou) est absent.",
+   "chips": [
+    "D. Avdija",
+    "J. Morant",
+    "D. Booker",
+    "S. Cissoko"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "TORONTO · SCOTIABANK ARENA",
+   "home": "Raptors",
+   "home_city": "TORONTO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Bulls",
+   "away_city": "CHICAGO",
+   "away_c1": "#CE1141",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 21 AU 22 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Premier match officiel de Kawhi Leonard depuis son retour à Toronto, aux côtés de Scottie Barnes. En face, les Bulls de Josh Giddey et du Français Noa Essengue.",
+   "chips": [
+    "K. Leonard",
+    "S. Barnes",
+    "J. Giddey",
+    "N. Essengue"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}

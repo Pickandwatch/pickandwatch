@@ -1,0 +1,62 @@
+{
+  "_statut": "proposé le 21 octobre 2026 (en attente de validation)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary, blessures et effectifs au 21/10/2026, 15h) ; nbcsportsbayarea.com 19/10/2026 (Curry) ; hothothoops.com 21/10/2026 (Heat – Wolves) ; clutchpoints.com 11/08/2026 (débuts de LaMelo Ball) ; advanced-television.com 14/08/2026 (Prime Video : premier match le 23/10, rien ce soir)",
+  "matchs": {
+    "401909091": {
+      "stars": 3,
+      "score": "3 + 5 + 2 (événement : premier match officiel de Giannis Antetokounmpo avec Miami, débuts de LaMelo Ball avec Minnesota, les Français Rudy Gobert et Joan Beringer) = 10 ; meilleure note de la nuit, direct beIN SPORTS 1 et différé jeudi 9h15",
+      "brief": "Premier match officiel de Giannis Antetokounmpo à Miami, avec Bam Adebayo et les recrues Klay Thompson et Bobby Portis. En face, LaMelo Ball débute avec les Wolves d'Anthony Edwards et des Français Rudy Gobert et Joan Beringer."
+    },
+    "401909092": {
+      "stars": 2,
+      "score": "6 + 3 = 9, ramené à ★★ (un seul ★★★ par nuit : Heat – Timberwolves, aussi sur beIN SPORTS 1, a la meilleure note)",
+      "brief": "Luka Dončić et Austin Reaves ouvrent leur saison face à Stephen Curry. Touché à la cheville droite dimanche à l'entraînement, Curry doit jouer selon Steve Kerr. Kristaps Porziņģis et Brandin Podziemski sont absents."
+    },
+    "401909841": {
+      "stars": 2,
+      "score": "3 + 3 + 2 (événement : le Français Sidy Cissoko) = 8",
+      "brief": "Deni Avdija (cheville, incertain), Jrue Holiday, Ja Morant et le Français Sidy Cissoko reçoivent les Suns de Devin Booker et Jalen Green. Shaedon Sharpe (genou) est absent."
+    },
+    "401909837": {
+      "stars": 2,
+      "score": "3 + 1 + 2 (événement : premier match officiel de Kawhi Leonard depuis son retour à Toronto, le Français Noa Essengue) = 6 ; slide retenue devant Rockets – Mavericks (même note) pour le retour de Leonard",
+      "brief": "Premier match officiel de Kawhi Leonard depuis son retour à Toronto, aux côtés de Scottie Barnes. En face, les Bulls de Josh Giddey et du Français Noa Essengue."
+    },
+    "401909840": {
+      "stars": 2,
+      "score": "3 + 1 + 2 (événement : le Français Zaccharie Risacher) = 6 (pas de slide : au plus 4 slides)",
+      "brief": "Kevin Durant et Alperen Şengün reçoivent Cooper Flagg, rookie de l'année, Kyrie Irving et le Français Zaccharie Risacher. Dereck Lively II (pied) est absent."
+    },
+    "401909834": {
+      "stars": 1,
+      "score": "2 + 3 = 5 (le Français Noah Penda, blessé, absent : pas d'événement)",
+      "brief": "Paolo Banchero, Franz Wagner et Desmond Bane reçoivent les Hawks de Jalen Johnson. Le Français Noah Penda (ischio-jambiers) est absent."
+    },
+    "401909835": {
+      "stars": 1,
+      "score": "2 + 1 + 2 (événement : les Français Bilal Coulibaly, Alex Sarr et Ousmane Dieng) = 5",
+      "brief": "Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr reçoivent les Bucks du Français Ousmane Dieng. AJ Dybantsa, n°1 de la draft, est absent (cheville)."
+    },
+    "401909836": {
+      "stars": 1,
+      "score": "1 + 1 + 2 (événement : les Français Nolan Traoré, Moussa Diabaté et Tidjane Salaün) = 4",
+      "brief": "Le Français Nolan Traoré et les Nets reçoivent les Hornets de Brandon Miller et des Français Moussa Diabaté et Tidjane Salaün. Kon Knueppel est absent."
+    },
+    "401909838": {
+      "stars": 1,
+      "score": "1 + 1 = 2",
+      "brief": "Les Grizzlies de Zach Edey reçoivent le Jazz de Jaren Jackson Jr., Lauri Markkanen et du rookie Darryn Peterson."
+    },
+    "401909839": {
+      "stars": 1,
+      "score": "1 + 2 = 3",
+      "brief": "Zion Williamson et Trey Murphy III reçoivent les Pacers de Pascal Siakam et Tyrese Haliburton."
+    },
+    "401909842": {
+      "stars": 1,
+      "score": "1 + 1 = 2 (le Français Maxime Raynaud, blessé, absent : pas d'événement)",
+      "brief": "Les Clippers de Darius Garland, sans Bradley Beal ni Brandon Ingram, reçoivent les Kings de Domantas Sabonis et Zach LaVine. Le Français Maxime Raynaud (genou) est absent."
+    }
+  }
+}
