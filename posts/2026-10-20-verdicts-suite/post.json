@@ -3,9 +3,14 @@
   "nuit": "2026-10-20",
   "_note": "complément du 21/10 : carte du match « résumé » ajoutée à la demande d'Alexandre",
   "publier_a": "2026-10-21T09:42:00+02:00",
-  "statut": "propose",
+  "statut": "publie",
   "images": [
     "01.jpg"
   ],
-  "legende": ""
+  "legende": "",
+  "stories_publiees": [
+    "17917208322464675"
+  ],
+  "publie_le": "2026-10-21T09:42+02:00",
+  "media_id": "17917208322464675"
 }
