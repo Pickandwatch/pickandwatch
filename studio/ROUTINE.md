@@ -116,16 +116,26 @@ seulement que le site l'affiche.
    `{"publier_a": "<D>T19:00:00+02:00", "statut": "propose", "images": [...], "legende": "..."}`
    (heure d'hiver à partir du 25 octobre : `+01:00`). Garder l'éditorial du site dans
    `posts/<D>/editorial.json` (même format que `data/editorial/`).
-7. Lancer `python3 -m pipeline.instagram verify` (contrôle hors ligne de la légende et des
+7. **Story du soir** (demandée par Alexandre le 21 octobre 2026) : lancer
+   `python3 studio/story_soir.py <D>`. Il reprend les images du carrousel, chacune centrée sur un
+   fond 1080x1920 de sa couleur, dans `posts/<D>-story/` (`post.json` : `"type": "story"`,
+   `"suit": "<D>"`, même heure, même statut). Mêmes règles que le carrousel : publication
+   automatique à 19h sans réponse ; le robot annule la story si le carrousel est `annule`.
+   Relancer le script après toute correction d'image du carrousel. Pas de sticker lien (API).
+8. Lancer `python3 -m pipeline.instagram verify` (contrôle hors ligne de la légende et des
    images de chaque post en attente) : il doit répondre OK, sinon corriger avant de pousser.
-   Commit et push de `posts/<D>/`, lancer `programme.yml`, vérifier que chaque
-   `https://pickandwatch.fr/posts/<D>/0N.jpg` répond 200.
-8. Envoyer les images et la légende dans la conversation (SendUserFile + texte), puis la
+   Commit et push de `posts/<D>/` et `posts/<D>-story/`, lancer `programme.yml`, vérifier que chaque
+   `https://pickandwatch.fr/posts/<D>/0N.jpg` et `…/posts/<D>-story/0N.jpg` répond 200.
+9. Envoyer les images et la légende dans la conversation (SendUserFile + texte, en précisant
+   que les mêmes visuels partent aussi en story à 19h), puis la
    notification « Post P&W à valider — publication automatique à 19h sans réponse de ta part ».
 
-**Si Alexandre répond** : « ok » → `"statut": "valide"` et copier `posts/<D>/editorial.json`
+**Si Alexandre répond** (chaque réponse vaut pour le carrousel ET la story) : « ok » →
+`"statut": "valide"` dans les deux `post.json`, et copier `posts/<D>/editorial.json`
 vers `data/editorial/<D>.json` (`"_statut": "validé le …"`), push, relancer le site.
-Une correction → refaire l'image ou la légende, push. « Annule » → `"statut": "annule"`, push.
+Une correction → refaire l'image ou la légende, relancer `story_soir.py <D>`, push. « Annule » →
+`"statut": "annule"` dans les deux `post.json`, push. Il peut aussi ne viser que l'un des deux
+(« pas de story ce soir ») : n'appliquer qu'à celui-là.
 
 **Matchs en journée** (Macao, Europe, matinées du week-end) : un match qui commence avant
 19h le lendemain est déjà joué quand le carrousel de sa nuit est publié. Annonce-le donc dans
@@ -141,7 +151,8 @@ décalage horaire faux → le corriger ; image absente → la régénérer. Push
 à chaque push dans `posts/` et ouvre une issue s'il échoue.) Si le post de D est encore `propose` : copier `posts/<D>/editorial.json` vers
 `data/editorial/<D>.json` avec `"_statut": "publié sans réponse (règle de 19h)"`, push,
 relancer le site (le site et le post doivent dire la même chose). Si `annule` : ne rien faire.
-Après 19h05, vérifier le statut dans `posts/<D>/post.json` (après `git pull`) :
+Si `posts/<D>-story/` manque alors que le carrousel existe, lancer `story_soir.py <D>` et pousser.
+Après 19h05, vérifier le statut dans `posts/<D>/post.json` et `posts/<D>-story/post.json` (après `git pull`) :
 - `publie` avec un `media_id` : rien à faire.
 - `propose` avec un champ `erreur` : erreur passagère, le robot réessaie au passage suivant
   (3 essais au plus) ; revérifier vers 19h40.

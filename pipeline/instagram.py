@@ -148,6 +148,14 @@ TROP_TARD = 3 * 3600          # un post jamais parti 3 h après l'heure prévue 
 ECHECS = Path(os.environ.get("RUNNER_TEMP", "/tmp")) / "pw-echecs.txt"
 
 
+def suit_annule(post: dict) -> bool:
+    """Une story du soir (« suit » = nuit du carrousel) suit l'annulation de son carrousel."""
+    parent = ROOT / "posts" / str(post.get("suit", "")) / "post.json"
+    if not post.get("suit") or not parent.exists():
+        return False
+    return json.loads(parent.read_text(encoding="utf-8")).get("statut") == "annule"
+
+
 def save(f: Path, post: dict) -> None:
     f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
@@ -175,6 +183,11 @@ def publish_due() -> list[Path]:
     for f in sorted((ROOT / "posts").glob("*/post.json")):
         post = json.loads(f.read_text(encoding="utf-8"))
         if post.get("statut") in ("annule", "publie", "echec"):
+            continue
+        if suit_annule(post):  # story du soir : annulée avec son carrousel
+            post["statut"] = "annule"
+            save(f, post)
+            print(f"{f.parent.name} : carrousel {post['suit']} annulé, story annulée aussi")
             continue
         due = datetime.fromisoformat(post["publier_a"])
         wait = (due - datetime.now(PARIS)).total_seconds()
