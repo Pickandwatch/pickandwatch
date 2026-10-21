@@ -66,7 +66,9 @@ seulement que le site l'affiche.
    8h est passé). Regarder chaque image ; le script signale tout débordement et bloque tout score.
    Pousser avec les verdicts, relancer le site, vérifier que `https://pickandwatch.fr/posts/<D-1>-verdicts/01.jpg`
    répond 200. Le robot `instagram.yml` publie les stories à l'heure (une par image, dans l'ordre ;
-   un nouvel essai reprend après la dernière story partie). Pas de sticker lien : l'API ne le permet
+   un nouvel essai reprend après la dernière story partie). Les passages programmés de GitHub
+   partent souvent en retard ou sautent : entre 7h47 et 7h59, lancer aussi `instagram.yml` en mode
+   `publish-due` (il attend 8h pile) ; si la story est en retard sur 8h, le lancer tout de suite. Pas de sticker lien : l'API ne le permet
    pas, la carte renvoie vers pickandwatch.fr et le lien en bio. Après 8h05, vérifier `"statut": "publie"`
    (après `git pull`) ; sinon appliquer les règles d'échec de la section 3.
    Si Alexandre corrige un verdict avant 8h : relancer `story.py`, push. Après publication, une story
