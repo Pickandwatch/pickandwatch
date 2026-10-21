@@ -59,8 +59,21 @@ seulement que le site l'affiche.
    `gh api -X POST repos/Pickandwatch/pickandwatch/actions/workflows/programme.yml/dispatches -f ref=main`
    (ou l'outil GitHub `actions_run_trigger`, méthode `run_workflow`). Vérifier que la rubrique
    « Verdicts d'hier » de https://pickandwatch.fr/ affiche bien les verdicts.
-5. Présenter les verdicts dans la conversation et envoyer la notification « Verdicts P&W publiés »
-   (une ligne par match). Si Alexandre corrige : modifier le fichier, push, relancer le site.
+5. **Story Instagram de 8h** (validée par Alexandre le 21 octobre 2026 : publication automatique,
+   sans validation). Avant le push de l'étape 4, lancer `python3 studio/story.py <D-1>` : il écrit
+   `posts/<D-1>-verdicts/` (01.jpg = récapitulatif de la nuit, puis une carte par match « replay »,
+   3 au plus, 1080x1920) et `post.json` (`"type": "story"`, `publier_a` = D à 8h, ou dans 15 min si
+   8h est passé). Regarder chaque image ; le script signale tout débordement et bloque tout score.
+   Pousser avec les verdicts, relancer le site, vérifier que `https://pickandwatch.fr/posts/<D-1>-verdicts/01.jpg`
+   répond 200. Le robot `instagram.yml` publie les stories à l'heure (une par image, dans l'ordre ;
+   un nouvel essai reprend après la dernière story partie). Pas de sticker lien : l'API ne le permet
+   pas, la carte renvoie vers pickandwatch.fr et le lien en bio. Après 8h05, vérifier `"statut": "publie"`
+   (après `git pull`) ; sinon appliquer les règles d'échec de la section 3.
+   Si Alexandre corrige un verdict avant 8h : relancer `story.py`, push. Après publication, une story
+   ne se modifie pas : seul le site est corrigé.
+6. Présenter les verdicts dans la conversation et envoyer la notification « Verdicts P&W publiés »
+   (une ligne par match, et la story : programmée ou publiée). Si Alexandre corrige : modifier le
+   fichier, push, relancer le site.
 
 ## 2. L'après-midi (15h30) : étoiles, briefs et carrousel de la nuit D
 

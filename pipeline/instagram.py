@@ -129,7 +129,21 @@ def publish_carousel(image_urls: list[str], caption: str) -> str:
     return res["id"]
 
 
-MAX_TENTATIVES = 3            # au-delà, le post passe en « echec »
+def publish_stories(image_urls: list[str], f: Path, post: dict) -> str:
+    """Publie chaque image en story, dans l'ordre. Les stories déjà parties sont notées dans
+    post.json (« stories_publiees ») : un nouvel essai reprend là où le précédent s'est arrêté."""
+    ig = CFG["ig_user_id"]
+    done = post.setdefault("stories_publiees", [])
+    for u in image_urls[len(done):]:
+        c = call("POST", f"{ig}/media", image_url=u, media_type="STORIES")
+        wait_ready(c["id"])
+        res = call("POST", f"{ig}/media_publish", creation_id=c["id"])
+        done.append(res["id"])
+        save(f, post)
+    return ",".join(done)
+
+
+MAX_TENTATIVES = 3           # au-delà, le post passe en « echec »
 TROP_TARD = 3 * 3600          # un post jamais parti 3 h après l'heure prévue n'est plus publié
 ECHECS = Path(os.environ.get("RUNNER_TEMP", "/tmp")) / "pw-echecs.txt"
 
@@ -183,7 +197,10 @@ def publish_due() -> list[Path]:
                     ok = False
                 if not ok:
                     raise SystemExit(f"Image non disponible : {u}")
-            media_id = publish_carousel(urls, post["legende"])
+            if post.get("type") == "story":
+                media_id = publish_stories(urls, f, post)
+            else:
+                media_id = publish_carousel(urls, post["legende"])
         except SystemExit as e:
             msg = str(e)
             definitif = msg.startswith("Garde-fou") or '"is_transient":false' in msg
