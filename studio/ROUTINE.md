@@ -71,6 +71,10 @@ seulement que le site l'affiche.
    `publish-due` (il attend 8h pile) ; si la story est en retard sur 8h, le lancer tout de suite. Pas de sticker lien : l'API ne le permet
    pas, la carte renvoie vers pickandwatch.fr et le lien en bio. Après 8h05, vérifier `"statut": "publie"`
    (après `git pull`) ; sinon appliquer les règles d'échec de la section 3.
+   Rediffusions (consigne d'Alexandre du 21/10 : tous les matchs passent sur beIN, rediffusions dès
+   le matin) : le robot relit chaque matin le guide beIN pour la nuit D-1 (`refresh_tv`). Les créneaux
+   « Basket-ball : NBA » sans affiche après les directs sont annoncés comme « rediffusions de matchs
+   de la nuit », sans jamais deviner lequel. Lancer `programme.yml` AVANT `story.py` pour en profiter.
    Si Alexandre corrige un verdict avant 8h : relancer `story.py`, push. Après publication, une story
    ne se modifie pas : seul le site est corrigé.
 6. Présenter les verdicts dans la conversation et envoyer la notification « Verdicts P&W publiés »

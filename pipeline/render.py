@@ -122,7 +122,16 @@ VERDICTS = {
 }
 
 
-def verdict_card(g: dict, v: dict, now: datetime) -> str:
+def rediff_nuit(slots: list[dict], now: datetime) -> str | None:
+    """Rediffusions beIN dont le guide TV ne précise pas l'affiche (voir night.rediffusions_sans_affiche)."""
+    fut = [s for s in slots if datetime.fromisoformat(s["start"]) > now]
+    if not fut:
+        return None
+    lst = ", ".join(f'{e(day_short(s["start"]))} à {hhmm(s["start"])} · {ch(s["channel"])}' for s in fut)
+    return f'Rediffusions de matchs de cette nuit : {lst} <span class="muted">(le guide TV ne précise pas lesquels)</span>'
+
+
+def verdict_card(g: dict, v: dict, now: datetime, slots: list[dict] | None = None) -> str:
     label, cls = VERDICTS[v["verdict"]]
     h, a = g["home"], g["away"]
     where = []
@@ -130,6 +139,9 @@ def verdict_card(g: dict, v: dict, now: datetime) -> str:
         future = [r for r in g["tv"].get("replays", []) if datetime.fromisoformat(r["start"]) > now]
         for r in future[:1]:
             where.append(f'Rediffusion {e(day_short(r["start"]))} à {hhmm(r["start"])} · {ch(r["channel"])}')
+        autres = rediff_nuit(slots or [], now)
+        if autres:
+            where.append(autres)
         where.append("Match complet en replay sur NBA League Pass")
     elif v["verdict"] == "resume":
         where.append('Résumé sur la <a href="https://www.youtube.com/@NBA">chaîne YouTube de la NBA</a> '
@@ -149,7 +161,7 @@ def verdict_cards(night: dict, verdicts: dict, now: datetime) -> str:
     order = {"replay": 0, "resume": 1, "zapper": 2}
     games = sorted((g for g in night["games"] if g["id"] in vs),
                    key=lambda g: (order[vs[g["id"]]["verdict"]], g["tip_paris"]))
-    return "".join(verdict_card(g, vs[g["id"]], now) for g in games)
+    return "".join(verdict_card(g, vs[g["id"]], now, night.get("rediffusions_nuit")) for g in games)
 
 
 def verdict_section(prev_date: date, prev: dict | None, verdicts: dict | None, now: datetime,

@@ -61,6 +61,42 @@ def match_tv(game: dict, progs: list[dict]) -> tuple[dict | None, list[dict]]:
     return live, uniq
 
 
+SANS_AFFICHE = re.compile(r"^\s*basket-ball\s*:\s*nba\s*$", re.I)
+
+
+def rediffusions_sans_affiche(night: dict, progs: list[dict]) -> list[dict]:
+    """Créneaux beIN « Basket-ball : NBA » sans affiche, placés après les directs de la nuit et
+    avant 18h le lendemain : ce sont des rediffusions de matchs de la nuit, sans que le guide dise
+    lequel. On les annonce comme tels, sans jamais deviner le match."""
+    lives = [datetime.fromisoformat(g["tv"]["live"]["start"]) for g in night["games"] if g["tv"].get("live")]
+    if not lives:
+        return []
+    d = date.fromisoformat(night["night"])
+    debut, fin = max(lives) + LIVE_TOLERANCE, datetime.combine(d + timedelta(days=1), time(18, 0), PARIS)
+    deja = {(r["channel"], r["start"]) for g in night["games"] for r in g["tv"].get("replays", [])}
+    out = []
+    for p in progs:
+        if not SANS_AFFICHE.match(p["title"]) or p.get("sub"):
+            continue
+        start = datetime.fromisoformat(p["start"]).astimezone(PARIS)
+        slot = {"channel": p["channel"], "start": start.isoformat()}
+        if debut < start < fin and (slot["channel"], slot["start"]) not in deja and slot not in out:
+            out.append(slot)
+    return sorted(out, key=lambda s: s["start"])
+
+
+def refresh_tv(night: dict, progs: list[dict]) -> dict:
+    """Met à jour les rediffusions d'une nuit déjà passée avec le guide TV du moment
+    (le guide de la veille au soir ne connaît pas toujours les rediffusions du matin)."""
+    for g in night["games"]:
+        _, replays = match_tv({**g, "tip_utc": g["tip_paris"]}, progs)
+        known = {(r["channel"], r["start"]) for r in g["tv"].get("replays", [])}
+        g["tv"]["replays"] = sorted(g["tv"].get("replays", []) + [r for r in replays if (r["channel"], r["start"]) not in known],
+                                    key=lambda s: s["start"])
+    night["rediffusions_nuit"] = rediffusions_sans_affiche(night, progs)
+    return night
+
+
 def build_night(d: date, root: Path, cache: Path | None = None,
                 espn_days: dict | None = None, progs: list | None = None) -> dict:
     start, end = night_window(d)
@@ -132,7 +168,7 @@ def build_night(d: date, root: Path, cache: Path | None = None,
             "commentators": ed.get("commentators") or man.get("commentators"),
         })
 
-    return {
+    night = {
         "night": d.isoformat(),
         "generated_at": datetime.now(PARIS).isoformat(timespec="minutes"),
         "games": out_games,
@@ -142,3 +178,5 @@ def build_night(d: date, root: Path, cache: Path | None = None,
             "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS",
         },
     }
+    night["rediffusions_nuit"] = rediffusions_sans_affiche(night, progs)
+    return night

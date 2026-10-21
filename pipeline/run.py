@@ -12,7 +12,8 @@ import os
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
-from .night import PARIS, build_night
+from . import sources
+from .night import PARIS, build_night, refresh_tv
 from .render import build_site
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -25,7 +26,9 @@ def main() -> None:
     args = ap.parse_args()
 
     d = date.fromisoformat(args.night) if args.night else datetime.now(PARIS).date()
-    night = build_night(d, ROOT, Path(args.cache) if args.cache else None)
+    cache = Path(args.cache) if args.cache else None
+    progs = sources.fetch_bein_basket(cache)
+    night = build_night(d, ROOT, cache, progs=progs)
 
     out = ROOT / "data" / "nuits" / f"{d.isoformat()}.json"
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -34,6 +37,9 @@ def main() -> None:
     p = (d - timedelta(days=1)).isoformat()
     prev_path, verd_path = ROOT / "data" / "nuits" / f"{p}.json", ROOT / "data" / "verdicts" / f"{p}.json"
     prev = json.loads(prev_path.read_text(encoding="utf-8")) if prev_path.exists() else None
+    if prev:  # rediffusions du matin, absentes du guide de la veille au soir
+        prev = refresh_tv(prev, progs)
+        prev_path.write_text(json.dumps(prev, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     verdicts = json.loads(verd_path.read_text(encoding="utf-8")) if verd_path.exists() else None
     archive = []
     for vf in sorted((ROOT / "data" / "verdicts").glob("*.json")):

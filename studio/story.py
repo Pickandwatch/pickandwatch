@@ -124,13 +124,21 @@ def recap(d: date, games: list, vs: dict) -> str:
     return page(inner)
 
 
-def ou_revoir(g: dict, now: datetime) -> list[str]:
+def quand(iso: str, now: datetime) -> str:
+    t = datetime.fromisoformat(iso).astimezone(PARIS)
+    jour = "aujourd'hui" if t.date() == now.date() else JOURS[t.weekday()].lower()
+    return f"{jour} à {t.hour}h{t.minute:02d}"
+
+
+def ou_revoir(g: dict, now: datetime, slots: list[dict] | None = None) -> list[str]:
     out = []
     for r in g.get("tv", {}).get("replays", []):
-        t = datetime.fromisoformat(r["start"]).astimezone(PARIS)
-        if t > now:
-            jour = "aujourd'hui" if t.date() == now.date() else JOURS[t.weekday()].lower()
-            out.append(f"Rediffusion {jour} à {t.hour}h{t.minute:02d} sur {r['channel']}")
+        if datetime.fromisoformat(r["start"]) > now:
+            out.append(f"Rediffusion {quand(r['start'], now)} sur {r['channel']}")
+    fut = [x for x in slots or [] if datetime.fromisoformat(x["start"]) > now]
+    if fut:  # le guide TV ne dit pas quel match : on ne devine pas
+        out.append("Rediffusions de matchs de la nuit " + ", ".join(f"{quand(x['start'], now)} sur {x['channel']}" for x in fut)
+                   + " (affiche non précisée)")
     out.append("Match complet sur NBA League Pass (abonnement payant)")
     return out
 
@@ -148,14 +156,14 @@ def ink_of(team: dict) -> str:
     return INK
 
 
-def carte(d: date, g: dict, v: dict, i: int, total: int, now: datetime) -> str:
+def carte(d: date, g: dict, v: dict, i: int, total: int, now: datetime, slots: list[dict] | None = None) -> str:
     accent = g["home"].get("color", HEAD)
     home, away = g["home"]["name"].upper(), g["away"]["name"].upper()
     long = len(v["text"]) > 170
     s = min(size_for(home, W - 144, 170 if long else 220), size_for(away, W - 144, 170 if long else 220))
     fs = 38 if long else 44
     if v["verdict"] == "replay":
-        titre, lignes = "OÙ LE REVOIR", ou_revoir(g, now)
+        titre, lignes = "OÙ LE REVOIR", ou_revoir(g, now, slots)
     elif v["verdict"] == "resume":  # même mention que le site (pipeline/render.py)
         titre, lignes = "OÙ VOIR LE RÉSUMÉ", ["Résumé sur la chaîne YouTube de la NBA",
                                               "Attention : le résumé affiche le score"]
@@ -232,7 +240,7 @@ def main(argv: list[str]) -> int:
     # rediffusions annoncées : celles qui commencent au moins 30 min après la publication
     now = max(datetime.now(PARIS), due) + timedelta(minutes=30)
     # une carte par match, tous verdicts confondus (consigne d'Alexandre du 21/10)
-    pages = [recap(d, games, vs)] + [carte(d, g, vs[g["id"]], i, len(games), now) for i, g in enumerate(games, 1)]
+    pages = [recap(d, games, vs)] + [carte(d, g, vs[g["id"]], i, len(games), now, night.get("rediffusions_nuit")) for i, g in enumerate(games, 1)]
     out = pathlib.Path(argv[argv.index("--out") + 1]) if preview else ROOT / "posts" / f"{nuit}-verdicts"
     out.mkdir(parents=True, exist_ok=True)
     problems, names = render(pages, out)
