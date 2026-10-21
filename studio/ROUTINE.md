@@ -61,8 +61,8 @@ seulement que le site l'affiche.
    « Verdicts d'hier » de https://pickandwatch.fr/ affiche bien les verdicts.
 5. **Story Instagram de 8h** (validée par Alexandre le 21 octobre 2026 : publication automatique,
    sans validation). Avant le push de l'étape 4, lancer `python3 studio/story.py <D-1>` : il écrit
-   `posts/<D-1>-verdicts/` (01.jpg = récapitulatif de la nuit, puis une carte par match « replay »,
-   3 au plus, 1080x1920) et `post.json` (`"type": "story"`, `publier_a` = D à 8h, ou dans 15 min si
+   `posts/<D-1>-verdicts/` (01.jpg = récapitulatif de la nuit, puis une carte par match, tous
+   verdicts confondus : replay, résumé, zapper — consigne d'Alexandre du 21/10 ; 1080x1920) et `post.json` (`"type": "story"`, `publier_a` = D à 8h, ou dans 15 min si
    8h est passé). Regarder chaque image ; le script signale tout débordement et bloque tout score.
    Pousser avec les verdicts, relancer le site, vérifier que `https://pickandwatch.fr/posts/<D-1>-verdicts/01.jpg`
    répond 200. Le robot `instagram.yml` publie les stories à l'heure (une par image, dans l'ordre ;

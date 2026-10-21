@@ -6,7 +6,7 @@ Usage :
 
 Lit data/nuits/<nuit>.json et data/verdicts/<nuit>.json, produit :
   01.jpg : le récapitulatif de la nuit (tous les matchs, leur verdict) ;
-  02.jpg … : une carte par match « replay » (3 au plus), avec où le revoir.
+  02.jpg … : une carte par match (replay, puis résumé, puis zapper), avec où le voir.
 Écrit posts/<nuit>-verdicts/post.json (type « story », publication le lendemain de la nuit à 8h,
 ou tout de suite si 8h est passé). Aucune légende : une story n'en a pas.
 Le garde-fou anti-score (pipeline.instagram.SCORE_RE) bloque tout texte suspect.
@@ -41,7 +41,6 @@ ORDER = {"replay": 0, "resume": 1, "zapper": 2}
 JOURS = ["LUNDI", "MARDI", "MERCREDI", "JEUDI", "VENDREDI", "SAMEDI", "DIMANCHE"]
 MOIS = ["JANVIER", "FÉVRIER", "MARS", "AVRIL", "MAI", "JUIN", "JUILLET", "AOÛT",
         "SEPTEMBRE", "OCTOBRE", "NOVEMBRE", "DÉCEMBRE"]
-MAX_CARTES = 3
 
 BAR_CSS = "font-family: 'Barlow Condensed', sans-serif; font-weight: 800"
 MONO_CSS = "font-family: 'IBM Plex Mono', monospace; font-weight: 500"
@@ -155,18 +154,29 @@ def carte(d: date, g: dict, v: dict, i: int, total: int, now: datetime) -> str:
     long = len(v["text"]) > 170
     s = min(size_for(home, W - 144, 170 if long else 220), size_for(away, W - 144, 170 if long else 220))
     fs = 38 if long else 44
-    where = "".join(f'<div style="padding: 14px 0; border-top: 1px solid {INK}; font-size: 34px; line-height: 1.25">{e(w)}</div>' for w in ou_revoir(g, now))
+    if v["verdict"] == "replay":
+        titre, lignes = "OÙ LE REVOIR", ou_revoir(g, now)
+    elif v["verdict"] == "resume":  # même mention que le site (pipeline/render.py)
+        titre, lignes = "OÙ VOIR LE RÉSUMÉ", ["Résumé sur la chaîne YouTube de la NBA",
+                                              "Attention : le résumé affiche le score"]
+    else:
+        titre, lignes = "", []
+    where = "".join(f'<div style="padding: 14px 0; border-top: 1px solid {INK}; font-size: 34px; line-height: 1.25">{e(w)}</div>' for w in lignes)
+    badge = {"replay": f"background: {HEAD}; color: {BG}; border: 4px solid {HEAD}",
+             "resume": f"background: {INK}; color: {BG}; border: 4px solid {INK}",
+             "zapper": f"background: transparent; color: {SUB}; border: 4px dashed {SUB}"}[v["verdict"]]
+    bloc = (f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {INK}">'
+            f'<div style="{MONO_CSS}; font-size: 24px; letter-spacing: 3px; color: {SUB}; padding-bottom: 10px">{titre}</div>{where}</div>'
+            if lignes else "")
     inner = (brand() +
              f'<div style="display: flex; flex-direction: column; gap: 14px">'
              f'<div style="{MONO_CSS}; font-size: 26px; letter-spacing: 3px; text-align: center; color: {SUB}">{nuit_titre(d)} · {i}/{total}</div>'
-             f'<div style="align-self: center; background: {HEAD}; color: {BG}; {BAR_CSS}; font-size: 64px; line-height: 1; padding: 10px 28px; letter-spacing: 2px">{LONG[v["verdict"]]}</div>'
+             f'<div style="align-self: center; {badge}; {BAR_CSS}; font-size: 64px; line-height: 1; padding: 10px 28px; letter-spacing: 2px">{LONG[v["verdict"]]}</div>'
              f'<div style="{BAR_CSS}; font-size: {s}px; line-height: 0.84; text-align: center; color: {ink_of(g["home"])}; margin-top: 18px">{e(home)}</div>'
              f'<div style="{MONO_CSS}; font-size: 30px; text-align: center; color: {SUB}">REÇOIVENT LES</div>'
              f'<div style="{BAR_CSS}; font-size: {s}px; line-height: 0.84; text-align: center; color: {ink_of(g["away"])}">{e(away)}</div></div>'
              f'<div style="font-size: {fs}px; line-height: 1.3; border-left: 8px solid {HEAD}; padding-left: 28px">{e(v["text"])}</div>'
-             f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {INK}">'
-             f'<div style="{MONO_CSS}; font-size: 24px; letter-spacing: 3px; color: {SUB}; padding-bottom: 10px">OÙ LE REVOIR</div>{where}</div>'
-             + foot("Zéro spoiler. Jamais."))
+             + bloc + foot("Zéro spoiler. Jamais."))
     return page(inner, accent)
 
 
@@ -221,8 +231,8 @@ def main(argv: list[str]) -> int:
     due = datetime.combine(d + timedelta(days=1), time(8, 0), PARIS)
     # rediffusions annoncées : celles qui commencent au moins 30 min après la publication
     now = max(datetime.now(PARIS), due) + timedelta(minutes=30)
-    replays = [g for g in games if vs[g["id"]]["verdict"] == "replay"][:MAX_CARTES]
-    pages = [recap(d, games, vs)] + [carte(d, g, vs[g["id"]], i, len(replays), now) for i, g in enumerate(replays, 1)]
+    # une carte par match, tous verdicts confondus (consigne d'Alexandre du 21/10)
+    pages = [recap(d, games, vs)] + [carte(d, g, vs[g["id"]], i, len(games), now) for i, g in enumerate(games, 1)]
     out = pathlib.Path(argv[argv.index("--out") + 1]) if preview else ROOT / "posts" / f"{nuit}-verdicts"
     out.mkdir(parents=True, exist_ok=True)
     problems, names = render(pages, out)
