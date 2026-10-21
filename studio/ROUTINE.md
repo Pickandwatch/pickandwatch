@@ -31,7 +31,14 @@ Lire ensuite `studio/A-SUIVRE.md` : consignes éditoriales en cours d'Alexandre.
 Chromium est préinstallé (ne pas lancer `playwright install`). Dates : la « nuit D » est le
 soir D en France (matchs de D 12h à D+1 12h, heure de Paris).
 
-## 1. Le matin (10h) : les verdicts de la nuit D-1
+## 1. Le matin (7h15) : les verdicts de la nuit D-1
+
+Alexandre veut les verdicts en ligne le plus tôt possible (consigne du 21 octobre 2026) :
+la tâche part à 7h12, heure de Paris, et vise une mise en ligne avant 8h. Si un match n'est
+pas encore terminé (`STATUS_FINAL` sur ESPN), publier tout de suite les autres, puis revérifier
+toutes les 15 minutes et ajouter le dernier verdict dès la fin du match. Si
+`data/verdicts/<D-1>.json` existe déjà (publié à la main), ne pas le réécrire : vérifier
+seulement que le site l'affiche.
 
 1. Lire `data/nuits/<D-1>.json` (matchs, identifiants, diffusions).
 2. Se faire un avis sur chaque match, en interne :
