@@ -1,6 +1,6 @@
 {
   "night": "2026-10-22",
-  "generated_at": "2026-10-22T15:57+02:00",
+  "generated_at": "2026-10-22T18:52+02:00",
   "games": [
     {
       "id": "401909093",
@@ -40,8 +40,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Premier match de LeBron James devant le public de Philadelphie, face à son ancien club. Jaylen Brown débute aussi à domicile avec Joel Embiid et Tyrese Maxey. Cleveland, avec Donovan Mitchell et James Harden, ouvre sa saison ; Jarrett Allen (genou) est incertain.",
       "commentators": null
     },
     {
@@ -82,8 +82,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier match à domicile de la saison pour Shai Gilgeous-Alexander, double MVP. Nikola Jokić et Jamal Murray ouvrent celle de Denver avec la recrue DeMar DeRozan.",
       "commentators": null
     }
   ],
