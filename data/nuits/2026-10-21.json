@@ -315,6 +315,10 @@
           {
             "channel": "beIN SPORTS 1",
             "start": "2026-10-22T11:00:00+02:00"
+          },
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-22T16:30:00+02:00"
           }
         ],
         "source": "guide TV beIN SPORTS (XMLTV France)",
@@ -408,10 +412,5 @@
     "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
     "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
   },
-  "rediffusions_nuit": [
-    {
-      "channel": "beIN SPORTS 3",
-      "start": "2026-10-22T14:00:00+02:00"
-    }
-  ]
+  "rediffusions_nuit": []
 }
