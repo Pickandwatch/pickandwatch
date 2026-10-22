@@ -1,0 +1,71 @@
+{
+ "cover": {
+  "title": "DEUX MATCHS, TOUS SUR beIN",
+  "date": "JEUDI 22 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "76ERS",
+   "CAVALIERS"
+  ],
+  "top_info": "01:00 · PHILADELPHIE · DIRECT beIN SPORTS 1 · DIFFÉRÉ VEN. 09:15",
+  "other_size": 60,
+  "others": [
+   [
+    "THUNDER – NUGGETS",
+    "03:30",
+    "★★"
+   ]
+  ],
+  "note": "LES DEUX MATCHS EN DIRECT ET EN DIFFÉRÉ SUR beIN SPORTS 1",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "PHILADELPHIE · XFINITY MOBILE ARENA",
+   "home": "76ers",
+   "home_city": "PHILADELPHIE",
+   "home_bg": "#006BB6",
+   "home_sec": "#ED174C",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#FDBB30",
+   "counter": "NUIT DU 22 AU 23 OCT. · 2/4",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:00",
+   "channel": "beIN SPORTS",
+   "mode": "DIRECT + DIFFÉRÉ VEN. 09:15",
+   "brief": "Premier match de LeBron James devant le public de Philadelphie, face à son ancien club. Jaylen Brown débute aussi à domicile avec Joel Embiid et Tyrese Maxey. Cleveland, avec Donovan Mitchell et James Harden, ouvre sa saison ; Jarrett Allen (genou) est incertain.",
+   "chips": [
+    "L. James",
+    "J. Embiid",
+    "D. Mitchell",
+    "J. Harden"
+   ],
+   "foot": "Direct : beIN 1<br>Différé : beIN 1"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder",
+   "home_city": "OKLAHOMA CITY",
+   "home_bg": "#007AC1",
+   "home_sec": "#EF3B24",
+   "away": "Nuggets",
+   "away_city": "DENVER",
+   "away_c1": "#0E2240",
+   "away_c2": "#FEC524",
+   "counter": "NUIT DU 22 AU 23 OCT. · 3/4",
+   "label": "★★ À SURVEILLER",
+   "time": "03:30",
+   "channel": "beIN SPORTS",
+   "mode": "DIRECT + DIFFÉRÉ VEN. 11:00",
+   "brief": "Premier match à domicile de la saison pour Shai Gilgeous-Alexander, double MVP. Nikola Jokić et Jamal Murray ouvrent celle de Denver avec la recrue DeMar DeRozan.",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "N. Jokić",
+    "J. Murray"
+   ],
+   "foot": "Direct : beIN 1<br>Différé : beIN 1"
+  }
+ ]
+}
