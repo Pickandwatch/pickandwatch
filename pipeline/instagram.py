@@ -171,6 +171,20 @@ def fail(f: Path, post: dict, msg: str, definitif: bool) -> str:
     return f"{f.parent.name} ({post['statut']}, tentative {post['tentatives']}) : {msg[:300]}"
 
 
+def deja_publie(f: Path) -> bool:
+    """Relit le statut du post sur GitHub (branche main) juste avant de publier."""
+    import subprocess
+    rel = f.relative_to(ROOT).as_posix()
+    try:
+        subprocess.run(["git", "-C", str(ROOT), "fetch", "-q", "origin", "main"], check=True, timeout=60)
+        txt = subprocess.run(["git", "-C", str(ROOT), "show", f"origin/main:{rel}"], check=True,
+                             capture_output=True, text=True, timeout=30).stdout
+        return json.loads(txt).get("statut") in ("publie", "annule")
+    except Exception as e:  # dépôt injoignable : on ne prend pas le risque d'un doublon
+        print(f"{f.parent.name} : statut distant illisible ({e}), publication reportée au passage suivant.")
+        return True
+
+
 def publish_due() -> list[Path]:
     """Publie les posts dont l'heure est passée et qui ne sont ni annulés, ni publiés, ni en échec.
 
@@ -200,6 +214,9 @@ def publish_due() -> list[Path]:
         if wait > 0:  # les crons GitHub partent souvent en retard : on attend l'heure exacte
             print(f"{f.parent.name} : attente de {int(wait)} s jusqu'à {due:%H:%M}")
             time.sleep(wait)
+        if deja_publie(f):  # un autre passage du robot l'a publié entre-temps : jamais de doublon
+            print(f"{f.parent.name} : déjà publié par un autre passage, on n'y touche pas.")
+            continue
         try:
             urls = [f"{SITE}/posts/{f.parent.name}/{name}" for name in post["images"]]
             for u in urls:  # les images doivent déjà être en ligne
