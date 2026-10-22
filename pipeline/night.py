@@ -116,7 +116,11 @@ def build_night(d: date, root: Path, cache: Path | None = None,
     if progs is None:
         progs = sources.fetch_bein_basket(cache)
 
-    manual = load_json(root / "data" / "diffuseurs.json", {"matchs": {}}).get("matchs", {})
+    diffuseurs = load_json(root / "data" / "diffuseurs.json", {"matchs": {}})
+    manual = diffuseurs.get("matchs", {})
+    # Prime Video : le calendrier ESPN signale les matchs « Prime Video » nationaux aux États-Unis.
+    # Ils ne valent pour la France qu'une fois la règle confirmée (clé prime_usa_en_france).
+    prime_fr = bool(diffuseurs.get("prime_usa_en_france"))
     editorial = load_json(root / "data" / "editorial" / f"{d.isoformat()}.json", {}).get("matchs", {})
 
     checks = []
@@ -126,18 +130,28 @@ def build_night(d: date, root: Path, cache: Path | None = None,
         live, replays = match_tv(g, progs)
         man = manual.get(g["id"], {})
         tv = {"live": None, "replays": replays, "source": None, "status": None}
+        prime_us = "Prime Video" in (g.get("us_tv") or [])
         if live:
             tv["live"] = live
             tv["source"] = "guide TV beIN SPORTS (XMLTV France)"
             tv["status"] = "confirmé"
+            if prime_us and prime_fr:
+                tv["also"] = ["Prime Video"]
         elif man.get("live"):
             tv["live"] = {"channel": man["live"], "start": tip.isoformat()}
             tv["source"] = man.get("source", "annonce du diffuseur")
+            tv["status"] = "annoncé"
+        elif prime_us and prime_fr:
+            tv["live"] = {"channel": "Prime Video", "start": tip.isoformat()}
+            tv["source"] = "calendrier NBA on Prime (repris par Prime Video France)"
             tv["status"] = "annoncé"
         else:
             tv["status"] = "league-pass"
             checks.append(f"{g['home']['name']} – {g['away']['name']} : aucune diffusion TV française "
                           f"trouvée → NBA League Pass (à confirmer).")
+        if prime_us and not prime_fr:
+            checks.append(f"{g['home']['name']} – {g['away']['name']} : sur Prime Video aux États-Unis. "
+                          f"Vérifier qu'il est aussi sur Prime Video France.")
         if live and man.get("live") and man["live"] != live["channel"]:
             checks.append(f"{g['home']['name']} – {g['away']['name']} : le guide TV indique "
                           f"{live['channel']}, la saisie manuelle {man['live']}. À arbitrer.")

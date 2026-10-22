@@ -89,6 +89,8 @@ def game_card(g: dict, night_day: date) -> str:
     else:
         tv_lines.append('<li><span class="pill">Direct</span><span>NBA League Pass '
                         '<span class="muted">· pas de diffusion TV française repérée</span></span></li>')
+    for other in tv.get("also", []):
+        tv_lines.append(f'<li><span class="pill live">Direct</span><span>{ch(other)}</span></li>')
     for r in tv.get("replays", [])[:2]:
         tv_lines.append(f'<li><span class="pill">Différé</span><span>{e(day_short(r["start"]))} à '
                         f'{hhmm(r["start"])} · {ch(r["channel"])}</span></li>')
