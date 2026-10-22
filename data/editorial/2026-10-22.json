@@ -1,0 +1,17 @@
+{
+  "_statut": "publié sans réponse (règle de 19h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary, blessures au 22/10/2026, 15h) ; si.com 22/10/2026 (Cavaliers – 76ers ; Nuggets – Thunder) ; thespread.com 22/10/2026 (Cavaliers – 76ers, Jarrett Allen) ; fieldlevelmedia.com 22/10/2026 (Nuggets – Thunder : recrues DeRozan et Bagley, ouverture de Denver, premier match à domicile d'OKC) ; Insidebasket 20/10/2026 et SportBuzzBusiness 19/10/2026 (Prime Video : pas de match NBA le jeudi avant janvier)",
+  "matchs": {
+    "401909093": {
+      "stars": 3,
+      "score": "5 + 6 + 2 (événement : premier match de LeBron James devant le public de Philadelphie, face à son ancien club ; débuts à domicile de Jaylen Brown) = 13 ; meilleure note de la nuit, direct beIN SPORTS 1 et différé vendredi 9h15",
+      "brief": "Premier match de LeBron James devant le public de Philadelphie, face à son ancien club. Jaylen Brown débute aussi à domicile avec Joel Embiid et Tyrese Maxey. Cleveland, avec Donovan Mitchell et James Harden, ouvre sa saison ; Jarrett Allen (genou) est incertain."
+    },
+    "401909094": {
+      "stars": 2,
+      "score": "7 + 5 = 12, ramené à ★★ (un seul ★★★ par nuit : 76ers – Cavaliers, aussi sur beIN SPORTS 1, a la meilleure note avec l'événement LeBron James ; ouverture de Denver et débuts de DeMar DeRozan, recrue de 37 ans, non comptés comme événement)",
+      "brief": "Premier match à domicile de la saison pour Shai Gilgeous-Alexander, double MVP. Nikola Jokić et Jamal Murray ouvrent celle de Denver avec la recrue DeMar DeRozan."
+    }
+  }
+}
