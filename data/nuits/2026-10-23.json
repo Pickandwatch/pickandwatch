@@ -1,6 +1,6 @@
 {
   "night": "2026-10-23",
-  "generated_at": "2026-10-23T15:55+02:00",
+  "generated_at": "2026-10-23T18:51+02:00",
   "games": [
     {
       "id": "401909848",
@@ -32,8 +32,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Les Français Ousmane Dieng (Milwaukee) et Noa Essengue (Chicago).",
       "commentators": null
     },
     {
@@ -69,8 +69,8 @@
         "source": "insidebasket.com, 20/10/2026 (programme NBA de Prime Video France 2026-27 : Knicks – Celtics puis Rockets – Spurs, 1h et 3h30, inclus dans l'abonnement Prime)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Premier match à domicile des Celtics, face aux champions en titre. Mitchell Robinson, titré avec New York en juin, retrouve les Knicks : il a signé à Boston le 6 juillet. Jayson Tatum et Paul George face à Jalen Brunson et Karl-Anthony Towns.",
       "commentators": null
     },
     {
@@ -103,8 +103,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Français Moussa Diabaté et Tidjane Salaün face à Jalen Johnson. Charlotte est privé de Kon Knueppel et Coby White.",
       "commentators": null
     },
     {
@@ -137,8 +137,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Pascal Siakam et Tyrese Haliburton face à Cooper Flagg, Kyrie Irving et au Français Zaccharie Risacher.",
       "commentators": null
     },
     {
@@ -171,8 +171,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Anthony Edwards et LaMelo Ball, la nouvelle paire arrière de Minnesota, avec les Français Rudy Gobert et Joan Beringer, chez Paolo Banchero et Franz Wagner. Donte DiVincenzo et le Français Noah Penda sont absents.",
       "commentators": null
     },
     {
@@ -205,8 +205,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr reçoivent Kawhi Leonard et Scottie Barnes. AJ Dybantsa (cheville) est absent.",
       "commentators": null
     },
     {
@@ -239,8 +239,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier déplacement de la saison pour Cade Cunningham et Jalen Duren, prolongé cinq ans cet été, avec la recrue John Collins. En face, la raquette de Miami : Giannis Antetokounmpo et Bam Adebayo.",
       "commentators": null
     },
     {
@@ -276,8 +276,8 @@
         "source": "insidebasket.com, 20/10/2026 (programme NBA de Prime Video France 2026-27 : Knicks – Celtics puis Rockets – Spurs, 1h et 3h30, inclus dans l'abonnement Prime)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Spurs reçoivent Houston à Austin, au Moody Center : une première face à une autre équipe texane. Victor Wembanyama face à Kevin Durant et Alperen Şengün. Tobias Harris (mollet) est absent, De'Aaron Fox (poignet) incertain.",
       "commentators": null
     },
     {
@@ -310,8 +310,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Le rookie Darryn Peterson avec Utah face à Zion Williamson.",
       "commentators": null
     },
     {
@@ -344,8 +344,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Stephen Curry et Draymond Green, sans Jimmy Butler ni Kristaps Porziņģis, face à Ty Jerome et Zach Edey.",
       "commentators": null
     },
     {
@@ -378,8 +378,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Derby de Los Angeles : Luka Dončić et Austin Reaves face à Darius Garland. Bradley Beal, Brandon Ingram et Max Strus sont absents côté Clippers.",
       "commentators": null
     },
     {
@@ -412,8 +412,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Le Français Sidy Cissoko, Deni Avdija, Damian Lillard et Ja Morant chez les Kings. Le Français Maxime Raynaud (genou) est absent.",
       "commentators": null
     }
   ],
