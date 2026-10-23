@@ -1,6 +1,6 @@
 {
   "night": "2026-10-23",
-  "generated_at": "2026-10-23T15:03+02:00",
+  "generated_at": "2026-10-23T15:15+02:00",
   "games": [
     {
       "id": "401909848",
@@ -61,10 +61,13 @@
       "phase": "regular-season",
       "time_status": "calendrier officiel",
       "tv": {
-        "live": null,
+        "live": {
+          "channel": "Prime Video",
+          "start": "2026-10-24T01:00:00+02:00"
+        },
         "replays": [],
-        "source": null,
-        "status": "league-pass"
+        "source": "insidebasket.com, 20/10/2026 (programme NBA de Prime Video France 2026-27 : Knicks – Celtics puis Rockets – Spurs, 1h et 3h30, inclus dans l'abonnement Prime)",
+        "status": "annoncé"
       },
       "stars": null,
       "brief": null,
@@ -265,10 +268,13 @@
       "phase": "regular-season",
       "time_status": "calendrier officiel",
       "tv": {
-        "live": null,
+        "live": {
+          "channel": "Prime Video",
+          "start": "2026-10-24T03:30:00+02:00"
+        },
         "replays": [],
-        "source": null,
-        "status": "league-pass"
+        "source": "insidebasket.com, 20/10/2026 (programme NBA de Prime Video France 2026-27 : Knicks – Celtics puis Rockets – Spurs, 1h et 3h30, inclus dans l'abonnement Prime)",
+        "status": "annoncé"
       },
       "stars": null,
       "brief": null,
@@ -413,14 +419,12 @@
   ],
   "checks": [
     "Bucks – Bulls : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
-    "Celtics – Knicks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Celtics – Knicks : sur Prime Video aux États-Unis. Vérifier qu'il est aussi sur Prime Video France.",
     "Hornets – Hawks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Pacers – Mavericks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Magic – Timberwolves : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Wizards – Raptors : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Heat – Pistons : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
-    "Spurs – Rockets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Spurs – Rockets : sur Prime Video aux États-Unis. Vérifier qu'il est aussi sur Prime Video France.",
     "Jazz – Pelicans : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Warriors – Grizzlies : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
@@ -431,5 +435,14 @@
     "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
     "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
   },
-  "rediffusions_nuit": []
+  "rediffusions_nuit": [
+    {
+      "channel": "beIN SPORTS 1",
+      "start": "2026-10-24T09:15:00+02:00"
+    },
+    {
+      "channel": "beIN SPORTS 1",
+      "start": "2026-10-24T11:00:00+02:00"
+    }
+  ]
 }
