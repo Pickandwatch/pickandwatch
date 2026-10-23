@@ -1,0 +1,148 @@
+{
+ "cover": {
+  "title": "12 MATCHS, 2 SUR PRIME VIDEO",
+  "date": "VENDREDI 23 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "CELTICS",
+   "KNICKS"
+  ],
+  "top_info": "01:00 · BOSTON · PRIME VIDEO (INCLUS DANS PRIME)",
+  "other_size": 44,
+  "others": [
+   [
+    "HORNETS – HAWKS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "MAGIC – WOLVES",
+    "01:00",
+    "★★"
+   ],
+   [
+    "WIZARDS – RAPTORS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "HEAT – PISTONS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "SPURS – ROCKETS",
+    "03:30",
+    "★★"
+   ],
+   [
+    "LAKERS – CLIPPERS",
+    "04:00",
+    "★★"
+   ],
+   [
+    "KINGS – BLAZERS",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "★ AUSSI : BUCKS – BULLS 22:00 · PACERS – MAVS 01:00<br>JAZZ – PELICANS 03:30 · WARRIORS – GRIZZLIES 04:00<br>TV : CELTICS – KNICKS ET SPURS – ROCKETS SUR PRIME VIDEO<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "BOSTON · TD GARDEN",
+   "home": "Celtics",
+   "home_city": "BOSTON",
+   "home_bg": "#007A33",
+   "home_sec": "#BA9653",
+   "away": "Knicks",
+   "away_city": "NEW YORK",
+   "away_c1": "#006BB6",
+   "away_c2": "#F58426",
+   "counter": "NUIT DU 23 AU 24 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:00",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Premier match à domicile des Celtics, face aux champions en titre. Mitchell Robinson, titré avec New York en juin, retrouve les Knicks : il a signé à Boston le 6 juillet. Jayson Tatum et Paul George face à Jalen Brunson et Karl-Anthony Towns.",
+   "chips": [
+    "J. Tatum",
+    "P. George",
+    "M. Robinson",
+    "J. Brunson"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "AUSTIN · MOODY CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Rockets",
+   "away_city": "HOUSTON",
+   "away_c1": "#CE1141",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 23 AU 24 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "03:30",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Les Spurs reçoivent Houston à Austin, au Moody Center : une première face à une autre équipe texane. Victor Wembanyama face à Kevin Durant et Alperen Şengün. Tobias Harris (mollet) est absent, De'Aaron Fox (poignet) incertain.",
+   "chips": [
+    "V. Wembanyama",
+    "K. Durant",
+    "A. Şengün"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "ORLANDO · KIA CENTER",
+   "home": "Magic",
+   "home_city": "ORLANDO",
+   "home_bg": "#0077C0",
+   "home_sec": "#C4CED4",
+   "away": "Timberwolves",
+   "away_city": "MINNESOTA",
+   "away_c1": "#0C2340",
+   "away_c2": "#78BE20",
+   "counter": "NUIT DU 23 AU 24 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Anthony Edwards et LaMelo Ball, la nouvelle paire arrière de Minnesota, avec les Français Rudy Gobert et Joan Beringer, chez Paolo Banchero et Franz Wagner. Donte DiVincenzo et le Français Noah Penda sont absents.",
+   "chips": [
+    "A. Edwards",
+    "L. Ball",
+    "R. Gobert",
+    "P. Banchero"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat",
+   "home_city": "MIAMI",
+   "home_bg": "#98002E",
+   "home_sec": "#F9A01B",
+   "away": "Pistons",
+   "away_city": "DETROIT",
+   "away_c1": "#C8102E",
+   "away_c2": "#1D42BA",
+   "counter": "NUIT DU 23 AU 24 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Premier déplacement de la saison pour Cade Cunningham et Jalen Duren, prolongé cinq ans cet été, avec la recrue John Collins. En face, la raquette de Miami : Giannis Antetokounmpo et Bam Adebayo.",
+   "chips": [
+    "G. Antetokounmpo",
+    "C. Cunningham",
+    "J. Duren"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}

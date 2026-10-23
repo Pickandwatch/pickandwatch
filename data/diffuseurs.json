@@ -1,6 +1,15 @@
 {
     "_note": "Diffusions TV annoncées hors guide TV (ex. Prime Video), par identifiant de match ESPN : {\"live\": \"Prime Video\", \"source\": \"annonce Prime Video du ...\", \"commentators\": \"...\"}",
-    "matchs": {},
+    "matchs": {
+        "401909095": {
+            "live": "Prime Video",
+            "source": "insidebasket.com, 20/10/2026 (programme NBA de Prime Video France 2026-27 : Knicks – Celtics puis Rockets – Spurs, 1h et 3h30, inclus dans l'abonnement Prime)"
+        },
+        "401909096": {
+            "live": "Prime Video",
+            "source": "insidebasket.com, 20/10/2026 (programme NBA de Prime Video France 2026-27 : Knicks – Celtics puis Rockets – Spurs, 1h et 3h30, inclus dans l'abonnement Prime)"
+        }
+    },
     "prime_usa_en_france": false,
     "_prime": "Mettre prime_usa_en_france à true quand il est confirmé que les matchs « NBA on Prime » américains sont aussi sur Prime Video France. Les affiches propres à la France (ex. dimanches 19h) se saisissent dans matchs."
 }

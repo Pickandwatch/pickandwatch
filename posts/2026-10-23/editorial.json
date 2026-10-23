@@ -1,0 +1,67 @@
+{
+  "_statut": "proposé le 23 octobre 2026 (en attente de validation)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary, blessures et effectifs au 23/10/2026, 15h) ; bostonglobe.com 23/10/2026 et thekotshow.substack.com 23/10/2026 (Celtics – Knicks : premier match à domicile, Mitchell Robinson) ; sports.yahoo.com/Rockets Wire 11/08/2026 et si.com (Spurs – Rockets à Austin, blessures) ; 1075thegame.com 22/10/2026 (Wolves – Magic) ; si.com et sports.yahoo.com 22 et 23/10/2026 (Heat – Pistons : premier déplacement de Detroit, Duren prolongé, John Collins) ; insidebasket.com 20/10/2026 (Prime Video France : Knicks – Celtics 1h et Rockets – Spurs 3h30, inclus dans Prime)",
+  "matchs": {
+    "401909095": {
+      "stars": 3,
+      "score": "5 + 7 + 2 (événement : premier match à domicile de Boston, Mitchell Robinson face à son ancien club, champion avec lui en juin ; les Français Pacôme Dadiet et Mohamed Diawara, non entrés en jeu au premier match, non comptés) = 14 ; meilleure note de la nuit, sur Prime Video",
+      "brief": "Premier match à domicile des Celtics, face aux champions en titre. Mitchell Robinson, titré avec New York en juin, retrouve les Knicks : il a signé à Boston le 6 juillet. Jayson Tatum et Paul George face à Jalen Brunson et Karl-Anthony Towns."
+    },
+    "401909096": {
+      "stars": 2,
+      "score": "8 + 3 + 2 (événement : le Français Victor Wembanyama ; match joué à Austin) = 13, ramené à ★★ (un seul ★★★ par nuit : Celtics – Knicks, aussi sur Prime Video, a la meilleure note)",
+      "brief": "Les Spurs reçoivent Houston à Austin, au Moody Center : une première face à une autre équipe texane. Victor Wembanyama face à Kevin Durant et Alperen Şengün. Tobias Harris (mollet) est absent, De'Aaron Fox (poignet) incertain."
+    },
+    "401909845": {
+      "stars": 2,
+      "score": "2 + 5 + 2 (événement : les Français Rudy Gobert et Joan Beringer ; Noah Penda, blessé, absent) = 9, ramené à ★★ (un seul ★★★ par nuit)",
+      "brief": "Anthony Edwards et LaMelo Ball, la nouvelle paire arrière de Minnesota, avec les Français Rudy Gobert et Joan Beringer, chez Paolo Banchero et Franz Wagner. Donte DiVincenzo et le Français Noah Penda sont absents."
+    },
+    "401909847": {
+      "stars": 2,
+      "score": "3 + 5 = 8",
+      "brief": "Premier déplacement de la saison pour Cade Cunningham et Jalen Duren, prolongé cinq ans cet été, avec la recrue John Collins. En face, la raquette de Miami : Giannis Antetokounmpo et Bam Adebayo."
+    },
+    "401909846": {
+      "stars": 2,
+      "score": "2 + 3 + 2 (événement : les Français Bilal Coulibaly et Alex Sarr) = 7 (pas de slide : au plus 4 slides)",
+      "brief": "Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr reçoivent Kawhi Leonard et Scottie Barnes. AJ Dybantsa (cheville) est absent."
+    },
+    "401909851": {
+      "stars": 2,
+      "score": "6 + 1 = 7 (pas de slide : au plus 4 slides, départagé avec Wizards – Raptors par l'ordre des notes sans événement)",
+      "brief": "Derby de Los Angeles : Luka Dončić et Austin Reaves face à Darius Garland. Bradley Beal, Brandon Ingram et Max Strus sont absents côté Clippers."
+    },
+    "401909843": {
+      "stars": 2,
+      "score": "1 + 3 + 2 (événement : les Français Moussa Diabaté et Tidjane Salaün) = 6 (pas de slide : au plus 4 slides)",
+      "brief": "Les Français Moussa Diabaté et Tidjane Salaün face à Jalen Johnson. Charlotte est privé de Kon Knueppel et Coby White."
+    },
+    "401909852": {
+      "stars": 2,
+      "score": "1 + 3 + 2 (événement : le Français Sidy Cissoko ; Maxime Raynaud, blessé, absent) = 6 (pas de slide : au plus 4 slides)",
+      "brief": "Le Français Sidy Cissoko, Deni Avdija, Damian Lillard et Ja Morant chez les Kings. Le Français Maxime Raynaud (genou) est absent."
+    },
+    "401909848": {
+      "stars": 1,
+      "score": "1 + 1 + 2 (événement : les Français Ousmane Dieng et Noa Essengue) = 4",
+      "brief": "Les Français Ousmane Dieng (Milwaukee) et Noa Essengue (Chicago)."
+    },
+    "401909844": {
+      "stars": 1,
+      "score": "2 + 1 + 2 (événement : le Français Zaccharie Risacher) = 5",
+      "brief": "Pascal Siakam et Tyrese Haliburton face à Cooper Flagg, Kyrie Irving et au Français Zaccharie Risacher."
+    },
+    "401909849": {
+      "stars": 1,
+      "score": "1 + 1 = 2",
+      "brief": "Le rookie Darryn Peterson avec Utah face à Zion Williamson."
+    },
+    "401909850": {
+      "stars": 1,
+      "score": "3 + 1 = 4",
+      "brief": "Stephen Curry et Draymond Green, sans Jimmy Butler ni Kristaps Porziņģis, face à Ty Jerome et Zach Edey."
+    }
+  }
+}
