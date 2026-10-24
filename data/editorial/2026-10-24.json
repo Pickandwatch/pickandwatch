@@ -1,0 +1,47 @@
+{
+  "_statut": "validé le 24 octobre 2026 par Alexandre",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary, blessures, effectifs et calendrier au 24/10/2026, 15h ; minutes jouées des matchs précédents) ; dallassportsjournal.com 24/10/2026 et sports.yahoo.com/USA Today 23/10/2026 (Mavericks : premier match à domicile, blessure de Cooper Flagg à l'épaule gauche, Kyrie Irving en temps de jeu limité) ; nba.com/cavaliers 13/10/2026 et sports.yahoo.com/WKYC 21/10/2026 (premier match à domicile de Cleveland) ; sports.yahoo.com (Heavy, Liberty Ballers) et clutchpoints.com 23-24/10/2026 (LeBron James incertain, Bucks au deuxième soir d'affilée) ; thespread.com 24/10/2026 (Hornets : Knueppel, White, Williams incertains) ; guide TV beIN SPORTS (Hornets – Heat en direct et rediffusions) ; insidebasket.com 20/10/2026 (Prime Video France : pas de match NBA le samedi avant février) et ESPN (aucune diffusion Prime Video aux États-Unis ce soir)",
+  "matchs": {
+    "401909858": {
+      "stars": 3,
+      "score": "1 + 8 + 2 (événement : les Français Victor Wembanyama et Zaccharie Risacher) = 11 ; meilleure note de la nuit",
+      "brief": "Premier match à domicile de la saison pour Dallas, sans Cooper Flagg, touché à l'épaule gauche la veille contre Indiana. Duel de Français : Victor Wembanyama face à Zaccharie Risacher. Kyrie Irving joue avec un temps de jeu limité."
+    },
+    "401909854": {
+      "stars": 2,
+      "score": "6 + 1 + 2 (événement : le Français Nolan Traoré) = 9, ramené à ★★ (un seul ★★★ par nuit : Mavericks – Spurs a la meilleure note)",
+      "brief": "Premier match à domicile de la saison pour Cleveland, finaliste de l'Est en 2026. Donovan Mitchell, James Harden et Evan Mobley face à Michael Porter Jr., Julius Randle et au Français Nolan Traoré."
+    },
+    "401909855": {
+      "stars": 2,
+      "score": "5 + 1 + 2 (événement : le Français Ousmane Dieng ; Rayan Rupert, non entré en jeu aux deux premiers matchs, non compté) = 8",
+      "brief": "LeBron James (dos) est incertain. Tyrese Maxey, Joel Embiid et Jaylen Brown face à Tyler Herro, Myles Turner et au Français Ousmane Dieng. Milwaukee joue son deuxième match en deux soirs."
+    },
+    "401909853": {
+      "stars": 2,
+      "score": "1 + 3 + 2 (événement : les Français Moussa Diabaté et Tidjane Salaün) = 6 ; slide retenue (seul match sur une chaîne française, départage à 6 avec Hawks – Rockets, Nuggets – Pelicans et Suns – Warriors)",
+      "brief": "Le seul match de la nuit sur une chaîne française. Giannis Antetokounmpo et Bam Adebayo face à Brandon Miller et aux Français Moussa Diabaté et Tidjane Salaün. Kon Knueppel, Coby White et Grant Williams sont incertains."
+    },
+    "401909856": {
+      "stars": 2,
+      "score": "3 + 3 = 6 (pas de slide : au plus 4 slides)",
+      "brief": "Premier match à domicile de la saison pour Atlanta. Jalen Johnson face à Kevin Durant et Alperen Şengün ; Reed Sheppard (genou) est absent côté Houston."
+    },
+    "401909859": {
+      "stars": 2,
+      "score": "5 + 1 = 6 (pas de slide : au plus 4 slides)",
+      "brief": "Premier match à domicile de la saison pour Denver. Nikola Jokić et Jamal Murray face à Zion Williamson. Cameron Johnson (cheville) est absent."
+    },
+    "401909860": {
+      "stars": 2,
+      "score": "3 + 3 = 6 (pas de slide : au plus 4 slides)",
+      "brief": "Premier match à domicile de la saison pour Phoenix. Devin Booker et Jalen Green face à Stephen Curry et Draymond Green, sans Jimmy Butler, Kristaps Porziņģis ni Moses Moody."
+    },
+    "401909857": {
+      "stars": 1,
+      "score": "1 + 2 + 2 (événement : les Français Bilal Coulibaly, Alex Sarr et Noa Essengue) = 5",
+      "brief": "Premier match à domicile de la saison pour Chicago. Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr face à Josh Giddey et au Français Noa Essengue. AJ Dybantsa (cheville) est incertain."
+    }
+  }
+}
