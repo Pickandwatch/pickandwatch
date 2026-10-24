@@ -1,0 +1,144 @@
+{
+ "cover": {
+  "title": "8 MATCHS, 1 SUR beIN SPORTS",
+  "date": "SAMEDI 24 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "MAVERICKS",
+   "SPURS"
+  ],
+  "top_info": "02:00 · DALLAS · NBA LEAGUE PASS",
+  "others": [
+   [
+    "HORNETS – HEAT",
+    "00:00",
+    "★★"
+   ],
+   [
+    "CAVALIERS – NETS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "SIXERS – BUCKS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "HAWKS – ROCKETS",
+    "02:30",
+    "★★"
+   ],
+   [
+    "NUGGETS – PELICANS",
+    "02:00",
+    "★★",
+    "03:00"
+   ],
+   [
+    "SUNS – WARRIORS",
+    "03:00",
+    "★★",
+    "04:00"
+   ]
+  ],
+  "note": "★ AUSSI : BULLS – WIZARDS 02:00<br>PASSAGE À L'HEURE D'HIVER À 3:00 : NUGGETS ET SUNS EN HEURE D'HIVER<br>TV : HORNETS – HEAT EN DIRECT SUR beIN SPORTS 1<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "DALLAS · AMERICAN AIRLINES CENTER",
+   "home": "Mavericks",
+   "home_city": "DALLAS",
+   "home_bg": "#0064B1",
+   "home_sec": "#BBC4CA",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 24 AU 25 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Premier match à domicile de la saison pour Dallas, sans Cooper Flagg, touché à l'épaule gauche la veille contre Indiana. Duel de Français : Victor Wembanyama face à Zaccharie Risacher. Kyrie Irving joue avec un temps de jeu limité.",
+   "chips": [
+    "V. Wembanyama",
+    "Z. Risacher",
+    "K. Irving",
+    "D. Fox"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers",
+   "home_city": "CLEVELAND",
+   "home_bg": "#860038",
+   "home_sec": "#FDBB30",
+   "away": "Nets",
+   "away_city": "BROOKLYN",
+   "away_c1": "#000000",
+   "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 24 AU 25 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Premier match à domicile de la saison pour Cleveland, finaliste de l'Est en 2026. Donovan Mitchell, James Harden et Evan Mobley face à Michael Porter Jr., Julius Randle et au Français Nolan Traoré.",
+   "chips": [
+    "D. Mitchell",
+    "J. Harden",
+    "E. Mobley",
+    "N. Traoré"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "PHILADELPHIE · XFINITY MOBILE ARENA",
+   "home": "76ers",
+   "home_city": "PHILADELPHIE",
+   "home_bg": "#1D428A",
+   "home_sec": "#ED174C",
+   "away": "Bucks",
+   "away_city": "MILWAUKEE",
+   "away_c1": "#00471B",
+   "away_c2": "#EEE1C6",
+   "counter": "NUIT DU 24 AU 25 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "LeBron James (dos) est incertain. Tyrese Maxey, Joel Embiid et Jaylen Brown face à Tyler Herro, Myles Turner et au Français Ousmane Dieng. Milwaukee joue son deuxième match en deux soirs.",
+   "chips": [
+    "L. James",
+    "T. Maxey",
+    "J. Embiid",
+    "O. Dieng"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "CHARLOTTE · SPECTRUM CENTER",
+   "home": "Hornets",
+   "home_city": "CHARLOTTE",
+   "home_bg": "#00788C",
+   "home_sec": "#A1A1A4",
+   "away": "Heat",
+   "away_city": "MIAMI",
+   "away_c1": "#98002E",
+   "away_c2": "#F9A01B",
+   "counter": "NUIT DU 24 AU 25 OCT. · 5/6",
+   "label": "★★ À VOIR SUR beIN SPORTS",
+   "time": "00:00",
+   "channel": "beIN SPORTS 1",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Giannis Antetokounmpo et Bam Adebayo face à Brandon Miller et aux Français Moussa Diabaté et Tidjane Salaün. Kon Knueppel, Coby White et Grant Williams sont incertains.",
+   "chips": [
+    "G. Antetokounmpo",
+    "B. Miller",
+    "M. Diabaté"
+   ],
+   "foot": "Rediff. dim. sur beIN<br>11:00 et 21:00"
+  }
+ ]
+}
