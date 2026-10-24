@@ -1,6 +1,6 @@
 {
   "night": "2026-10-24",
-  "generated_at": "2026-10-24T15:09+02:00",
+  "generated_at": "2026-10-24T15:12+02:00",
   "games": [
     {
       "id": "401909853",
@@ -44,8 +44,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Le seul match de la nuit sur une chaîne française. Giannis Antetokounmpo et Bam Adebayo face à Brandon Miller et aux Français Moussa Diabaté et Tidjane Salaün. Kon Knueppel, Coby White et Grant Williams sont incertains.",
       "commentators": null
     },
     {
@@ -78,8 +78,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier match à domicile de la saison pour Cleveland, finaliste de l'Est en 2026. Donovan Mitchell, James Harden et Evan Mobley face à Michael Porter Jr., Julius Randle et au Français Nolan Traoré.",
       "commentators": null
     },
     {
@@ -112,8 +112,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "LeBron James (dos) est incertain. Tyrese Maxey, Joel Embiid et Jaylen Brown face à Tyler Herro, Myles Turner et au Français Ousmane Dieng. Milwaukee joue son deuxième match en deux soirs.",
       "commentators": null
     },
     {
@@ -146,8 +146,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Premier match à domicile de la saison pour Chicago. Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr face à Josh Giddey et au Français Noa Essengue. AJ Dybantsa (cheville) est incertain.",
       "commentators": null
     },
     {
@@ -180,8 +180,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Premier match à domicile de la saison pour Dallas, sans Cooper Flagg, touché à l'épaule gauche la veille contre Indiana. Duel de Français : Victor Wembanyama face à Zaccharie Risacher. Kyrie Irving joue avec un temps de jeu limité.",
       "commentators": null
     },
     {
@@ -214,8 +214,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier match à domicile de la saison pour Atlanta. Jalen Johnson face à Kevin Durant et Alperen Şengün ; Reed Sheppard (genou) est absent côté Houston.",
       "commentators": null
     },
     {
@@ -248,8 +248,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier match à domicile de la saison pour Denver. Nikola Jokić et Jamal Murray face à Zion Williamson. Cameron Johnson (cheville) est absent.",
       "commentators": null
     },
     {
@@ -282,8 +282,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier match à domicile de la saison pour Phoenix. Devin Booker et Jalen Green face à Stephen Curry et Draymond Green, sans Jimmy Butler, Kristaps Porziņģis ni Moses Moody.",
       "commentators": null
     }
   ],
