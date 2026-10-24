@@ -95,8 +95,12 @@ def verify() -> None:
         if post.get("statut") in ("annule", "publie", "echec"):
             continue
         pb = caption_problems(post.get("legende", ""))
-        if not 1 <= len(post.get("images", [])) <= 10:
-            pb.append(f"{len(post.get('images', []))} image(s) (Instagram : 1 à 10)")
+        n = len(post.get("images", []))
+        if post.get("type") == "story":  # une story par image : pas de plafond à 10
+            if n < 1:
+                pb.append("aucune image")
+        elif not 1 <= n <= 10:
+            pb.append(f"{n} image(s) (Instagram : 1 à 10)")
         pb += [f"image absente : {n}" for n in post.get("images", []) if not (f.parent / n).exists()]
         try:  # heure d'été / d'hiver : le décalage de publier_a doit être celui de Paris à cette date
             due = datetime.fromisoformat(post["publier_a"])
