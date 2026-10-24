@@ -2,7 +2,7 @@
   "type": "story",
   "nuit": "2026-10-23",
   "publier_a": "2026-10-24T08:00:00+02:00",
-  "statut": "propose",
+  "statut": "echec",
   "images": [
     "01.jpg",
     "02.jpg",
@@ -18,5 +18,9 @@
     "12.jpg",
     "13.jpg"
   ],
-  "legende": ""
+  "legende": "",
+  "stories_publiees": [],
+  "tentatives": 1,
+  "erreur": "Erreur Meta 400 sur 17841425340665160/media_publish : {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Contenu multim\\u00e9dia introuvable\",\"error_user_msg\":\"Le contenu multim\\u00e9dia 18\\u202f124\\u202f722\\u202f175\\u202f844\\u202f689 est introuvable.\",\"fbtrace_id\":\"AYe_aMpev27a0dhwcPfE8Ai\"}}",
+  "erreur_le": "2026-10-24T08:00+02:00"
 }
