@@ -1,0 +1,21 @@
+{
+ "couverture": {"titre": ["LA NBA EN FRANCE", "OÙ LA REGARDER EN 2026-27"],
+   "lignes": [["BEIN SPORTS", "JUSQU'À 9 MATCHS / SEMAINE"], ["PRIME VIDEO", "86 MATCHS INCLUS DANS PRIME"], ["NBA LEAGUE PASS", "LES 1 230 MATCHS"]],
+   "accroche": "Le guide à garder sous la main."},
+ "slides": [
+  {"rubrique": "LA CHAÎNE HISTORIQUE", "titre": ["BEIN SPORTS", "JUSQU'À 9 MATCHS PAR SEMAINE"],
+   "chiffres": [["DIFFUSEUR DEPUIS", "2012"], ["PAR SEMAINE", "9 MAX"], ["LE LENDEMAIN", "DIFFÉRÉS"]],
+   "texte": "Les grandes affiches en direct, et des rediffusions le lendemain pour ceux qui dorment. Aussi : le Christmas Day, le All-Star Game, les playoffs et les Finales.",
+   "encadre": ["ABONNEMENT", "BEIN SPORTS", "seul ou via CANAL+"]},
+  {"rubrique": "LE NOUVEAU VENU", "titre": ["PRIME VIDEO", "86 MATCHS INCLUS DANS PRIME"],
+   "chiffres": [["SAISON RÉGULIÈRE", "86"], ["LE VENDREDI", "2 MATCHS"], ["SPURS À PARIS", "14 JANV."]],
+   "texte": "Les doubles affiches du vendredi soir, puis aussi les jeudis dès janvier et les samedis dès février. Plus la NBA Cup, tout le play-in, une partie des playoffs, et les Spurs à Paris et à Manchester.",
+   "encadre": ["INCLUS DANS", "AMAZON PRIME", "6,99 €/mois"]},
+  {"rubrique": "POUR TOUT VOIR", "titre": ["NBA LEAGUE PASS", "LES 1 230 MATCHS"],
+   "chiffres": [["EN DIRECT", "TOUS"], ["EN REPLAY", "TOUS"], ["À PARTIR DE", "21,99 €"]],
+   "texte": "Tous les matchs de la saison, en direct et en replay, sur l'application NBA. Une formule réservée à une seule équipe existe pour les fans d'une franchise. Aussi disponible via Prime Video, avec un abonnement en plus.",
+   "encadre": ["SUR", "L'APPLICATION NBA", "dès 21,99 €/mois"]}
+ ],
+ "fin": {"titre": ["CHAQUE JOUR,", "ON TRIE POUR TOI."],
+   "texte": "<strong>19h</strong> · les matchs de la nuit : l'heure, la chaîne, direct ou différé.<br><strong>8h</strong> · notre verdict : replay, résumé ou zapper. Jamais le score.<br><br>Enregistre ce guide et suis-nous pour ne plus rien rater."}
+}
