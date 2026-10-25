@@ -1,6 +1,6 @@
 {
   "night": "2026-10-25",
-  "generated_at": "2026-10-25T15:08+01:00",
+  "generated_at": "2026-10-25T18:51+01:00",
   "games": [
     {
       "id": "401909861",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Deuxième soir d'affilée pour les deux équipes. Luka Dončić et Austin Reaves chez Lauri Markkanen, Jaren Jackson Jr. et le rookie Darryn Peterson.",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Tyrese Haliburton et Pascal Siakam face à Michael Porter Jr., Julius Randle et au Français Nolan Traoré. Brooklyn joue son deuxième match en deux soirs.",
       "commentators": null
     },
     {
@@ -106,8 +106,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les champions NBA de Jalen Brunson et Karl-Anthony Towns reçoivent un Magic privé de Paolo Banchero (cheville) et du Français Noah Penda. Franz Wagner et Desmond Bane mènent Orlando.",
       "commentators": null
     },
     {
@@ -142,8 +142,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Anthony Edwards, LaMelo Ball et les Français Rudy Gobert et Joan Beringer face à Kawhi Leonard, Scottie Barnes et RJ Barrett. Donte DiVincenzo (tendon d'Achille) est absent côté Minnesota.",
       "commentators": null
     },
     {
@@ -178,8 +178,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Shai Gilgeous-Alexander, Chet Holmgren et Jalen Williams reçoivent des Clippers au deuxième soir d'affilée, sans Bradley Beal, Brandon Ingram ni Max Strus. Darius Garland mène Los Angeles.",
       "commentators": null
     },
     {
@@ -226,8 +226,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Deuxième soir d'affilée pour les deux équipes. Cade Cunningham et Detroit, premier de l'Est la saison dernière, chez Tyrese Maxey et Jaylen Brown. LeBron James (dos), absent la veille, et Joel Embiid (repos) sont incertains ; Jalen Duren est absent.",
       "commentators": null
     },
     {
@@ -262,8 +262,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Domantas Sabonis et Zach LaVine face à Memphis, sans Zach Edey. Le Français Maxime Raynaud (genou) est absent.",
       "commentators": null
     }
   ],
