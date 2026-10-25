@@ -92,7 +92,7 @@ def verify() -> None:
     bad = 0
     for f in sorted((ROOT / "posts").glob("*/post.json")):
         post = json.loads(f.read_text(encoding="utf-8"))
-        if post.get("statut") in ("annule", "publie", "echec"):
+        if post.get("statut") in ("annule", "publie", "echec", "brouillon"):  # brouillon : jamais publié sans validation
             continue
         pb = caption_problems(post.get("legende", ""))
         n = len(post.get("images", []))
@@ -217,7 +217,7 @@ def publish_due() -> list[Path]:
     done, echecs = [], []
     for f in sorted((ROOT / "posts").glob("*/post.json")):
         post = json.loads(f.read_text(encoding="utf-8"))
-        if post.get("statut") in ("annule", "publie", "echec"):
+        if post.get("statut") in ("annule", "publie", "echec", "brouillon"):  # brouillon : jamais publié sans validation
             continue
         if suit_annule(post):  # story du soir : annulée avec son carrousel
             post["statut"] = "annule"

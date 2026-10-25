@@ -321,6 +321,9 @@ def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict
     if progs is not None:  # Mon équipe, NBA Cup, agendas (.ics)
         from . import equipes
         equipes.build(root, site, progs, gen, head, foot)
+    hp = hors_parquet_page(root, gen)
+    if hp:
+        (site / "hors-parquet.html").write_text(hp, encoding="utf-8")
     d = night["night"]
     (site / "nuits" / f"{d}.html").write_text(
         page(night, canonical=f"https://pickandwatch.fr/nuits/{d}.html", depth=1), encoding="utf-8")
@@ -328,3 +331,34 @@ def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict
         page(night, canonical="https://pickandwatch.fr/", prev=prev, verdicts=verdicts,
              latest=latest, home=True), encoding="utf-8")
     return site
+
+
+def hors_parquet_page(root: Path, now: datetime) -> str | None:
+    """Archive des numéros publiés de Hors parquet (posts/*-hors-parquet), avec les liens des sources."""
+    nums = []
+    for f in sorted((root / "posts").glob("*-hors-parquet/post.json"), reverse=True):
+        post = json.loads(f.read_text(encoding="utf-8"))
+        if post.get("statut") != "publie":
+            continue
+        spec = json.loads((f.parent / "spec.json").read_text(encoding="utf-8"))
+        items = "".join(
+            f'<li><strong>{e(s.get("rubrique", "").capitalize())}</strong> · {e(" ".join(s["titre"]))}'
+            + (f' · <a href="{e(s["lien"])}">{e(s.get("lien_titre") or "la source")}</a>' if s.get("lien") else "")
+            + "</li>" for s in spec.get("sujets", []))
+        d = datetime.fromisoformat(post["publier_a"])
+        nums.append(f'<article class="verdict"><h3 class="mois">Semaine du {e(spec["couverture"]["semaine"].lower())}</h3>'
+                    f'<ul class="where">{items}</ul>'
+                    f'<p class="muted small">Publié le {d.day} {MOIS[d.month - 1]} {d.year} sur Instagram.</p></article>')
+    if not nums:
+        return None
+    top = head("Hors parquet : l'actu basket de la semaine, hors des matchs", "https://pickandwatch.fr/hors-parquet.html", "",
+               "Chaque vendredi, le meilleur de l'actu basket hors des parquets : livres, documentaires, événements en France, interviews.")
+    return (top.replace("{date}", "HORS PARQUET") + f"""<main>
+  <section class="hero">
+    <p class="kicker fit" data-min="40">Hors parquet</p>
+    <h1 class="fit" data-min="30">Chaque vendredi, ce qu'il ne fallait pas rater</h1>
+    <p class="summary">Livres, documentaires, événements en France, interviews : le basket en dehors des matchs, avec les liens.</p>
+  </section>
+  <section class="vlist">{''.join(nums)}</section>
+</main>
+""" + foot(now))

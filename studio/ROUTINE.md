@@ -185,3 +185,32 @@ du matin :
    `python3 -m pipeline.instagram verify`, push, lancer `programme.yml`, vérifier que la vidéo répond 200.
 4. Envoyer la vidéo et la légende à Alexandre avec la notification « Post P&W à valider ». Sans
    réponse, publication automatique à 12h30 (Reel muet ; Alexandre a choisi l'automatique).
+
+## 5. Le jeudi : Hors parquet du vendredi
+
+Rubrique phare (Alexandre, 23 et 25 octobre 2026) : chaque vendredi à **12h**, le meilleur de l'actu
+basket **hors des matchs** de la semaine : livres, films et documentaires, séries, podcasts,
+événements en France (expositions, tournées, billetteries), interviews, initiatives de médias et de
+créateurs français. Jamais de score ni de résultat, jamais de rumeur de transfert non confirmée.
+1. **Veille** sur la semaine (lundi → jeudi) : Basket Session, First Team, TrashTalk, NBA Extra
+   (beIN SPORTS), Basket USA, BeBasket, Insidebasket, L'Équipe (uniquement par les liens qu'envoie
+   Alexandre), Netflix / Prime Video / Canal+ (documentaires), éditeurs (Solar, Marabout, Talent
+   Sport…), billetteries et salles (Accor Arena, LDLC Arena), comptes des joueurs français. Ouvrir et
+   lire chaque page citée ; recouper tout chiffre ou toute date.
+2. **Sélection** : 3 sujets (un « dossier de la semaine » + deux « à lire / à voir / à suivre »),
+   au moins un sujet hors Basket Session, et un sujet d'un autre format que l'écrit si possible.
+   Une semaine creuse : 2 sujets, jamais de remplissage.
+3. **Fabrication** : `posts/<vendredi>-hors-parquet/spec.json` sur le modèle de
+   `studio/hors_parquet.py` (chaque sujet : `rubrique`, `titre`, `chiffres`, `texte`, `source`,
+   plus `lien` et `lien_titre` pour la page du site), puis
+   `python3 studio/hors_parquet.py posts/<vendredi>-hors-parquet/spec.json`. Regarder chaque image.
+4. **Légende** : un paragraphe par sujet, sources citées, tags uniquement depuis
+   `data/comptes-instagram.json` (jamais un pseudo deviné : demander à Alexandre et l'ajouter au
+   fichier une fois donné).
+5. `post.json` : `{"publier_a": "<vendredi>T12:00:00+01:00", "statut": "brouillon", ...}` —
+   **brouillon : le robot ne le publie jamais sans validation.** Push, `programme.yml`, images en ligne
+   vérifiées, puis notification « Post P&W à valider — Hors parquet, vendredi 12h ».
+6. **Validation** : « ok » → `"statut": "valide"` (publication à 12h). Corrections → refaire, push.
+   Sans réponse le vendredi à 11h45 : rien ne part ; prévenir Alexandre que le numéro attend.
+7. Après publication, la page `pickandwatch.fr/hors-parquet.html` se met à jour toute seule
+   (numéros publiés, avec les liens des sources).
