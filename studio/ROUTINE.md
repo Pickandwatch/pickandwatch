@@ -258,9 +258,10 @@ demies 8-9 déc. ; finale 11 déc. (Hinkle Fieldhouse, Indianapolis). Les matchs
 
 ## 8. Nuit d'Halloween (31 octobre)
 
-Demande d'Alexandre (25/10/2026) : un petit thème Halloween sur chaque publication des matchs de la
-nuit du 31 octobre. Automatique : `carrousel.py` (dossier `posts/AAAA-10-31/`) ajoute le bandeau
-« NUIT D'HALLOWEEN » sur la couverture et des chauves-souris et une citrouille sur chaque slide ;
-la story du soir les reprend ; `story.py` fait de même pour les verdicts de cette nuit (publiés le
-1er novembre à 8h). Légende du soir : commencer par « Spécial nuit d'Halloween » et ajouter
-#Halloween. Aucun changement de contenu, de charte ou de règle anti-spoiler.
+Demande d'Alexandre (25/10/2026), version 2 (la première, en clip-art, a été refusée : « trop
+cheap »). « Édition Halloween », sobre et éditoriale, automatique pour `posts/AAAA-10-31/` et pour les
+verdicts de cette nuit (`story.py`) : couvertures en version nuit de la charte (fond encre, l'orange
+de la marque comme seule couleur), toile d'araignée et croissant de lune au trait fin, mention
+« ÉDITION HALLOWEEN · 31.10 » ; slides de match et cartes : seulement la toile au trait, discrète.
+Légende du soir : commencer par « Édition Halloween » et ajouter #Halloween. Aucun changement de
+contenu ni de règle anti-spoiler.
