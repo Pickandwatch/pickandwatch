@@ -14,7 +14,7 @@ Une consigne est retirée quand elle est traitée (noter la date dans le commit)
   un abonnement supplémentaire). Alexandre pense que Prime diffuse « généralement tous les matchs »
   (21/10) : toujours non confirmé, ne pas l'écrire. beIN : jusqu'à 9 matchs par semaine.
 
-- **Prime Video : repérage automatique** (22/10). Le robot repère les matchs « NBA on Prime » des
+- **Prime Video : repérage automatique** (22/10 ; règle CONFIRMÉE le 25/10, clé passée à `true` : Insidebasket 20/10 confirme Knicks – 76ers le 30/10 et indique 67 matchs du calendrier américain + 20 affiches en prime time européen à annoncer — les saisir dès leur annonce). Le robot repère les matchs « NBA on Prime » des
   États-Unis dans le calendrier ESPN (diffusion nationale « Prime Video »). Saison 2025-26 : la
   France avait ces matchs + 20 affiches propres (86 au total) ; 2026-27 : 86 annoncés, règle à
   confirmer. Tant que `prime_usa_en_france` vaut `false` dans `data/diffuseurs.json`, ces matchs

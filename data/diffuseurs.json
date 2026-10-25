@@ -10,6 +10,6 @@
             "source": "insidebasket.com, 20/10/2026 (programme NBA de Prime Video France 2026-27 : Knicks – Celtics puis Rockets – Spurs, 1h et 3h30, inclus dans l'abonnement Prime)"
         }
     },
-    "prime_usa_en_france": false,
-    "_prime": "Mettre prime_usa_en_france à true quand il est confirmé que les matchs « NBA on Prime » américains sont aussi sur Prime Video France. Les affiches propres à la France (ex. dimanches 19h) se saisissent dans matchs."
+    "prime_usa_en_france": true,
+    "_prime": "Règle confirmée le 25/10/2026 (insidebasket.com, 20/10/2026) : Prime Video France reprend les matchs « NBA on Prime » américains (67 dévoilés), plus 20 affiches en prime time européen encore à annoncer, à saisir dans matchs."
 }
