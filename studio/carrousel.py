@@ -48,9 +48,9 @@ def render(src, out, names, theme=None, theme_names=None, halloween=False):
             if theme == 'cup' and (theme_names is None or n in theme_names):
                 from cup_theme import cupify
                 body = cupify(body)
-            if halloween:  # nuit du 31 octobre : sur toutes les slides
-                from halloween_theme import halloweenify
-                body = halloweenify(body, dark=(theme == 'cup' and n in ('cover', 'cta')) or n.startswith('m'))
+            if halloween:  # nuit du 31 octobre : édition Halloween (couverture en version nuit, toile au trait)
+                from halloween_theme import edition
+                body = edition(body, cover=(n == 'cover'), light=(n == 'cta'))
             h = src / f'_{n}.html'
             h.write_text(f'<html><head><meta charset="utf-8">{FONTS}<style>body{{margin:0}}</style></head><body>{body}</body></html>')
             pg.goto(f'file://{h.resolve()}'); pg.wait_for_load_state('networkidle'); pg.evaluate('document.fonts.ready'); pg.wait_for_timeout(600)
@@ -75,8 +75,6 @@ def main(spec_path):
     spec = json.loads(spec_path.read_text())
     tmp = pathlib.Path(tempfile.mkdtemp())
     gen_match.OUT = tmp
-    if spec.get('halloween', out.name[5:10] == '10-31'):
-        spec['cover'].setdefault('bandeau', "NUIT D'HALLOWEEN")
     cover(spec['cover'], tmp)
     names = ['cover']
     for i, m in enumerate(spec['matches'], 2):

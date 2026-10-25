@@ -209,8 +209,8 @@ HALLOWEEN = False  # nuit du 31 octobre : petit thème Halloween sur chaque imag
 def render(pages: list[str], out: pathlib.Path) -> list[str]:
     if HALLOWEEN:
         sys.path.insert(0, str(ST))
-        from halloween_theme import halloweenify
-        pages = [halloweenify(p, W, H, dark=(CUP and k == 0), story=(H == 1920)) for k, p in enumerate(pages)]
+        from halloween_theme import edition
+        pages = [edition(p, W, H, cover=(k == 0 and not CUP), story=(H == 1920), light=(k > 0)) for k, p in enumerate(pages)]
     from playwright.sync_api import sync_playwright
     from PIL import Image
     tmp = pathlib.Path(tempfile.mkdtemp())
