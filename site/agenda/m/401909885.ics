@@ -9,12 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909885@pickandwatch.fr
-DTSTAMP:20261025T111352Z
+DTSTAMP:20261025T112133Z
 DTSTART:20261028T233000Z
 DTEND:20261029T020000Z
 SUMMARY:NBA · Raptors – Magic
-DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
- és\, sans spoiler : https://pickandwatch.fr
+DESCRIPTION:Où regarder : NBA League Pass. Le verdict sans spoiler demai
+ n à 8h sur Instagram : @pickandwatch.fr. Programme : https://pickandwat
+ ch.fr
 URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -9,12 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401910179@pickandwatch.fr
-DTSTAMP:20261025T111351Z
+DTSTAMP:20261025T112133Z
 DTSTART:20261224T003000Z
 DTEND:20261224T030000Z
 SUMMARY:NBA · 76ers – Rockets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
+DESCRIPTION:Où regarder : Prime Video. Le verdict sans spoiler demain à
+  8h sur Instagram : @pickandwatch.fr. Programme : https://pickandwatch.f
+ r
 URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY

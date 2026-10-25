@@ -9,12 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909326@pickandwatch.fr
-DTSTAMP:20261025T111352Z
+DTSTAMP:20261025T112133Z
 DTSTART:20261128T000000Z
 DTEND:20261128T023000Z
 SUMMARY:NBA · Knicks – Heat
-DESCRIPTION:Où regarder : Prime Video. Match de NBA Cup. Programme compl
- et et différés\, sans spoiler : https://pickandwatch.fr
+DESCRIPTION:Où regarder : Prime Video. Match de NBA Cup. Le verdict sans
+  spoiler demain à 8h sur Instagram : @pickandwatch.fr. Programme : http
+ s://pickandwatch.fr
 URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY

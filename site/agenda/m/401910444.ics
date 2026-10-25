@@ -9,12 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401910444@pickandwatch.fr
-DTSTAMP:20261025T111352Z
+DTSTAMP:20261025T112133Z
 DTSTART:20270129T023000Z
 DTEND:20270129T050000Z
 SUMMARY:NBA · Bucks – Heat
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
+DESCRIPTION:Où regarder : Prime Video. Le verdict sans spoiler demain à
+  8h sur Instagram : @pickandwatch.fr. Programme : https://pickandwatch.f
+ r
 URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY

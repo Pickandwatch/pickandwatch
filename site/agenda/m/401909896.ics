@@ -9,12 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909896@pickandwatch.fr
-DTSTAMP:20261025T111352Z
+DTSTAMP:20261025T112133Z
 DTSTART:20261031T190000Z
 DTEND:20261031T213000Z
 SUMMARY:NBA · Jazz – Trail Blazers
-DESCRIPTION:Où regarder : beIN SPORTS MAX 5. Programme complet et diffé
- rés\, sans spoiler : https://pickandwatch.fr
+DESCRIPTION:Où regarder : beIN SPORTS MAX 5. Le verdict sans spoiler dem
+ ain à 8h sur Instagram : @pickandwatch.fr. Programme : https://pickandw
+ atch.fr
 URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY

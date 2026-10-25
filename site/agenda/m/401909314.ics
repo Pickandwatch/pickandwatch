@@ -9,13 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909314@pickandwatch.fr
-DTSTAMP:20261025T111351Z
+DTSTAMP:20261025T112133Z
 DTSTART:20261125T000000Z
 DTEND:20261125T023000Z
 SUMMARY:NBA · Magic – Pistons
 DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
- e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
- andwatch.fr
+ e NBA Cup. Le verdict sans spoiler demain à 8h sur Instagram : @pickand
+ watch.fr. Programme : https://pickandwatch.fr
 URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
