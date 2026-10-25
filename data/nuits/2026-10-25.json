@@ -1,0 +1,269 @@
+{
+  "night": "2026-10-25",
+  "generated_at": "2026-10-25T05:31+01:00",
+  "games": [
+    {
+      "id": "401909861",
+      "tip_paris": "2026-10-25T22:00:00+01:00",
+      "home": {
+        "abbr": "UTAH",
+        "name": "Jazz",
+        "location": "Utah",
+        "full": "Utah Jazz",
+        "color": "#4e008e",
+        "color2": "#79a3dc"
+      },
+      "away": {
+        "abbr": "LAL",
+        "name": "Lakers",
+        "location": "Los Angeles",
+        "full": "Los Angeles Lakers",
+        "color": "#552583",
+        "color2": "#fdb927"
+      },
+      "venue": "Delta Center",
+      "city": "Salt Lake City",
+      "neutral": false,
+      "phase": "regular-season",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909862",
+      "tip_paris": "2026-10-25T23:00:00+01:00",
+      "home": {
+        "abbr": "BKN",
+        "name": "Nets",
+        "location": "Brooklyn",
+        "full": "Brooklyn Nets",
+        "color": "#000000",
+        "color2": "#ffffff"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Pacers",
+        "location": "Indiana",
+        "full": "Indiana Pacers",
+        "color": "#0c2340",
+        "color2": "#ffd520"
+      },
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "neutral": false,
+      "phase": "regular-season",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909863",
+      "tip_paris": "2026-10-26T00:00:00+01:00",
+      "home": {
+        "abbr": "NY",
+        "name": "Knicks",
+        "location": "New York",
+        "full": "New York Knicks",
+        "color": "#1d428a",
+        "color2": "#f58426"
+      },
+      "away": {
+        "abbr": "ORL",
+        "name": "Magic",
+        "location": "Orlando",
+        "full": "Orlando Magic",
+        "color": "#0150b5",
+        "color2": "#9ca0a3"
+      },
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "neutral": false,
+      "phase": "regular-season",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909864",
+      "tip_paris": "2026-10-26T00:00:00+01:00",
+      "home": {
+        "abbr": "MIN",
+        "name": "Timberwolves",
+        "location": "Minnesota",
+        "full": "Minnesota Timberwolves",
+        "color": "#266092",
+        "color2": "#79bc43"
+      },
+      "away": {
+        "abbr": "TOR",
+        "name": "Raptors",
+        "location": "Toronto",
+        "full": "Toronto Raptors",
+        "color": "#d91244",
+        "color2": "#000000"
+      },
+      "venue": "Target Center",
+      "city": "Minneapolis",
+      "neutral": false,
+      "phase": "regular-season",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909865",
+      "tip_paris": "2026-10-26T00:00:00+01:00",
+      "home": {
+        "abbr": "OKC",
+        "name": "Thunder",
+        "location": "Oklahoma City",
+        "full": "Oklahoma City Thunder",
+        "color": "#007ac1",
+        "color2": "#ef3b24"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Clippers",
+        "location": "LA",
+        "full": "LA Clippers",
+        "color": "#12173f",
+        "color2": "#c8102e"
+      },
+      "venue": "Paycom Center",
+      "city": "Oklahoma City",
+      "neutral": false,
+      "phase": "regular-season",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909866",
+      "tip_paris": "2026-10-26T00:30:00+01:00",
+      "home": {
+        "abbr": "PHI",
+        "name": "76ers",
+        "location": "Philadelphia",
+        "full": "Philadelphia 76ers",
+        "color": "#1d428a",
+        "color2": "#e01234"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Pistons",
+        "location": "Detroit",
+        "full": "Detroit Pistons",
+        "color": "#1d428a",
+        "color2": "#c8102e"
+      },
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "neutral": false,
+      "phase": "regular-season",
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-10-26T00:30:00+01:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-26T10:45:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 3",
+            "start": "2026-10-26T21:30:00+01:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909867",
+      "tip_paris": "2026-10-26T02:00:00+01:00",
+      "home": {
+        "abbr": "SAC",
+        "name": "Kings",
+        "location": "Sacramento",
+        "full": "Sacramento Kings",
+        "color": "#5a2d81",
+        "color2": "#6a7a82"
+      },
+      "away": {
+        "abbr": "MEM",
+        "name": "Grizzlies",
+        "location": "Memphis",
+        "full": "Memphis Grizzlies",
+        "color": "#5d76a9",
+        "color2": "#12173f"
+      },
+      "venue": "Golden 1 Center",
+      "city": "Sacramento",
+      "neutral": false,
+      "phase": "regular-season",
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Jazz – Lakers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Nets – Pacers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Knicks – Magic : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Timberwolves – Raptors : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Thunder – Clippers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Kings – Grizzlies : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  },
+  "rediffusions_nuit": []
+}
