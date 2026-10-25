@@ -1,0 +1,42 @@
+{
+  "_statut": "proposé le 25 octobre 2026 (en attente de validation)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (scoreboard, summary, blessures et calendriers au 25/10/2026, 15h ; minutes jouées des matchs de saison régulière) ; previews AP/ESPN du 24-25/10/2026 (blessures : LeBron James dos, Jalen Duren, Noah Penda, Maxime Raynaud, Donte DiVincenzo, Clippers) ; guide TV beIN SPORTS (76ers – Pistons en direct et rediffusions) et agendatv-basket.com (25/10/2026 : seul match NBA de la nuit sur une chaîne française) ; ESPN (aucune diffusion Prime Video aux États-Unis ce soir) et bebasket.fr 20/10/2026 (Prime Video France : sélection de matchs, aucun annoncé ce soir)",
+  "matchs": {
+    "401909866": {
+      "stars": 3,
+      "score": "5 + 5 = 10 (Rayan Rupert, non entré en jeu aux trois premiers matchs, non compté) ; seul match diffusé en France (direct beIN SPORTS 1), retenu comme ★★★",
+      "brief": "Deuxième soir d'affilée pour les deux équipes. Cade Cunningham et Detroit, premier de l'Est la saison dernière, chez Tyrese Maxey et Jaylen Brown. LeBron James (dos), absent la veille, et Joel Embiid (repos) sont incertains ; Jalen Duren est absent."
+    },
+    "401909864": {
+      "stars": 2,
+      "score": "5 + 3 + 2 (événement : les Français Rudy Gobert et Joan Beringer) = 10, ramené à ★★ (un seul ★★★ par nuit : 76ers – Pistons l'emporte par la diffusion TV française)",
+      "brief": "Anthony Edwards, LaMelo Ball et les Français Rudy Gobert et Joan Beringer face à Kawhi Leonard, Scottie Barnes et RJ Barrett. Donte DiVincenzo (tendon d'Achille) est absent côté Minnesota."
+    },
+    "401909863": {
+      "stars": 2,
+      "score": "7 + 2 = 9 (Pacôme Dadiet et Mohamed Diawara, non entrés en jeu aux deux premiers matchs, non comptés ; Noah Penda blessé), ramené à ★★ (un seul ★★★ par nuit)",
+      "brief": "Les champions NBA de Jalen Brunson et Karl-Anthony Towns reçoivent un Magic privé de Paolo Banchero (cheville) et du Français Noah Penda. Franz Wagner et Desmond Bane mènent Orlando."
+    },
+    "401909865": {
+      "stars": 2,
+      "score": "7 + 1 = 8",
+      "brief": "Shai Gilgeous-Alexander, Chet Holmgren et Jalen Williams reçoivent des Clippers au deuxième soir d'affilée, sans Bradley Beal, Brandon Ingram ni Max Strus. Darius Garland mène Los Angeles."
+    },
+    "401909861": {
+      "stars": 2,
+      "score": "1 + 6 = 7 (pas de slide : au plus 4 slides)",
+      "brief": "Deuxième soir d'affilée pour les deux équipes. Luka Dončić et Austin Reaves chez Lauri Markkanen, Jaren Jackson Jr. et le rookie Darryn Peterson."
+    },
+    "401909862": {
+      "stars": 1,
+      "score": "1 + 2 + 2 (événement : le Français Nolan Traoré) = 5",
+      "brief": "Tyrese Haliburton et Pascal Siakam face à Michael Porter Jr., Julius Randle et au Français Nolan Traoré. Brooklyn joue son deuxième match en deux soirs."
+    },
+    "401909867": {
+      "stars": 1,
+      "score": "1 + 1 = 2 (le Français Maxime Raynaud, blessé au genou, absent : pas d'événement)",
+      "brief": "Domantas Sabonis et Zach LaVine face à Memphis, sans Zach Edey. Le Français Maxime Raynaud (genou) est absent."
+    }
+  }
+}

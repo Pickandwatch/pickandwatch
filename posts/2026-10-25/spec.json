@@ -1,0 +1,70 @@
+{
+ "cover": {
+  "title": "7 MATCHS, 1 SUR beIN SPORTS",
+  "date": "DIMANCHE 25 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["76ERS", "PISTONS"],
+  "top_info": "00:30 · PHILADELPHIE · beIN SPORTS 1",
+  "others": [
+   ["JAZZ – LAKERS", "22:00", "★★"],
+   ["KNICKS – MAGIC", "00:00", "★★"],
+   ["WOLVES – RAPTORS", "00:00", "★★"],
+   ["THUNDER – CLIPPERS", "00:00", "★★"]
+  ],
+  "note": "★ AUSSI : NETS – PACERS 23:00 · KINGS – GRIZZLIES 02:00<br>TV : 76ERS – PISTONS EN DIRECT SUR beIN SPORTS 1<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "PHILADELPHIE · XFINITY MOBILE ARENA",
+   "home": "76ers", "home_city": "PHILADELPHIE", "home_bg": "#1D428A", "home_sec": "#ED174C",
+   "away": "Pistons", "away_city": "DETROIT", "away_c1": "#C8102E", "away_c2": "#1D42BA",
+   "counter": "NUIT DU 25 AU 26 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "00:30",
+   "channel": "beIN SPORTS 1",
+   "mode": "DIRECT + DIFFÉRÉ LUN. 10:45",
+   "brief": "Deuxième soir d'affilée pour les deux équipes. Cade Cunningham et Detroit, premier de l'Est la saison dernière, chez Tyrese Maxey et Jaylen Brown. LeBron James (dos), absent la veille, et Joel Embiid (repos) sont incertains ; Jalen Duren est absent.",
+   "chips": ["C. Cunningham", "T. Maxey", "J. Brown", "J. Embiid"],
+   "foot": "Rediff. lun. sur beIN<br>10:45 et 21:30"
+  },
+  {
+   "venue": "MINNEAPOLIS · TARGET CENTER",
+   "home": "Timberwolves", "home_city": "MINNESOTA", "home_bg": "#0C2340", "home_sec": "#78BE20",
+   "away": "Raptors", "away_city": "TORONTO", "away_c1": "#CE1141", "away_c2": "#000000",
+   "counter": "NUIT DU 25 AU 26 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "00:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Anthony Edwards, LaMelo Ball et les Français Rudy Gobert et Joan Beringer face à Kawhi Leonard, Scottie Barnes et RJ Barrett. Donte DiVincenzo (tendon d'Achille) est absent côté Minnesota.",
+   "chips": ["A. Edwards", "R. Gobert", "J. Beringer", "K. Leonard"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks", "home_city": "NEW YORK", "home_bg": "#1D428A", "home_sec": "#F58426",
+   "away": "Magic", "away_city": "ORLANDO", "away_c1": "#0077C0", "away_c2": "#C4CED4",
+   "counter": "NUIT DU 25 AU 26 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "00:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les champions NBA de Jalen Brunson et Karl-Anthony Towns reçoivent un Magic privé de Paolo Banchero (cheville) et du Français Noah Penda. Franz Wagner et Desmond Bane mènent Orlando.",
+   "chips": ["J. Brunson", "K.-A. Towns", "F. Wagner", "D. Bane"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder", "home_city": "OKLAHOMA CITY", "home_bg": "#007AC1", "home_sec": "#EF3B24",
+   "away": "Clippers", "away_city": "LOS ANGELES", "away_c1": "#C8102E", "away_c2": "#1D428A",
+   "counter": "NUIT DU 25 AU 26 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "00:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Shai Gilgeous-Alexander, Chet Holmgren et Jalen Williams reçoivent des Clippers au deuxième soir d'affilée, sans Bradley Beal, Brandon Ingram ni Max Strus. Darius Garland mène Los Angeles.",
+   "chips": ["S. Gilgeous-Alexander", "C. Holmgren", "J. Williams", "D. Garland"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
