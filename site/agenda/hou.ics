@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909840@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261022T003000Z
 DTEND:20261022T030000Z
 SUMMARY:NBA · Rockets – Mavericks
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909096@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261024T013000Z
 DTEND:20261024T040000Z
 SUMMARY:NBA · Spurs – Rockets
@@ -39,7 +39,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909856@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261025T003000Z
 DTEND:20261025T030000Z
 SUMMARY:NBA · Hawks – Rockets
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909874@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261027T003000Z
 DTEND:20261027T030000Z
 SUMMARY:NBA · Rockets – Hawks
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909887@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261029T000000Z
 DTEND:20261029T023000Z
 SUMMARY:NBA · Bucks – Rockets
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909283@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261031T000000Z
 DTEND:20261031T023000Z
 SUMMARY:NBA · Mavericks – Rockets
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909902@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261101T003000Z
 DTEND:20261101T030000Z
 SUMMARY:NBA · Rockets – Thunder
@@ -114,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909916@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
 SUMMARY:NBA · Rockets – Celtics
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909930@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261105T013000Z
 DTEND:20261105T040000Z
 SUMMARY:NBA · Rockets – Timberwolves
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909943@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261108T020000Z
 DTEND:20261108T043000Z
 SUMMARY:NBA · Suns – Rockets
@@ -159,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909957@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261110T013000Z
 DTEND:20261110T040000Z
 SUMMARY:NBA · Rockets – Nuggets
@@ -174,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909974@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261112T023000Z
 DTEND:20261112T050000Z
 SUMMARY:NBA · Rockets – Warriors
@@ -189,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909301@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261114T013000Z
 DTEND:20261114T040000Z
 SUMMARY:NBA · Rockets – Jazz
@@ -205,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909991@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261116T000000Z
 DTEND:20261116T023000Z
 SUMMARY:NBA · Wizards – Rockets
@@ -220,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909998@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261117T003000Z
 DTEND:20261117T030000Z
 SUMMARY:NBA · Heat – Rockets
@@ -235,7 +235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910008@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261119T000000Z
 DTEND:20261119T023000Z
 SUMMARY:NBA · Pacers – Rockets
@@ -250,7 +250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909312@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261121T030000Z
 DTEND:20261121T053000Z
 SUMMARY:NBA · Nuggets – Rockets
@@ -265,7 +265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910043@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261124T013000Z
 DTEND:20261124T040000Z
 SUMMARY:NBA · Rockets – Clippers
@@ -280,7 +280,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909323@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261126T013000Z
 DTEND:20261126T040000Z
 SUMMARY:NBA · Rockets – Suns
@@ -296,7 +296,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910050@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261129T013000Z
 DTEND:20261129T040000Z
 SUMMARY:NBA · Rockets – 76ers
@@ -311,7 +311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910064@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261201T003000Z
 DTEND:20261201T030000Z
 SUMMARY:NBA · Rockets – Lakers
@@ -321,891 +321,6 @@ URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:NBA · Rockets – Lakers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910072@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261202T013000Z
-DTEND:20261202T040000Z
-SUMMARY:NBA · Rockets – Raptors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Raptors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910101@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261213T230000Z
-DTEND:20261214T013000Z
-SUMMARY:NBA · Bulls – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bulls – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910111@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261215T013000Z
-DTEND:20261215T040000Z
-SUMMARY:NBA · Rockets – Knicks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Knicks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910128@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261217T013000Z
-DTEND:20261217T040000Z
-SUMMARY:NBA · Rockets – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910140@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261219T010000Z
-DTEND:20261219T033000Z
-SUMMARY:NBA · Grizzlies – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Grizzlies – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910150@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261220T203000Z
-DTEND:20261220T230000Z
-SUMMARY:NBA · Raptors – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Raptors – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910179@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261224T003000Z
-DTEND:20261224T030000Z
-SUMMARY:NBA · 76ers – Rockets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910195@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261227T203000Z
-DTEND:20261227T230000Z
-SUMMARY:NBA · Rockets – Thunder
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Thunder
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910219@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261230T033000Z
-DTEND:20261230T060000Z
-SUMMARY:NBA · Lakers – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Lakers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910225@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261231T030000Z
-DTEND:20261231T053000Z
-SUMMARY:NBA · Warriors – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910239@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270102T013000Z
-DTEND:20270102T040000Z
-SUMMARY:NBA · Rockets – Mavericks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Mavericks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910256@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270104T000000Z
-DTEND:20270104T023000Z
-SUMMARY:NBA · Rockets – Cavaliers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Cavaliers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910271@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270106T010000Z
-DTEND:20270106T033000Z
-SUMMARY:NBA · Rockets – Timberwolves
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Timberwolves
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910287@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270108T013000Z
-DTEND:20270108T040000Z
-SUMMARY:NBA · Rockets – Grizzlies
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Grizzlies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910300@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270109T230000Z
-DTEND:20270110T013000Z
-SUMMARY:NBA · Nets – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nets – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910315@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270112T003000Z
-DTEND:20270112T030000Z
-SUMMARY:NBA · Celtics – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910331@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270114T023000Z
-DTEND:20270114T050000Z
-SUMMARY:NBA · Thunder – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910348@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270116T013000Z
-DTEND:20270116T040000Z
-SUMMARY:NBA · Rockets – Wizards
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Wizards
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910355@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270117T013000Z
-DTEND:20270117T040000Z
-SUMMARY:NBA · Rockets – Pistons
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Pistons
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401909476@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270119T003000Z
-DTEND:20270119T030000Z
-SUMMARY:NBA · Grizzlies – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Grizzlies – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910379@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270121T010000Z
-DTEND:20270121T033000Z
-SUMMARY:NBA · Timberwolves – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910390@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270123T000000Z
-DTEND:20270123T023000Z
-SUMMARY:NBA · Hornets – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910410@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270124T230000Z
-DTEND:20270125T013000Z
-SUMMARY:NBA · Magic – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Magic – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910424@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270127T010000Z
-DTEND:20270127T033000Z
-SUMMARY:NBA · Spurs – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910434@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270128T013000Z
-DTEND:20270128T040000Z
-SUMMARY:NBA · Rockets – Pelicans
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910449@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270130T013000Z
-DTEND:20270130T040000Z
-SUMMARY:NBA · Rockets – Magic
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Magic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910466@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270201T013000Z
-DTEND:20270201T040000Z
-SUMMARY:NBA · Mavericks – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Mavericks – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910486@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270204T023000Z
-DTEND:20270204T050000Z
-SUMMARY:NBA · Rockets – Jazz
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Jazz
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910502@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270206T020000Z
-DTEND:20270206T043000Z
-SUMMARY:NBA · Suns – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Suns – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910520@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270208T033000Z
-DTEND:20270208T060000Z
-SUMMARY:NBA · Kings – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910536@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270210T030000Z
-DTEND:20270210T053000Z
-SUMMARY:NBA · Jazz – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Jazz – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910549@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270212T013000Z
-DTEND:20270212T040000Z
-SUMMARY:NBA · Rockets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910558@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270213T010000Z
-DTEND:20270213T033000Z
-SUMMARY:NBA · Pelicans – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pelicans – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910571@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270214T190000Z
-DTEND:20270214T213000Z
-SUMMARY:NBA · Rockets – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910582@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270217T040000Z
-DTEND:20270217T063000Z
-SUMMARY:NBA · Clippers – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910598@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270219T030000Z
-DTEND:20270219T053000Z
-SUMMARY:NBA · Lakers – Rockets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Lakers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910614@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270227T013000Z
-DTEND:20270227T040000Z
-SUMMARY:NBA · Rockets – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910630@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270301T023000Z
-DTEND:20270301T050000Z
-SUMMARY:NBA · Rockets – Heat
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Heat
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910635@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270302T013000Z
-DTEND:20270302T040000Z
-SUMMARY:NBA · Rockets – Warriors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Warriors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910651@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270304T013000Z
-DTEND:20270304T040000Z
-SUMMARY:NBA · Rockets – Pelicans
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910667@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270306T023000Z
-DTEND:20270306T050000Z
-SUMMARY:NBA · Rockets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910679@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270308T030000Z
-DTEND:20270308T053000Z
-SUMMARY:NBA · Warriors – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910688@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270309T033000Z
-DTEND:20270309T060000Z
-SUMMARY:NBA · Clippers – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910699@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270311T020000Z
-DTEND:20270311T043000Z
-SUMMARY:NBA · Jazz – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Jazz – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910721@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270313T223000Z
-DTEND:20270314T010000Z
-SUMMARY:NBA · Rockets – Pacers
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Pacers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910745@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270317T003000Z
-DTEND:20270317T030000Z
-SUMMARY:NBA · Rockets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910752@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270318T003000Z
-DTEND:20270318T030000Z
-SUMMARY:NBA · Rockets – Nets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Nets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910767@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270320T000000Z
-DTEND:20270320T023000Z
-SUMMARY:NBA · Pelicans – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pelicans – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910786@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270322T230000Z
-DTEND:20270323T013000Z
-SUMMARY:NBA · Cavaliers – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Cavaliers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910804@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270324T233000Z
-DTEND:20270325T020000Z
-SUMMARY:NBA · Knicks – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Knicks – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910812@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270325T230000Z
-DTEND:20270326T013000Z
-SUMMARY:NBA · Pistons – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pistons – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910833@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270328T190000Z
-DTEND:20270328T213000Z
-SUMMARY:NBA · Rockets – Lakers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Lakers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910853@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270331T030000Z
-DTEND:20270331T053000Z
-SUMMARY:NBA · Trail Blazers – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Trail Blazers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910863@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270401T020000Z
-DTEND:20270401T043000Z
-SUMMARY:NBA · Trail Blazers – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Trail Blazers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910876@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270403T003000Z
-DTEND:20270403T030000Z
-SUMMARY:NBA · Rockets – Grizzlies
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Grizzlies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910888@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270404T200000Z
-DTEND:20270404T223000Z
-SUMMARY:NBA · Rockets – Bulls
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Bulls
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910915@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270408T003000Z
-DTEND:20270408T030000Z
-SUMMARY:NBA · Rockets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910931@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270410T003000Z
-DTEND:20270410T030000Z
-SUMMARY:NBA · Rockets – Trail Blazers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Trail Blazers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910946@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270412T003000Z
-DTEND:20270412T030000Z
-SUMMARY:NBA · Timberwolves – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – Rockets
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

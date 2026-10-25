@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909842@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261022T023000Z
 DTEND:20261022T050000Z
 SUMMARY:NBA · Clippers – Kings
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909852@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261024T020000Z
 DTEND:20261024T043000Z
 SUMMARY:NBA · Kings – Trail Blazers
@@ -39,7 +39,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909867@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261026T010000Z
 DTEND:20261026T033000Z
 SUMMARY:NBA · Kings – Grizzlies
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909879@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
 SUMMARY:NBA · Spurs – Kings
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909894@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261030T000000Z
 DTEND:20261030T023000Z
 SUMMARY:NBA · Pelicans – Kings
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909899@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
 SUMMARY:NBA · Grizzlies – Kings
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909913@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261103T010000Z
 DTEND:20261103T033000Z
 SUMMARY:NBA · Mavericks – Kings
@@ -114,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909934@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261105T030000Z
 DTEND:20261105T053000Z
 SUMMARY:NBA · Kings – Lakers
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909295@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261107T030000Z
 DTEND:20261107T053000Z
 SUMMARY:NBA · Kings – Spurs
@@ -145,7 +145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909951@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261109T020000Z
 DTEND:20261109T043000Z
 SUMMARY:NBA · Kings – Heat
@@ -160,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909964@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261111T030000Z
 DTEND:20261111T053000Z
 SUMMARY:NBA · Kings – Magic
@@ -175,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909303@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261114T030000Z
 DTEND:20261114T053000Z
 SUMMARY:NBA · Kings – Trail Blazers
@@ -191,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909993@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261116T020000Z
 DTEND:20261116T043000Z
 SUMMARY:NBA · Kings – Thunder
@@ -206,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910018@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261119T030000Z
 DTEND:20261119T053000Z
 SUMMARY:NBA · Kings – Suns
@@ -221,7 +221,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909313@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261121T030000Z
 DTEND:20261121T053000Z
 SUMMARY:NBA · Lakers – Kings
@@ -237,7 +237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910028@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261122T030000Z
 DTEND:20261122T053000Z
 SUMMARY:NBA · Kings – Celtics
@@ -252,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910045@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261124T030000Z
 DTEND:20261124T053000Z
 SUMMARY:NBA · Kings – Spurs
@@ -267,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909324@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261126T030000Z
 DTEND:20261126T053000Z
 SUMMARY:NBA · Warriors – Kings
@@ -283,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910060@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261130T020000Z
 DTEND:20261130T043000Z
 SUMMARY:NBA · Kings – Timberwolves
@@ -298,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910067@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261201T030000Z
 DTEND:20261201T053000Z
 SUMMARY:NBA · Kings – Pelicans
@@ -308,906 +308,6 @@ URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:NBA · Kings – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910083@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261203T020000Z
-DTEND:20261203T043000Z
-SUMMARY:NBA · Suns – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Suns – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910103@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261214T020000Z
-DTEND:20261214T043000Z
-SUMMARY:NBA · Kings – Pelicans
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910127@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261217T010000Z
-DTEND:20261217T033000Z
-SUMMARY:NBA · Thunder – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910143@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261219T010000Z
-DTEND:20261219T033000Z
-SUMMARY:NBA · Pelicans – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pelicans – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910153@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261220T230000Z
-DTEND:20261221T013000Z
-SUMMARY:NBA · Heat – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Heat – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910161@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261222T000000Z
-DTEND:20261222T023000Z
-SUMMARY:NBA · Magic – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Magic – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910185@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261224T030000Z
-DTEND:20261224T053000Z
-SUMMARY:NBA · Kings – Mavericks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Mavericks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910200@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261227T230000Z
-DTEND:20261228T013000Z
-SUMMARY:NBA · Kings – Jazz
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Jazz
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910218@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261230T030000Z
-DTEND:20261230T053000Z
-SUMMARY:NBA · Kings – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910231@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261231T230000Z
-DTEND:20270101T013000Z
-SUMMARY:NBA · Kings – Nets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Nets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910249@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270103T020000Z
-DTEND:20270103T043000Z
-SUMMARY:NBA · Suns – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Suns – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910258@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270104T010000Z
-DTEND:20270104T033000Z
-SUMMARY:NBA · Thunder – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910273@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270106T030000Z
-DTEND:20270106T053000Z
-SUMMARY:NBA · Kings – Pistons
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Pistons
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910290@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270108T030000Z
-DTEND:20270108T053000Z
-SUMMARY:NBA · Kings – Bulls
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Bulls
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910298@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270109T030000Z
-DTEND:20270109T053000Z
-SUMMARY:NBA · Kings – Knicks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Knicks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910312@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270111T020000Z
-DTEND:20270111T043000Z
-SUMMARY:NBA · Kings – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910326@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270113T040000Z
-DTEND:20270113T063000Z
-SUMMARY:NBA · Warriors – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910342@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270115T030000Z
-DTEND:20270115T053000Z
-SUMMARY:NBA · Kings – Clippers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Clippers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910349@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270116T030000Z
-DTEND:20270116T053000Z
-SUMMARY:NBA · Trail Blazers – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Trail Blazers – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910361@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270117T220000Z
-DTEND:20270118T003000Z
-SUMMARY:NBA · Jazz – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Jazz – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910374@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270120T030000Z
-DTEND:20270120T053000Z
-SUMMARY:NBA · Kings – Lakers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Lakers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910384@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270121T030000Z
-DTEND:20270121T053000Z
-SUMMARY:NBA · Kings – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910398@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270123T030000Z
-DTEND:20270123T053000Z
-SUMMARY:NBA · Lakers – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Lakers – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910420@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270126T023000Z
-DTEND:20270126T050000Z
-SUMMARY:NBA · Nuggets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910429@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270128T000000Z
-DTEND:20270128T023000Z
-SUMMARY:NBA · 76ers – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910440@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270129T000000Z
-DTEND:20270129T023000Z
-SUMMARY:NBA · Wizards – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Wizards – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910459@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270131T200000Z
-DTEND:20270131T223000Z
-SUMMARY:NBA · Pistons – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pistons – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910497@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270205T030000Z
-DTEND:20270205T053000Z
-SUMMARY:NBA · Kings – Timberwolves
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Timberwolves
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910512@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270207T030000Z
-DTEND:20270207T053000Z
-SUMMARY:NBA · Kings – Suns
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Suns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910520@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270208T033000Z
-DTEND:20270208T060000Z
-SUMMARY:NBA · Kings – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910534@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270210T010000Z
-DTEND:20270210T033000Z
-SUMMARY:NBA · Bucks – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910549@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270212T013000Z
-DTEND:20270212T040000Z
-SUMMARY:NBA · Rockets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910560@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270213T190000Z
-DTEND:20270213T213000Z
-SUMMARY:NBA · Pacers – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pacers – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910567@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270214T180000Z
-DTEND:20270214T203000Z
-SUMMARY:NBA · Hawks – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hawks – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910594@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270218T030000Z
-DTEND:20270218T053000Z
-SUMMARY:NBA · Kings – Pacers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Pacers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910600@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270226T000000Z
-DTEND:20270226T023000Z
-SUMMARY:NBA · Cavaliers – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Cavaliers – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910620@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270228T010000Z
-DTEND:20270228T033000Z
-SUMMARY:NBA · Grizzlies – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Grizzlies – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910627@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270301T000000Z
-DTEND:20270301T023000Z
-SUMMARY:NBA · Hornets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910645@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270303T030000Z
-DTEND:20270303T053000Z
-SUMMARY:NBA · Kings – Wizards
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Wizards
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910660@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270305T030000Z
-DTEND:20270305T053000Z
-SUMMARY:NBA · Kings – Thunder
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Thunder
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910674@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270307T030000Z
-DTEND:20270307T053000Z
-SUMMARY:NBA · Kings – Clippers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Clippers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910687@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270309T030000Z
-DTEND:20270309T053000Z
-SUMMARY:NBA · Kings – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910702@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270311T030000Z
-DTEND:20270311T053000Z
-SUMMARY:NBA · Kings – Warriors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Warriors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910716@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270313T023000Z
-DTEND:20270313T050000Z
-SUMMARY:NBA · Jazz – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Jazz – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910730@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270314T220000Z
-DTEND:20270315T003000Z
-SUMMARY:NBA · Kings – Cavaliers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Cavaliers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910740@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270316T233000Z
-DTEND:20270317T020000Z
-SUMMARY:NBA · Celtics – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910750@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270317T233000Z
-DTEND:20270318T020000Z
-SUMMARY:NBA · Knicks – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Knicks – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910766@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270319T233000Z
-DTEND:20270320T020000Z
-SUMMARY:NBA · Raptors – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Raptors – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910780@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270321T190000Z
-DTEND:20270321T213000Z
-SUMMARY:NBA · Nets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910788@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270323T000000Z
-DTEND:20270323T023000Z
-SUMMARY:NBA · Bulls – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bulls – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910809@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270325T020000Z
-DTEND:20270325T043000Z
-SUMMARY:NBA · Kings – Hawks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Hawks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910830@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270328T020000Z
-DTEND:20270328T043000Z
-SUMMARY:NBA · Kings – Raptors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Raptors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910847@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270330T020000Z
-DTEND:20270330T043000Z
-SUMMARY:NBA · Kings – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910860@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270401T000000Z
-DTEND:20270401T023000Z
-SUMMARY:NBA · Timberwolves – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910873@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270403T000000Z
-DTEND:20270403T023000Z
-SUMMARY:NBA · Mavericks – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Mavericks – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910892@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270404T220000Z
-DTEND:20270405T003000Z
-SUMMARY:NBA · Kings – Warriors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Warriors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910903@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270407T000000Z
-DTEND:20270407T023000Z
-SUMMARY:NBA · Spurs – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910915@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270408T003000Z
-DTEND:20270408T030000Z
-SUMMARY:NBA · Rockets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910936@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270410T020000Z
-DTEND:20270410T043000Z
-SUMMARY:NBA · Kings – Mavericks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Mavericks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910950@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270412T003000Z
-DTEND:20270412T030000Z
-SUMMARY:NBA · Clippers – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – Kings
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

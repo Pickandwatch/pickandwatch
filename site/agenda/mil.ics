@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909835@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261021T230000Z
 DTEND:20261022T013000Z
 SUMMARY:NBA · Wizards – Bucks
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909848@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261023T200000Z
 DTEND:20261023T223000Z
 SUMMARY:NBA · Bucks – Bulls
@@ -39,7 +39,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909855@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261024T233000Z
 DTEND:20261025T020000Z
 SUMMARY:NBA · 76ers – Bucks
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909872@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
 SUMMARY:NBA · Bucks – Pacers
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909887@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261029T000000Z
 DTEND:20261029T023000Z
 SUMMARY:NBA · Bucks – Rockets
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909900@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
 SUMMARY:NBA · Bucks – Cavaliers
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909915@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261103T010000Z
 DTEND:20261103T033000Z
 SUMMARY:NBA · Timberwolves – Bucks
@@ -114,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909924@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261105T003000Z
 DTEND:20261105T030000Z
 SUMMARY:NBA · Celtics – Bucks
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909292@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
 SUMMARY:NBA · Bucks – Raptors
@@ -145,7 +145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909949@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261109T010000Z
 DTEND:20261109T033000Z
 SUMMARY:NBA · Bucks – Celtics
@@ -160,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909960@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261111T003000Z
 DTEND:20261111T030000Z
 SUMMARY:NBA · Knicks – Bucks
@@ -175,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909971@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
 SUMMARY:NBA · Bucks – Lakers
@@ -190,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909297@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261114T000000Z
 DTEND:20261114T023000Z
 SUMMARY:NBA · Magic – Bucks
@@ -206,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909992@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261116T010000Z
 DTEND:20261116T033000Z
 SUMMARY:NBA · Bucks – Hawks
@@ -221,7 +221,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910009@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261119T000000Z
 DTEND:20261119T023000Z
 SUMMARY:NBA · Heat – Bucks
@@ -236,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910020@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261120T010000Z
 DTEND:20261120T033000Z
 SUMMARY:NBA · Bucks – Trail Blazers
@@ -251,7 +251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910023@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261121T180000Z
 DTEND:20261121T203000Z
 SUMMARY:NBA · 76ers – Bucks
@@ -266,7 +266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910039@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261124T003000Z
 DTEND:20261124T030000Z
 SUMMARY:NBA · Raptors – Bucks
@@ -281,7 +281,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909322@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261126T010000Z
 DTEND:20261126T033000Z
 SUMMARY:NBA · Bucks – Nets
@@ -297,7 +297,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909327@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261128T003000Z
 DTEND:20261128T030000Z
 SUMMARY:NBA · Pistons – Bucks
@@ -313,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910049@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261129T010000Z
 DTEND:20261129T033000Z
 SUMMARY:NBA · Bucks – Thunder
@@ -328,7 +328,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910066@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261201T010000Z
 DTEND:20261201T033000Z
 SUMMARY:NBA · Bucks – Spurs
@@ -338,876 +338,6 @@ URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:NBA · Bucks – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910080@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261203T010000Z
-DTEND:20261203T033000Z
-SUMMARY:NBA · Bucks – Knicks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Knicks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910090@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261212T220000Z
-DTEND:20261213T003000Z
-SUMMARY:NBA · Grizzlies – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Grizzlies – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910109@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261215T010000Z
-DTEND:20261215T033000Z
-SUMMARY:NBA · Mavericks – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Mavericks – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910128@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261217T013000Z
-DTEND:20261217T040000Z
-SUMMARY:NBA · Rockets – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910141@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261219T010000Z
-DTEND:20261219T033000Z
-SUMMARY:NBA · Bucks – Suns
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Suns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910157@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261221T010000Z
-DTEND:20261221T033000Z
-SUMMARY:NBA · Bucks – Warriors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Warriors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910166@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261222T010000Z
-DTEND:20261222T033000Z
-SUMMARY:NBA · Spurs – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910181@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261224T010000Z
-DTEND:20261224T033000Z
-SUMMARY:NBA · Bucks – Timberwolves
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Timberwolves
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910199@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261227T230000Z
-DTEND:20261228T013000Z
-SUMMARY:NBA · Magic – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Magic – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910216@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261230T010000Z
-DTEND:20261230T033000Z
-SUMMARY:NBA · Thunder – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910227@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261231T200000Z
-DTEND:20261231T223000Z
-SUMMARY:NBA · Hawks – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hawks – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910238@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270102T010000Z
-DTEND:20270102T033000Z
-SUMMARY:NBA · Bucks – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910252@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270103T223000Z
-DTEND:20270104T010000Z
-SUMMARY:NBA · Bucks – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910270@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270106T010000Z
-DTEND:20270106T033000Z
-SUMMARY:NBA · Bulls – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bulls – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910286@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270108T010000Z
-DTEND:20270108T033000Z
-SUMMARY:NBA · Bucks – Clippers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Clippers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910301@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270110T000000Z
-DTEND:20270110T023000Z
-SUMMARY:NBA · Pacers – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pacers – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910323@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270113T010000Z
-DTEND:20270113T033000Z
-SUMMARY:NBA · Bucks – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910329@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270114T000000Z
-DTEND:20270114T023000Z
-SUMMARY:NBA · Pacers – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pacers – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910346@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270116T010000Z
-DTEND:20270116T033000Z
-SUMMARY:NBA · Bucks – Cavaliers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Cavaliers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910364@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270118T020000Z
-DTEND:20270118T043000Z
-SUMMARY:NBA · Lakers – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Lakers – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910384@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270121T030000Z
-DTEND:20270121T053000Z
-SUMMARY:NBA · Kings – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910397@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270123T030000Z
-DTEND:20270123T053000Z
-SUMMARY:NBA · Warriors – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910405@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270124T020000Z
-DTEND:20270124T043000Z
-SUMMARY:NBA · Nuggets – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910425@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270127T020000Z
-DTEND:20270127T043000Z
-SUMMARY:NBA · Jazz – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Jazz – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910444@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270129T023000Z
-DTEND:20270129T050000Z
-SUMMARY:NBA · Bucks – Heat
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Heat
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910456@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270131T010000Z
-DTEND:20270131T033000Z
-SUMMARY:NBA · Bucks – Hawks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Hawks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910471@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270202T010000Z
-DTEND:20270202T033000Z
-SUMMARY:NBA · Bucks – Grizzlies
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Grizzlies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910491@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270205T003000Z
-DTEND:20270205T030000Z
-SUMMARY:NBA · Heat – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Heat – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910509@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270207T003000Z
-DTEND:20270207T030000Z
-SUMMARY:NBA · Raptors – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Raptors – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910526@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270209T010000Z
-DTEND:20270209T033000Z
-SUMMARY:NBA · Bucks – Magic
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Magic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910534@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270210T010000Z
-DTEND:20270210T033000Z
-SUMMARY:NBA · Bucks – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910545@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270212T000000Z
-DTEND:20270212T023000Z
-SUMMARY:NBA · Hornets – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910565@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270214T000000Z
-DTEND:20270214T023000Z
-SUMMARY:NBA · Wizards – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Wizards – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910578@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270217T000000Z
-DTEND:20270217T023000Z
-SUMMARY:NBA · Cavaliers – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Cavaliers – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910584@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270218T000000Z
-DTEND:20270218T023000Z
-SUMMARY:NBA · Cavaliers – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Cavaliers – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910606@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270226T010000Z
-DTEND:20270226T033000Z
-SUMMARY:NBA · Bucks – Wizards
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Wizards
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910629@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270301T003000Z
-DTEND:20270301T030000Z
-SUMMARY:NBA · Knicks – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Knicks – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910643@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270303T010000Z
-DTEND:20270303T033000Z
-SUMMARY:NBA · Bucks – Pistons
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Pistons
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910650@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270304T010000Z
-DTEND:20270304T033000Z
-SUMMARY:NBA · Bucks – Jazz
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Jazz
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910665@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270306T010000Z
-DTEND:20270306T033000Z
-SUMMARY:NBA · Pelicans – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pelicans – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910690@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270310T003000Z
-DTEND:20270310T030000Z
-SUMMARY:NBA · Nets – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nets – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910705@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270312T000000Z
-DTEND:20270312T023000Z
-SUMMARY:NBA · Pistons – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pistons – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910714@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270313T010000Z
-DTEND:20270313T033000Z
-SUMMARY:NBA · Bucks – Heat
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Heat
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910742@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270317T000000Z
-DTEND:20270317T023000Z
-SUMMARY:NBA · Bucks – Magic
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Magic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910760@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270319T000000Z
-DTEND:20270319T023000Z
-SUMMARY:NBA · Bucks – Pistons
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Pistons
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910777@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270321T000000Z
-DTEND:20270321T023000Z
-SUMMARY:NBA · Bucks – Pacers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Pacers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910790@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270323T000000Z
-DTEND:20270323T023000Z
-SUMMARY:NBA · Bucks – Wizards
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Wizards
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910810@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270325T023000Z
-DTEND:20270325T050000Z
-SUMMARY:NBA · Clippers – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910822@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270327T020000Z
-DTEND:20270327T043000Z
-SUMMARY:NBA · Suns – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Suns – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910829@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270328T020000Z
-DTEND:20270328T043000Z
-SUMMARY:NBA · Trail Blazers – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Trail Blazers – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910845@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270330T000000Z
-DTEND:20270330T023000Z
-SUMMARY:NBA · Bucks – Mavericks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Mavericks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910859@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270401T000000Z
-DTEND:20270401T023000Z
-SUMMARY:NBA · Bucks – Pelicans
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910874@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270403T000000Z
-DTEND:20270403T023000Z
-SUMMARY:NBA · Bucks – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910883@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270404T180000Z
-DTEND:20270404T203000Z
-SUMMARY:NBA · Bucks – Nets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Nets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910902@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270407T000000Z
-DTEND:20270407T023000Z
-SUMMARY:NBA · Bucks – Bulls
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Bulls
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910919@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270409T000000Z
-DTEND:20270409T023000Z
-SUMMARY:NBA · Bucks – Knicks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Knicks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910929@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270410T000000Z
-DTEND:20270410T023000Z
-SUMMARY:NBA · Bulls – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bulls – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910937@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270411T220000Z
-DTEND:20270412T003000Z
-SUMMARY:NBA · Celtics – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – Bucks
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

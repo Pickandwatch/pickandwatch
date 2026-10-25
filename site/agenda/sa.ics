@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909090@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261021T015000Z
 DTEND:20261021T042000Z
 SUMMARY:NBA · Spurs – Thunder
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909096@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261024T013000Z
 DTEND:20261024T040000Z
 SUMMARY:NBA · Spurs – Rockets
@@ -39,7 +39,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909858@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261025T000000Z
 DTEND:20261025T023000Z
 SUMMARY:NBA · Mavericks – Spurs
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909879@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
 SUMMARY:NBA · Spurs – Kings
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909890@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261029T010000Z
 DTEND:20261029T033000Z
 SUMMARY:NBA · Jazz – Spurs
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909901@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
 SUMMARY:NBA · Spurs – Timberwolves
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909917@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
 SUMMARY:NBA · Spurs – Jazz
@@ -114,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909933@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261105T023000Z
 DTEND:20261105T050000Z
 SUMMARY:NBA · Spurs – Mavericks
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909295@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261107T030000Z
 DTEND:20261107T053000Z
 SUMMARY:NBA · Kings – Spurs
@@ -145,7 +145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909944@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261108T030000Z
 DTEND:20261108T053000Z
 SUMMARY:NBA · Trail Blazers – Spurs
@@ -160,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909958@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261110T020000Z
 DTEND:20261110T043000Z
 SUMMARY:NBA · Suns – Spurs
@@ -175,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909969@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
 SUMMARY:NBA · Bulls – Spurs
@@ -190,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909302@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261114T023000Z
 DTEND:20261114T050000Z
 SUMMARY:NBA · Spurs – Warriors
@@ -205,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909988@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261115T220000Z
 DTEND:20261116T003000Z
 SUMMARY:NBA · Jazz – Spurs
@@ -220,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910004@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261118T010000Z
 DTEND:20261118T033000Z
 SUMMARY:NBA · Spurs – Pistons
@@ -235,7 +235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910022@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261120T010000Z
 DTEND:20261120T033000Z
 SUMMARY:NBA · Spurs – Clippers
@@ -250,7 +250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910027@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261122T010000Z
 DTEND:20261122T033000Z
 SUMMARY:NBA · Spurs – Pelicans
@@ -265,7 +265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910045@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261124T030000Z
 DTEND:20261124T053000Z
 SUMMARY:NBA · Kings – Spurs
@@ -280,7 +280,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909325@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261126T030000Z
 DTEND:20261126T053000Z
 SUMMARY:NBA · Trail Blazers – Spurs
@@ -296,7 +296,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909333@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
 SUMMARY:NBA · Spurs – Lakers
@@ -311,7 +311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910052@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
 SUMMARY:NBA · Spurs – Celtics
@@ -326,7 +326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910066@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261201T010000Z
 DTEND:20261201T033000Z
 SUMMARY:NBA · Bucks – Spurs
@@ -336,876 +336,6 @@ URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:NBA · Bucks – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910088@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261204T010000Z
-DTEND:20261204T033000Z
-SUMMARY:NBA · Spurs – Raptors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Raptors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910102@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261214T000000Z
-DTEND:20261214T023000Z
-SUMMARY:NBA · Spurs – Clippers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Clippers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910115@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261216T010000Z
-DTEND:20261216T033000Z
-SUMMARY:NBA · Cavaliers – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Cavaliers – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910123@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261217T003000Z
-DTEND:20261217T030000Z
-SUMMARY:NBA · Raptors – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Raptors – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910144@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261219T010000Z
-DTEND:20261219T033000Z
-SUMMARY:NBA · Spurs – Bulls
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Bulls
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910155@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261221T000000Z
-DTEND:20261221T023000Z
-SUMMARY:NBA · Pelicans – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pelicans – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910166@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261222T010000Z
-DTEND:20261222T033000Z
-SUMMARY:NBA · Spurs – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910176@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261224T003000Z
-DTEND:20261224T030000Z
-SUMMARY:NBA · Nets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401909097@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261225T170000Z
-DTEND:20261225T193000Z
-SUMMARY:NBA · Knicks – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Knicks – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910202@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261228T000000Z
-DTEND:20261228T023000Z
-SUMMARY:NBA · Spurs – Hawks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Hawks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910215@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261230T010000Z
-DTEND:20261230T033000Z
-SUMMARY:NBA · Grizzlies – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Grizzlies – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910226@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261231T180000Z
-DTEND:20261231T203000Z
-SUMMARY:NBA · Hornets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910235@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270101T220000Z
-DTEND:20270102T003000Z
-SUMMARY:NBA · Wizards – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Wizards – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910257@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270104T000000Z
-DTEND:20270104T023000Z
-SUMMARY:NBA · Timberwolves – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910277@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270107T010000Z
-DTEND:20270107T033000Z
-SUMMARY:NBA · Spurs – Pacers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Pacers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910295@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270109T010000Z
-DTEND:20270109T033000Z
-SUMMARY:NBA · Spurs – Grizzlies
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Grizzlies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910305@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270110T200000Z
-DTEND:20270110T223000Z
-SUMMARY:NBA · Hawks – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hawks – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910334@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270114T190000Z
-DTEND:20270114T213000Z
-SUMMARY:NBA · Spurs – Pelicans
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910357@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270117T153000Z
-DTEND:20270117T180000Z
-SUMMARY:NBA · Pelicans – Spurs
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pelicans – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910383@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270121T023000Z
-DTEND:20270121T050000Z
-SUMMARY:NBA · Spurs – Heat
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Heat
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910396@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270123T023000Z
-DTEND:20270123T050000Z
-SUMMARY:NBA · Spurs – Timberwolves
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Timberwolves
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910406@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270124T203000Z
-DTEND:20270124T230000Z
-SUMMARY:NBA · Spurs – Trail Blazers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Trail Blazers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910424@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270127T010000Z
-DTEND:20270127T033000Z
-SUMMARY:NBA · Spurs – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910433@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270128T010000Z
-DTEND:20270128T033000Z
-SUMMARY:NBA · Spurs – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910453@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270130T223000Z
-DTEND:20270131T010000Z
-SUMMARY:NBA · Warriors – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910473@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270202T030000Z
-DTEND:20270202T053000Z
-SUMMARY:NBA · Warriors – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910480@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270203T033000Z
-DTEND:20270203T060000Z
-SUMMARY:NBA · Clippers – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910494@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270205T010000Z
-DTEND:20270205T033000Z
-SUMMARY:NBA · Spurs – Magic
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Magic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910511@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270207T013000Z
-DTEND:20270207T040000Z
-SUMMARY:NBA · Spurs – Lakers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Lakers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910533@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270210T010000Z
-DTEND:20270210T033000Z
-SUMMARY:NBA · Mavericks – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Mavericks – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910551@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270212T023000Z
-DTEND:20270212T050000Z
-SUMMARY:NBA · Thunder – Spurs
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910564@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270214T000000Z
-DTEND:20270214T023000Z
-SUMMARY:NBA · Magic – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Magic – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401909479@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270215T220000Z
-DTEND:20270216T003000Z
-SUMMARY:NBA · Heat – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Heat – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910590@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270218T010000Z
-DTEND:20270218T033000Z
-SUMMARY:NBA · Grizzlies – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Grizzlies – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910596@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270219T003000Z
-DTEND:20270219T030000Z
-SUMMARY:NBA · Timberwolves – Spurs
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910613@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270227T010000Z
-DTEND:20270227T033000Z
-SUMMARY:NBA · Spurs – Grizzlies
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Grizzlies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910623@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270228T180000Z
-DTEND:20270228T203000Z
-SUMMARY:NBA · Spurs – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910653@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270304T030000Z
-DTEND:20270304T053000Z
-SUMMARY:NBA · Nuggets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910667@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270306T023000Z
-DTEND:20270306T050000Z
-SUMMARY:NBA · Rockets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910678@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270308T003000Z
-DTEND:20270308T030000Z
-SUMMARY:NBA · Spurs – Knicks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Knicks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910694@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270310T010000Z
-DTEND:20270310T033000Z
-SUMMARY:NBA · Spurs – Wizards
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Wizards
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910707@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270312T003000Z
-DTEND:20270312T030000Z
-SUMMARY:NBA · Spurs – 76ers
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910728@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270314T183000Z
-DTEND:20270314T210000Z
-SUMMARY:NBA · Thunder – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910745@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270317T003000Z
-DTEND:20270317T030000Z
-SUMMARY:NBA · Rockets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910762@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270319T000000Z
-DTEND:20270319T023000Z
-SUMMARY:NBA · Spurs – Nets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Nets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910768@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270320T000000Z
-DTEND:20270320T023000Z
-SUMMARY:NBA · Spurs – Mavericks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Mavericks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910784@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270321T233000Z
-DTEND:20270322T020000Z
-SUMMARY:NBA · 76ers – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910803@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270324T233000Z
-DTEND:20270325T020000Z
-SUMMARY:NBA · Celtics – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910813@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270325T230000Z
-DTEND:20270326T013000Z
-SUMMARY:NBA · Pacers – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pacers – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910824@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270327T190000Z
-DTEND:20270327T213000Z
-SUMMARY:NBA · Pistons – Spurs
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pistons – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910846@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270330T013000Z
-DTEND:20270330T040000Z
-SUMMARY:NBA · Spurs – Suns
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Suns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910861@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270401T000000Z
-DTEND:20270401T023000Z
-SUMMARY:NBA · Spurs – Suns
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Suns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910879@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270403T023000Z
-DTEND:20270403T050000Z
-SUMMARY:NBA · Clippers – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910894@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270405T020000Z
-DTEND:20270405T043000Z
-SUMMARY:NBA · Lakers – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Lakers – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910903@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270407T000000Z
-DTEND:20270407T023000Z
-SUMMARY:NBA · Spurs – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910912@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270407T233000Z
-DTEND:20270408T020000Z
-SUMMARY:NBA · Spurs – Cavaliers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Cavaliers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910932@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270410T013000Z
-DTEND:20270410T040000Z
-SUMMARY:NBA · Spurs – Nuggets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910947@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270412T003000Z
-DTEND:20270412T030000Z
-SUMMARY:NBA · Spurs – Trail Blazers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Trail Blazers
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

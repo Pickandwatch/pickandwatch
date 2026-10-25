@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909836@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261021T233000Z
 DTEND:20261022T020000Z
 SUMMARY:NBA · Nets – Hornets
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909843@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261023T230000Z
 DTEND:20261024T013000Z
 SUMMARY:NBA · Hornets – Hawks
@@ -39,7 +39,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909853@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261024T220000Z
 DTEND:20261025T003000Z
 SUMMARY:NBA · Hornets – Heat
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909868@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261026T230000Z
 DTEND:20261027T013000Z
 SUMMARY:NBA · Hornets – Wizards
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909883@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261028T230000Z
 DTEND:20261029T013000Z
 SUMMARY:NBA · Pistons – Hornets
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909277@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261030T230000Z
 DTEND:20261031T013000Z
 SUMMARY:NBA · Wizards – Hornets
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909897@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261031T220000Z
 DTEND:20261101T003000Z
 SUMMARY:NBA · Hornets – 76ers
@@ -114,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909908@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261103T003000Z
 DTEND:20261103T030000Z
 SUMMARY:NBA · Hornets – Pistons
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909925@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261105T003000Z
 DTEND:20261105T030000Z
 SUMMARY:NBA · Nets – Hornets
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909288@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261107T000000Z
 DTEND:20261107T023000Z
 SUMMARY:NBA · Hornets – Celtics
@@ -160,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909953@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261110T000000Z
 DTEND:20261110T023000Z
 SUMMARY:NBA · Hornets – Cavaliers
@@ -175,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909979@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261113T020000Z
 DTEND:20261113T043000Z
 SUMMARY:NBA · Suns – Hornets
@@ -190,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909987@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261115T213000Z
 DTEND:20261116T000000Z
 SUMMARY:NBA · Clippers – Hornets
@@ -205,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910005@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261118T030000Z
 DTEND:20261118T053000Z
 SUMMARY:NBA · Lakers – Hornets
@@ -220,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909305@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261121T000000Z
 DTEND:20261121T023000Z
 SUMMARY:NBA · Hawks – Hornets
@@ -236,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910036@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261124T000000Z
 DTEND:20261124T023000Z
 SUMMARY:NBA · Hornets – Grizzlies
@@ -251,7 +251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909318@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261126T000000Z
 DTEND:20261126T023000Z
 SUMMARY:NBA · Hornets – Bulls
@@ -267,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910047@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261128T230000Z
 DTEND:20261129T013000Z
 SUMMARY:NBA · Hornets – Nets
@@ -282,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910061@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261201T000000Z
 DTEND:20261201T023000Z
 SUMMARY:NBA · Hornets – Wizards
@@ -292,921 +292,6 @@ URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:NBA · Hornets – Wizards
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910078@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261203T003000Z
-DTEND:20261203T030000Z
-SUMMARY:NBA · Celtics – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910091@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261213T000000Z
-DTEND:20261213T023000Z
-SUMMARY:NBA · Wizards – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Wizards – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910104@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261215T000000Z
-DTEND:20261215T023000Z
-SUMMARY:NBA · Hornets – Raptors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Raptors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910118@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261217T000000Z
-DTEND:20261217T023000Z
-SUMMARY:NBA · Hornets – Clippers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Clippers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910133@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261219T000000Z
-DTEND:20261219T023000Z
-SUMMARY:NBA · Hornets – Thunder
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Thunder
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910145@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261219T230000Z
-DTEND:20261220T013000Z
-SUMMARY:NBA · Hornets – Trail Blazers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Trail Blazers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910159@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261222T000000Z
-DTEND:20261222T023000Z
-SUMMARY:NBA · Hornets – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910173@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261224T000000Z
-DTEND:20261224T023000Z
-SUMMARY:NBA · Magic – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Magic – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910188@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261226T203000Z
-DTEND:20261226T230000Z
-SUMMARY:NBA · Hawks – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hawks – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910197@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261227T230000Z
-DTEND:20261228T013000Z
-SUMMARY:NBA · Heat – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Heat – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910212@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261230T000000Z
-DTEND:20261230T023000Z
-SUMMARY:NBA · Hornets – Magic
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Magic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910226@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261231T180000Z
-DTEND:20261231T203000Z
-SUMMARY:NBA · Hornets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910241@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270102T180000Z
-DTEND:20270102T203000Z
-SUMMARY:NBA · Hornets – Cavaliers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Cavaliers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910252@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270103T223000Z
-DTEND:20270104T010000Z
-SUMMARY:NBA · Bucks – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910265@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270106T000000Z
-DTEND:20270106T023000Z
-SUMMARY:NBA · Hornets – Hawks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Hawks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910280@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270108T000000Z
-DTEND:20270108T023000Z
-SUMMARY:NBA · Hornets – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910303@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270110T030000Z
-DTEND:20270110T053000Z
-SUMMARY:NBA · Trail Blazers – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Trail Blazers – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910312@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270111T020000Z
-DTEND:20270111T043000Z
-SUMMARY:NBA · Kings – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910332@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270114T030000Z
-DTEND:20270114T053000Z
-SUMMARY:NBA · Warriors – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910340@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270115T020000Z
-DTEND:20270115T043000Z
-SUMMARY:NBA · Jazz – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Jazz – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910356@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270117T020000Z
-DTEND:20270117T043000Z
-SUMMARY:NBA · Nuggets – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910372@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270120T010000Z
-DTEND:20270120T033000Z
-SUMMARY:NBA · Mavericks – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Mavericks – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910390@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270123T000000Z
-DTEND:20270123T023000Z
-SUMMARY:NBA · Hornets – Rockets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910402@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270124T000000Z
-DTEND:20270124T023000Z
-SUMMARY:NBA · Celtics – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910414@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270126T000000Z
-DTEND:20270126T023000Z
-SUMMARY:NBA · Hornets – Magic
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Magic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910433@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270128T010000Z
-DTEND:20270128T033000Z
-SUMMARY:NBA · Spurs – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910450@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270130T023000Z
-DTEND:20270130T050000Z
-SUMMARY:NBA · Timberwolves – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910464@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270201T000000Z
-DTEND:20270201T023000Z
-SUMMARY:NBA · Hornets – Lakers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Lakers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910476@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270203T003000Z
-DTEND:20270203T030000Z
-SUMMARY:NBA · Heat – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Heat – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910490@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270205T003000Z
-DTEND:20270205T030000Z
-SUMMARY:NBA · Hornets – Celtics
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Celtics
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910499@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270206T000000Z
-DTEND:20270206T023000Z
-SUMMARY:NBA · Hornets – Warriors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Warriors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910517@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270207T230000Z
-DTEND:20270208T013000Z
-SUMMARY:NBA · Raptors – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Raptors – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910531@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270210T003000Z
-DTEND:20270210T030000Z
-SUMMARY:NBA · Knicks – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Knicks – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910545@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270212T000000Z
-DTEND:20270212T023000Z
-SUMMARY:NBA · Hornets – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910561@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270213T200000Z
-DTEND:20270213T223000Z
-SUMMARY:NBA · Hornets – Mavericks
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Mavericks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401909477@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270215T170000Z
-DTEND:20270215T193000Z
-SUMMARY:NBA · Hornets – Timberwolves
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Timberwolves
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910583@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270218T000000Z
-DTEND:20270218T023000Z
-SUMMARY:NBA · Hornets – Raptors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Raptors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910602@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270226T000000Z
-DTEND:20270226T023000Z
-SUMMARY:NBA · Magic – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Magic – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910614@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270227T013000Z
-DTEND:20270227T040000Z
-SUMMARY:NBA · Rockets – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910627@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270301T000000Z
-DTEND:20270301T023000Z
-SUMMARY:NBA · Hornets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910648@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270304T000000Z
-DTEND:20270304T023000Z
-SUMMARY:NBA · 76ers – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910669@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270306T220000Z
-DTEND:20270307T003000Z
-SUMMARY:NBA · Bulls – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bulls – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910681@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270309T000000Z
-DTEND:20270309T023000Z
-SUMMARY:NBA · Pacers – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pacers – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910696@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270311T000000Z
-DTEND:20270311T023000Z
-SUMMARY:NBA · Hornets – Pelicans
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910704@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270312T000000Z
-DTEND:20270312T023000Z
-SUMMARY:NBA · Hornets – Pacers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Pacers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910722@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270313T230000Z
-DTEND:20270314T013000Z
-SUMMARY:NBA · Hornets – Suns
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Suns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910744@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270317T000000Z
-DTEND:20270317T023000Z
-SUMMARY:NBA · Thunder – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910761@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270319T000000Z
-DTEND:20270319T023000Z
-SUMMARY:NBA · Pelicans – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pelicans – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910775@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270321T000000Z
-DTEND:20270321T023000Z
-SUMMARY:NBA · Pistons – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pistons – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910789@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270323T000000Z
-DTEND:20270323T023000Z
-SUMMARY:NBA · Grizzlies – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Grizzlies – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910800@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270324T230000Z
-DTEND:20270325T013000Z
-SUMMARY:NBA · Hornets – Pistons
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Pistons
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910818@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270326T230000Z
-DTEND:20270327T013000Z
-SUMMARY:NBA · Hornets – Knicks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Knicks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910834@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270328T220000Z
-DTEND:20270329T003000Z
-SUMMARY:NBA · Hornets – Jazz
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Jazz
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910848@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270330T230000Z
-DTEND:20270331T013000Z
-SUMMARY:NBA · Hornets – Heat
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Heat
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910866@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270401T233000Z
-DTEND:20270402T020000Z
-SUMMARY:NBA · Knicks – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Knicks – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910874@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270403T000000Z
-DTEND:20270403T023000Z
-SUMMARY:NBA · Bucks – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910884@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270404T190000Z
-DTEND:20270404T213000Z
-SUMMARY:NBA · Cavaliers – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Cavaliers – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910898@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270406T230000Z
-DTEND:20270407T013000Z
-SUMMARY:NBA · Hornets – Pacers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Pacers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910913@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270408T000000Z
-DTEND:20270408T023000Z
-SUMMARY:NBA · Bulls – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bulls – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910924@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270409T230000Z
-DTEND:20270410T013000Z
-SUMMARY:NBA · Hornets – Nets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Nets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910942@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270411T220000Z
-DTEND:20270412T003000Z
-SUMMARY:NBA · 76ers – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Hornets
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

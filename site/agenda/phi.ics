@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909089@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261020T230000Z
 DTEND:20261021T013000Z
 SUMMARY:NBA · Knicks – 76ers
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909093@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261022T230000Z
 DTEND:20261023T013000Z
 SUMMARY:NBA · 76ers – Cavaliers
@@ -39,7 +39,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909855@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261024T233000Z
 DTEND:20261025T020000Z
 SUMMARY:NBA · 76ers – Bucks
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909866@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261025T233000Z
 DTEND:20261026T020000Z
 SUMMARY:NBA · 76ers – Pistons
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909884@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261028T230000Z
 DTEND:20261029T013000Z
 SUMMARY:NBA · Pacers – 76ers
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909280@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
 SUMMARY:NBA · 76ers – Knicks
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909897@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261031T220000Z
 DTEND:20261101T003000Z
 SUMMARY:NBA · Hornets – 76ers
@@ -114,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909912@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261103T003000Z
 DTEND:20261103T030000Z
 SUMMARY:NBA · 76ers – Bulls
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909922@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261105T000000Z
 DTEND:20261105T023000Z
 SUMMARY:NBA · Pistons – 76ers
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909289@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261107T003000Z
 DTEND:20261107T030000Z
 SUMMARY:NBA · Cavaliers – 76ers
@@ -159,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909945@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261108T203000Z
 DTEND:20261108T230000Z
 SUMMARY:NBA · Bulls – 76ers
@@ -174,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909961@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261111T010000Z
 DTEND:20261111T033000Z
 SUMMARY:NBA · 76ers – Celtics
@@ -189,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909976@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261113T000000Z
 DTEND:20261113T023000Z
 SUMMARY:NBA · 76ers – Raptors
@@ -204,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909985@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261115T180000Z
 DTEND:20261115T203000Z
 SUMMARY:NBA · 76ers – Pacers
@@ -219,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909997@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261117T003000Z
 DTEND:20261117T030000Z
 SUMMARY:NBA · Nets – 76ers
@@ -234,7 +234,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910010@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261119T000000Z
 DTEND:20261119T023000Z
 SUMMARY:NBA · Magic – 76ers
@@ -249,7 +249,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910023@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261121T180000Z
 DTEND:20261121T203000Z
 SUMMARY:NBA · 76ers – Bucks
@@ -264,7 +264,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910037@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261124T000000Z
 DTEND:20261124T023000Z
 SUMMARY:NBA · 76ers – Trail Blazers
@@ -279,7 +279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909317@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261125T220000Z
 DTEND:20261126T003000Z
 SUMMARY:NBA · 76ers – Heat
@@ -295,7 +295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909328@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261128T003000Z
 DTEND:20261128T030000Z
 SUMMARY:NBA · Pacers – 76ers
@@ -311,7 +311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910050@pickandwatch.fr
-DTSTAMP:20261025T110618Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261129T013000Z
 DTEND:20261129T040000Z
 SUMMARY:NBA · Rockets – 76ers
@@ -321,891 +321,6 @@ URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:NBA · Rockets – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910069@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261202T000000Z
-DTEND:20261202T023000Z
-SUMMARY:NBA · 76ers – Grizzlies
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Grizzlies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910077@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261203T000000Z
-DTEND:20261203T023000Z
-SUMMARY:NBA · 76ers – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910092@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261213T003000Z
-DTEND:20261213T030000Z
-SUMMARY:NBA · 76ers – Magic
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Magic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910106@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261215T000000Z
-DTEND:20261215T023000Z
-SUMMARY:NBA · Magic – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Magic – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910131@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261218T000000Z
-DTEND:20261218T023000Z
-SUMMARY:NBA · 76ers – Mavericks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Mavericks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910159@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261222T000000Z
-DTEND:20261222T023000Z
-SUMMARY:NBA · Hornets – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910179@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261224T003000Z
-DTEND:20261224T030000Z
-SUMMARY:NBA · 76ers – Rockets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Rockets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401909099@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261225T220000Z
-DTEND:20261226T003000Z
-SUMMARY:NBA · Lakers – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Lakers – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910205@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261228T020000Z
-DTEND:20261228T043000Z
-SUMMARY:NBA · Clippers – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910218@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261230T030000Z
-DTEND:20261230T053000Z
-SUMMARY:NBA · Kings – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910223@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20261231T020000Z
-DTEND:20261231T043000Z
-SUMMARY:NBA · Suns – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Suns – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910238@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270102T010000Z
-DTEND:20270102T033000Z
-SUMMARY:NBA · Bucks – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910260@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270105T000000Z
-DTEND:20270105T023000Z
-SUMMARY:NBA · 76ers – Hawks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Hawks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910275@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270107T003000Z
-DTEND:20270107T030000Z
-SUMMARY:NBA · 76ers – Thunder
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Thunder
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910291@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270109T000000Z
-DTEND:20270109T023000Z
-SUMMARY:NBA · 76ers – Heat
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Heat
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910309@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270110T230000Z
-DTEND:20270111T013000Z
-SUMMARY:NBA · Raptors – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Raptors – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910321@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270113T010000Z
-DTEND:20270113T033000Z
-SUMMARY:NBA · 76ers – Wizards
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Wizards
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910336@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270115T000000Z
-DTEND:20270115T023000Z
-SUMMARY:NBA · 76ers – Nets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Nets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910351@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270116T173000Z
-DTEND:20270116T200000Z
-SUMMARY:NBA · 76ers – Timberwolves
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Timberwolves
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401909474@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270118T193000Z
-DTEND:20270118T220000Z
-SUMMARY:NBA · Hawks – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hawks – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910369@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270120T000000Z
-DTEND:20270120T023000Z
-SUMMARY:NBA · 76ers – Pacers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Pacers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910385@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270122T003000Z
-DTEND:20270122T030000Z
-SUMMARY:NBA · Celtics – 76ers
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910400@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270123T220000Z
-DTEND:20270124T003000Z
-SUMMARY:NBA · Bulls – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bulls – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910415@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270126T000000Z
-DTEND:20270126T023000Z
-SUMMARY:NBA · 76ers – Clippers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Clippers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910429@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270128T000000Z
-DTEND:20270128T023000Z
-SUMMARY:NBA · 76ers – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910441@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270129T010000Z
-DTEND:20270129T033000Z
-SUMMARY:NBA · Pelicans – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Pelicans – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910451@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270130T173000Z
-DTEND:20270130T200000Z
-SUMMARY:NBA · Heat – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Heat – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910468@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270202T000000Z
-DTEND:20270202T023000Z
-SUMMARY:NBA · 76ers – Pelicans
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910484@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270204T010000Z
-DTEND:20270204T033000Z
-SUMMARY:NBA · Grizzlies – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Grizzlies – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910500@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270206T000000Z
-DTEND:20270206T023000Z
-SUMMARY:NBA · 76ers – Pistons
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Pistons
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910518@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270208T000000Z
-DTEND:20270208T023000Z
-SUMMARY:NBA · 76ers – Celtics
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Celtics
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910523@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270209T000000Z
-DTEND:20270209T023000Z
-SUMMARY:NBA · 76ers – Nets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Nets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910547@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270212T000000Z
-DTEND:20270212T023000Z
-SUMMARY:NBA · 76ers – Knicks
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Knicks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910563@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270213T223000Z
-DTEND:20270214T010000Z
-SUMMARY:NBA · Thunder – 76ers
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401909478@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270215T193000Z
-DTEND:20270215T220000Z
-SUMMARY:NBA · Mavericks – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Mavericks – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910587@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270218T000000Z
-DTEND:20270218T023000Z
-SUMMARY:NBA · 76ers – Suns
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Suns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910603@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270226T003000Z
-DTEND:20270226T030000Z
-SUMMARY:NBA · Nets – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nets – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910621@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270228T013000Z
-DTEND:20270228T040000Z
-SUMMARY:NBA · Knicks – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Knicks – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910632@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270302T000000Z
-DTEND:20270302T023000Z
-SUMMARY:NBA · Cavaliers – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Cavaliers – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910648@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270304T000000Z
-DTEND:20270304T023000Z
-SUMMARY:NBA · 76ers – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910656@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270305T000000Z
-DTEND:20270305T023000Z
-SUMMARY:NBA · 76ers – Lakers
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Lakers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910675@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270307T180000Z
-DTEND:20270307T203000Z
-SUMMARY:NBA · Celtics – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910682@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270309T000000Z
-DTEND:20270309T023000Z
-SUMMARY:NBA · 76ers – Jazz
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Jazz
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910707@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270312T003000Z
-DTEND:20270312T030000Z
-SUMMARY:NBA · Spurs – 76ers
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910725@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270314T013000Z
-DTEND:20270314T040000Z
-SUMMARY:NBA · Timberwolves – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910734@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270315T230000Z
-DTEND:20270316T013000Z
-SUMMARY:NBA · 76ers – Raptors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Raptors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910749@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270317T230000Z
-DTEND:20270318T013000Z
-SUMMARY:NBA · 76ers – Bulls
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Bulls
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910758@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270318T230000Z
-DTEND:20270319T013000Z
-SUMMARY:NBA · Wizards – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Wizards – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910784@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270321T233000Z
-DTEND:20270322T020000Z
-SUMMARY:NBA · 76ers – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910797@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270324T010000Z
-DTEND:20270324T033000Z
-SUMMARY:NBA · Jazz – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Jazz – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910807@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270325T020000Z
-DTEND:20270325T043000Z
-SUMMARY:NBA · Warriors – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910823@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270327T020000Z
-DTEND:20270327T043000Z
-SUMMARY:NBA · Trail Blazers – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Trail Blazers – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910839@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270329T020000Z
-DTEND:20270329T043000Z
-SUMMARY:NBA · Nuggets – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910856@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270331T230000Z
-DTEND:20270401T013000Z
-SUMMARY:NBA · 76ers – Warriors
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Warriors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910868@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270402T230000Z
-DTEND:20270403T013000Z
-SUMMARY:NBA · Wizards – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Wizards – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910882@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270404T170000Z
-DTEND:20270404T193000Z
-SUMMARY:NBA · 76ers – Hawks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Hawks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910899@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270406T233000Z
-DTEND:20270407T020000Z
-SUMMARY:NBA · Raptors – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Raptors – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910918@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270408T230000Z
-DTEND:20270409T013000Z
-SUMMARY:NBA · Heat – 76ers
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Heat – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910942@pickandwatch.fr
-DTSTAMP:20261025T110618Z
-DTSTART:20270411T220000Z
-DTEND:20270412T003000Z
-SUMMARY:NBA · 76ers – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Hornets
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

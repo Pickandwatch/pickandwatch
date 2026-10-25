@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909094@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261023T013000Z
 DTEND:20261023T040000Z
 SUMMARY:NBA · Thunder – Nuggets
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909859@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261025T010000Z
 DTEND:20261025T033000Z
 SUMMARY:NBA · Nuggets – Pelicans
@@ -39,7 +39,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909876@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261027T020000Z
 DTEND:20261027T043000Z
 SUMMARY:NBA · Nuggets – Warriors
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909889@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261029T000000Z
 DTEND:20261029T023000Z
 SUMMARY:NBA · Pelicans – Nuggets
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909286@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261031T020000Z
 DTEND:20261031T043000Z
 SUMMARY:NBA · Suns – Nuggets
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909918@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261103T020000Z
 DTEND:20261103T043000Z
 SUMMARY:NBA · Nuggets – Trail Blazers
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909931@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261105T020000Z
 DTEND:20261105T043000Z
 SUMMARY:NBA · Nuggets – Raptors
@@ -114,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909938@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261107T220000Z
 DTEND:20261108T003000Z
 SUMMARY:NBA · Pacers – Nuggets
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909957@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261110T013000Z
 DTEND:20261110T040000Z
 SUMMARY:NBA · Rockets – Nuggets
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909970@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
 SUMMARY:NBA · Grizzlies – Nuggets
@@ -159,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909980@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261115T000000Z
 DTEND:20261115T023000Z
 SUMMARY:NBA · Pelicans – Nuggets
@@ -174,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910001@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261117T020000Z
 DTEND:20261117T043000Z
 SUMMARY:NBA · Nuggets – Suns
@@ -189,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910015@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261119T020000Z
 DTEND:20261119T043000Z
 SUMMARY:NBA · Nuggets – Celtics
@@ -204,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909312@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261121T030000Z
 DTEND:20261121T053000Z
 SUMMARY:NBA · Nuggets – Rockets
@@ -219,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910032@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261123T000000Z
 DTEND:20261123T023000Z
 SUMMARY:NBA · Bulls – Nuggets
@@ -234,7 +234,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909316@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261125T030000Z
 DTEND:20261125T053000Z
 SUMMARY:NBA · Nuggets – Mavericks
@@ -250,7 +250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401909334@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
 SUMMARY:NBA · Jazz – Nuggets
@@ -266,7 +266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910057@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261129T230000Z
 DTEND:20261130T013000Z
 SUMMARY:NBA · Raptors – Nuggets
@@ -281,7 +281,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:401910062@pickandwatch.fr
-DTSTAMP:20261025T110617Z
+DTSTAMP:20261025T111352Z
 DTSTART:20261201T000000Z
 DTEND:20261201T023000Z
 SUMMARY:NBA · Pistons – Nuggets
@@ -291,921 +291,6 @@ URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:NBA · Pistons – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910077@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261203T000000Z
-DTEND:20261203T023000Z
-SUMMARY:NBA · 76ers – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · 76ers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910096@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261213T023000Z
-DTEND:20261213T050000Z
-SUMMARY:NBA · Jazz – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Jazz – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910116@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261216T040000Z
-DTEND:20261216T063000Z
-SUMMARY:NBA · Trail Blazers – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Trail Blazers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910132@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261218T020000Z
-DTEND:20261218T043000Z
-SUMMARY:NBA · Nuggets – Hawks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Hawks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910148@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261220T020000Z
-DTEND:20261220T043000Z
-SUMMARY:NBA · Nuggets – Lakers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Lakers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910168@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261222T033000Z
-DTEND:20261222T060000Z
-SUMMARY:NBA · Clippers – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910184@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261224T030000Z
-DTEND:20261224T053000Z
-SUMMARY:NBA · Lakers – Nuggets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Lakers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401909101@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261226T033000Z
-DTEND:20261226T060000Z
-SUMMARY:NBA · Warriors – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Warriors – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910203@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261228T010000Z
-DTEND:20261228T033000Z
-SUMMARY:NBA · Nuggets – Pacers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Pacers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910210@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261229T033000Z
-DTEND:20261229T060000Z
-SUMMARY:NBA · Nuggets – Timberwolves
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Timberwolves
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910230@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20261231T210000Z
-DTEND:20261231T233000Z
-SUMMARY:NBA · Timberwolves – Nuggets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910242@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270102T220000Z
-DTEND:20270103T003000Z
-SUMMARY:NBA · Nuggets – Knicks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Knicks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910251@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270103T220000Z
-DTEND:20270104T003000Z
-SUMMARY:NBA · Nuggets – Pistons
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Pistons
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910272@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270106T030000Z
-DTEND:20270106T053000Z
-SUMMARY:NBA · Nuggets – Suns
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Suns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910280@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270108T000000Z
-DTEND:20270108T023000Z
-SUMMARY:NBA · Hornets – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hornets – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910299@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270109T220000Z
-DTEND:20270110T003000Z
-SUMMARY:NBA · Cavaliers – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Cavaliers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910316@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270112T003000Z
-DTEND:20270112T030000Z
-SUMMARY:NBA · Knicks – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Knicks – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910323@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270113T010000Z
-DTEND:20270113T033000Z
-SUMMARY:NBA · Bucks – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Bucks – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910339@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270115T020000Z
-DTEND:20270115T043000Z
-SUMMARY:NBA · Nuggets – Grizzlies
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Grizzlies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910356@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270117T020000Z
-DTEND:20270117T043000Z
-SUMMARY:NBA · Nuggets – Hornets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Hornets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910363@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270118T010000Z
-DTEND:20270118T033000Z
-SUMMARY:NBA · Nuggets – Magic
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Magic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910373@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270120T030000Z
-DTEND:20270120T053000Z
-SUMMARY:NBA · Nuggets – Jazz
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Jazz
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910387@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270122T020000Z
-DTEND:20270122T043000Z
-SUMMARY:NBA · Nuggets – Wizards
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Wizards
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910405@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270124T020000Z
-DTEND:20270124T043000Z
-SUMMARY:NBA · Nuggets – Bucks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Bucks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910420@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270126T023000Z
-DTEND:20270126T050000Z
-SUMMARY:NBA · Nuggets – Kings
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Kings
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910435@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270128T023000Z
-DTEND:20270128T050000Z
-SUMMARY:NBA · Timberwolves – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Timberwolves – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910452@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270130T200000Z
-DTEND:20270130T223000Z
-SUMMARY:NBA · Thunder – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Thunder – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910465@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270201T010000Z
-DTEND:20270201T033000Z
-SUMMARY:NBA · Nuggets – Trail Blazers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Trail Blazers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910479@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270203T020000Z
-DTEND:20270203T043000Z
-SUMMARY:NBA · Nuggets – Thunder
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Thunder
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910495@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270205T030000Z
-DTEND:20270205T053000Z
-SUMMARY:NBA · Nuggets – Mavericks
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Mavericks
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910501@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270206T020000Z
-DTEND:20270206T043000Z
-SUMMARY:NBA · Nuggets – Clippers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Clippers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910513@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270207T200000Z
-DTEND:20270207T223000Z
-SUMMARY:NBA · Hawks – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Hawks – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910529@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270210T003000Z
-DTEND:20270210T030000Z
-SUMMARY:NBA · Celtics – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Celtics – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910550@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270212T020000Z
-DTEND:20270212T043000Z
-SUMMARY:NBA · Nuggets – Bulls
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Bulls
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910559@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270213T033000Z
-DTEND:20270213T060000Z
-SUMMARY:NBA · Lakers – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Lakers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910571@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270214T190000Z
-DTEND:20270214T213000Z
-SUMMARY:NBA · Rockets – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Rockets – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910591@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270218T020000Z
-DTEND:20270218T043000Z
-SUMMARY:NBA · Nuggets – Jazz
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Jazz
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910615@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270227T030000Z
-DTEND:20270227T053000Z
-SUMMARY:NBA · Nuggets – Lakers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Lakers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910623@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270228T180000Z
-DTEND:20270228T203000Z
-SUMMARY:NBA · Spurs – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910636@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270302T020000Z
-DTEND:20270302T043000Z
-SUMMARY:NBA · Nuggets – Nets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Nets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910653@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270304T030000Z
-DTEND:20270304T053000Z
-SUMMARY:NBA · Nuggets – Spurs
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Spurs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910676@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270307T203000Z
-DTEND:20270307T230000Z
-SUMMARY:NBA · Nuggets – Timberwolves
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Timberwolves
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910687@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270309T030000Z
-DTEND:20270309T053000Z
-SUMMARY:NBA · Kings – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910701@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270311T030000Z
-DTEND:20270311T053000Z
-SUMMARY:NBA · Trail Blazers – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Trail Blazers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910717@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270313T030000Z
-DTEND:20270313T053000Z
-SUMMARY:NBA · Nuggets – Warriors
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Warriors
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910731@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270314T233000Z
-DTEND:20270315T020000Z
-SUMMARY:NBA · Nuggets – Heat
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Heat
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910748@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270317T030000Z
-DTEND:20270317T053000Z
-SUMMARY:NBA · Clippers – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Clippers – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910763@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270319T010000Z
-DTEND:20270319T033000Z
-SUMMARY:NBA · Nuggets – Cavaliers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Cavaliers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910773@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270320T230000Z
-DTEND:20270321T013000Z
-SUMMARY:NBA · Magic – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Magic – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910783@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270321T220000Z
-DTEND:20270322T003000Z
-SUMMARY:NBA · Heat – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Heat – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910802@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270324T230000Z
-DTEND:20270325T013000Z
-SUMMARY:NBA · Wizards – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Wizards – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910814@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270325T233000Z
-DTEND:20270326T020000Z
-SUMMARY:NBA · Nets – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nets – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910839@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270329T020000Z
-DTEND:20270329T043000Z
-SUMMARY:NBA · Nuggets – 76ers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – 76ers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910847@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270330T020000Z
-DTEND:20270330T043000Z
-SUMMARY:NBA · Kings – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Kings – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910862@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270401T013000Z
-DTEND:20270401T040000Z
-SUMMARY:NBA · Mavericks – Nuggets
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Mavericks – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910877@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270403T020000Z
-DTEND:20270403T043000Z
-SUMMARY:NBA · Suns – Nuggets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Suns – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910890@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270404T210000Z
-DTEND:20270404T233000Z
-SUMMARY:NBA · Nuggets – Grizzlies
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Grizzlies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910904@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270407T010000Z
-DTEND:20270407T033000Z
-SUMMARY:NBA · Nuggets – Pelicans
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Pelicans
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910920@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270409T010000Z
-DTEND:20270409T033000Z
-SUMMARY:NBA · Nuggets – Clippers
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Clippers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910932@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270410T013000Z
-DTEND:20270410T040000Z
-SUMMARY:NBA · Spurs – Nuggets
-DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
-  sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Spurs – Nuggets
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:401910948@pickandwatch.fr
-DTSTAMP:20261025T110617Z
-DTSTART:20270412T003000Z
-DTEND:20270412T030000Z
-SUMMARY:NBA · Nuggets – Thunder
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
- me complet et différés\, sans spoiler : https://pickandwatch.fr
-URL:https://pickandwatch.fr
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:NBA · Nuggets – Thunder
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
