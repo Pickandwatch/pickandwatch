@@ -1,0 +1,21 @@
+{"theme": "cup",
+ "couverture": {"etiquette": "NBA CUP", "titre": ["LE PALMARÈS", "3 ÉDITIONS, 3 CHAMPIONS"],
+   "lignes": [["2023", "LOS ANGELES LAKERS"], ["2024", "MILWAUKEE BUCKS"], ["2025", "NEW YORK KNICKS"]],
+   "accroche": "Avant la 4e édition, vendredi."},
+ "slides": [
+  {"etiquette": "NBA CUP", "rubrique": "2023 · LA PREMIÈRE", "titre": ["LES LAKERS", "OUVRENT LE PALMARÈS"],
+   "chiffres": [["EN FINALE", "PACERS"], ["MVP", "LEBRON"], ["FINALE", "LAS VEGAS"]],
+   "texte": "Pour la toute première édition, alors appelée « In-Season Tournament », LeBron James et les Lakers s'imposent face aux Pacers, le 9 décembre 2023 à Las Vegas. LeBron est élu MVP du tournoi.",
+   "encadre": ["LE PREMIER TROPHÉE", "LOS ANGELES LAKERS", "9 déc. 2023"]},
+  {"etiquette": "NBA CUP", "rubrique": "2024 · LE TOUR DE GIANNIS", "titre": ["LES BUCKS", "FONT TOMBER LE THUNDER"],
+   "chiffres": [["EN FINALE", "THUNDER"], ["MVP", "GIANNIS"], ["FINALE", "LAS VEGAS"]],
+   "texte": "Le tournoi devient la NBA Cup. Giannis Antetokounmpo mène Milwaukee jusqu'au trophée face au Thunder de Shai Gilgeous-Alexander, le 17 décembre 2024, et repart avec le titre de MVP.",
+   "encadre": ["DEUXIÈME ÉDITION", "MILWAUKEE BUCKS", "17 déc. 2024"]},
+  {"etiquette": "NBA CUP", "rubrique": "2025 · LE DÉBUT D'UNE SAISON EN OR", "titre": ["LES KNICKS", "PUIS LE TITRE NBA"],
+   "chiffres": [["EN FINALE", "SPURS"], ["MVP", "BRUNSON"], ["EN JUIN", "TITRE"]],
+   "texte": "Jalen Brunson et les Knicks battent les Spurs de Victor Wembanyama en finale, le 16 décembre 2025. Six mois plus tard, ils retrouvent San Antonio en Finales NBA et décrochent le titre : une première, la Cup et le titre la même saison.",
+   "encadre": ["TENANTS DU TITRE", "NEW YORK KNICKS", "16 déc. 2025"]}
+ ],
+ "fin": {"etiquette": "NBA CUP", "titre": ["QUI SERA LE 4E ?", "RÉPONSE LE 11 DÉCEMBRE."],
+   "texte": "Premier soir de NBA Cup vendredi : 76ers – Knicks à 0h30 et Warriors – Lakers à 3h, sur Prime Video. Le programme complet chaque soir à 19h, et toujours zéro spoiler."}
+}

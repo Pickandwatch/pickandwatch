@@ -1,0 +1,29 @@
+{
+ "couverture": {"etiquette": "À GARDER", "titre": ["LES DATES CLÉS", "DE LA SAISON 2026-27"],
+   "lignes": [["NBA CUP", "30 OCT. → 11 DÉC."], ["PARIS GAME", "14 JANVIER, 20H"], ["ALL-STAR GAME", "21 FÉVRIER"], ["PLAYOFFS", "DÈS LE 17 AVRIL"]],
+   "accroche": "Heure de Paris. À enregistrer."},
+ "slides": [
+  {"etiquette": "À GARDER", "rubrique": "L'AUTOMNE", "titre": ["LA NBA CUP", "ET LE MATCH DE MEXICO"],
+   "chiffres": [["DÉBUT", "30 OCT."], ["MEXICO", "7 NOV."], ["FINALE", "11 DÉC."]],
+   "taille": 32,
+   "texte": "<strong>Ven. 30 oct.</strong> · début de la NBA Cup (Prime Video)<br><strong>Sam. 7 nov., 23h</strong> · Nuggets – Pacers à Mexico<br><strong>Ven. 27 nov.</strong> · Black Friday, fin des groupes de la Cup<br><strong>4-5 déc.</strong> · quarts · <strong>8-9 déc.</strong> · demies<br><strong>Ven. 11 déc.</strong> · finale à Indianapolis (Prime Video)",
+   "encadre": ["TOUTE LA CUP", "ONGLET NBA CUP", "pickandwatch.fr"]},
+  {"etiquette": "À GARDER", "rubrique": "VENDREDI 25 DÉCEMBRE", "titre": ["CHRISTMAS DAY", "5 MATCHS, DE 18H À LA NUIT"],
+   "chiffres": [["MATCHS", "5"], ["PREMIER", "18H"], ["DERNIER", "4H30"]],
+   "taille": 32,
+   "texte": "<strong>18h</strong> · Knicks – Spurs, la revanche des Finales<br><strong>20h30</strong> · Celtics – Heat<br><strong>23h</strong> · Lakers – 76ers<br><strong>2h</strong> · Timberwolves – Thunder<br><strong>4h30</strong> · Warriors – Nuggets",
+   "encadre": ["EN DIRECT SUR", "BEIN SPORTS", "chaîne exacte la semaine même"]},
+  {"etiquette": "À GARDER", "rubrique": "JANVIER", "titre": ["LES SPURS À PARIS", "ET À MANCHESTER"],
+   "chiffres": [["PARIS", "14 JANV."], ["HEURE", "20H"], ["MANCHESTER", "17 JANV."]],
+   "taille": 32,
+   "texte": "<strong>Jeu. 14 janv., 20h</strong> · Spurs – Pelicans à l'Accor Arena : Victor Wembanyama à Paris (Prime Video)<br><strong>Dim. 17 janv., 16h30</strong> · Spurs – Pelicans à Manchester, Co-op Live (Prime Video)<br><strong>Lun. 18 janv.</strong> · Martin Luther King Day, journée de matchs en continu dès 18h",
+   "encadre": ["PARIS GAME", "ACCOR ARENA", "Prime Video"]},
+  {"etiquette": "À GARDER", "rubrique": "LE SPRINT FINAL", "titre": ["DU ALL-STAR", "AUX FINALES"],
+   "chiffres": [["ALL-STAR", "21 FÉVR."], ["PLAY-IN", "13 AVR."], ["PLAYOFFS", "17 AVR."]],
+   "taille": 32,
+   "texte": "<strong>Jeu. 11 févr.</strong> · date limite des transferts<br><strong>19-21 févr.</strong> · All-Star Weekend à Phoenix (beIN SPORTS)<br><strong>Dim. 11 avr.</strong> · dernier jour de la saison régulière<br><strong>13-16 avr.</strong> · play-in (Prime Video)<br><strong>17 avr.</strong> · début des playoffs · <strong>juin</strong> · Finales NBA (beIN SPORTS)",
+   "encadre": ["CHAQUE SOIR À 19H", "LE PROGRAMME", "heure de Paris, chaîne"]}
+ ],
+ "fin": {"etiquette": "À GARDER", "titre": ["ENREGISTRE-LE,", "ON S'OCCUPE DU RESTE."],
+   "texte": "Chaque soir à 19h, les matchs de la nuit avec l'heure et la chaîne. Chaque matin à 8h, nos verdicts. Zéro spoiler, toute la saison."}
+}

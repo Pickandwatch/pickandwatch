@@ -1,0 +1,25 @@
+{"theme": "cup",
+ "couverture": {"etiquette": "NBA CUP", "titre": ["LES ENJEUX", "CE QUI SE JOUE DÈS CE SOIR"],
+   "lignes": [["LES KNICKS", "REMETTENT LEUR TITRE EN JEU"], ["WEMBANYAMA", "VEUT SA REVANCHE"], ["514 971 $", "PAR JOUEUR POUR LES VAINQUEURS"]],
+   "accroche": "La NBA Cup commence cette nuit."},
+ "slides": [
+  {"etiquette": "NBA CUP", "rubrique": "LES TENANTS DU TITRE", "titre": ["LES KNICKS", "PEUVENT-ILS DOUBLER ?"],
+   "chiffres": [["CUP 2025", "GAGNÉE"], ["TITRE NBA", "2026"], ["GROUPE", "EST B"]],
+   "texte": "Vainqueurs de la Cup puis du titre NBA la saison dernière, les Knicks de Jalen Brunson remettent leur couronne en jeu dans un groupe avec les Cavaliers, les 76ers, le Heat et les Pacers. Premier test cette nuit à Philadelphie.",
+   "encadre": ["CETTE NUIT, 0H30", "76ERS – KNICKS", "Prime Video"]},
+  {"etiquette": "NBA CUP", "rubrique": "LA REVANCHE", "titre": ["WEMBANYAMA", "DEUX FINALES, DEUX FOIS LES KNICKS"],
+   "chiffres": [["FINALE CUP", "2025"], ["FINALES NBA", "2026"], ["GROUPE", "OUEST C"]],
+   "texte": "Les Spurs de Victor Wembanyama ont perdu deux finales en six mois, toutes les deux contre New York. Leur groupe : Lakers, Warriors, Blazers et Kings. Les deux affiches Prime de leur phase de groupes : Warriors le 13 novembre, Lakers le 27.",
+   "encadre": ["SPURS – WARRIORS", "VEN. 13 NOV.", "Prime Video"]},
+  {"etiquette": "NBA CUP", "rubrique": "CE QUE ÇA RAPPORTE", "titre": ["514 971 $", "PAR JOUEUR VAINQUEUR"],
+   "chiffres": [["FINALISTE", "205 988 $"], ["DEMIES", "102 994 $"], ["QUARTS", "51 497 $"]],
+   "texte": "Une prime par joueur, versée aux équipes qualifiées pour la phase finale, qui grimpe à chaque tour. Pour un joueur au salaire minimum, gagner la Cup peut représenter une part importante de sa saison.",
+   "encadre": ["ET EN PLUS", "UN TROPHÉE", "finale à Indianapolis"]},
+  {"etiquette": "NBA CUP", "rubrique": "LES FRANÇAIS", "titre": ["À SUIVRE", "DANS CHAQUE GROUPE"],
+   "chiffres": [["OUEST C", "WEMBY"], ["OUEST B", "GOBERT"], ["EST C", "SARR"]],
+   "texte": "Victor Wembanyama avec les Spurs, Rudy Gobert avec les Timberwolves, Alex Sarr et Bilal Coulibaly avec les Wizards, Zaccharie Risacher avec les Mavericks : la Cup se jouera aussi avec un accent français.",
+   "encadre": ["ET DANS LE PROGRAMME", "LES FRANÇAIS", "chaque soir à 19h"]}
+ ],
+ "fin": {"etiquette": "NBA CUP", "titre": ["CETTE NUIT,", "ÇA COMMENCE."],
+   "texte": "76ers – Knicks à 0h30, Warriors – Lakers à 3h, sur Prime Video. Le programme complet ce soir à 19h, et les verdicts sans spoiler demain à 8h."}
+}
