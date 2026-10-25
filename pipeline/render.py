@@ -305,7 +305,7 @@ def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict
     for f in (root / "assets").iterdir():
         shutil.copy2(f, site / "assets" / f.name)
     # Images des posts Instagram : Meta les récupère sur pickandwatch.fr/posts/…
-    for img in (root / "posts").glob("*/*.jpg"):
+    for img in [*(root / "posts").glob("*/*.jpg"), *(root / "posts").glob("*/*.mp4")]:  # images et vidéos (Reels)
         dest = site / "posts" / img.parent.name
         dest.mkdir(parents=True, exist_ok=True)
         shutil.copy2(img, dest / img.name)

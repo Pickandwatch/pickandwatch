@@ -99,6 +99,11 @@ def verify() -> None:
         if post.get("type") == "story":  # une story par image : pas de plafond à 10
             if n < 1:
                 pb.append("aucune image")
+        elif post.get("type") == "reel":  # une vidéo + son image de couverture
+            if n != 1:
+                pb.append("un Reel attend exactement 1 image (la couverture)")
+            if not post.get("video") or not (f.parent / post["video"]).exists():
+                pb.append("vidéo du Reel absente")
         elif not 1 <= n <= 10:
             pb.append(f"{n} image(s) (Instagram : 1 à 10)")
         pb += [f"image absente : {n}" for n in post.get("images", []) if not (f.parent / n).exists()]
@@ -131,6 +136,18 @@ def publish_carousel(image_urls: list[str], caption: str) -> str:
     wait_ready(parent["id"])
     res = call("POST", f"{ig}/media_publish", creation_id=parent["id"])
     return res["id"]
+
+
+def publish_reel(video_url: str, cover_url: str, caption: str) -> str:
+    """Publie un Reel (vidéo MP4 H.264, 9:16), partagé aussi dans le fil, avec sa couverture."""
+    pb = caption_problems(caption)
+    if pb:
+        raise SystemExit("Garde-fou : " + " ; ".join(pb) + ". Publication bloquée.")
+    ig = CFG["ig_user_id"]
+    c = call("POST", f"{ig}/media", media_type="REELS", video_url=video_url, cover_url=cover_url,
+             caption=caption, share_to_feed="true")
+    wait_ready(c["id"], tries=72)  # le traitement d'une vidéo prend plus de temps (jusqu'à 6 min)
+    return call("POST", f"{ig}/media_publish", creation_id=c["id"])["id"]
 
 
 def publish_stories(image_urls: list[str], f: Path, post: dict) -> str:
@@ -223,7 +240,8 @@ def publish_due() -> list[Path]:
             continue
         try:
             urls = [f"{SITE}/posts/{f.parent.name}/{name}" for name in post["images"]]
-            for u in urls:  # les images doivent déjà être en ligne
+            video_url = f"{SITE}/posts/{f.parent.name}/{post['video']}" if post.get("type") == "reel" else None
+            for u in urls + ([video_url] if video_url else []):  # images et vidéo doivent déjà être en ligne
                 try:
                     with urllib.request.urlopen(urllib.request.Request(u, method="HEAD"), timeout=30) as r:
                         ok = r.status == 200
@@ -233,6 +251,8 @@ def publish_due() -> list[Path]:
                     raise SystemExit(f"Image non disponible : {u}")
             if post.get("type") == "story":
                 media_id = publish_stories(urls, f, post)
+            elif post.get("type") == "reel":
+                media_id = publish_reel(video_url, urls[0], post["legende"])
             else:
                 media_id = publish_carousel(urls, post["legende"])
         except SystemExit as e:
