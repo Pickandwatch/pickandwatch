@@ -77,6 +77,13 @@ def stars(n: int | None) -> str:
             f' <span class="lab">{labels.get(n, "")}</span></div>')
 
 
+def _add_menus(g: dict, up: str) -> str:
+    from .equipes import game_add_menus
+    tv = {"live": [x for x in [(g["tv"].get("live") or {}).get("channel"), *g["tv"].get("also", [])] if x],
+          "replays": g["tv"].get("replays", []), "connu": True}
+    return game_add_menus({**g, "tip_utc": g["tip_paris"]}, tv, up)
+
+
 def game_card(g: dict, night_day: date, UP: str = "") -> str:
     h, a = g["home"], g["away"]
     place = " · ".join(x for x in (g.get("city"), g.get("venue")) if x)
@@ -114,7 +121,7 @@ def game_card(g: dict, night_day: date, UP: str = "") -> str:
     {f'<p class="fr"><span class="frflag" aria-hidden="true"><i></i><i></i><i></i></span>Les Français : {e(", ".join(g["francais"]))}</p>' if g.get("francais") else ''}
     <ul class="tv">{''.join(tv_lines)}</ul>
     {check}
-    <p class="addline">Programme ton match : <a class="add" href="{UP}agenda/m/{g["id"]}.ics">+ Agenda (direct)</a>{f' <a class="add" href="{UP}agenda/m/{g["id"]}-differe.ics">+ Agenda (différé)</a>' if tv.get("replays") else ''}</p>
+    <div class="addline">{_add_menus(g, UP)}</div>
   </div>
 </article>"""
 

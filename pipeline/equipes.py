@@ -111,6 +111,51 @@ def match_events(g: dict, tv: dict) -> tuple[list[str], list[str] | None]:
     return direct, differe
 
 
+# --------------------------------------------------------------------------- liens d'agenda (Google, Outlook, Apple)
+
+from urllib.parse import quote, urlencode
+
+
+def subscribe_menu(slug: str, name: str) -> str:
+    """S'abonner à l'agenda d'une équipe depuis Google Agenda, Outlook ou Apple."""
+    https = f"{SITE_URL}/agenda/{slug}.ics"
+    webcal = https.replace("https://", "webcal://")
+    google = "https://calendar.google.com/calendar/r?" + urlencode({"cid": webcal})
+    q = urlencode({"url": https, "name": f"{name} · Pick & Watch"})
+    return (f'<div class="subs"><a class="btn" href="{e(google)}">Google Agenda</a>'
+            f'<a class="btn" href="https://outlook.live.com/calendar/0/addfromweb?{e(q)}">Outlook</a>'
+            f'<a class="btn" href="https://outlook.office.com/calendar/0/addfromweb?{e(q)}">Outlook pro (Microsoft 365)</a>'
+            f'<a class="btn" href="{e(webcal)}">Apple Calendrier</a></div>'
+            f'<p class="muted small">Autre application : abonne-toi avec ce lien → <code>{e(https)}</code></p>')
+
+
+def add_menu(label: str, titre: str, start: datetime, desc: str, ics_href: str) -> str:
+    """Ajouter un match (ou son différé) : Google, Outlook, Outlook pro, Apple / fichier .ics."""
+    st = start.astimezone(timezone.utc)
+    en = st + DUREE
+    g = "https://calendar.google.com/calendar/render?" + urlencode({
+        "action": "TEMPLATE", "text": titre, "dates": f"{st:%Y%m%dT%H%M%SZ}/{en:%Y%m%dT%H%M%SZ}", "details": desc})
+    o = urlencode({"path": "/calendar/action/compose", "rru": "addevent", "subject": titre,
+                   "startdt": st.strftime("%Y-%m-%dT%H:%M:%SZ"), "enddt": en.strftime("%Y-%m-%dT%H:%M:%SZ"), "body": desc})
+    return (f'<details class="addmenu"><summary>{e(label)}</summary><span class="addopts">'
+            f'<a href="{e(g)}">Google</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?{e(o)}">Outlook</a>'
+            f'<a href="https://outlook.office.com/calendar/0/deeplink/compose?{e(o)}">Outlook pro</a>'
+            f'<a href="{e(ics_href)}">Apple / autre</a></span></details>')
+
+
+def game_add_menus(g: dict, tv: dict, up: str) -> str:
+    """Menus « + Agenda » (direct, et différé s'il est prévu) pour une carte de match."""
+    tip = _paris(g["tip_utc"])
+    titre = match_title(g)
+    desc = f"Où regarder : {tv_text(tv)}. Programme et différés, sans spoiler : {SITE_URL}"
+    out = add_menu("+ Agenda (direct)", titre, tip, desc, f"{up}agenda/m/{g['id']}.ics")
+    if tv["replays"]:
+        r = tv["replays"][0]
+        out += add_menu("+ Agenda (différé)", f"{titre} (différé, {r['channel']})", datetime.fromisoformat(r["start"]),
+                        f"Rediffusion sur {r['channel']}. Zéro spoiler : {SITE_URL}", f"{up}agenda/m/{g['id']}-differe.ics")
+    return out
+
+
 # --------------------------------------------------------------------------- pages
 
 def _flag(t: dict) -> str:
@@ -143,8 +188,7 @@ def team_page(team: dict, games: list[dict], tvs: dict, now: datetime, head, foo
                f'à {datetime.fromisoformat(tv["replays"][0]["start"]):%H:%M} · {e(tv["replays"][0]["channel"])}'
                if tv["replays"] else "")
         cup = '<span class="cup">NBA Cup</span>' if g.get("cup") else ""
-        agenda = (f'<a class="add" href="../agenda/m/{g["id"]}.ics">+ Agenda</a>'
-                  + (f' <a class="add" href="../agenda/m/{g["id"]}-differe.ics">+ Différé</a>' if tv["replays"] else ""))
+        agenda = game_add_menus(g, tv, "../")
         rows.append(f"""<div class="row">
   <div class="when"><b>{e(_day(tip))}</b><span>{tip:%H:%M}</span></div>
   <div class="what"><p class="vs">{'' if dom else '<span class="muted">à</span> '}{_flag(adv)}<a href="{adv['slug']}.html">{e(adv['name'])}</a> {cup}</p>
@@ -161,9 +205,10 @@ def team_page(team: dict, games: list[dict], tvs: dict, now: datetime, head, foo
     <p class="summary">{len(a_venir)} matchs à venir · chaînes françaises dès qu'elles sont annoncées</p>
   </section>
   <section class="subscribe">
-    <a class="btn" href="webcal://pickandwatch.fr/agenda/{slug}.ics">S'abonner à l'agenda des {e(team['name'])}</a>
-    <p class="muted small">Tous les matchs s'ajoutent à ton agenda (iPhone, Google, Outlook), avec la chaîne, et se mettent à jour tout seuls.
-    Sur ordinateur : <a href="../agenda/{slug}.ics">télécharger le fichier</a>.</p>
+    <h2 class="kicker small">S'abonner à l'agenda des {e(team['name'])}</h2>
+    <p class="muted small">Tous les matchs s'ajoutent à ton agenda, avec l'heure de Paris et la chaîne, et se mettent à jour tout seuls. Choisis ton application :</p>
+    {subscribe_menu(slug, team['name'])}
+    <p class="muted small">Google Agenda : l'abonnement se fait depuis un navigateur (pas depuis l'application mobile), puis s'affiche partout.</p>
   </section>
   <section class="schedule">{body}</section>
   <p class="notes">Heures de Paris. La chaîne française est connue environ une semaine avant le match (guide TV beIN SPORTS) ; les matchs Prime Video sont annoncés plus tôt.</p>
@@ -208,7 +253,7 @@ def cup_page(cfg: dict, teams: dict, cup_games: list[dict], tvs: dict, standings
   <div class="when"><b>{e((g.get('cup_stage') or '').replace('NBA Cup - ', '').replace('Group Play', 'Groupes'))}</b><span>{tip:%H:%M}</span></div>
   <div class="what"><p class="vs">{_flag(g['home'])}{e(g['home']['name'])} <span class="dash">–</span> {_flag(g['away'])}{e(g['away']['name'])}</p>
     <p class="tvline">{tvh}</p></div>
-  <div class="cal"><a class="add" href="agenda/m/{g['id']}.ics">+ Agenda</a></div>
+  <div class="cal">{game_add_menus(g, tv, "")}</div>
 </div>""")
     if any(v["j"] for v in standings.values()):
         tables = "".join(

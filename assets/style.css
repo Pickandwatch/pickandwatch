@@ -193,3 +193,13 @@ details.spoiler summary { cursor: pointer; font: 800 22px/1.1 var(--display); te
 .frflag { display: inline-flex; height: 14px; }
 .frflag i { width: 7px; height: 100%; display: block; }
 .frflag i:nth-child(1) { background: #0055A4; } .frflag i:nth-child(2) { background: #FFFFFF; outline: 1px solid var(--line); } .frflag i:nth-child(3) { background: #EF4135; }
+.subs { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.subs .btn { font-size: 18px; padding: 10px 16px; }
+code { font: 13px/1.4 var(--mono); word-break: break-all; }
+details.addmenu { display: inline-block; margin: 4px 8px 4px 0; vertical-align: top; }
+details.addmenu summary { list-style: none; cursor: pointer; padding: 2px 10px; border: 1.5px solid var(--orange);
+  font: 500 13px/1.6 var(--mono); white-space: nowrap; }
+details.addmenu summary::-webkit-details-marker { display: none; }
+details.addmenu[open] summary { background: var(--orange); color: var(--paper); }
+.addopts { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.addopts a { padding: 2px 8px; border: 1.5px solid var(--ink); text-decoration: none; font: 500 13px/1.6 var(--mono); }
