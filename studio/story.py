@@ -33,6 +33,13 @@ W, H = 1080, 1920
 SAFE_TOP, SAFE_BOTTOM = 250, 1640      # l'interface d'Instagram couvre le haut et le bas
 BG, INK, HEAD, SUB, FRAME = "#F2EEE6", "#111214", "#F06A2F", "#5C5850", "rgba(17,18,20,0.18)"
 BAR = str(ST / "fonts/BarlowCondensed-ExtraBold.ttf")
+CUP = False   # nuit avec des matchs de NBA Cup : bandeau en tête et récapitulatif en charte NBA Cup
+GOLD = "#E9B949"
+
+
+def bandeau(txt: str) -> str:
+    return (f'<div style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: 44px; letter-spacing: 8px; '
+            f'text-align: center; color: {GOLD}; background: #111214; border: 3px solid {GOLD}; padding: 8px 0">{txt}</div>')
 FONTS = ('<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800'
          '&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">')
 LABELS = {"replay": "REPLAY", "resume": "RÉSUMÉ", "zapper": "ZAPPER"}
@@ -104,6 +111,8 @@ def recap(d: date, games: list, vs: dict) -> str:
     big = 72 if n <= 5 else 60 if n <= 8 else 48 if n <= 11 else 40
     pad = 26 if n <= 5 else 18 if n <= 8 else 10 if n <= 11 else 6
     hsize = 230 if n <= 5 else 180 if n <= 8 else 130
+    if CUP:  # place pour le bandeau NBA Cup
+        hsize, pad = int(hsize * 0.78), max(4, pad - 6)
     psize = 30 if n <= 8 else 24
     width = W - 144 - int(psize * 7.2) - 28
     rows = "".join(
@@ -113,7 +122,7 @@ def recap(d: date, games: list, vs: dict) -> str:
         for g in games)
     count = {k: sum(vs[g["id"]]["verdict"] == k for g in games) for k in ORDER}
     resume = " · ".join(f"{count[k]} {LABELS[k]}" for k in ORDER if count[k])
-    inner = (brand() +
+    inner = (brand() + (bandeau("NBA CUP 2026 · LES VERDICTS") if CUP else "") +
              f'<div style="display: flex; flex-direction: column; gap: 18px">'
              f'<div style="{BAR_CSS}; font-size: {hsize}px; line-height: 0.82; text-align: center; color: {INK}">VERDICTS</div>'
              f'<div style="{BAR_CSS}; font-size: {hsize // 3}px; line-height: 0.9; text-align: center; color: {HEAD}">ÇA VALAIT LE COUP ?</div>'
@@ -121,6 +130,10 @@ def recap(d: date, games: list, vs: dict) -> str:
              f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {INK}">{rows}</div>'
              f'<div style="{MONO_CSS}; font-size: 24px; letter-spacing: 2px; text-align: center; color: {SUB}">{resume} · JAMAIS LE SCORE</div>'
              + foot("Le pourquoi de chaque verdict"))
+    if CUP:
+        sys.path.insert(0, str(ST))
+        from cup_theme import cupify
+        return cupify(page(inner))
     return page(inner)
 
 
@@ -162,6 +175,8 @@ def carte(d: date, g: dict, v: dict, i: int, total: int, now: datetime, slots: l
     long = len(v["text"]) > 170
     s = min(size_for(home, W - 144, 170 if long else 220), size_for(away, W - 144, 170 if long else 220))
     fs = 38 if long else 44
+    if g.get("cup"):  # place pour le bandeau NBA Cup
+        s, fs = int(s * 0.82), fs - 4
     if v["verdict"] == "replay":
         titre, lignes = "OÙ LE REVOIR", ou_revoir(g, now, slots)
     elif v["verdict"] == "resume":  # même mention que le site (pipeline/render.py)
@@ -176,7 +191,7 @@ def carte(d: date, g: dict, v: dict, i: int, total: int, now: datetime, slots: l
     bloc = (f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {INK}">'
             f'<div style="{MONO_CSS}; font-size: 24px; letter-spacing: 3px; color: {SUB}; padding-bottom: 10px">{titre}</div>{where}</div>'
             if lignes else "")
-    inner = (brand() +
+    inner = (brand() + (bandeau("NBA CUP") if g.get("cup") else "") +
              f'<div style="display: flex; flex-direction: column; gap: 14px">'
              f'<div style="{MONO_CSS}; font-size: 26px; letter-spacing: 3px; text-align: center; color: {SUB}">{nuit_titre(d)} · {i}/{total}</div>'
              f'<div style="align-self: center; {badge}; {BAR_CSS}; font-size: 64px; line-height: 1; padding: 10px 28px; letter-spacing: 2px">{LONG[v["verdict"]]}</div>'
@@ -210,13 +225,16 @@ def render(pages: list[str], out: pathlib.Path) -> list[str]:
               root.querySelectorAll('*').forEach(el=>{ if(el.closest('svg') || el.style.position==='absolute') return;
                 const b=el.getBoundingClientRect();
                 if(el.scrollWidth>el.clientWidth+1 && getComputedStyle(el).whiteSpace==='nowrap') r.push('largeur : '+(el.textContent||'').slice(0,40));
-                if(b.right>1080-60 || b.left<60) r.push('côté : '+(el.textContent||'').slice(0,40));
+                if(b.right>WIDTH-60 || b.left<60) r.push('côté : '+(el.textContent||'').slice(0,40));
                 if(b.top<top-40 || b.bottom>bottom+10) r.push('zone masquée : '+(el.textContent||'').slice(0,40)); });
-              return r; }""", [SAFE_TOP, SAFE_BOTTOM])
+              return r; }""".replace("WIDTH", str(W)), [SAFE_TOP, SAFE_BOTTOM])
             problems += [f"{i:02d} : déborde ({o})" for o in dict.fromkeys(over)]
             png = tmp / f"{i:02d}.png"
             pg.locator("body > div").first.screenshot(path=str(png))
-            Image.open(png).convert("RGB").save(out / f"{i:02d}.jpg", quality=92, optimize=True)
+            img = Image.open(png).convert("RGB")
+            if img.size != (1080, 1920):  # carrousel du fil : 4:5 en 1080x1350
+                img = img.resize((1080, 1350), Image.LANCZOS)
+            img.save(out / f"{i:02d}.jpg", quality=92, optimize=True)
             names.append(f"{i:02d}.jpg")
         b.close()
     return problems, names
@@ -228,8 +246,15 @@ def main(argv: list[str]) -> int:
     d = date.fromisoformat(nuit)
     night = json.loads((ROOT / "data/nuits" / f"{nuit}.json").read_text(encoding="utf-8"))
     vs = json.loads((ROOT / "data/verdicts" / f"{nuit}.json").read_text(encoding="utf-8"))["matchs"]
+    global CUP, H, SAFE_TOP, SAFE_BOTTOM
+    CUP = any(g.get("cup") for g in night["games"] if g["id"] in vs)
+    post_mode = "--post" in argv
+    if post_mode:  # carrousel du fil (4:5) : même contenu, sans les marges de l'interface des stories
+        # rendu en 1270x1588 (4:5) puis réduit en 1080x1350 : la mise en page des stories y tient
+        global W
+        W, H, SAFE_TOP, SAFE_BOTTOM = 1270, 1588, 72, 1516
     games = sorted([g for g in night["games"] if g["id"] in vs],
-                   key=lambda g: (ORDER[vs[g["id"]]["verdict"]], g["tip_paris"]))
+                   key=lambda g: (not g.get("cup"), ORDER[vs[g["id"]]["verdict"]], g["tip_paris"]))
     if not games:
         print("Aucun verdict pour cette nuit : pas de story.")
         return 0
@@ -241,7 +266,8 @@ def main(argv: list[str]) -> int:
     now = max(datetime.now(PARIS), due) + timedelta(minutes=30)
     # une carte par match, tous verdicts confondus (consigne d'Alexandre du 21/10)
     pages = [recap(d, games, vs)] + [carte(d, g, vs[g["id"]], i, len(games), now, night.get("rediffusions_nuit")) for i, g in enumerate(games, 1)]
-    out = pathlib.Path(argv[argv.index("--out") + 1]) if preview else ROOT / "posts" / f"{nuit}-verdicts"
+    out = (pathlib.Path(argv[argv.index("--out") + 1]) if preview
+           else ROOT / "posts" / f"{nuit}-verdicts{'-post' if post_mode else ''}")
     out.mkdir(parents=True, exist_ok=True)
     problems, names = render(pages, out)
     for p in problems:
@@ -253,11 +279,21 @@ def main(argv: list[str]) -> int:
         if f.exists() and json.loads(f.read_text(encoding="utf-8")).get("statut") in ("publie", "annule"):
             print(f"{f} déjà {json.loads(f.read_text())['statut']} : non réécrit.")
             return 0
-        post = {"type": "story", "nuit": nuit,
+        legende = ""
+        if post_mode:
+            n2 = d + timedelta(days=1)
+            lignes = "\n".join(f"{LABELS[vs[g['id']]['verdict']]} · {g['home']['name']} – {g['away']['name']}"
+                                + (" (NBA Cup)" if g.get("cup") and not CUP else "") for g in games)
+            legende = ((f"Verdicts NBA Cup · nuit du {d.day} au {n2.day} {MOIS[n2.month - 1].lower()}" if CUP
+                        else f"Nos verdicts · nuit du {d.day} au {n2.day} {MOIS[n2.month - 1].lower()}")
+                       + f"\n\nÇa valait le coup ?\n{lignes}\n\nLe pourquoi de chaque verdict et où revoir les matchs : swipe. "
+                       "Jamais le score.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n"
+                       + ("#NBACup " if CUP else "") + "#NBA #NBAFrance #BasketFrance")
+        post = {"nuit": nuit, **({} if post_mode else {"type": "story"}),
                 # en retard sur 8h : 15 min de marge pour que le site mette les images en ligne
                 "publier_a": max(due, datetime.now(PARIS).replace(second=0, microsecond=0)
                                  + timedelta(minutes=15)).isoformat(),
-                "statut": "propose", "images": names, "legende": ""}
+                "statut": "propose", "images": names[:10], "legende": legende}
         f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"{len(names)} image(s) dans {out}")
     return 0

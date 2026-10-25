@@ -230,3 +230,22 @@ mois publié (`data/mois-publie.json`), pas toute la saison.
 3. `post.json` en `"statut": "brouillon"` (jamais publié sans validation), notification « Post P&W
    à valider — programme de <mois> ». « ok » → `valide` (carrousel ET story). Dossier :
    `posts/<jour>-programme-mois/`. S'il existe déjà (annonce déjà préparée), ne rien refaire.
+
+## 7. NBA Cup (30 octobre → 11 décembre 2026)
+
+Validé par Alexandre le 25 octobre 2026 : charte NBA Cup (version nuit et or, `studio/cup_theme.py`)
+et **« NBA CUP » bien visible en haut** des visuels des soirs et des verdicts de Cup.
+Soirs de Cup : vendredis 30 oct., 6, 13, 20, 27 nov. ; mardi 24 et mercredi 25 nov. ; quarts 4-5 déc. ;
+demies 8-9 déc. ; finale 11 déc. (Hinkle Fieldhouse, Indianapolis). Les matchs de Cup portent
+`"cup": "NBA Cup"` dans `data/nuits/<D>.json` (calendrier ESPN).
+- **Carrousel du soir (§ 2)** : si la nuit compte des matchs de Cup, `spec.json` avec
+  `"theme": "cup"` et, dans `cover`, `"bandeau": "NBA CUP 2026 · <PHASE DE GROUPES / QUARTS…>"` et
+  `"title": "CE SOIR, NBA CUP"` ; les matchs de Cup en tête (le ★★★ de préférence parmi eux) ; sur
+  leurs slides, `label` commence par « NBA CUP · ». La story suit (`story_soir.py`), comme d'habitude.
+  Légende : commencer par la NBA Cup, `#NBACup`, tags depuis `data/comptes-instagram.json`
+  (@primevideosportfr pour les matchs Prime).
+- **Verdicts du lendemain (§ 1)** : `story.py` détecte la Cup tout seul (bandeau, Cup en tête,
+  récapitulatif en charte Cup). **En plus**, les matins de Cup : `python3 studio/story.py <D-1> --post`
+  → carrousel du fil `posts/<D-1>-verdicts-post/` (même règle de publication que la story : 8h,
+  sans validation préalable), légende générée, vérifiée par `pipeline.instagram verify`.
+- **Jamais de classement** sur Instagram : il reste caché sur `pickandwatch.fr/nba-cup.html`.
