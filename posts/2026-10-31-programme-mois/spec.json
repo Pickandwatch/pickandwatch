@@ -1,0 +1,90 @@
+{
+ "couverture": {
+  "etiquette": "NOUVEAU",
+  "titre": [
+   "NOUVEAU : MON ÉQUIPE",
+   "LE PROGRAMME DE NOVEMBRE"
+  ],
+  "lignes": [
+   [
+    "30 ÉQUIPES",
+    "TOUS LEURS MATCHS DE NOVEMBRE"
+   ],
+   [
+    "CHAQUE MATCH",
+    "SA CHAÎNE EN FRANCE"
+   ],
+   [
+    "TON AGENDA",
+    "QUI SE COMPLÈTE CHAQUE MOIS"
+   ]
+  ],
+  "accroche": "Sur pickandwatch.fr. Gratuit."
+ },
+ "slides": [
+  {
+   "etiquette": "NOUVEAU",
+   "rubrique": "MON ÉQUIPE",
+   "titre": [
+    "CHOISIS TON ÉQUIPE",
+    "SON MOIS DE NOVEMBRE, À L'HEURE DE PARIS"
+   ],
+   "chiffres": [
+    [
+     "ÉQUIPES",
+     "30"
+    ],
+    [
+     "LE MOIS",
+     "NOVEMBRE"
+    ],
+    [
+     "NBA CUP",
+     "INCLUSE"
+    ]
+   ],
+   "texte": "Tous les matchs de novembre de ton équipe, avec la chaîne française dès qu'elle est annoncée : beIN SPORTS, Prime Video ou NBA League Pass. Les matchs de NBA Cup sont signalés. Et à chaque fin de mois, le programme du mois suivant.",
+   "encadre": [
+    "SUR LE SITE",
+    "ONGLET MON ÉQUIPE",
+    "lien en bio"
+   ]
+  },
+  {
+   "etiquette": "NOUVEAU",
+   "rubrique": "ABONNE-TOI",
+   "titre": [
+    "UN CLIC, ET C'EST TOUT",
+    "GOOGLE, OUTLOOK OU APPLE"
+   ],
+   "chiffres": [
+    [
+     "GOOGLE",
+     "OUI"
+    ],
+    [
+     "OUTLOOK",
+     "OUI"
+    ],
+    [
+     "APPLE",
+     "OUI"
+    ]
+   ],
+   "texte": "Abonne-toi à l'agenda de ton équipe : ses matchs arrivent dans ton calendrier, avec l'heure de Paris et la chaîne. Chaque fin de mois, le programme du mois suivant s'y ajoute tout seul, comme les chaînes dès qu'elles sont annoncées.",
+   "encadre": [
+    "SUR LA PAGE DE TON ÉQUIPE",
+    "« S'ABONNER »",
+    "lien en bio"
+   ]
+  }
+ ],
+ "fin": {
+  "etiquette": "NOUVEAU",
+  "titre": [
+   "TON ÉQUIPE,",
+   "TON AGENDA. ZÉRO SPOILER."
+  ],
+  "texte": "Choisis ton équipe sur pickandwatch.fr (lien en bio), et dis-nous en commentaire laquelle tu suis."
+ }
+}

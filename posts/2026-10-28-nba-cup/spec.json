@@ -1,0 +1,145 @@
+{
+ "couverture": {
+  "etiquette": "NBA CUP",
+  "titre": [
+   "LA NBA CUP",
+   "COMMENT ÇA MARCHE"
+  ],
+  "lignes": [
+   [
+    "DU 30 OCT.",
+    "AU 11 DÉCEMBRE"
+   ],
+   [
+    "6 GROUPES",
+    "DE 5 ÉQUIPES"
+   ],
+   [
+    "LA FINALE",
+    "À INDIANAPOLIS"
+   ]
+  ],
+  "accroche": "Tout comprendre avant vendredi."
+ },
+ "slides": [
+  {
+   "etiquette": "NBA CUP",
+   "rubrique": "LE TIRAGE",
+   "titre": [
+    "6 GROUPES",
+    "3 À L'EST, 3 À L'OUEST"
+   ],
+   "chiffres": [
+    [
+     "ÉQUIPES",
+     "30"
+    ],
+    [
+     "PAR GROUPE",
+     "5"
+    ],
+    [
+     "MATCHS CHACUNE",
+     "4"
+    ]
+   ],
+   "taille": 30,
+   "texte": "<strong>Ouest A</strong> · Nuggets, Rockets, Suns, Mavericks, Jazz<br><strong>Ouest B</strong> · Thunder, Wolves, Clippers, Pelicans, Grizzlies<br><strong>Ouest C</strong> · Spurs, Lakers, Blazers, Warriors, Kings<br><strong>Est A</strong> · Pistons, Raptors, Magic, Bucks, Nets<br><strong>Est B</strong> · Knicks, Cavaliers, 76ers, Heat, Pacers<br><strong>Est C</strong> · Celtics, Hawks, Hornets, Bulls, Wizards",
+   "encadre": [
+    "LE GROUPE DE WEMBY",
+    "OUEST C",
+    "avec les Lakers"
+   ]
+  },
+  {
+   "etiquette": "NBA CUP",
+   "rubrique": "PHASE DE GROUPES",
+   "titre": [
+    "DU 30 OCT. AU 27 NOV.",
+    "CHAQUE MATCH COMPTE DEUX FOIS"
+   ],
+   "chiffres": [
+    [
+     "SOIRÉES",
+     "7"
+    ],
+    [
+     "EN QUARTS",
+     "8"
+    ]
+   ],
+   "texte": "Chaque équipe affronte une fois les quatre autres de son groupe, surtout le vendredi. Les six premiers de groupe et le meilleur deuxième de chaque conférence filent en quarts. Et ces matchs comptent aussi pour le classement de la saison.",
+   "encadre": [
+    "LES SOIRÉES",
+    "5 VENDREDIS",
+    "+ mar. 24 et mer. 25 nov."
+   ]
+  },
+  {
+   "etiquette": "NBA CUP",
+   "rubrique": "PHASE FINALE",
+   "titre": [
+    "UNE DÉFAITE, C'EST FINI",
+    "FINALE LE 11 DÉCEMBRE"
+   ],
+   "chiffres": [
+    [
+     "QUARTS",
+     "4-5 DÉC."
+    ],
+    [
+     "DEMIES",
+     "8-9 DÉC."
+    ],
+    [
+     "FINALE",
+     "11 DÉC."
+    ]
+   ],
+   "texte": "Quarts et demies se jouent chez l'équipe la mieux classée. Nouveauté : fini Las Vegas, la finale se joue au Hinkle Fieldhouse d'Indianapolis, la salle mythique de l'université Butler, ouverte en 1928.",
+   "encadre": [
+    "LA FINALE",
+    "HINKLE FIELDHOUSE",
+    "Indianapolis"
+   ]
+  },
+  {
+   "etiquette": "NBA CUP",
+   "rubrique": "OÙ REGARDER EN FRANCE",
+   "titre": [
+    "PRIME VIDEO",
+    "LES DOUBLES AFFICHES DU VENDREDI"
+   ],
+   "chiffres": [
+    [
+     "VENDREDIS",
+     "5"
+    ],
+    [
+     "MATCHS",
+     "10"
+    ],
+    [
+     "PHASE FINALE",
+     "PRIME"
+    ]
+   ],
+   "taille": 30,
+   "texte": "<strong>30 oct.</strong> · 76ers – Knicks, Warriors – Lakers<br><strong>6 nov.</strong> · Cavaliers – 76ers, Lakers – Blazers<br><strong>13 nov.</strong> · Pacers – Knicks, Spurs – Warriors<br><strong>20 nov.</strong> · Pistons – Raptors, Nuggets – Rockets<br><strong>27 nov.</strong> · Knicks – Heat, Spurs – Lakers<br>Dans la nuit du vendredi au samedi. Les autres matchs : NBA League Pass.",
+   "encadre": [
+    "INCLUS DANS",
+    "AMAZON PRIME",
+    "horaires chaque soir à 19h"
+   ]
+  }
+ ],
+ "fin": {
+  "etiquette": "NBA CUP",
+  "titre": [
+   "ET COMME TOUJOURS,",
+   "ZÉRO SPOILER."
+  ],
+  "texte": "Un classement de groupe dévoile les résultats : on ne le publie pas. Sur pickandwatch.fr, il est caché derrière un bouton, pour ceux qui ont tout vu.<br><br>Chaque soir à 19h : qui joue, à quelle heure, sur quelle chaîne."
+ },
+ "theme": "cup"
+}

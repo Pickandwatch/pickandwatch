@@ -1,0 +1,63 @@
+{
+ "couverture": {
+  "etiquette": "NOUVEAU",
+  "titre": [
+   "NOUVEAU : + AGENDA",
+   "PROGRAMME TON MATCH EN 1 CLIC"
+  ],
+  "lignes": [
+   [
+    "LE DIRECT",
+    "À L'HEURE DE PARIS"
+   ],
+   [
+    "OU LE DIFFÉRÉ",
+    "QUAND IL EST PROGRAMMÉ"
+   ],
+   [
+    "DANS TON AGENDA",
+    "GOOGLE, OUTLOOK, APPLE"
+   ]
+  ],
+  "accroche": "Sous chaque match du programme."
+ },
+ "slides": [
+  {
+   "etiquette": "NOUVEAU",
+   "rubrique": "PROGRAMME TON MATCH",
+   "titre": [
+    "+ AGENDA",
+    "SOUS CHAQUE MATCH DU PROGRAMME"
+   ],
+   "chiffres": [
+    [
+     "DIRECT",
+     "OUI"
+    ],
+    [
+     "DIFFÉRÉ",
+     "AUSSI"
+    ],
+    [
+     "PRIX",
+     "GRATUIT"
+    ]
+   ],
+   "taille": 35,
+   "texte": "Tu vois un match qui te tente ? Un clic sur «&nbsp;+&nbsp;Agenda » : il s'ajoute à Google Agenda, à Outlook ou à ton iPhone, avec l'heure de Paris et la chaîne. Tu préfères dormir ? Quand une rediffusion est programmée, ajoute le différé.",
+   "encadre": [
+    "SUR LE SITE",
+    "« + AGENDA »",
+    "lien en bio"
+   ]
+  }
+ ],
+ "fin": {
+  "etiquette": "NOUVEAU",
+  "titre": [
+   "TU DORS,",
+   "TON AGENDA VEILLE."
+  ],
+  "texte": "Programme ton prochain match sur pickandwatch.fr (lien en bio). Et toujours zéro spoiler."
+ }
+}
