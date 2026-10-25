@@ -20,6 +20,11 @@ prépare du contenu Pick & Watch le lit en entier avant de commencer.
 - Jamais de mot de passe ni de clé dans la conversation. La clé Instagram est un secret GitHub.
 - Ton : direct, sobre, tutoiement du lecteur, pas de superlatifs. Charte « papier ».
 
+- **Diffuseurs et commentateurs (Alexandre, 25/10/2026)** : chaque fois qu'une légende cite beIN SPORTS,
+  taguer @beinsports_fr et ses commentateurs (`data/comptes-instagram.json` : Rémi Reverchon, Fred Weis,
+  Xavier Vaution, Chris Singleton ; Jacques Monclar cité sans tag) ; chaque fois qu'elle cite Prime Video,
+  taguer @primevideosportfr. Jamais de pseudo deviné.
+
 ## Mise en route d'une session
 
 ```
