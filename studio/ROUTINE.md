@@ -214,3 +214,18 @@ créateurs français. Jamais de score ni de résultat, jamais de rumeur de trans
    Sans réponse le vendredi à 11h45 : rien ne part ; prévenir Alexandre que le numéro attend.
 7. Après publication, la page `pickandwatch.fr/hors-parquet.html` se met à jour toute seule
    (numéros publiés, avec les liens des sources).
+
+## 6. Le dernier jour du mois : le programme du mois suivant
+
+Décision d'Alexandre (25 octobre 2026) : « Mon équipe » et les agendas d'équipe ne montrent que le
+mois publié (`data/mois-publie.json`), pas toute la saison.
+1. Le dernier jour du mois, passer `mois` au mois suivant (ex. `"2026-12"`), push, lancer
+   `programme.yml` et vérifier une page équipe (ex. `pickandwatch.fr/equipes/sa.html` : « Le programme
+   jusqu'à fin décembre »).
+2. Annonce Instagram, **post + story** à **12h30** : carrousel avec `studio/guide.py` (couverture
+   « Le programme de <mois> est en ligne », une slide « les affiches du mois » : 4 ou 5 matchs les
+   mieux notés selon la grille, avec chaîne si connue, une slide « abonne-toi à l'agenda de ton
+   équipe : Google, Outlook, Apple », slide de fin). Si le mois contient des matchs de NBA Cup,
+   les signaler. Story : `python3 studio/story_soir.py <dossier>`.
+3. `post.json` en `"statut": "brouillon"` (jamais publié sans validation), notification « Post P&W
+   à valider — programme de <mois> ». « ok » → `valide` (carrousel ET story).

@@ -170,9 +170,19 @@ def _day(dt: datetime) -> str:
     return f"{JOURS[dt.weekday()]} {dt.day} {MOIS_COURTS[dt.month - 1]}"
 
 
-def team_page(team: dict, games: list[dict], tvs: dict, now: datetime, head, foot) -> str:
+def fin_du_mois(mois: str) -> datetime:
+    """« 2026-11 » → 1er décembre 2026 à 12h, heure de Paris (la nuit du 30 novembre est incluse)."""
+    y, m = map(int, mois.split("-"))
+    y, m = (y + 1, 1) if m == 12 else (y, m + 1)
+    return datetime(y, m, 1, 12, tzinfo=PARIS)
+
+
+def team_page(team: dict, games: list[dict], tvs: dict, now: datetime, head, foot, mois: str) -> str:
     slug = team["slug"]
-    a_venir = [g for g in games if _paris(g["tip_utc"]) > now - timedelta(hours=3)]
+    limite = fin_du_mois(mois)
+    a_venir = [g for g in games if now - timedelta(hours=3) < _paris(g["tip_utc"]) < limite]
+    y, m = map(int, mois.split("-"))
+    nom_mois = f"{MOIS[m - 1]} {y}"
     rows, mois = [], None
     for g in a_venir:
         tip = _paris(g["tip_utc"])
@@ -202,7 +212,7 @@ def team_page(team: dict, games: list[dict], tvs: dict, now: datetime, head, foo
   <section class="hero">
     <p class="kicker fit" data-min="40">{e(team['name'])}</p>
     <h1 class="fit" data-min="30">Le calendrier, à l'heure de Paris</h1>
-    <p class="summary">{len(a_venir)} matchs à venir · chaînes françaises dès qu'elles sont annoncées</p>
+    <p class="summary">Le programme jusqu'à fin {nom_mois} · {len(a_venir)} matchs · chaînes françaises dès qu'elles sont annoncées</p>
   </section>
   <section class="subscribe">
     <h2 class="kicker small">S'abonner à l'agenda des {e(team['name'])}</h2>
@@ -211,7 +221,7 @@ def team_page(team: dict, games: list[dict], tvs: dict, now: datetime, head, foo
     <p class="muted small">Google Agenda : l'abonnement se fait depuis un navigateur (pas depuis l'application mobile), puis s'affiche partout.</p>
   </section>
   <section class="schedule">{body}</section>
-  <p class="notes">Heures de Paris. La chaîne française est connue environ une semaine avant le match (guide TV beIN SPORTS) ; les matchs Prime Video sont annoncés plus tôt.</p>
+  <p class="notes">Heures de Paris. Le programme du mois suivant est mis en ligne à la fin de chaque mois (et ton agenda se complète tout seul). La chaîne française est connue environ une semaine avant le match (guide TV beIN SPORTS) ; les matchs Prime Video sont annoncés plus tôt.</p>
   <p><a href="index.html">← Toutes les équipes</a></p>
 </main>
 """ + foot(now))
@@ -308,6 +318,9 @@ def build(root: Path, site: Path, progs: list[dict], now: datetime, head, foot) 
         for g in schedules[abbr]:
             all_games.setdefault(g["id"], g)
     tvs = {gid: tv_for(g, progs, diffuseurs) for gid, g in all_games.items()}
+    # Programme publié mois par mois (décision d'Alexandre du 25/10/2026) : data/mois-publie.json.
+    mp = root / "data" / "mois-publie.json"
+    mois = json.loads(mp.read_text(encoding="utf-8"))["mois"] if mp.exists() else f"{now:%Y-%m}"
 
     (site / "equipes").mkdir(parents=True, exist_ok=True)
     (site / "agenda" / "m").mkdir(parents=True, exist_ok=True)
@@ -320,9 +333,10 @@ def build(root: Path, site: Path, progs: list[dict], now: datetime, head, foot) 
             (site / "agenda" / "m" / f"{gid}-differe.ics").write_text(calendar(match_title(g), [differe]), encoding="utf-8", newline="")
     for abbr, t in teams.items():
         games = sorted(schedules[abbr], key=lambda g: g["tip_utc"])
-        evs = [match_events(g, tvs[g["id"]])[0] for g in games if _paris(g["tip_utc"]) > now - timedelta(days=30)]
+        evs = [match_events(g, tvs[g["id"]])[0] for g in games
+               if now - timedelta(days=30) < _paris(g["tip_utc"]) < fin_du_mois(mois)]
         (site / "agenda" / f"{t['slug']}.ics").write_text(calendar(f"{t['name']} · Pick & Watch", evs), encoding="utf-8", newline="")
-        (site / "equipes" / f"{t['slug']}.html").write_text(team_page(t, games, tvs, now, head, foot), encoding="utf-8")
+        (site / "equipes" / f"{t['slug']}.html").write_text(team_page(t, games, tvs, now, head, foot, mois), encoding="utf-8")
     (site / "equipes" / "index.html").write_text(index_page(teams, now, head, foot), encoding="utf-8")
 
     cfg_path = root / "data" / "nba-cup-2026.json"
