@@ -46,7 +46,8 @@ def match(m, i, n):
                 + f'<div style="display: flex; flex-direction: column; gap: 16px">{line(m["quand"], color=OR)}{line(m["equipes"], color=INK)}</div>'
                 + f'<div style="border: 3px solid {OR}; padding: 22px 30px"><div style="{MONO}; font-size: 24px; letter-spacing: 3px; color: {SUB}">OÙ REGARDER</div>'
                   f'<div style="{BAR}; font-size: 64px; line-height: 1.05; margin-top: 6px">{m["chaine"]}</div>{plus}</div>'
-                + f'<div style="font-size: 50px; line-height: 1.32">{m["enjeu"]}</div>')
+                + f'<div style="font-size: 50px; line-height: 1.32">{m["enjeu"]}</div>'
+                + (f'<div style="font-size: 38px; line-height: 1.32; font-style: italic; color: {SUB}; border-left: 6px solid {OR}; padding-left: 22px">{m["micro"]}</div>' if m.get("micro") else ''))
 
 
 def fin(s):
