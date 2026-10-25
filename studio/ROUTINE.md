@@ -168,3 +168,20 @@ Après 19h05, vérifier le statut dans `posts/<D>/post.json` et `posts/<D>-story
 
 Le robot n'essaie plus un post resté sans publication 3 h après l'heure prévue (statut `echec`)
 et un post en échec ne bloque plus ceux des jours suivants.
+
+## 4. Le lundi : Reel « les matchs à ne pas rater cette semaine »
+
+Validé par Alexandre le 25 octobre 2026 (premier Reel le lundi 26). Chaque lundi, dans la tâche
+du matin :
+1. `python3 studio/semaine.py <lundi>` classe les matchs des sept nuits (grille d'étoiles, sans le
+   bonus événement) avec leur diffusion. Retenir **3 affiches**, une par nuit au plus : les mieux
+   notées, en préférant à note égale un match visible à la télé française (beIN, Prime Video).
+2. Écrire `posts/<lundi>-reel/spec.json` sur le modèle de `posts/2026-10-26-reel/spec.json`
+   (quand, équipes, chaîne, différé ou mention, une phrase d'enjeu sourcée, étoiles), puis
+   `python3 studio/reel_semaine.py posts/<lundi>-reel/spec.json` → `reel.mp4` + `cover.jpg`.
+   Regarder des images extraites de la vidéo avant de proposer.
+3. `post.json` : `{"type": "reel", "publier_a": "<lundi>T12:30:00+01:00", "statut": "propose",
+   "images": ["cover.jpg"], "video": "reel.mp4", "legende": ...}` (légende sur le modèle du 26/10),
+   `python3 -m pipeline.instagram verify`, push, lancer `programme.yml`, vérifier que la vidéo répond 200.
+4. Envoyer la vidéo et la légende à Alexandre avec la notification « Post P&W à valider ». Sans
+   réponse, publication automatique à 12h30 (Reel muet ; Alexandre a choisi l'automatique).
