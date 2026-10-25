@@ -34,7 +34,7 @@ def cover(c, out):
 
 
 
-def render(src, out, names):
+def render(src, out, names, theme=None, theme_names=None):
     """Rend chaque slide en JPEG et signale tout débordement du cadre."""
     from playwright.sync_api import sync_playwright
     from PIL import Image
@@ -43,6 +43,9 @@ def render(src, out, names):
         b = p.chromium.launch(); pg = b.new_page(viewport={'width': 1080, 'height': 1350})
         for i, n in enumerate(names, 1):
             body = (src / f'{n}.dc.html').read_text().split('</helmet>')[1].split('</x-dc>')[0]
+            if theme == 'cup' and (theme_names is None or n in theme_names):
+                from cup_theme import cupify
+                body = cupify(body)
             h = src / f'_{n}.html'
             h.write_text(f'<html><head><meta charset="utf-8">{FONTS}<style>body{{margin:0}}</style></head><body>{body}</body></html>')
             pg.goto(f'file://{h.resolve()}'); pg.wait_for_load_state('networkidle'); pg.evaluate('document.fonts.ready'); pg.wait_for_timeout(600)
@@ -72,7 +75,7 @@ def main(spec_path):
     for i, m in enumerate(spec['matches'], 2):
         gen_match.match(f'm{i}.dc.html', m); names.append(f'm{i}')
     (tmp / 'cta.dc.html').write_text((ST / 'gabarits' / 'cta.dc.html').read_text()); names.append('cta')
-    problems = render(tmp, out, names)
+    problems = render(tmp, out, names, spec.get('theme'), ['cover', 'cta'])
     print(f'{len(names)} slides dans {out}')
     for p in problems: print('ATTENTION', p)
     return 1 if problems else 0

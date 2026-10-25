@@ -48,7 +48,7 @@ def main(spec_path):
     names = []
     for k, p in enumerate(pages, 1):
         (tmp / f'g{k}.dc.html').write_text(p); names.append(f'g{k}')
-    problems = render(tmp, spec_path.parent, names)
+    problems = render(tmp, spec_path.parent, names, spec.get('theme'))
     print(f'{len(names)} slides dans {spec_path.parent}')
     for p in problems: print('ATTENTION', p)
     return 1 if problems else 0
