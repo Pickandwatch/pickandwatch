@@ -100,7 +100,7 @@ def match_events(g: dict, tv: dict) -> tuple[list[str], list[str] | None]:
     titre = match_title(g)
     desc = (f"Où regarder : {tv_text(tv)}. "
             + ("Match de NBA Cup. " if g.get("cup") else "")
-            + f"Programme complet et différés, sans spoiler : {SITE_URL}")
+            + f"Le verdict sans spoiler demain à 8h sur Instagram : @pickandwatch.fr. Programme : {SITE_URL}")
     direct = vevent(g["id"], tip, titre, desc, SITE_URL)
     rep = tv["replays"][0] if tv["replays"] else None
     differe = None
@@ -147,7 +147,7 @@ def game_add_menus(g: dict, tv: dict, up: str) -> str:
     """Menus « + Agenda » (direct, et différé s'il est prévu) pour une carte de match."""
     tip = _paris(g["tip_utc"])
     titre = match_title(g)
-    desc = f"Où regarder : {tv_text(tv)}. Programme et différés, sans spoiler : {SITE_URL}"
+    desc = f"Où regarder : {tv_text(tv)}. Le verdict sans spoiler demain à 8h sur Instagram : @pickandwatch.fr. Programme : {SITE_URL}"
     out = add_menu("+ Agenda (direct)", titre, tip, desc, f"{up}agenda/m/{g['id']}.ics")
     if tv["replays"]:
         r = tv["replays"][0]
@@ -215,13 +215,11 @@ def team_page(team: dict, games: list[dict], tvs: dict, now: datetime, head, foo
     <p class="summary">Le programme jusqu'à fin {nom_mois} · {len(a_venir)} matchs · chaînes françaises dès qu'elles sont annoncées</p>
   </section>
   <section class="subscribe">
-    <h2 class="kicker small">S'abonner à l'agenda des {e(team['name'])}</h2>
-    <p class="muted small">Tous les matchs s'ajoutent à ton agenda, avec l'heure de Paris et la chaîne, et se mettent à jour tout seuls. Choisis ton application :</p>
-    {subscribe_menu(slug, team['name'])}
-    <p class="muted small">Google Agenda : l'abonnement se fait depuis un navigateur (pas depuis l'application mobile), puis s'affiche partout.</p>
+    <p class="muted small">Un match te tente ? « + Agenda » l'ajoute à Google Agenda, Outlook ou ton iPhone, avec l'heure de Paris et la chaîne.
+    Et le lendemain à 8h, notre verdict sans spoiler sur Instagram : <a href="https://www.instagram.com/pickandwatch.fr/">@pickandwatch.fr</a>.</p>
   </section>
   <section class="schedule">{body}</section>
-  <p class="notes">Heures de Paris. Le programme du mois suivant est mis en ligne à la fin de chaque mois (et ton agenda se complète tout seul). La chaîne française est connue environ une semaine avant le match (guide TV beIN SPORTS) ; les matchs Prime Video sont annoncés plus tôt.</p>
+  <p class="notes">Heures de Paris. Le programme du mois suivant est mis en ligne à la fin de chaque mois. La chaîne française est connue environ une semaine avant le match (guide TV beIN SPORTS) ; les matchs Prime Video sont annoncés plus tôt.</p>
   <p><a href="index.html">← Toutes les équipes</a></p>
 </main>
 """ + foot(now))
@@ -333,9 +331,6 @@ def build(root: Path, site: Path, progs: list[dict], now: datetime, head, foot) 
             (site / "agenda" / "m" / f"{gid}-differe.ics").write_text(calendar(match_title(g), [differe]), encoding="utf-8", newline="")
     for abbr, t in teams.items():
         games = sorted(schedules[abbr], key=lambda g: g["tip_utc"])
-        evs = [match_events(g, tvs[g["id"]])[0] for g in games
-               if now - timedelta(days=30) < _paris(g["tip_utc"]) < fin_du_mois(mois)]
-        (site / "agenda" / f"{t['slug']}.ics").write_text(calendar(f"{t['name']} · Pick & Watch", evs), encoding="utf-8", newline="")
         (site / "equipes" / f"{t['slug']}.html").write_text(team_page(t, games, tvs, now, head, foot, mois), encoding="utf-8")
     (site / "equipes" / "index.html").write_text(index_page(teams, now, head, foot), encoding="utf-8")
 

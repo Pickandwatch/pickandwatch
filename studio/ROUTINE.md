@@ -217,15 +217,16 @@ créateurs français. Jamais de score ni de résultat, jamais de rumeur de trans
 
 ## 6. Le dernier jour du mois : le programme du mois suivant
 
-Décision d'Alexandre (25 octobre 2026) : « Mon équipe » et les agendas d'équipe ne montrent que le
+Décision d'Alexandre (25 octobre 2026) : « Mon équipe » ne montre que le
 mois publié (`data/mois-publie.json`), pas toute la saison.
 1. Le dernier jour du mois, mettre `mois` sur le mois de demain (ex. le 30 novembre → `"2026-12"` ; s'il y est déjà, ne rien changer), push, lancer
    `programme.yml` et vérifier une page équipe (ex. `pickandwatch.fr/equipes/sa.html` : « Le programme
    jusqu'à fin décembre »).
 2. Annonce Instagram, **post + story** à **12h30** : carrousel avec `studio/guide.py` (couverture
    « Le programme de <mois> est en ligne », une slide « les affiches du mois » : 4 ou 5 matchs les
-   mieux notés selon la grille, avec chaîne si connue, une slide « abonne-toi à l'agenda de ton
-   équipe : Google, Outlook, Apple », slide de fin). Si le mois contient des matchs de NBA Cup,
+   mieux notés selon la grille, avec chaîne si connue, une slide « + Agenda : ajoute les matchs
+   qui te tentent, un par un (Google, Outlook, Apple) », slide de fin). Pas d'abonnement à l'agenda d'une
+   équipe : supprimé le 25/10/2026 pour garder l'intérêt du compte Instagram). Si le mois contient des matchs de NBA Cup,
    les signaler. Story : `python3 studio/story_soir.py <dossier>`.
 3. `post.json` en `"statut": "brouillon"` (jamais publié sans validation), notification « Post P&W
    à valider — programme de <mois> ». « ok » → `valide` (carrousel ET story). Dossier :
