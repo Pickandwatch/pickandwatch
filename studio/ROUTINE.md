@@ -116,7 +116,7 @@ seulement que le site l'affiche.
    `{"publier_a": "<D>T19:00:00+02:00", "statut": "propose", "images": [...], "legende": "..."}`
    (heure d'hiver à partir du 25 octobre : `+01:00`). Garder l'éditorial du site dans
    `posts/<D>/editorial.json` (même format que `data/editorial/`).
-7. **Story du soir** (demandée par Alexandre le 21 octobre 2026) : lancer
+7. **Story du soir** (demandée par Alexandre le 21 octobre 2026 ; règle confirmée le 25 octobre : toute annonce de match part **systématiquement en post ET en story**, y compris une annonce exceptionnelle hors carrousel du soir, par exemple un match en journée) : lancer
    `python3 studio/story_soir.py <D>`. Il reprend les images du carrousel, chacune centrée sur un
    fond 1080x1920 de sa couleur, dans `posts/<D>-story/` (`post.json` : `"type": "story"`,
    `"suit": "<D>"`, même heure, même statut). Mêmes règles que le carrousel : publication
