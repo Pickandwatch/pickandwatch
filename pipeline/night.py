@@ -123,6 +123,8 @@ def build_night(d: date, root: Path, cache: Path | None = None,
     prime_fr = bool(diffuseurs.get("prime_usa_en_france"))
     editorial = load_json(root / "data" / "editorial" / f"{d.isoformat()}.json", {}).get("matchs", {})
 
+    fr = load_json(root / "data" / "francais.json", {})
+    francais = fr.get("equipes", {}) if fr.get("valide") else {}
     checks = []
     out_games = []
     for g in games:
@@ -176,6 +178,7 @@ def build_night(d: date, root: Path, cache: Path | None = None,
             "neutral": g["neutral"],
             "phase": g["phase"],
             "cup": g.get("cup"),
+            "francais": francais.get(g["home"]["abbr"], []) + francais.get(g["away"]["abbr"], []),
             "time_status": time_status,
             "tv": tv,
             "stars": ed.get("stars"),

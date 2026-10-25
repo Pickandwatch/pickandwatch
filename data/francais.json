@@ -1,0 +1,49 @@
+{
+  "_statut": "à valider par Alexandre (repérage du 25/10/2026 : effectifs ESPN, nationalité ou lieu de naissance, complété des Français connus)",
+  "valide": false,
+  "equipes": {
+    "BKN": [
+      "Nolan Traoré"
+    ],
+    "CHA": [
+      "Moussa Diabaté",
+      "Tidjane Salaün"
+    ],
+    "CHI": [
+      "Noa Essengue"
+    ],
+    "DAL": [
+      "Zaccharie Risacher"
+    ],
+    "MIL": [
+      "Ousmane Dieng"
+    ],
+    "MIN": [
+      "Rudy Gobert",
+      "Joan Beringer"
+    ],
+    "NY": [
+      "Pacôme Dadiet",
+      "Mohamed Diawara"
+    ],
+    "ORL": [
+      "Noah Penda"
+    ],
+    "PHI": [
+      "Rayan Rupert"
+    ],
+    "POR": [
+      "Sidy Cissoko"
+    ],
+    "SAC": [
+      "Maxime Raynaud"
+    ],
+    "SA": [
+      "Victor Wembanyama"
+    ],
+    "WSH": [
+      "Bilal Coulibaly",
+      "Alex Sarr"
+    ]
+  }
+}

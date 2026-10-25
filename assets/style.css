@@ -189,3 +189,7 @@ details.spoiler summary { cursor: pointer; font: 800 22px/1.1 var(--display); te
   .row .when span { font-size: 24px; }
   .row .vs { font-size: 21px; }
 }
+.fr { margin: 10px 0 0; font: 500 14px/1.5 var(--mono); letter-spacing: .5px; display: flex; align-items: center; gap: 8px; }
+.frflag { display: inline-flex; height: 14px; }
+.frflag i { width: 7px; height: 100%; display: block; }
+.frflag i:nth-child(1) { background: #0055A4; } .frflag i:nth-child(2) { background: #FFFFFF; outline: 1px solid var(--line); } .frflag i:nth-child(3) { background: #EF4135; }

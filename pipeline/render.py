@@ -111,6 +111,7 @@ def game_card(g: dict, night_day: date, UP: str = "") -> str:
     <h3 class="teams">{flag(h)}<a href="{UP}equipes/{h["abbr"].lower()}.html">{e(h["name"])}</a> <span class="dash">–</span> {flag(a)}<a href="{UP}equipes/{a["abbr"].lower()}.html">{e(a["name"])}</a></h3>
     <p class="place">{'<span class="cup">NBA Cup</span> ' if g.get("cup") else ''}{e(place)}</p>
     {brief}
+    {f'<p class="fr"><span class="frflag" aria-hidden="true"><i></i><i></i><i></i></span>Les Français : {e(", ".join(g["francais"]))}</p>' if g.get("francais") else ''}
     <ul class="tv">{''.join(tv_lines)}</ul>
     {check}
     <p class="addline">Programme ton match : <a class="add" href="{UP}agenda/m/{g["id"]}.ics">+ Agenda (direct)</a>{f' <a class="add" href="{UP}agenda/m/{g["id"]}-differe.ics">+ Agenda (différé)</a>' if tv.get("replays") else ''}</p>
