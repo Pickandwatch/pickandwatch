@@ -16,7 +16,7 @@ def cover(c, n):
         f'<div style="padding: 18px 0; border-top: 1px solid {INK}; display: flex; justify-content: space-between; align-items: baseline; gap: 20px">'
         f'<span style="{BAR}; font-size: 58px; line-height: 1">{k}</span>'
         f'<span style="{MONO}; font-size: 24px; letter-spacing: 1px; color: {SUB}; text-align: right">{t}</span></div>' for k, t in c['lignes'])
-    inner = [header(f'LE GUIDE · 1/{n}'), title(*c['titre']),
+    inner = [header(f'{c.get("etiquette", "LE GUIDE")} · 1/{n}'), title(*c['titre']),
              f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {INK}">{rows}</div>',
              f'<div style="display: flex; justify-content: space-between; align-items: baseline"><span style="font-size: 30px; font-style: italic; color: {SUB}">{c["accroche"]}</span>'
              f'<span style="{BAR}; font-size: 40px; letter-spacing: 2px; color: {OR}">SWIPE →</span></div>']
@@ -24,14 +24,16 @@ def cover(c, n):
 
 
 def slide(s, i, n):
-    inner = [header(f'LE GUIDE · {i}/{n}'),
+    inner = [header(f'{s.get("etiquette", "LE GUIDE")} · {i}/{n}'),
              f'<div style="display: flex; flex-direction: column; gap: 22px"><div style="{MONO}; font-size: 24px; letter-spacing: 4px; color: {OR}">{s["rubrique"]}</div>{title(*s["titre"])}</div>',
-             stats(s['chiffres']), body(s['texte']), source_box(*s['encadre'])]
+             stats(s['chiffres']),
+             (body(s['texte']) if not s.get('taille') else body(s['texte']).replace('font-size: 37px', f"font-size: {s['taille']}px")),
+             source_box(*s['encadre'])]
     return frame('\n'.join(inner))
 
 
 def fin(f, n):
-    inner = [header(f'LE GUIDE · {n}/{n}'), title(*f['titre']), body(f['texte']),
+    inner = [header(f'{f.get("etiquette", "LE GUIDE")} · {n}/{n}'), title(*f['titre']), body(f['texte']),
              f'<div style="display: flex; justify-content: space-between; align-items: center; gap: 24px; border: 3px solid {OR}; padding: 20px 30px">'
              f'<div style="display: flex; flex-direction: column; gap: 4px"><span style="{BAR}; font-size: 54px; line-height: 1">pickandwatch.fr</span>'
              f'<span style="{MONO}; font-size: 24px; color: {SUB}">Zéro spoiler. Jamais.</span></div>'
