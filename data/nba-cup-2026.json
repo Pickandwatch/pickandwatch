@@ -1,0 +1,11 @@
+{
+  "_source": "NBA.com, « Emirates NBA Cup 2026 groups announced » (mis à jour le 1er juillet 2026) et « Group Play schedule » (12 août 2026)",
+  "groupes": {
+    "Ouest A": ["DEN", "HOU", "PHX", "DAL", "UTAH"],
+    "Ouest B": ["OKC", "MIN", "LAC", "NO", "MEM"],
+    "Ouest C": ["SA", "LAL", "POR", "GS", "SAC"],
+    "Est A": ["DET", "TOR", "ORL", "MIL", "BKN"],
+    "Est B": ["NY", "CLE", "PHI", "MIA", "IND"],
+    "Est C": ["BOS", "ATL", "CHA", "CHI", "WSH"]
+  }
+}

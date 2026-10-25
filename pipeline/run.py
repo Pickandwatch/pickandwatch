@@ -46,7 +46,7 @@ def main() -> None:
         nf = ROOT / "data" / "nuits" / vf.name
         if nf.exists():
             archive.append((json.loads(nf.read_text(encoding="utf-8")), json.loads(vf.read_text(encoding="utf-8"))))
-    build_site(ROOT, night, prev, verdicts, archive)
+    build_site(ROOT, night, prev, verdicts, archive, progs)
 
     lines = [f"## Programme · nuit du {d.isoformat()}", ""]
     for g in night["games"]:

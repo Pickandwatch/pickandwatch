@@ -77,7 +77,7 @@ def stars(n: int | None) -> str:
             f' <span class="lab">{labels.get(n, "")}</span></div>')
 
 
-def game_card(g: dict, night_day: date) -> str:
+def game_card(g: dict, night_day: date, UP: str = "") -> str:
     h, a = g["home"], g["away"]
     place = " · ".join(x for x in (g.get("city"), g.get("venue")) if x)
     if g.get("neutral"):
@@ -108,11 +108,12 @@ def game_card(g: dict, night_day: date) -> str:
   <div class="time"><span>{hhmm(g["tip_paris"])}</span></div>
   <div class="body">
     {stars(g.get("stars"))}
-    <h3 class="teams">{flag(h)}<span>{e(h["name"])}</span> <span class="dash">–</span> {flag(a)}<span>{e(a["name"])}</span></h3>
-    <p class="place">{e(place)}</p>
+    <h3 class="teams">{flag(h)}<a href="{UP}equipes/{h["abbr"].lower()}.html">{e(h["name"])}</a> <span class="dash">–</span> {flag(a)}<a href="{UP}equipes/{a["abbr"].lower()}.html">{e(a["name"])}</a></h3>
+    <p class="place">{'<span class="cup">NBA Cup</span> ' if g.get("cup") else ''}{e(place)}</p>
     {brief}
     <ul class="tv">{''.join(tv_lines)}</ul>
     {check}
+    <p class="addline">Programme ton match : <a class="add" href="{UP}agenda/m/{g["id"]}.ics">+ Agenda (direct)</a>{f' <a class="add" href="{UP}agenda/m/{g["id"]}-differe.ics">+ Agenda (différé)</a>' if tv.get("replays") else ''}</p>
   </div>
 </article>"""
 
@@ -191,7 +192,9 @@ def verdict_section(prev_date: date, prev: dict | None, verdicts: dict | None, n
 def tabs(up: str) -> str:
     return (f'<nav class="tabs" aria-label="Rubriques">'
             f'<a href="{up}index.html#aujourdhui">À voir aujourd\'hui</a>'
-            f'<a href="{up}index.html#verdicts">Verdicts d\'hier</a></nav>')
+            f'<a href="{up}index.html#verdicts">Verdicts d\'hier</a>'
+            f'<a class="alt" href="{up}equipes/index.html">Mon équipe</a>'
+            f'<a class="alt" href="{up}nba-cup.html">NBA Cup</a></nav>')
 
 
 def head(title: str, canonical: str, up: str, description: str) -> str:
@@ -261,7 +264,7 @@ def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = Non
     if games:
         summary = (f'{len(games)} match{"s" if len(games) > 1 else ""} · '
                    f'{n_tv} en direct à la télé française')
-        cards = "".join(game_card(g, d) for g in games)
+        cards = "".join(game_card(g, d, up) for g in games)
     else:
         summary = "Pas de match NBA cette nuit."
         cards = '<p class="empty">Repos pour tout le monde. On se retrouve demain.</p>'
@@ -288,7 +291,6 @@ def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = Non
   <section class="soon">
     <p class="kicker small fit" data-min="26">Bientôt sur pickandwatch.fr</p>
     <ul>
-      <li><strong>Programme ton match</strong> : direct ou replay, dans ton agenda en 1 clic.</li>
       <li><strong>La newsletter</strong> du matin.</li>
     </ul>
   </section>
@@ -297,7 +299,7 @@ def page(night: dict, *, canonical: str, depth: int = 0, prev: dict | None = Non
 
 
 def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict | None = None,
-               archive: list[tuple[dict, dict]] | None = None) -> Path:
+               archive: list[tuple[dict, dict]] | None = None, progs: list[dict] | None = None) -> Path:
     """archive : toutes les nuits dont les verdicts sont validés, (nuit, verdicts), par date."""
     site = root / "site"
     (site / "nuits").mkdir(parents=True, exist_ok=True)
@@ -316,6 +318,9 @@ def build_site(root: Path, night: dict, prev: dict | None = None, verdicts: dict
         (site / "verdicts" / f"{n['night']}.html").write_text(verdict_page(n, v, gen), encoding="utf-8")
         if n["night"] < night["night"]:
             latest = max(latest or n["night"], n["night"])
+    if progs is not None:  # Mon équipe, NBA Cup, agendas (.ics)
+        from . import equipes
+        equipes.build(root, site, progs, gen, head, foot)
     d = night["night"]
     (site / "nuits" / f"{d}.html").write_text(
         page(night, canonical=f"https://pickandwatch.fr/nuits/{d}.html", depth=1), encoding="utf-8")

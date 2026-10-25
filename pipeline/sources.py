@@ -67,6 +67,7 @@ def fetch_espn_day(d: date, cache: Path | None = None) -> list[dict]:
             "phase": season.get("slug"),  # preseason / regular-season / post-season
             "status": (ev.get("status") or {}).get("type", {}).get("name"),
             "us_tv": [n for b in comp.get("broadcasts", []) for n in b.get("names", [])],
+            "cup": "NBA Cup" if any("NBA Cup" in (n.get("headline") or "") for n in comp.get("notes", [])) else None,
         })
     return games
 
@@ -128,3 +129,60 @@ def mentions_team(text: str, team: dict) -> bool:
     t = _norm(text)
     keys = {_norm(team["name"]), _norm(team["full"])}
     return any(k and re.search(rf"\b{re.escape(k)}\b", t) for k in keys)
+
+
+TEAMS_URL = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams"
+SCHEDULE_URL = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/{slug}/schedule"
+
+
+def fetch_teams() -> dict[str, dict]:
+    """Les 30 équipes : abréviation ESPN → nom, ville, couleurs, identifiant d'URL."""
+    data = json.loads(_get(TEAMS_URL))
+    out = {}
+    for item in data["sports"][0]["leagues"][0]["teams"]:
+        t = item["team"]
+        out[t["abbreviation"]] = {
+            "abbr": t["abbreviation"],
+            "slug": t["abbreviation"].lower(),
+            "name": t.get("name") or t.get("shortDisplayName"),
+            "location": t.get("location"),
+            "full": t.get("displayName"),
+            "color": "#" + (t.get("color") or "111214"),
+            "color2": "#" + (t.get("alternateColor") or "F2EEE6"),
+        }
+    return out
+
+
+def fetch_team_schedule(slug: str, teams: dict[str, dict]) -> list[dict]:
+    """Calendrier de la saison régulière d'une équipe, au même format que fetch_espn_day.
+    Aucune donnée de score n'est lue (on ne garde que le statut)."""
+    data = json.loads(_get(SCHEDULE_URL.format(slug=slug)))
+    games = []
+    for ev in data.get("events", []):
+        comp = ev["competitions"][0]
+        side = {}
+        for c in comp["competitors"]:
+            abbr = c["team"].get("abbreviation")
+            side[c["homeAway"]] = teams.get(abbr) or {"abbr": abbr, "name": c["team"].get("shortDisplayName"),
+                                                     "location": c["team"].get("location"),
+                                                     "full": c["team"].get("displayName"),
+                                                     "color": "#111214", "color2": "#F2EEE6"}
+        venue = comp.get("venue") or {}
+        notes = " ".join(n.get("headline", "") for n in comp.get("notes", []))
+        games.append({
+            "id": ev["id"],
+            "tip_utc": ev["date"],
+            "home": side.get("home"),
+            "away": side.get("away"),
+            "venue": venue.get("fullName"),
+            "city": (venue.get("address") or {}).get("city"),
+            "neutral": bool(comp.get("neutralSite")),
+            "phase": "regular-season" if (ev.get("seasonType") or {}).get("type") == 2 else "post-season",
+            "status": ((comp.get("status") or {}).get("type") or {}).get("name"),
+            "us_tv": [b.get("media", {}).get("shortName") for b in comp.get("broadcasts", []) if b.get("media")],
+            "cup": "NBA Cup" if "NBA Cup" in notes else None,
+            "cup_stage": notes or None,
+            # Vainqueur seulement (jamais le score) : sert au classement NBA Cup, caché derrière un bouton.
+            "winner": next((c["team"].get("abbreviation") for c in comp["competitors"] if c.get("winner")), None),
+        })
+    return games
