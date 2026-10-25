@@ -219,7 +219,7 @@ créateurs français. Jamais de score ni de résultat, jamais de rumeur de trans
 
 Décision d'Alexandre (25 octobre 2026) : « Mon équipe » et les agendas d'équipe ne montrent que le
 mois publié (`data/mois-publie.json`), pas toute la saison.
-1. Le dernier jour du mois, passer `mois` au mois suivant (ex. `"2026-12"`), push, lancer
+1. Le dernier jour du mois, mettre `mois` sur le mois de demain (ex. le 30 novembre → `"2026-12"` ; s'il y est déjà, ne rien changer), push, lancer
    `programme.yml` et vérifier une page équipe (ex. `pickandwatch.fr/equipes/sa.html` : « Le programme
    jusqu'à fin décembre »).
 2. Annonce Instagram, **post + story** à **12h30** : carrousel avec `studio/guide.py` (couverture
@@ -228,4 +228,5 @@ mois publié (`data/mois-publie.json`), pas toute la saison.
    équipe : Google, Outlook, Apple », slide de fin). Si le mois contient des matchs de NBA Cup,
    les signaler. Story : `python3 studio/story_soir.py <dossier>`.
 3. `post.json` en `"statut": "brouillon"` (jamais publié sans validation), notification « Post P&W
-   à valider — programme de <mois> ». « ok » → `valide` (carrousel ET story).
+   à valider — programme de <mois> ». « ok » → `valide` (carrousel ET story). Dossier :
+   `posts/<jour>-programme-mois/`. S'il existe déjà (annonce déjà préparée), ne rien refaire.
