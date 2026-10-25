@@ -1,0 +1,1213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nets · Pick & Watch
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401909836@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261021T233000Z
+DTEND:20261022T020000Z
+SUMMARY:NBA · Nets – Hornets
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Hornets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909854@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261024T233000Z
+DTEND:20261025T020000Z
+SUMMARY:NBA · Cavaliers – Nets
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Cavaliers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909862@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261025T220000Z
+DTEND:20261026T003000Z
+SUMMARY:NBA · Nets – Pacers
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Pacers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909877@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261027T233000Z
+DTEND:20261028T020000Z
+SUMMARY:NBA · Celtics – Nets
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909279@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261030T233000Z
+DTEND:20261031T020000Z
+SUMMARY:NBA · Nets – Pistons
+DESCRIPTION:Où regarder : NBA League Pass. Match de NBA Cup. Programme c
+ omplet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Pistons
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909904@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261101T220000Z
+DTEND:20261102T003000Z
+SUMMARY:NBA · Pacers – Nets
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pacers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909910@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+SUMMARY:NBA · Knicks – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Knicks – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909925@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261105T003000Z
+DTEND:20261105T030000Z
+SUMMARY:NBA · Nets – Hornets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Hornets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909939@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261108T003000Z
+DTEND:20261108T030000Z
+SUMMARY:NBA · Hawks – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hawks – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909948@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261109T003000Z
+DTEND:20261109T030000Z
+SUMMARY:NBA · Mavericks – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Mavericks – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909972@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261112T010000Z
+DTEND:20261112T033000Z
+SUMMARY:NBA · Pelicans – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pelicans – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909983@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261115T010000Z
+DTEND:20261115T033000Z
+SUMMARY:NBA · Grizzlies – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Grizzlies – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909997@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261117T003000Z
+DTEND:20261117T030000Z
+SUMMARY:NBA · Nets – 76ers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – 76ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910011@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261119T003000Z
+DTEND:20261119T030000Z
+SUMMARY:NBA · Nets – Bulls
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Bulls
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909306@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261121T003000Z
+DTEND:20261121T030000Z
+SUMMARY:NBA · Nets – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910040@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261124T003000Z
+DTEND:20261124T030000Z
+SUMMARY:NBA · Timberwolves – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Timberwolves – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909322@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261126T010000Z
+DTEND:20261126T033000Z
+SUMMARY:NBA · Bucks – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bucks – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909329@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261128T003000Z
+DTEND:20261128T030000Z
+SUMMARY:NBA · Raptors – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Raptors – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910047@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261128T230000Z
+DTEND:20261129T013000Z
+SUMMARY:NBA · Hornets – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hornets – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910063@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261201T003000Z
+DTEND:20261201T030000Z
+SUMMARY:NBA · Nets – Thunder
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Thunder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910082@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+SUMMARY:NBA · Thunder – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Thunder – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910098@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261213T200000Z
+DTEND:20261213T223000Z
+SUMMARY:NBA · Nets – Celtics
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910105@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261215T000000Z
+DTEND:20261215T023000Z
+SUMMARY:NBA · Pistons – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pistons – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910122@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261217T003000Z
+DTEND:20261217T030000Z
+SUMMARY:NBA · Nets – Mavericks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Mavericks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910137@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+SUMMARY:NBA · Nets – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910149@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261220T200000Z
+DTEND:20261220T223000Z
+SUMMARY:NBA · Nets – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910162@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261222T003000Z
+DTEND:20261222T030000Z
+SUMMARY:NBA · Nets – Trail Blazers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Trail Blazers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910176@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261224T003000Z
+DTEND:20261224T030000Z
+SUMMARY:NBA · Nets – Spurs
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Spurs
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910190@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261226T230000Z
+DTEND:20261227T013000Z
+SUMMARY:NBA · Nets – Pelicans
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Pelicans
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910198@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261227T230000Z
+DTEND:20261228T013000Z
+SUMMARY:NBA · Knicks – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Knicks – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910217@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261230T030000Z
+DTEND:20261230T053000Z
+SUMMARY:NBA · Trail Blazers – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Trail Blazers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910231@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261231T230000Z
+DTEND:20270101T013000Z
+SUMMARY:NBA · Kings – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Kings – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910248@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270103T013000Z
+DTEND:20270103T040000Z
+SUMMARY:NBA · Warriors – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Warriors – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910263@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270105T020000Z
+DTEND:20270105T043000Z
+SUMMARY:NBA · Jazz – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Jazz – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910274@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270107T003000Z
+DTEND:20270107T030000Z
+SUMMARY:NBA · Nets – Jazz
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Jazz
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910283@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270108T003000Z
+DTEND:20270108T030000Z
+SUMMARY:NBA · Nets – Heat
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Heat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910300@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270109T230000Z
+DTEND:20270110T013000Z
+SUMMARY:NBA · Nets – Rockets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Rockets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910313@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270112T000000Z
+DTEND:20270112T023000Z
+SUMMARY:NBA · Pacers – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pacers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910319@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270113T003000Z
+DTEND:20270113T030000Z
+SUMMARY:NBA · Heat – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Heat – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910336@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270115T000000Z
+DTEND:20270115T023000Z
+SUMMARY:NBA · 76ers – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · 76ers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910352@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270117T000000Z
+DTEND:20270117T023000Z
+SUMMARY:NBA · Celtics – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910376@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270121T000000Z
+DTEND:20270121T023000Z
+SUMMARY:NBA · Nets – Bulls
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Bulls
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910386@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270122T003000Z
+DTEND:20270122T030000Z
+SUMMARY:NBA · Nets – Cavaliers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Cavaliers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910401@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270123T230000Z
+DTEND:20270124T013000Z
+SUMMARY:NBA · Nets – Raptors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910416@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270126T003000Z
+DTEND:20270126T030000Z
+SUMMARY:NBA · Nets – Heat
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Heat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910431@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270128T003000Z
+DTEND:20270128T030000Z
+SUMMARY:NBA · Nets – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910447@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270130T003000Z
+DTEND:20270130T030000Z
+SUMMARY:NBA · Nets – Clippers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Clippers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910460@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270131T230000Z
+DTEND:20270201T013000Z
+SUMMARY:NBA · Magic – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910469@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270202T003000Z
+DTEND:20270202T030000Z
+SUMMARY:NBA · Nets – Knicks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Knicks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910489@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270205T003000Z
+DTEND:20270205T030000Z
+SUMMARY:NBA · Nets – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910507@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270206T230000Z
+DTEND:20270207T013000Z
+SUMMARY:NBA · Nets – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910523@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270209T000000Z
+DTEND:20270209T023000Z
+SUMMARY:NBA · 76ers – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · 76ers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910530@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270210T003000Z
+DTEND:20270210T030000Z
+SUMMARY:NBA · Nets – Timberwolves
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Timberwolves
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910554@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270213T000000Z
+DTEND:20270213T023000Z
+SUMMARY:NBA · Wizards – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910570@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270214T180000Z
+DTEND:20270214T203000Z
+SUMMARY:NBA · Heat – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Heat – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910589@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270218T003000Z
+DTEND:20270218T030000Z
+SUMMARY:NBA · Nets – Hawks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Hawks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910603@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270226T003000Z
+DTEND:20270226T030000Z
+SUMMARY:NBA · Nets – 76ers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – 76ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910619@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270228T010000Z
+DTEND:20270228T033000Z
+SUMMARY:NBA · Bulls – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bulls – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910636@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270302T020000Z
+DTEND:20270302T043000Z
+SUMMARY:NBA · Nuggets – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nuggets – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910652@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270304T020000Z
+DTEND:20270304T043000Z
+SUMMARY:NBA · Suns – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910661@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270305T033000Z
+DTEND:20270305T060000Z
+SUMMARY:NBA · Clippers – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Clippers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910680@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270308T033000Z
+DTEND:20270308T060000Z
+SUMMARY:NBA · Lakers – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910690@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270310T003000Z
+DTEND:20270310T030000Z
+SUMMARY:NBA · Nets – Bucks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Bucks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910708@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270312T010000Z
+DTEND:20270312T033000Z
+SUMMARY:NBA · Hawks – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hawks – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910720@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270313T200000Z
+DTEND:20270313T223000Z
+SUMMARY:NBA · Pistons – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pistons – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910735@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270315T233000Z
+DTEND:20270316T020000Z
+SUMMARY:NBA · Nets – Pacers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Pacers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910752@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270318T003000Z
+DTEND:20270318T030000Z
+SUMMARY:NBA · Rockets – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Rockets – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910762@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270319T000000Z
+DTEND:20270319T023000Z
+SUMMARY:NBA · Spurs – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Spurs – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910780@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270321T190000Z
+DTEND:20270321T213000Z
+SUMMARY:NBA · Nets – Kings
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Kings
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910794@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270323T233000Z
+DTEND:20270324T020000Z
+SUMMARY:NBA · Nets – Celtics
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910814@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270325T233000Z
+DTEND:20270326T020000Z
+SUMMARY:NBA · Nets – Nuggets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Nuggets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910832@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270328T190000Z
+DTEND:20270328T213000Z
+SUMMARY:NBA · Nets – Grizzlies
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Grizzlies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910843@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270329T233000Z
+DTEND:20270330T020000Z
+SUMMARY:NBA · Nets – Warriors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Warriors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910858@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270331T233000Z
+DTEND:20270401T020000Z
+SUMMARY:NBA · Nets – Cavaliers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Cavaliers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910870@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270402T233000Z
+DTEND:20270403T020000Z
+SUMMARY:NBA · Nets – Knicks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Knicks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910883@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270404T180000Z
+DTEND:20270404T203000Z
+SUMMARY:NBA · Bucks – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bucks – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910895@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270405T230000Z
+DTEND:20270406T013000Z
+SUMMARY:NBA · Cavaliers – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Cavaliers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910911@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270407T233000Z
+DTEND:20270408T020000Z
+SUMMARY:NBA · Raptors – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Raptors – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910924@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270409T230000Z
+DTEND:20270410T013000Z
+SUMMARY:NBA · Hornets – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hornets – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910938@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270411T220000Z
+DTEND:20270412T003000Z
+SUMMARY:NBA · Nets – Raptors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

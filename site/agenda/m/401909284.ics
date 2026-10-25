@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA · Timberwolves – Clippers
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401909284@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261031T000000Z
+DTEND:20261031T023000Z
+SUMMARY:NBA · Timberwolves – Clippers
+DESCRIPTION:Où regarder : NBA League Pass. Match de NBA Cup. Programme c
+ omplet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Timberwolves – Clippers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lakers · Pick & Watch
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401909092@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261022T020000Z
+DTEND:20261022T043000Z
+SUMMARY:NBA · Lakers – Warriors
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Warriors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909851@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261024T020000Z
+DTEND:20261024T043000Z
+SUMMARY:NBA · Lakers – Clippers
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Clippers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909861@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261025T210000Z
+DTEND:20261025T233000Z
+SUMMARY:NBA · Jazz – Lakers
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Jazz – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909880@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261028T030000Z
+DTEND:20261028T053000Z
+SUMMARY:NBA · Lakers – Trail Blazers
+DESCRIPTION:Où regarder : beIN SPORTS 1. Programme complet et différés
+ \, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Trail Blazers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909892@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261029T023000Z
+DTEND:20261029T050000Z
+SUMMARY:NBA · Clippers – Lakers
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Clippers – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909285@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261031T020000Z
+DTEND:20261031T043000Z
+SUMMARY:NBA · Warriors – Lakers
+DESCRIPTION:Où regarder : Prime Video. Match de NBA Cup. Programme compl
+ et et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Warriors – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909906@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261102T020000Z
+DTEND:20261102T043000Z
+SUMMARY:NBA · Lakers – Raptors
+DESCRIPTION:Où regarder : beIN SPORTS 1. Programme complet et différés
+ \, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909921@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261103T030000Z
+DTEND:20261103T053000Z
+SUMMARY:NBA · Lakers – Heat
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Heat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909934@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261105T030000Z
+DTEND:20261105T053000Z
+SUMMARY:NBA · Kings – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Kings – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909294@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261107T030000Z
+DTEND:20261107T053000Z
+SUMMARY:NBA · Lakers – Trail Blazers
+DESCRIPTION:Où regarder : Prime Video. Match de NBA Cup. Programme compl
+ et et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Trail Blazers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909946@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261108T230000Z
+DTEND:20261109T013000Z
+SUMMARY:NBA · Pistons – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pistons – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909952@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261110T000000Z
+DTEND:20261110T023000Z
+SUMMARY:NBA · Hawks – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hawks – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909971@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261112T010000Z
+DTEND:20261112T033000Z
+SUMMARY:NBA · Bucks – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bucks – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909986@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261115T210000Z
+DTEND:20261115T233000Z
+SUMMARY:NBA · Suns – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910005@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261118T030000Z
+DTEND:20261118T053000Z
+SUMMARY:NBA · Lakers – Hornets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Hornets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910017@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261119T030000Z
+DTEND:20261119T053000Z
+SUMMARY:NBA · Lakers – Jazz
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Jazz
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909313@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261121T030000Z
+DTEND:20261121T053000Z
+SUMMARY:NBA · Lakers – Kings
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Kings
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910044@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261124T030000Z
+DTEND:20261124T053000Z
+SUMMARY:NBA · Lakers – Jazz
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Jazz
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909333@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261128T023000Z
+DTEND:20261128T050000Z
+SUMMARY:NBA · Spurs – Lakers
+DESCRIPTION:Où regarder : Prime Video. Match de NBA Cup. Programme compl
+ et et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Spurs – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910051@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261129T210000Z
+DTEND:20261129T233000Z
+SUMMARY:NBA · Grizzlies – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Grizzlies – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910064@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261201T003000Z
+DTEND:20261201T030000Z
+SUMMARY:NBA · Rockets – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Rockets – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910081@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+SUMMARY:NBA · Pelicans – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pelicans – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910114@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261215T030000Z
+DTEND:20261215T053000Z
+SUMMARY:NBA · Lakers – Pelicans
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Pelicans
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910129@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261217T023000Z
+DTEND:20261217T050000Z
+SUMMARY:NBA · Timberwolves – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Timberwolves – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910142@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+SUMMARY:NBA · Timberwolves – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Timberwolves – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910148@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261220T020000Z
+DTEND:20261220T043000Z
+SUMMARY:NBA · Nuggets – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nuggets – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910167@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261222T030000Z
+DTEND:20261222T053000Z
+SUMMARY:NBA · Lakers – Pacers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Pacers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910184@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261224T030000Z
+DTEND:20261224T053000Z
+SUMMARY:NBA · Lakers – Nuggets
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Nuggets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909099@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261225T220000Z
+DTEND:20261226T003000Z
+SUMMARY:NBA · Lakers – 76ers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – 76ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910206@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261228T020000Z
+DTEND:20261228T043000Z
+SUMMARY:NBA · Lakers – Grizzlies
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Grizzlies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910219@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261230T033000Z
+DTEND:20261230T060000Z
+SUMMARY:NBA · Lakers – Rockets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Rockets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910232@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270101T010000Z
+DTEND:20270101T033000Z
+SUMMARY:NBA · Pelicans – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pelicans – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910246@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270103T010000Z
+DTEND:20270103T033000Z
+SUMMARY:NBA · Bulls – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bulls – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910254@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270104T000000Z
+DTEND:20270104T023000Z
+SUMMARY:NBA · Raptors – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Raptors – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910268@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270106T000000Z
+DTEND:20270106T023000Z
+SUMMARY:NBA · Wizards – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910289@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270108T030000Z
+DTEND:20270108T053000Z
+SUMMARY:NBA · Lakers – Celtics
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910297@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270109T030000Z
+DTEND:20270109T053000Z
+SUMMARY:NBA · Lakers – Pistons
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Pistons
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910318@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270112T030000Z
+DTEND:20270112T053000Z
+SUMMARY:NBA · Clippers – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Clippers – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910333@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270114T030000Z
+DTEND:20270114T053000Z
+SUMMARY:NBA · Trail Blazers – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Trail Blazers – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910341@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270115T030000Z
+DTEND:20270115T053000Z
+SUMMARY:NBA · Lakers – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910364@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270118T020000Z
+DTEND:20270118T043000Z
+SUMMARY:NBA · Lakers – Bucks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Bucks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910374@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270120T030000Z
+DTEND:20270120T053000Z
+SUMMARY:NBA · Kings – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Kings – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910388@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270122T030000Z
+DTEND:20270122T053000Z
+SUMMARY:NBA · Warriors – Lakers
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Warriors – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910398@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270123T030000Z
+DTEND:20270123T053000Z
+SUMMARY:NBA · Lakers – Kings
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Kings
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910408@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270124T210000Z
+DTEND:20270124T233000Z
+SUMMARY:NBA · Lakers – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910427@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270127T040000Z
+DTEND:20270127T063000Z
+SUMMARY:NBA · Lakers – Thunder
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Thunder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910437@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270129T000000Z
+DTEND:20270129T023000Z
+SUMMARY:NBA · Pacers – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pacers – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910457@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270131T013000Z
+DTEND:20270131T040000Z
+SUMMARY:NBA · Knicks – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Knicks – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910464@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270201T000000Z
+DTEND:20270201T023000Z
+SUMMARY:NBA · Hornets – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hornets – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910477@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270203T010000Z
+DTEND:20270203T033000Z
+SUMMARY:NBA · Celtics – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910489@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270205T003000Z
+DTEND:20270205T030000Z
+SUMMARY:NBA · Nets – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910511@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270207T013000Z
+DTEND:20270207T040000Z
+SUMMARY:NBA · Spurs – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Spurs – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910527@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270209T023000Z
+DTEND:20270209T050000Z
+SUMMARY:NBA · Suns – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910544@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270211T030000Z
+DTEND:20270211T053000Z
+SUMMARY:NBA · Lakers – Clippers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Clippers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910559@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270213T033000Z
+DTEND:20270213T060000Z
+SUMMARY:NBA · Lakers – Nuggets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Nuggets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910580@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270217T030000Z
+DTEND:20270217T053000Z
+SUMMARY:NBA · Lakers – Bulls
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Bulls
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910598@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270219T030000Z
+DTEND:20270219T053000Z
+SUMMARY:NBA · Lakers – Rockets
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Rockets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910615@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270227T030000Z
+DTEND:20270227T053000Z
+SUMMARY:NBA · Nuggets – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nuggets – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910624@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270228T203000Z
+DTEND:20270228T230000Z
+SUMMARY:NBA · Mavericks – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Mavericks – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910639@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270303T000000Z
+DTEND:20270303T023000Z
+SUMMARY:NBA · Magic – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910656@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270305T000000Z
+DTEND:20270305T023000Z
+SUMMARY:NBA · 76ers – Lakers
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · 76ers – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910673@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270307T013000Z
+DTEND:20270307T040000Z
+SUMMARY:NBA · Lakers – Thunder
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Thunder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910680@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270308T033000Z
+DTEND:20270308T060000Z
+SUMMARY:NBA · Lakers – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910711@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270312T030000Z
+DTEND:20270312T053000Z
+SUMMARY:NBA · Lakers – Knicks
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Knicks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910718@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270313T030000Z
+DTEND:20270313T053000Z
+SUMMARY:NBA · Lakers – Cavaliers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Cavaliers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910733@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270315T020000Z
+DTEND:20270315T043000Z
+SUMMARY:NBA · Lakers – Warriors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Warriors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910747@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270317T020000Z
+DTEND:20270317T043000Z
+SUMMARY:NBA · Trail Blazers – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Trail Blazers – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910755@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270318T020000Z
+DTEND:20270318T043000Z
+SUMMARY:NBA · Lakers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910770@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270320T020000Z
+DTEND:20270320T043000Z
+SUMMARY:NBA · Lakers – Hawks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Hawks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910785@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270322T020000Z
+DTEND:20270322T043000Z
+SUMMARY:NBA · Lakers – Mavericks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Mavericks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910796@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270324T000000Z
+DTEND:20270324T023000Z
+SUMMARY:NBA · Heat – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Heat – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910811@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+SUMMARY:NBA · Cavaliers – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Cavaliers – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910833@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270328T190000Z
+DTEND:20270328T213000Z
+SUMMARY:NBA · Rockets – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Rockets – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910851@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270331T000000Z
+DTEND:20270331T023000Z
+SUMMARY:NBA · Grizzlies – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Grizzlies – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910867@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270402T013000Z
+DTEND:20270402T040000Z
+SUMMARY:NBA · Thunder – Lakers
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Thunder – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910894@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270405T020000Z
+DTEND:20270405T043000Z
+SUMMARY:NBA · Lakers – Spurs
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Spurs
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910906@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270407T020000Z
+DTEND:20270407T043000Z
+SUMMARY:NBA · Lakers – Mavericks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Mavericks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910916@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270408T020000Z
+DTEND:20270408T043000Z
+SUMMARY:NBA · Lakers – Timberwolves
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Timberwolves
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910934@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270410T020000Z
+DTEND:20270410T043000Z
+SUMMARY:NBA · Lakers – Timberwolves
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Timberwolves
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910951@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270412T003000Z
+DTEND:20270412T030000Z
+SUMMARY:NBA · Lakers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA · Spurs – Timberwolves
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401910396@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270123T023000Z
+DTEND:20270123T050000Z
+SUMMARY:NBA · Spurs – Timberwolves
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Spurs – Timberwolves
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

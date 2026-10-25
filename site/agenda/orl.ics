@@ -1,0 +1,1213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Magic · Pick & Watch
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401909834@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261021T230000Z
+DTEND:20261022T013000Z
+SUMMARY:NBA · Magic – Hawks
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Hawks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909845@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+SUMMARY:NBA · Magic – Timberwolves
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Timberwolves
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909863@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261025T230000Z
+DTEND:20261026T013000Z
+SUMMARY:NBA · Knicks – Magic
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Knicks – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909885@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261028T233000Z
+DTEND:20261029T020000Z
+SUMMARY:NBA · Raptors – Magic
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Raptors – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909281@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261030T233000Z
+DTEND:20261031T020000Z
+SUMMARY:NBA · Raptors – Magic
+DESCRIPTION:Où regarder : NBA League Pass. Match de NBA Cup. Programme c
+ omplet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Raptors – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909903@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261101T203000Z
+DTEND:20261101T230000Z
+SUMMARY:NBA · Magic – Celtics
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909911@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+SUMMARY:NBA · Magic – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909936@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261106T020000Z
+DTEND:20261106T043000Z
+SUMMARY:NBA · Suns – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909942@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261108T013000Z
+DTEND:20261108T040000Z
+SUMMARY:NBA · Warriors – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Warriors – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909964@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261111T030000Z
+DTEND:20261111T053000Z
+SUMMARY:NBA · Kings – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Kings – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909973@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261112T020000Z
+DTEND:20261112T043000Z
+SUMMARY:NBA · Jazz – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Jazz – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909297@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261114T000000Z
+DTEND:20261114T023000Z
+SUMMARY:NBA · Magic – Bucks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Bucks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909994@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261117T000000Z
+DTEND:20261117T023000Z
+SUMMARY:NBA · Celtics – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910010@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261119T000000Z
+DTEND:20261119T023000Z
+SUMMARY:NBA · Magic – 76ers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – 76ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909306@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261121T003000Z
+DTEND:20261121T030000Z
+SUMMARY:NBA · Nets – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910031@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261123T000000Z
+DTEND:20261123T023000Z
+SUMMARY:NBA · Wizards – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909314@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261125T000000Z
+DTEND:20261125T023000Z
+SUMMARY:NBA · Magic – Pistons
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Pistons
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910046@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261128T220000Z
+DTEND:20261129T003000Z
+SUMMARY:NBA · Wizards – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910055@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261129T230000Z
+DTEND:20261130T013000Z
+SUMMARY:NBA · Pistons – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pistons – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910079@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+SUMMARY:NBA · Mavericks – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Mavericks – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910092@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261213T003000Z
+DTEND:20261213T030000Z
+SUMMARY:NBA · 76ers – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · 76ers – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910106@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261215T000000Z
+DTEND:20261215T023000Z
+SUMMARY:NBA · Magic – 76ers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – 76ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910121@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261217T000000Z
+DTEND:20261217T023000Z
+SUMMARY:NBA · Magic – Cavaliers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Cavaliers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910137@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+SUMMARY:NBA · Nets – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910146@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261220T000000Z
+DTEND:20261220T023000Z
+SUMMARY:NBA · Hawks – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hawks – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910161@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261222T000000Z
+DTEND:20261222T023000Z
+SUMMARY:NBA · Magic – Kings
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Kings
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910173@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261224T000000Z
+DTEND:20261224T023000Z
+SUMMARY:NBA · Magic – Hornets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Hornets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910191@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261227T000000Z
+DTEND:20261227T023000Z
+SUMMARY:NBA · Magic – Raptors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910199@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261227T230000Z
+DTEND:20261228T013000Z
+SUMMARY:NBA · Magic – Bucks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Bucks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910212@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261230T000000Z
+DTEND:20261230T023000Z
+SUMMARY:NBA · Hornets – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hornets – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910229@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261231T200000Z
+DTEND:20261231T223000Z
+SUMMARY:NBA · Pacers – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pacers – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910236@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270102T003000Z
+DTEND:20270102T030000Z
+SUMMARY:NBA · Pistons – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pistons – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910253@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270103T230000Z
+DTEND:20270104T013000Z
+SUMMARY:NBA · Magic – Grizzlies
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Grizzlies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910267@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270106T000000Z
+DTEND:20270106T023000Z
+SUMMARY:NBA · Magic – Clippers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Clippers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910281@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+SUMMARY:NBA · Magic – Cavaliers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Cavaliers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910294@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270109T010000Z
+DTEND:20270109T033000Z
+SUMMARY:NBA · Pelicans – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pelicans – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910308@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270110T230000Z
+DTEND:20270111T013000Z
+SUMMARY:NBA · Magic – Thunder
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Thunder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910325@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270113T030000Z
+DTEND:20270113T053000Z
+SUMMARY:NBA · Trail Blazers – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Trail Blazers – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910341@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270115T030000Z
+DTEND:20270115T053000Z
+SUMMARY:NBA · Lakers – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910350@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270116T033000Z
+DTEND:20270116T060000Z
+SUMMARY:NBA · Clippers – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Clippers – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910363@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270118T010000Z
+DTEND:20270118T033000Z
+SUMMARY:NBA · Nuggets – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nuggets – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910368@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270120T000000Z
+DTEND:20270120T023000Z
+SUMMARY:NBA · Magic – Warriors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Warriors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910391@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270123T000000Z
+DTEND:20270123T023000Z
+SUMMARY:NBA · Magic – Trail Blazers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Trail Blazers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910410@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270124T230000Z
+DTEND:20270125T013000Z
+SUMMARY:NBA · Magic – Rockets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Rockets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910414@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270126T000000Z
+DTEND:20270126T023000Z
+SUMMARY:NBA · Hornets – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hornets – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910439@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270129T000000Z
+DTEND:20270129T023000Z
+SUMMARY:NBA · Magic – Bulls
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Bulls
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910449@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270130T013000Z
+DTEND:20270130T040000Z
+SUMMARY:NBA · Rockets – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Rockets – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910460@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270131T230000Z
+DTEND:20270201T013000Z
+SUMMARY:NBA · Magic – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910475@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270203T000000Z
+DTEND:20270203T023000Z
+SUMMARY:NBA · Magic – Pelicans
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Pelicans
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910494@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270205T010000Z
+DTEND:20270205T033000Z
+SUMMARY:NBA · Spurs – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Spurs – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910508@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270207T003000Z
+DTEND:20270207T030000Z
+SUMMARY:NBA · Cavaliers – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Cavaliers – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910526@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270209T010000Z
+DTEND:20270209T033000Z
+SUMMARY:NBA · Bucks – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bucks – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910542@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270211T010000Z
+DTEND:20270211T033000Z
+SUMMARY:NBA · Grizzlies – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Grizzlies – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910553@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270213T000000Z
+DTEND:20270213T023000Z
+SUMMARY:NBA · Magic – Heat
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Heat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910564@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+SUMMARY:NBA · Magic – Spurs
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Spurs
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910576@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270216T010000Z
+DTEND:20270216T033000Z
+SUMMARY:NBA · Thunder – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Thunder – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910586@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+SUMMARY:NBA · Magic – Mavericks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Mavericks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910602@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270226T000000Z
+DTEND:20270226T023000Z
+SUMMARY:NBA · Magic – Hornets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Hornets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910626@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270228T213000Z
+DTEND:20270301T000000Z
+SUMMARY:NBA · Magic – Hawks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Hawks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910639@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270303T000000Z
+DTEND:20270303T023000Z
+SUMMARY:NBA · Magic – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910655@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270305T000000Z
+DTEND:20270305T023000Z
+SUMMARY:NBA · Magic – Pacers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Pacers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910663@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270306T000000Z
+DTEND:20270306T023000Z
+SUMMARY:NBA · Magic – Jazz
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Jazz
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910689@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270310T000000Z
+DTEND:20270310T023000Z
+SUMMARY:NBA · Magic – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910697@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270311T000000Z
+DTEND:20270311T023000Z
+SUMMARY:NBA · Heat – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Heat – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910719@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270313T200000Z
+DTEND:20270313T223000Z
+SUMMARY:NBA · Hawks – Magic
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hawks – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910736@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270316T000000Z
+DTEND:20270316T023000Z
+SUMMARY:NBA · Bulls – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bulls – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910742@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270317T000000Z
+DTEND:20270317T023000Z
+SUMMARY:NBA · Bucks – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bucks – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910759@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270318T233000Z
+DTEND:20270319T020000Z
+SUMMARY:NBA · Celtics – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910773@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270320T230000Z
+DTEND:20270321T013000Z
+SUMMARY:NBA · Magic – Nuggets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Nuggets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910787@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270322T230000Z
+DTEND:20270323T013000Z
+SUMMARY:NBA · Magic – Pacers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Pacers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910805@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270325T000000Z
+DTEND:20270325T023000Z
+SUMMARY:NBA · Bulls – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bulls – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910820@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270327T000000Z
+DTEND:20270327T023000Z
+SUMMARY:NBA · Timberwolves – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Timberwolves – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910831@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270328T163000Z
+DTEND:20270328T190000Z
+SUMMARY:NBA · Magic – Knicks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Knicks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910850@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270331T000000Z
+DTEND:20270331T023000Z
+SUMMARY:NBA · Magic – Knicks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Knicks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910865@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270401T230000Z
+DTEND:20270402T013000Z
+SUMMARY:NBA · Pacers – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pacers – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910881@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270403T230000Z
+DTEND:20270404T013000Z
+SUMMARY:NBA · Magic – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910896@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270405T230000Z
+DTEND:20270406T013000Z
+SUMMARY:NBA · Magic – Heat
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Heat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910910@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270407T230000Z
+DTEND:20270408T013000Z
+SUMMARY:NBA · Magic – Celtics
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910927@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270409T230000Z
+DTEND:20270410T013000Z
+SUMMARY:NBA · Magic – Raptors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910940@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270411T220000Z
+DTEND:20270412T003000Z
+SUMMARY:NBA · Heat – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Heat – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

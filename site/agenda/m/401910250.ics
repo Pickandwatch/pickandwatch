@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA · Trail Blazers – Celtics
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401910250@pickandwatch.fr
+DTSTAMP:20261025T105113Z
+DTSTART:20270103T030000Z
+DTEND:20270103T053000Z
+SUMMARY:NBA · Trail Blazers – Celtics
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Trail Blazers – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

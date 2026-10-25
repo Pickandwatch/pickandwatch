@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA · Knicks – Raptors
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401910492@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270205T003000Z
+DTEND:20270205T030000Z
+SUMMARY:NBA · Knicks – Raptors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Knicks – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

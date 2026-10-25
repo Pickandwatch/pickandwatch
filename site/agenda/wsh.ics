@@ -1,0 +1,1213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wizards · Pick & Watch
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401909835@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261021T230000Z
+DTEND:20261022T013000Z
+SUMMARY:NBA · Wizards – Bucks
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Bucks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909846@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+SUMMARY:NBA · Wizards – Raptors
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909857@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261025T000000Z
+DTEND:20261025T023000Z
+SUMMARY:NBA · Bulls – Wizards
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bulls – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909868@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261026T230000Z
+DTEND:20261027T013000Z
+SUMMARY:NBA · Hornets – Wizards
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hornets – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909882@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261028T230000Z
+DTEND:20261029T013000Z
+SUMMARY:NBA · Cavaliers – Wizards
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Cavaliers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909277@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261030T230000Z
+DTEND:20261031T013000Z
+SUMMARY:NBA · Wizards – Hornets
+DESCRIPTION:Où regarder : NBA League Pass. Match de NBA Cup. Programme c
+ omplet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Hornets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909911@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+SUMMARY:NBA · Magic – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909923@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261105T000000Z
+DTEND:20261105T023000Z
+SUMMARY:NBA · Wizards – Hawks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Hawks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909287@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261107T000000Z
+DTEND:20261107T023000Z
+SUMMARY:NBA · Hawks – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hawks – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909941@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261108T010000Z
+DTEND:20261108T033000Z
+SUMMARY:NBA · Thunder – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Thunder – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909954@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261110T000000Z
+DTEND:20261110T023000Z
+SUMMARY:NBA · Pistons – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pistons – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909966@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261112T000000Z
+DTEND:20261112T023000Z
+SUMMARY:NBA · Pacers – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pacers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909977@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261113T000000Z
+DTEND:20261113T023000Z
+SUMMARY:NBA · Wizards – Pistons
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Pistons
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909991@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261116T000000Z
+DTEND:20261116T023000Z
+SUMMARY:NBA · Wizards – Rockets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Rockets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909996@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261117T000000Z
+DTEND:20261117T023000Z
+SUMMARY:NBA · Wizards – Grizzlies
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Grizzlies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910012@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261119T003000Z
+DTEND:20261119T030000Z
+SUMMARY:NBA · Raptors – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Raptors – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909309@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261121T010000Z
+DTEND:20261121T033000Z
+SUMMARY:NBA · Bulls – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bulls – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910031@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261123T000000Z
+DTEND:20261123T023000Z
+SUMMARY:NBA · Wizards – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909315@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261125T010000Z
+DTEND:20261125T033000Z
+SUMMARY:NBA · Wizards – Celtics
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910046@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261128T220000Z
+DTEND:20261129T003000Z
+SUMMARY:NBA · Wizards – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910061@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261201T000000Z
+DTEND:20261201T023000Z
+SUMMARY:NBA · Hornets – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hornets – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910086@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261204T003000Z
+DTEND:20261204T030000Z
+SUMMARY:NBA · Heat – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Heat – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910091@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261213T000000Z
+DTEND:20261213T023000Z
+SUMMARY:NBA · Wizards – Hornets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Hornets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910107@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261215T003000Z
+DTEND:20261215T030000Z
+SUMMARY:NBA · Celtics – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910117@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261217T000000Z
+DTEND:20261217T023000Z
+SUMMARY:NBA · Celtics – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910135@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261219T000000Z
+DTEND:20261219T023000Z
+SUMMARY:NBA · Wizards – Knicks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Knicks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910149@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261220T200000Z
+DTEND:20261220T223000Z
+SUMMARY:NBA · Nets – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910169@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261223T000000Z
+DTEND:20261223T023000Z
+SUMMARY:NBA · Wizards – Raptors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910174@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261224T000000Z
+DTEND:20261224T023000Z
+SUMMARY:NBA · Wizards – Cavaliers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Cavaliers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910187@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261226T180000Z
+DTEND:20261226T203000Z
+SUMMARY:NBA · Wizards – Trail Blazers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Trail Blazers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910196@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261227T230000Z
+DTEND:20261228T013000Z
+SUMMARY:NBA · Cavaliers – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Cavaliers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910221@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261231T003000Z
+DTEND:20261231T030000Z
+SUMMARY:NBA · Raptors – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Raptors – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910235@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270101T220000Z
+DTEND:20270102T003000Z
+SUMMARY:NBA · Wizards – Spurs
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Spurs
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910255@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270104T000000Z
+DTEND:20270104T023000Z
+SUMMARY:NBA · Wizards – Clippers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Clippers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910268@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270106T000000Z
+DTEND:20270106T023000Z
+SUMMARY:NBA · Wizards – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910282@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+SUMMARY:NBA · Wizards – Thunder
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Thunder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910292@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270109T000000Z
+DTEND:20270109T023000Z
+SUMMARY:NBA · Wizards – Timberwolves
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Timberwolves
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910314@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270112T000000Z
+DTEND:20270112T023000Z
+SUMMARY:NBA · Wizards – Hawks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Hawks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910321@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270113T010000Z
+DTEND:20270113T033000Z
+SUMMARY:NBA · 76ers – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · 76ers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910348@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270116T013000Z
+DTEND:20270116T040000Z
+SUMMARY:NBA · Rockets – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Rockets – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910358@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270117T180000Z
+DTEND:20270117T203000Z
+SUMMARY:NBA · Wizards – Pacers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Pacers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910365@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270118T200000Z
+DTEND:20270118T223000Z
+SUMMARY:NBA · Wizards – Celtics
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910387@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270122T020000Z
+DTEND:20270122T043000Z
+SUMMARY:NBA · Nuggets – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nuggets – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910399@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270123T033000Z
+DTEND:20270123T060000Z
+SUMMARY:NBA · Clippers – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Clippers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910408@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270124T210000Z
+DTEND:20270124T233000Z
+SUMMARY:NBA · Lakers – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910426@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270127T030000Z
+DTEND:20270127T053000Z
+SUMMARY:NBA · Trail Blazers – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Trail Blazers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910440@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270129T000000Z
+DTEND:20270129T023000Z
+SUMMARY:NBA · Wizards – Kings
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Kings
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910454@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270131T000000Z
+DTEND:20270131T023000Z
+SUMMARY:NBA · Pacers – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pacers – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910467@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270202T000000Z
+DTEND:20270202T023000Z
+SUMMARY:NBA · Hawks – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hawks – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910488@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270205T000000Z
+DTEND:20270205T023000Z
+SUMMARY:NBA · Wizards – Pelicans
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Pelicans
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910507@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270206T230000Z
+DTEND:20270207T013000Z
+SUMMARY:NBA · Nets – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910524@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270209T000000Z
+DTEND:20270209T023000Z
+SUMMARY:NBA · Wizards – Bulls
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Bulls
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910540@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270211T000000Z
+DTEND:20270211T023000Z
+SUMMARY:NBA · Wizards – Heat
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Heat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910554@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270213T000000Z
+DTEND:20270213T023000Z
+SUMMARY:NBA · Wizards – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910565@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+SUMMARY:NBA · Wizards – Bucks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Bucks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910574@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270216T000000Z
+DTEND:20270216T023000Z
+SUMMARY:NBA · Wizards – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910588@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+SUMMARY:NBA · Wizards – Heat
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Heat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910606@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270226T010000Z
+DTEND:20270226T033000Z
+SUMMARY:NBA · Bucks – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bucks – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910617@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270227T200000Z
+DTEND:20270227T223000Z
+SUMMARY:NBA · Jazz – Wizards
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Jazz – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910637@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270302T023000Z
+DTEND:20270302T050000Z
+SUMMARY:NBA · Suns – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910645@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270303T030000Z
+DTEND:20270303T053000Z
+SUMMARY:NBA · Kings – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Kings – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910659@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270305T030000Z
+DTEND:20270305T053000Z
+SUMMARY:NBA · Warriors – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Warriors – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910671@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270307T000000Z
+DTEND:20270307T023000Z
+SUMMARY:NBA · Wizards – Jazz
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Jazz
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910694@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:NBA · Spurs – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Spurs – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910710@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270312T010000Z
+DTEND:20270312T033000Z
+SUMMARY:NBA · Mavericks – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Mavericks – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910732@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270315T000000Z
+DTEND:20270315T023000Z
+SUMMARY:NBA · Timberwolves – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Timberwolves – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910739@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270316T230000Z
+DTEND:20270317T013000Z
+SUMMARY:NBA · Wizards – Knicks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Knicks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910758@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270318T230000Z
+DTEND:20270319T013000Z
+SUMMARY:NBA · Wizards – 76ers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – 76ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910772@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270320T170000Z
+DTEND:20270320T193000Z
+SUMMARY:NBA · Knicks – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Knicks – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910790@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270323T000000Z
+DTEND:20270323T023000Z
+SUMMARY:NBA · Bucks – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bucks – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910802@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270324T230000Z
+DTEND:20270325T013000Z
+SUMMARY:NBA · Wizards – Nuggets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Nuggets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910826@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270327T230000Z
+DTEND:20270328T013000Z
+SUMMARY:NBA · Wizards – Warriors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Warriors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910835@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270328T220000Z
+DTEND:20270329T003000Z
+SUMMARY:NBA · Wizards – Mavericks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Mavericks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910857@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270331T230000Z
+DTEND:20270401T013000Z
+SUMMARY:NBA · Wizards – Bulls
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Bulls
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910868@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270402T230000Z
+DTEND:20270403T013000Z
+SUMMARY:NBA · Wizards – 76ers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – 76ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910881@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270403T230000Z
+DTEND:20270404T013000Z
+SUMMARY:NBA · Magic – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910897@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270406T000000Z
+DTEND:20270406T023000Z
+SUMMARY:NBA · Pelicans – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pelicans – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910914@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270408T000000Z
+DTEND:20270408T023000Z
+SUMMARY:NBA · Grizzlies – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Grizzlies – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910928@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270410T000000Z
+DTEND:20270410T023000Z
+SUMMARY:NBA · Heat – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Heat – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910943@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270411T220000Z
+DTEND:20270412T003000Z
+SUMMARY:NBA · Wizards – Pistons
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Pistons
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

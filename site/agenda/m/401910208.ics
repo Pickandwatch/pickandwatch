@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA · Celtics – Cavaliers
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401910208@pickandwatch.fr
+DTSTAMP:20261025T105113Z
+DTSTART:20261229T010000Z
+DTEND:20261229T033000Z
+SUMMARY:NBA · Celtics – Cavaliers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Cavaliers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

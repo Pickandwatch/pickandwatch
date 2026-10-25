@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA · Rockets – Grizzlies
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401910287@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270108T013000Z
+DTEND:20270108T040000Z
+SUMMARY:NBA · Rockets – Grizzlies
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Rockets – Grizzlies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Suns · Pick & Watch
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401909841@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261022T020000Z
+DTEND:20261022T043000Z
+SUMMARY:NBA · Trail Blazers – Suns
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Trail Blazers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909860@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261025T020000Z
+DTEND:20261025T043000Z
+SUMMARY:NBA · Suns – Warriors
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Warriors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909873@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261027T000000Z
+DTEND:20261027T023000Z
+SUMMARY:NBA · Thunder – Suns
+DESCRIPTION:Où regarder : NBA League Pass. Programme complet et différ
+ és\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Thunder – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909286@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261031T020000Z
+DTEND:20261031T043000Z
+SUMMARY:NBA · Suns – Nuggets
+DESCRIPTION:Où regarder : NBA League Pass. Match de NBA Cup. Programme c
+ omplet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Nuggets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909919@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261103T030000Z
+DTEND:20261103T053000Z
+SUMMARY:NBA · Warriors – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Warriors – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909932@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261105T020000Z
+DTEND:20261105T043000Z
+SUMMARY:NBA · Suns – Trail Blazers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Trail Blazers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909936@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261106T020000Z
+DTEND:20261106T043000Z
+SUMMARY:NBA · Suns – Magic
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Magic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909943@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261108T020000Z
+DTEND:20261108T043000Z
+SUMMARY:NBA · Suns – Rockets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Rockets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909958@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261110T020000Z
+DTEND:20261110T043000Z
+SUMMARY:NBA · Suns – Spurs
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Spurs
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909962@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261111T020000Z
+DTEND:20261111T043000Z
+SUMMARY:NBA · Suns – Clippers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Clippers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909979@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261113T020000Z
+DTEND:20261113T043000Z
+SUMMARY:NBA · Suns – Hornets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Hornets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909986@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261115T210000Z
+DTEND:20261115T233000Z
+SUMMARY:NBA · Suns – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910001@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261117T020000Z
+DTEND:20261117T043000Z
+SUMMARY:NBA · Nuggets – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nuggets – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910018@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261119T030000Z
+DTEND:20261119T053000Z
+SUMMARY:NBA · Kings – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Kings – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909311@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261121T023000Z
+DTEND:20261121T050000Z
+SUMMARY:NBA · Jazz – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Jazz – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910042@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261124T010000Z
+DTEND:20261124T033000Z
+SUMMARY:NBA · Pelicans – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pelicans – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909323@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261126T013000Z
+DTEND:20261126T040000Z
+SUMMARY:NBA · Rockets – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Rockets – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401909332@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261128T020000Z
+DTEND:20261128T043000Z
+SUMMARY:NBA · Suns – Mavericks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Match d
+ e NBA Cup. Programme complet et différés\, sans spoiler : https://pick
+ andwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Mavericks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910053@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261129T220000Z
+DTEND:20261130T003000Z
+SUMMARY:NBA · Jazz – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Jazz – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910073@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261202T020000Z
+DTEND:20261202T043000Z
+SUMMARY:NBA · Suns – Clippers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Clippers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910083@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261203T020000Z
+DTEND:20261203T043000Z
+SUMMARY:NBA · Suns – Kings
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Kings
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910095@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261213T020000Z
+DTEND:20261213T043000Z
+SUMMARY:NBA · Suns – Timberwolves
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Timberwolves
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910112@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261215T020000Z
+DTEND:20261215T043000Z
+SUMMARY:NBA · Suns – Hawks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Hawks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910119@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261217T000000Z
+DTEND:20261217T023000Z
+SUMMARY:NBA · Pistons – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pistons – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910141@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+SUMMARY:NBA · Bucks – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bucks – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910151@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261220T210000Z
+DTEND:20261220T233000Z
+SUMMARY:NBA · Grizzlies – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Grizzlies – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910164@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261222T010000Z
+DTEND:20261222T033000Z
+SUMMARY:NBA · Timberwolves – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Timberwolves – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910183@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261224T020000Z
+DTEND:20261224T043000Z
+SUMMARY:NBA · Suns – Pacers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Pacers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910193@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261227T010000Z
+DTEND:20261227T033000Z
+SUMMARY:NBA · Mavericks – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Mavericks – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910209@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261229T020000Z
+DTEND:20261229T043000Z
+SUMMARY:NBA · Suns – Warriors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Warriors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910223@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20261231T020000Z
+DTEND:20261231T043000Z
+SUMMARY:NBA · Suns – 76ers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – 76ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910234@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270101T020000Z
+DTEND:20270101T043000Z
+SUMMARY:NBA · Suns – Knicks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Knicks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910249@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270103T020000Z
+DTEND:20270103T043000Z
+SUMMARY:NBA · Suns – Kings
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Kings
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910262@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270105T020000Z
+DTEND:20270105T043000Z
+SUMMARY:NBA · Suns – Celtics
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Celtics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910272@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270106T030000Z
+DTEND:20270106T053000Z
+SUMMARY:NBA · Nuggets – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nuggets – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910296@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270109T023000Z
+DTEND:20270109T050000Z
+SUMMARY:NBA · Mavericks – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Mavericks – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910311@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270111T000000Z
+DTEND:20270111T023000Z
+SUMMARY:NBA · Suns – Bulls
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Bulls
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910330@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270114T003000Z
+DTEND:20270114T030000Z
+SUMMARY:NBA · Raptors – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Raptors – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910344@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270116T000000Z
+DTEND:20270116T023000Z
+SUMMARY:NBA · Pacers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pacers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910367@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270119T033000Z
+DTEND:20270119T060000Z
+SUMMARY:NBA · Clippers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Clippers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910381@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270121T020000Z
+DTEND:20270121T043000Z
+SUMMARY:NBA · Suns – Grizzlies
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Grizzlies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910395@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270123T020000Z
+DTEND:20270123T043000Z
+SUMMARY:NBA · Suns – Jazz
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Jazz
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910407@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270124T210000Z
+DTEND:20270124T233000Z
+SUMMARY:NBA · Suns – Jazz
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Jazz
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910423@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270127T003000Z
+DTEND:20270127T030000Z
+SUMMARY:NBA · Knicks – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Knicks – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910431@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270128T003000Z
+DTEND:20270128T030000Z
+SUMMARY:NBA · Nets – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Nets – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910446@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270130T003000Z
+DTEND:20270130T030000Z
+SUMMARY:NBA · Celtics – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Celtics – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910462@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270131T230000Z
+DTEND:20270201T013000Z
+SUMMARY:NBA · Timberwolves – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Timberwolves – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910485@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270204T020000Z
+DTEND:20270204T043000Z
+SUMMARY:NBA · Suns – Cavaliers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Cavaliers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910502@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270206T020000Z
+DTEND:20270206T043000Z
+SUMMARY:NBA · Suns – Rockets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Rockets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910512@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270207T030000Z
+DTEND:20270207T053000Z
+SUMMARY:NBA · Kings – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Kings – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910527@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270209T023000Z
+DTEND:20270209T050000Z
+SUMMARY:NBA · Suns – Lakers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Lakers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910543@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270211T020000Z
+DTEND:20270211T043000Z
+SUMMARY:NBA · Suns – Pistons
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Pistons
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910552@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270213T000000Z
+DTEND:20270213T023000Z
+SUMMARY:NBA · Hawks – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hawks – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910569@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270214T180000Z
+DTEND:20270214T203000Z
+SUMMARY:NBA · Cavaliers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Cavaliers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910574@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270216T000000Z
+DTEND:20270216T023000Z
+SUMMARY:NBA · Wizards – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Wizards – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910587@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+SUMMARY:NBA · 76ers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · 76ers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910607@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270226T010000Z
+DTEND:20270226T033000Z
+SUMMARY:NBA · Pelicans – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Pelicans – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910622@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270228T020000Z
+DTEND:20270228T043000Z
+SUMMARY:NBA · Suns – Pelicans
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Pelicans
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910637@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270302T023000Z
+DTEND:20270302T050000Z
+SUMMARY:NBA · Suns – Wizards
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Wizards
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910652@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270304T020000Z
+DTEND:20270304T043000Z
+SUMMARY:NBA · Suns – Nets
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Nets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910666@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270306T020000Z
+DTEND:20270306T043000Z
+SUMMARY:NBA · Suns – Timberwolves
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Timberwolves
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910683@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270309T003000Z
+DTEND:20270309T030000Z
+SUMMARY:NBA · Heat – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Heat – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910689@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270310T000000Z
+DTEND:20270310T023000Z
+SUMMARY:NBA · Magic – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Magic – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910709@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270312T010000Z
+DTEND:20270312T033000Z
+SUMMARY:NBA · Bulls – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Bulls – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910722@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270313T230000Z
+DTEND:20270314T013000Z
+SUMMARY:NBA · Hornets – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Hornets – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910737@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270316T000000Z
+DTEND:20270316T023000Z
+SUMMARY:NBA · Grizzlies – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Grizzlies – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910755@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270318T020000Z
+DTEND:20270318T043000Z
+SUMMARY:NBA · Lakers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910771@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270320T023000Z
+DTEND:20270320T050000Z
+SUMMARY:NBA · Suns – Heat
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Heat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910782@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270321T210000Z
+DTEND:20270321T233000Z
+SUMMARY:NBA · Suns – Trail Blazers
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Trail Blazers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910799@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270324T030000Z
+DTEND:20270324T053000Z
+SUMMARY:NBA · Suns – Thunder
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Thunder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910808@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270325T020000Z
+DTEND:20270325T043000Z
+SUMMARY:NBA · Suns – Thunder
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Thunder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910822@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270327T020000Z
+DTEND:20270327T043000Z
+SUMMARY:NBA · Suns – Bucks
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Bucks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910838@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270329T010000Z
+DTEND:20270329T033000Z
+SUMMARY:NBA · Suns – Raptors
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Raptors
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910846@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270330T013000Z
+DTEND:20270330T040000Z
+SUMMARY:NBA · Spurs – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Spurs – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910861@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270401T000000Z
+DTEND:20270401T023000Z
+SUMMARY:NBA · Spurs – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Spurs – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910877@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270403T020000Z
+DTEND:20270403T043000Z
+SUMMARY:NBA · Suns – Nuggets
+DESCRIPTION:Où regarder : Prime Video. Programme complet et différés\,
+  sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Nuggets
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910889@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270404T203000Z
+DTEND:20270404T230000Z
+SUMMARY:NBA · Clippers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Clippers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910908@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270407T030000Z
+DTEND:20270407T053000Z
+SUMMARY:NBA · Warriors – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Warriors – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910935@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270410T020000Z
+DTEND:20270410T043000Z
+SUMMARY:NBA · Suns – Grizzlies
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Suns – Grizzlies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:401910951@pickandwatch.fr
+DTSTAMP:20261025T105114Z
+DTSTART:20270412T003000Z
+DTEND:20270412T030000Z
+SUMMARY:NBA · Lakers – Suns
+DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Program
+ me complet et différés\, sans spoiler : https://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Lakers – Suns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

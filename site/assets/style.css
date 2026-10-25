@@ -138,3 +138,54 @@ footer { margin-top: 48px; padding-top: 18px; border-top: 2px solid var(--ink); 
   .stars { font-size: 15px; }
   .ball { width: 420px; height: 420px; top: -170px; right: -220px; }
 }
+
+/* Mon équipe, NBA Cup, agendas */
+.tabs { grid-template-columns: repeat(4, 1fr); }
+.tabs a:last-child { background: transparent; color: var(--ink); }
+.tabs a:nth-child(2) { background: var(--ink); color: var(--paper); }
+.tabs a.alt { border-color: var(--orange); color: var(--orange); }
+.teams a { text-decoration: none; }
+.cup { display: inline-block; padding: 1px 8px; margin-right: 6px; font: 500 12px/1.6 var(--mono); letter-spacing: 1.5px;
+  text-transform: uppercase; background: var(--orange); color: var(--paper); vertical-align: middle; }
+.addline { margin: 10px 0 0; font: 13px/1.6 var(--mono); color: var(--sub); }
+a.add { display: inline-block; margin: 2px 6px 2px 0; padding: 2px 10px; border: 1.5px solid var(--orange); color: var(--ink);
+  text-decoration: none; font: 500 13px/1.6 var(--mono); white-space: nowrap; }
+a.add:hover { background: var(--orange); color: var(--paper); }
+.subscribe { margin: 0 0 24px; }
+.btn { display: inline-block; padding: 14px 22px; background: var(--orange); color: var(--paper); text-decoration: none;
+  font: 800 22px/1.1 var(--display); text-transform: uppercase; letter-spacing: 1px; }
+.small { font-size: 14px; }
+.schedule { border-top: 2px solid var(--ink); }
+.schedule .mois { margin: 22px 0 6px; font: 800 26px/1 var(--display); text-transform: uppercase; color: var(--orange); }
+.row { display: grid; grid-template-columns: 110px minmax(0, 1fr) auto; gap: 14px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.row .when b { display: block; font: 500 13px/1.3 var(--mono); text-transform: uppercase; letter-spacing: 1px; color: var(--sub); }
+.row .when span { font: 800 30px/1 var(--display); }
+.row .vs { margin: 0; font: 800 26px/1.1 var(--display); text-transform: uppercase; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; }
+.row .vs a { text-decoration: none; }
+.row .vs .flag { height: 20px; }
+.row .tvline { margin: 4px 0 0; font-size: 15px; }
+.teams-grid, section.teams { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+a.team { display: flex; flex-direction: column; gap: 4px; padding: 14px; border: 2px solid var(--ink); text-decoration: none; }
+a.team span { font: 800 26px/1 var(--display); text-transform: uppercase; }
+a.team small { font: 12px/1.3 var(--mono); color: var(--sub); text-transform: uppercase; letter-spacing: 1px; }
+a.team .flag { height: 18px; }
+a.team:hover { border-color: var(--orange); }
+.groupes { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin: 14px 0 28px; }
+.groupe { border: 2px solid var(--ink); padding: 12px 16px; }
+.groupe h3 { margin: 0 0 8px; font: 800 24px/1 var(--display); text-transform: uppercase; color: var(--orange); }
+.groupe ul, .groupe ol { margin: 0; padding-left: 0; list-style: none; }
+.groupe ol { padding-left: 22px; list-style: decimal; }
+.groupe li { margin: 4px 0; display: flex; align-items: center; gap: 8px; }
+.groupe ol li { display: list-item; }
+.groupe .flag { height: 16px; }
+.cupinfo { margin: 0 0 24px; }
+details.spoiler { margin: 32px 0; border: 3px solid var(--ink); padding: 14px 18px; }
+details.spoiler summary { cursor: pointer; font: 800 22px/1.1 var(--display); text-transform: uppercase; letter-spacing: 1px; }
+@media (max-width: 620px) {
+  .tabs { grid-template-columns: 1fr 1fr; }
+  .tabs a { font-size: 17px; padding: 8px 4px; }
+  .row { grid-template-columns: 76px minmax(0, 1fr); }
+  .row .cal { grid-column: 2; }
+  .row .when span { font-size: 24px; }
+  .row .vs { font-size: 21px; }
+}
