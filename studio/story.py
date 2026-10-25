@@ -203,7 +203,14 @@ def carte(d: date, g: dict, v: dict, i: int, total: int, now: datetime, slots: l
     return page(inner, accent)
 
 
+HALLOWEEN = False  # nuit du 31 octobre : petit thème Halloween sur chaque image
+
+
 def render(pages: list[str], out: pathlib.Path) -> list[str]:
+    if HALLOWEEN:
+        sys.path.insert(0, str(ST))
+        from halloween_theme import halloweenify
+        pages = [halloweenify(p, W, H, dark=(CUP and k == 0), story=(H == 1920)) for k, p in enumerate(pages)]
     from playwright.sync_api import sync_playwright
     from PIL import Image
     tmp = pathlib.Path(tempfile.mkdtemp())
@@ -246,7 +253,8 @@ def main(argv: list[str]) -> int:
     d = date.fromisoformat(nuit)
     night = json.loads((ROOT / "data/nuits" / f"{nuit}.json").read_text(encoding="utf-8"))
     vs = json.loads((ROOT / "data/verdicts" / f"{nuit}.json").read_text(encoding="utf-8"))["matchs"]
-    global CUP, H, SAFE_TOP, SAFE_BOTTOM
+    global CUP, H, SAFE_TOP, SAFE_BOTTOM, HALLOWEEN
+    HALLOWEEN = nuit[5:] == "10-31" or "--halloween" in argv
     CUP = any(g.get("cup") for g in night["games"] if g["id"] in vs)
     post_mode = "--post" in argv
     if post_mode:  # carrousel du fil (4:5) : même contenu, sans les marges de l'interface des stories
