@@ -1,0 +1,52 @@
+{
+  "_statut": "publié sans réponse (règle de 19h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (scoreboard, summary, blessures, effectifs et calendriers au 26/10/2026, 15h ; minutes jouées des matchs de saison régulière) ; previews AP/ESPN des 25-26/10/2026 (blessures : Donte DiVincenzo, Noa Essengue tête, Cooper Flagg, Santi Aldama) ; guide TV beIN SPORTS (Nuggets – Warriors en direct sur beIN SPORTS 1 et rediffusions) ; ESPN (aucune diffusion Prime Video aux États-Unis ce soir) et insidebasket.com 20/10/2026 (Prime Video France : sélection de matchs, aucun annoncé ce lundi)",
+  "matchs": {
+    "401909869": {
+      "stars": 3,
+      "score": "6 + 5 + 2 (événement : les Français Rudy Gobert et Joan Beringer) = 13 ; meilleure note de la nuit",
+      "brief": "Deuxième soir d'affilée pour Minnesota. Anthony Edwards, LaMelo Ball et les Français Rudy Gobert et Joan Beringer chez Donovan Mitchell, James Harden et Evan Mobley, finalistes de l'Est en 2026. Donte DiVincenzo (tendon d'Achille) est absent."
+    },
+    "401909876": {
+      "stars": 2,
+      "score": "5 + 3 = 8 ; seul match sur une chaîne française (beIN SPORTS 1)",
+      "brief": "Le seul match de la nuit sur une chaîne française. Nikola Jokić et Jamal Murray reçoivent Stephen Curry et des Warriors privés de Kristaps Porziņģis et Moses Moody. Cameron Johnson (cheville) est incertain."
+    },
+    "401909873": {
+      "stars": 2,
+      "score": "7 + 3 = 10, ramené à ★★ (un seul ★★★ par nuit : Cavaliers – Timberwolves a la meilleure note)",
+      "brief": "Deuxième soir d'affilée pour le Thunder. Shai Gilgeous-Alexander et Chet Holmgren face à Devin Booker et Jalen Green, déjà opposés au premier tour des playoffs 2026."
+    },
+    "401909871": {
+      "stars": 2,
+      "score": "3 + 1 + 2 (événement : le Français Zaccharie Risacher) = 6 ; slide retenue (départage à 6 avec Celtics – Bulls et Rockets – Hawks : aucun sur une chaîne française, seul match avec événement)",
+      "brief": "Giannis Antetokounmpo et Bam Adebayo reçoivent le Français Zaccharie Risacher et des Mavericks privés de Cooper Flagg (épaule) et Santi Aldama (genou)."
+    },
+    "401909870": {
+      "stars": 2,
+      "score": "5 + 1 = 6 (Noa Essengue incertain, non compté ; pas de slide : au plus 4 slides)",
+      "brief": "Jayson Tatum, Paul George et Derrick White face à Josh Giddey et Matas Buzelis. Le Français Noa Essengue (tête) est incertain ; Nic Claxton est absent."
+    },
+    "401909874": {
+      "stars": 2,
+      "score": "3 + 3 = 6 (pas de slide : au plus 4 slides)",
+      "brief": "Deuxième duel en trois jours entre les deux équipes, cette fois à Houston. Kevin Durant et Alperen Şengün face à Jalen Johnson ; Steven Adams est absent côté Houston."
+    },
+    "401909868": {
+      "stars": 1,
+      "score": "1 + 2 + 2 (événement : les Français Moussa Diabaté, Tidjane Salaün, Bilal Coulibaly et Alex Sarr) = 5",
+      "brief": "Brandon Miller et les Français Moussa Diabaté et Tidjane Salaün face à Trae Young, Anthony Davis et aux Français Bilal Coulibaly et Alex Sarr. Kon Knueppel et Coby White sont absents."
+    },
+    "401909872": {
+      "stars": 1,
+      "score": "1 + 2 + 2 (événement : le Français Ousmane Dieng) = 5",
+      "brief": "Tyler Herro, Myles Turner et le Français Ousmane Dieng face à Tyrese Haliburton et Pascal Siakam. T.J. McConnell est absent côté Indiana."
+    },
+    "401909875": {
+      "stars": 1,
+      "score": "1 + 1 = 2",
+      "brief": "Lauri Markkanen, Jaren Jackson Jr. et le rookie Darryn Peterson face à Ty Jerome et au rookie Cameron Boozer. Zach Edey est absent côté Memphis."
+    }
+  }
+}
