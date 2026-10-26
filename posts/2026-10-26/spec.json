@@ -1,0 +1,136 @@
+{
+ "cover": {
+  "title": "9 MATCHS, 1 SUR beIN SPORTS",
+  "date": "LUNDI 26 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "CAVALIERS",
+   "WOLVES"
+  ],
+  "top_info": "00:00 · CLEVELAND · NBA LEAGUE PASS",
+  "others": [
+   [
+    "HEAT – MAVERICKS",
+    "00:30",
+    "★★"
+   ],
+   [
+    "CELTICS – BULLS",
+    "00:30",
+    "★★"
+   ],
+   [
+    "THUNDER – SUNS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "ROCKETS – HAWKS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "NUGGETS – WARRIORS",
+    "03:00",
+    "★★"
+   ]
+  ],
+  "note": "★ AUSSI : HORNETS – WIZARDS 00:00 · BUCKS – PACERS 01:00 · JAZZ – GRIZZLIES 02:00<br>TV : NUGGETS – WARRIORS EN DIRECT SUR beIN SPORTS 1<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers",
+   "home_city": "CLEVELAND",
+   "home_bg": "#860038",
+   "home_sec": "#FDBB30",
+   "away": "Timberwolves",
+   "away_city": "MINNESOTA",
+   "away_c1": "#0C2340",
+   "away_c2": "#78BE20",
+   "counter": "NUIT DU 26 AU 27 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "00:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième soir d'affilée pour Minnesota. Anthony Edwards, LaMelo Ball et les Français Rudy Gobert et Joan Beringer chez Donovan Mitchell, James Harden et Evan Mobley, finalistes de l'Est en 2026. Donte DiVincenzo (tendon d'Achille) est absent.",
+   "chips": [
+    "A. Edwards",
+    "R. Gobert",
+    "J. Beringer",
+    "D. Mitchell"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat",
+   "home_city": "MIAMI",
+   "home_bg": "#98002E",
+   "home_sec": "#F9A01B",
+   "away": "Mavericks",
+   "away_city": "DALLAS",
+   "away_c1": "#00538C",
+   "away_c2": "#B8C4CA",
+   "counter": "NUIT DU 26 AU 27 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "00:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Giannis Antetokounmpo et Bam Adebayo reçoivent le Français Zaccharie Risacher et des Mavericks privés de Cooper Flagg (épaule) et Santi Aldama (genou).",
+   "chips": [
+    "G. Antetokounmpo",
+    "B. Adebayo",
+    "Z. Risacher"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder",
+   "home_city": "OKLAHOMA CITY",
+   "home_bg": "#007AC1",
+   "home_sec": "#EF3B24",
+   "away": "Suns",
+   "away_city": "PHOENIX",
+   "away_c1": "#1D1160",
+   "away_c2": "#E56020",
+   "counter": "NUIT DU 26 AU 27 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième soir d'affilée pour le Thunder. Shai Gilgeous-Alexander et Chet Holmgren face à Devin Booker et Jalen Green, déjà opposés au premier tour des playoffs 2026.",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "C. Holmgren",
+    "D. Booker",
+    "J. Green"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "DENVER · BALL ARENA",
+   "home": "Nuggets",
+   "home_city": "DENVER",
+   "home_bg": "#0E2240",
+   "home_sec": "#FEC524",
+   "away": "Warriors",
+   "away_city": "GOLDEN STATE",
+   "away_c1": "#1D428A",
+   "away_c2": "#FFC72C",
+   "counter": "NUIT DU 26 AU 27 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "03:00",
+   "channel": "beIN SPORTS 1",
+   "mode": "DIRECT + DIFFÉRÉ MAR. 11:00",
+   "brief": "Le seul match de la nuit sur une chaîne française. Nikola Jokić et Jamal Murray reçoivent Stephen Curry et des Warriors privés de Kristaps Porziņģis et Moses Moody. Cameron Johnson (cheville) est incertain.",
+   "chips": [
+    "N. Jokić",
+    "J. Murray",
+    "S. Curry"
+   ],
+   "foot": "Rediff. mar. sur beIN<br>11:00 et 16:30"
+  }
+ ]
+}
