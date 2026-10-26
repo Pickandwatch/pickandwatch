@@ -1,6 +1,6 @@
 {
   "night": "2026-10-26",
-  "generated_at": "2026-10-26T16:15+01:00",
+  "generated_at": "2026-10-26T18:52+01:00",
   "games": [
     {
       "id": "401909868",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Brandon Miller et les Français Moussa Diabaté et Tidjane Salaün face à Trae Young, Anthony Davis et aux Français Bilal Coulibaly et Alex Sarr. Kon Knueppel et Coby White sont absents.",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Deuxième soir d'affilée pour Minnesota. Anthony Edwards, LaMelo Ball et les Français Rudy Gobert et Joan Beringer chez Donovan Mitchell, James Harden et Evan Mobley, finalistes de l'Est en 2026. Donte DiVincenzo (tendon d'Achille) est absent.",
       "commentators": null
     },
     {
@@ -106,8 +106,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Jayson Tatum, Paul George et Derrick White face à Josh Giddey et Matas Buzelis. Le Français Noa Essengue (tête) est incertain ; Nic Claxton est absent.",
       "commentators": null
     },
     {
@@ -142,8 +142,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Giannis Antetokounmpo et Bam Adebayo reçoivent le Français Zaccharie Risacher et des Mavericks privés de Cooper Flagg (épaule) et Santi Aldama (genou).",
       "commentators": null
     },
     {
@@ -178,8 +178,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Tyler Herro, Myles Turner et le Français Ousmane Dieng face à Tyrese Haliburton et Pascal Siakam. T.J. McConnell est absent côté Indiana.",
       "commentators": null
     },
     {
@@ -214,8 +214,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Deuxième soir d'affilée pour le Thunder. Shai Gilgeous-Alexander et Chet Holmgren face à Devin Booker et Jalen Green, déjà opposés au premier tour des playoffs 2026.",
       "commentators": null
     },
     {
@@ -250,8 +250,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Deuxième duel en trois jours entre les deux équipes, cette fois à Houston. Kevin Durant et Alperen Şengün face à Jalen Johnson ; Steven Adams est absent côté Houston.",
       "commentators": null
     },
     {
@@ -286,8 +286,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Lauri Markkanen, Jaren Jackson Jr. et le rookie Darryn Peterson face à Ty Jerome et au rookie Cameron Boozer. Zach Edey est absent côté Memphis.",
       "commentators": null
     },
     {
@@ -334,8 +334,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Le seul match de la nuit sur une chaîne française. Nikola Jokić et Jamal Murray reçoivent Stephen Curry et des Warriors privés de Kristaps Porziņģis et Moses Moody. Cameron Johnson (cheville) est incertain.",
       "commentators": null
     }
   ],
