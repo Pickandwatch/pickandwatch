@@ -197,7 +197,9 @@ Rubrique phare (Alexandre, 23 et 25 octobre 2026) : chaque vendredi à **12h**, 
 basket **hors des matchs** de la semaine : livres, films et documentaires, séries, podcasts,
 événements en France (expositions, tournées, billetteries), interviews, initiatives de médias et de
 créateurs français. Jamais de score ni de résultat, jamais de rumeur de transfert non confirmée.
-1. **Veille** sur la semaine (lundi → jeudi) : Basket Session, First Team, TrashTalk, NBA Extra
+1. **Sujets d'Alexandre d'abord** : lire `studio/hors-parquet-sujets.md` ; ses sujets passent en
+   priorité (faits revérifiés), puis marquer « publié le <date> » après publication.
+   **Veille** sur la semaine (lundi → jeudi) : Basket Session, First Team, TrashTalk, NBA Extra
    (beIN SPORTS), Basket USA, BeBasket, Insidebasket, L'Équipe (uniquement par les liens qu'envoie
    Alexandre), Netflix / Prime Video / Canal+ (documentaires), éditeurs (Solar, Marabout, Talent
    Sport…), billetteries et salles (Accor Arena, LDLC Arena), comptes des joueurs français. Ouvrir et
