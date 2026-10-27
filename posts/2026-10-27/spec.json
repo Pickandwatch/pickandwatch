@@ -1,0 +1,69 @@
+{
+ "cover": {
+  "title": "4 MATCHS, 2 SUR beIN SPORTS",
+  "date": "MARDI 27 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["KNICKS", "PISTONS"],
+  "top_info": "01:00 · NEW YORK · beIN SPORTS 1",
+  "others": [
+   ["CELTICS – NETS", "00:30", "★★"],
+   ["SPURS – KINGS", "01:00", "★★"],
+   ["LAKERS – BLAZERS", "04:00", "★★"]
+  ],
+  "note": "TV : KNICKS – PISTONS ET LAKERS – BLAZERS EN DIRECT SUR beIN SPORTS 1<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks", "home_city": "NEW YORK", "home_bg": "#1D428A", "home_sec": "#F58426",
+   "away": "Pistons", "away_city": "DETROIT", "away_c1": "#C8102E", "away_c2": "#1D42BA",
+   "counter": "NUIT DU 27 AU 28 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:00",
+   "channel": "beIN SPORTS 1",
+   "mode": "DIRECT + DIFFÉRÉ MER. 09:15",
+   "brief": "Les champions NBA 2026 reçoivent Detroit, premier de l'Est la saison dernière. Jalen Brunson et Karl-Anthony Towns face à Cade Cunningham, sans Jalen Duren (ischio-jambiers). Ausar Thompson (cheville) est incertain.",
+   "chips": ["J. Brunson", "K.-A. Towns", "C. Cunningham"],
+   "foot": "Rediff. mer. sur beIN<br>09:15 et 16:00"
+  },
+  {
+   "venue": "BOSTON · TD GARDEN",
+   "home": "Celtics", "home_city": "BOSTON", "home_bg": "#007A33", "home_sec": "#BA9653",
+   "away": "Nets", "away_city": "BROOKLYN", "away_c1": "#000000", "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 27 AU 28 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "00:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième soir d'affilée pour Boston. Jayson Tatum et Paul George face à Michael Porter Jr., Julius Randle et au Français Nolan Traoré.",
+   "chips": ["J. Tatum", "P. George", "M. Porter Jr.", "N. Traoré"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs", "home_city": "SAN ANTONIO", "home_bg": "#000000", "home_sec": "#C4CED4",
+   "away": "Kings", "away_city": "SACRAMENTO", "away_c1": "#5A2D81", "away_c2": "#63727A",
+   "counter": "NUIT DU 27 AU 28 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Victor Wembanyama, De'Aaron Fox et Dylan Harper face à Domantas Sabonis et Zach LaVine. Côté Kings, le Français Maxime Raynaud (genou), Keegan Murray et Ben Simmons sont absents.",
+   "chips": ["V. Wembanyama", "D. Harper", "D. Sabonis", "Z. LaVine"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "LOS ANGELES · CRYPTO.COM ARENA",
+   "home": "Lakers", "home_city": "LOS ANGELES", "home_bg": "#552583", "home_sec": "#FDB927",
+   "away": "Trail Blazers", "away_city": "PORTLAND", "away_c1": "#E03A3E", "away_c2": "#000000",
+   "counter": "NUIT DU 27 AU 28 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "04:00",
+   "channel": "beIN SPORTS 1",
+   "mode": "DIRECT + DIFFÉRÉ MER. 11:00",
+   "brief": "Luka Dončić et Austin Reaves reçoivent Damian Lillard, Ja Morant, Deni Avdija et le Français Sidy Cissoko. Shaedon Sharpe (genou) est absent ; Scoot Henderson (cheville) est incertain.",
+   "chips": ["L. Dončić", "A. Reaves", "D. Lillard", "J. Morant"],
+   "foot": "Rediff. mer. sur beIN<br>11:00"
+  }
+ ]
+}
