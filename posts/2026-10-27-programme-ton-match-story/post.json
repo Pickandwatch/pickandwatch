@@ -2,11 +2,18 @@
   "type": "story",
   "suit": "2026-10-27-programme-ton-match",
   "publier_a": "2026-10-27T12:30:00+01:00",
-  "statut": "valide",
+  "statut": "publie",
   "images": [
     "01.jpg",
     "02.jpg",
     "03.jpg"
   ],
-  "legende": ""
+  "legende": "",
+  "stories_publiees": [
+    "17997450411013824",
+    "17938604730393123",
+    "17992220924862534"
+  ],
+  "publie_le": "2026-10-27T12:31+01:00",
+  "media_id": "17997450411013824,17938604730393123,17992220924862534"
 }
