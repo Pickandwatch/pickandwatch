@@ -36,7 +36,9 @@ liste des Français (data/francais.json, `valide: false` tant qu'Alexandre n'a p
 - **Semaine du 26/10 — Claude** : liste de 15 médias, podcasts et créateurs basket français à
   approcher (tags et publications à deux) + messages d'approche rédigés pour Alexandre ; Reel
   « meilleurs podcasts basket » (idée d'Alexandre du 25/10).
-- **Après le 27/10 — Alexandre** : sponsoriser le guide (~20 €, 25-44 ans) ; Claude calcule le coût
+- **28/10 — fait** : Alexandre a sponsorisé le post NBA Cup (28/10, ~15h, 3 jours, jusqu'au 31/10)
+  à la place du guide (gardé pour mi-novembre). Bilan : captures d'Alexandre → coût par abonné.
+- **Mi-novembre — Alexandre** : sponsoriser le guide (~20 €, 25-44 ans) ; Claude calcule le coût
   par abonné à partir de ses captures. Règle : budget ~50 €/mois, couper au-delà de 0,80 €/abonné.
 - **Novembre — Claude** : plan du site pour Google (sitemap.xml, titres et descriptions des pages
   équipes et matchs) ; Alexandre ouvre Google Search Console et ajoute la ligne TXT chez OVH.
