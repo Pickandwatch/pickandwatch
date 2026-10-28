@@ -9,13 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909933@pickandwatch.fr
-DTSTAMP:20261027T202051Z
+DTSTAMP:20261028T044512Z
 DTSTART:20261105T023000Z
 DTEND:20261105T050000Z
 SUMMARY:NBA · Spurs – Mavericks
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Le verd
- ict sans spoiler demain à 8h sur Instagram : @pickandwatch.fr. Programm
- e : https://pickandwatch.fr
+DESCRIPTION:Où regarder : beIN SPORTS 2. Le verdict sans spoiler demain 
+ à 8h sur Instagram : @pickandwatch.fr. Programme : https://pickandwatch
+ .fr
 URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY
