@@ -1,6 +1,6 @@
 {
   "night": "2026-10-28",
-  "generated_at": "2026-10-28T15:12+01:00",
+  "generated_at": "2026-10-28T18:52+01:00",
   "games": [
     {
       "id": "401909881",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Giannis Antetokounmpo et Bam Adebayo chez Jalen Johnson.",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Donovan Mitchell, James Harden et Evan Mobley, finalistes de l'Est en 2026, reçoivent Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr. AJ Dybantsa (cheville) est absent.",
       "commentators": null
     },
     {
@@ -106,8 +106,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Cade Cunningham face à Brandon Miller et aux Français Moussa Diabaté et Tidjane Salaün. Kon Knueppel est absent.",
       "commentators": null
     },
     {
@@ -154,8 +154,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Tyrese Maxey, Joel Embiid, Jaylen Brown et LeBron James chez Pascal Siakam. Tyrese Haliburton (ischio-jambiers) est incertain.",
       "commentators": null
     },
     {
@@ -190,8 +190,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Scottie Barnes et RJ Barrett face à Franz Wagner et Desmond Bane, sans Paolo Banchero ni Kawhi Leonard (genou).",
       "commentators": null
     },
     {
@@ -226,8 +226,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les champions NBA 2026 Jalen Brunson et Karl-Anthony Towns chez Josh Giddey, Matas Buzelis et le Français Noa Essengue. Nic Claxton (ischio-jambiers) est absent côté Bulls.",
       "commentators": null
     },
     {
@@ -262,8 +262,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Kevin Durant face à Tyler Herro, Myles Turner et au Français Ousmane Dieng. Alperen Şengün (dos) est absent.",
       "commentators": null
     },
     {
@@ -298,8 +298,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Sans Anthony Edwards, absent jusqu'à deux mois (opération au genou), Minnesota mise sur les Français Rudy Gobert et Joan Beringer face à Stephen Curry.",
       "commentators": null
     },
     {
@@ -334,8 +334,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Nikola Jokić et Jamal Murray chez Zion Williamson et Trey Murphy III.",
       "commentators": null
     },
     {
@@ -370,8 +370,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Victor Wembanyama, De'Aaron Fox et Dylan Harper chez le rookie Darryn Peterson. Côté Jazz, Jaren Jackson Jr. (genou) est absent et Lauri Markkanen (poignet) incertain.",
       "commentators": null
     },
     {
@@ -414,8 +414,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Shai Gilgeous-Alexander privé de Jalen Williams (péroné), Cason Wallace (épaule), Chet Holmgren (genou) et Alex Caruso (cheville). En face, Cooper Flagg et le Français Zaccharie Risacher. Kyrie Irving (genou) est incertain.",
       "commentators": null
     },
     {
@@ -450,8 +450,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Luka Dončić et Austin Reaves face à des Clippers privés de Brandon Ingram et Bradley Beal.",
       "commentators": null
     }
   ],
