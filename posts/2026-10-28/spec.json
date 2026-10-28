@@ -1,0 +1,152 @@
+{
+ "cover": {
+  "title": "12 MATCHS, 2 SUR beIN SPORTS",
+  "date": "MERCREDI 28 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "MAVERICKS",
+   "THUNDER"
+  ],
+  "top_info": "02:30 · DALLAS · beIN SPORTS 2",
+  "others": [
+   [
+    "CAVALIERS – WIZARDS",
+    "00:00",
+    "★★"
+   ],
+   [
+    "PACERS – SIXERS",
+    "00:00",
+    "★★"
+   ],
+   [
+    "PISTONS – HORNETS",
+    "00:00",
+    "★★"
+   ],
+   [
+    "HAWKS – HEAT",
+    "00:00",
+    "★★"
+   ],
+   [
+    "BULLS – KNICKS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "WOLVES – WARRIORS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "JAZZ – SPURS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "CLIPPERS – LAKERS",
+    "03:30",
+    "★★"
+   ]
+  ],
+  "note": "★★ AUSSI : BUCKS – ROCKETS 01:00 · PELICANS – NUGGETS 01:00<br>★ AUSSI : RAPTORS – MAGIC 00:30<br>TV : MAVERICKS – THUNDER SUR beIN SPORTS 2<br>PACERS – SIXERS SUR beIN SPORTS 1 · LES AUTRES SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "DALLAS · AMERICAN AIRLINES CENTER",
+   "home": "Mavericks",
+   "home_city": "DALLAS",
+   "home_bg": "#0064B1",
+   "home_sec": "#BBC4CA",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 28 AU 29 OCT. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "02:30",
+   "channel": "beIN SPORTS 2",
+   "mode": "DIRECT + DIFFÉRÉ JEU. 11:00",
+   "brief": "Shai Gilgeous-Alexander privé de Jalen Williams (péroné), Cason Wallace (épaule), Chet Holmgren (genou) et Alex Caruso (cheville). En face, Cooper Flagg et le Français Zaccharie Risacher. Kyrie Irving (genou) est incertain.",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "C. Flagg",
+    "Z. Risacher"
+   ],
+   "foot": "Rediff. jeu. sur beIN<br>11:00"
+  },
+  {
+   "venue": "SALT LAKE CITY · DELTA CENTER",
+   "home": "Jazz",
+   "home_city": "UTAH",
+   "home_bg": "#4E008E",
+   "home_sec": "#79A3DC",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 28 AU 29 OCT. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Victor Wembanyama, De'Aaron Fox et Dylan Harper chez le rookie Darryn Peterson. Côté Jazz, Jaren Jackson Jr. (genou) est absent et Lauri Markkanen (poignet) incertain.",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "D. Harper",
+    "D. Peterson"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers",
+   "home_city": "CLEVELAND",
+   "home_bg": "#860038",
+   "home_sec": "#FDBB30",
+   "away": "Wizards",
+   "away_city": "WASHINGTON",
+   "away_c1": "#E31837",
+   "away_c2": "#002B5C",
+   "counter": "NUIT DU 28 AU 29 OCT. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "00:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Donovan Mitchell, James Harden et Evan Mobley, finalistes de l'Est en 2026, reçoivent Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr. AJ Dybantsa (cheville) est absent.",
+   "chips": [
+    "D. Mitchell",
+    "J. Harden",
+    "B. Coulibaly",
+    "A. Sarr"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "CHICAGO · UNITED CENTER",
+   "home": "Bulls",
+   "home_city": "CHICAGO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Knicks",
+   "away_city": "NEW YORK",
+   "away_c1": "#006BB6",
+   "away_c2": "#F58426",
+   "counter": "NUIT DU 28 AU 29 OCT. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les champions NBA 2026 Jalen Brunson et Karl-Anthony Towns chez Josh Giddey, Matas Buzelis et le Français Noa Essengue. Nic Claxton (ischio-jambiers) est absent côté Bulls.",
+   "chips": [
+    "J. Brunson",
+    "K.-A. Towns",
+    "J. Giddey",
+    "N. Essengue"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}

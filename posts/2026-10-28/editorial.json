@@ -1,0 +1,67 @@
+{
+  "_statut": "proposé le 28 octobre 2026 (en attente de validation)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary, blessures et effectifs au 28/10/2026, 15h ; minutes jouées des matchs de saison régulière : Risacher, Coulibaly, Sarr, Essengue, Gobert, Beringer, Diabaté, Salaün, Dieng dans la rotation ; Rayan Rupert, Pacôme Dadiet et Mohamed Diawara non utilisés, non comptés ; Noah Penda blessé) ; previews AP/ESPN des 27-28/10/2026 (blessures, bilans 2025-26) ; fieldlevelmedia.com 27/10/2026 (Thunder sans Jalen Williams, Cason Wallace, Chet Holmgren, Alex Caruso ; Kyrie Irving incertain) ; hoopsrumors.com 27/10/2026 (Anthony Edwards, opération au genou, jusqu'à deux mois) ; guide TV beIN SPORTS (Mavericks – Thunder en direct sur beIN SPORTS 2, Pacers – 76ers sur beIN SPORTS 1, rediffusions) ; ESPN (aucune diffusion Prime Video aux États-Unis ce soir ; Prime Video France : pas de match le mercredi d'après insidebasket.com 20/10/2026)",
+  "matchs": {
+    "401909891": {
+      "stars": 3,
+      "score": "1 + 7 + 2 (événement : le Français Zaccharie Risacher) = 10 ; ★★★ par la diffusion TV française (direct beIN SPORTS 2), départage avec Jazz – Spurs (11), Cavaliers – Wizards (10) et Bulls – Knicks (10), sans chaîne française",
+      "brief": "Shai Gilgeous-Alexander privé de Jalen Williams (péroné), Cason Wallace (épaule), Chet Holmgren (genou) et Alex Caruso (cheville). En face, Cooper Flagg et le Français Zaccharie Risacher. Kyrie Irving (genou) est incertain."
+    },
+    "401909890": {
+      "stars": 2,
+      "score": "1 + 8 + 2 (événement : le Français Victor Wembanyama) = 11, ramené à ★★ (un seul ★★★ par nuit : Mavericks – Thunder l'emporte par la diffusion TV française)",
+      "brief": "Victor Wembanyama, De'Aaron Fox et Dylan Harper chez le rookie Darryn Peterson. Côté Jazz, Jaren Jackson Jr. (genou) est absent et Lauri Markkanen (poignet) incertain."
+    },
+    "401909882": {
+      "stars": 2,
+      "score": "6 + 2 + 2 (événement : les Français Bilal Coulibaly et Alex Sarr) = 10, ramené à ★★ (un seul ★★★ par nuit : Mavericks – Thunder l'emporte par la diffusion TV française)",
+      "brief": "Donovan Mitchell, James Harden et Evan Mobley, finalistes de l'Est en 2026, reçoivent Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr. AJ Dybantsa (cheville) est absent."
+    },
+    "401909886": {
+      "stars": 2,
+      "score": "1 + 7 + 2 (événement : le Français Noa Essengue ; Pacôme Dadiet et Mohamed Diawara, peu ou pas utilisés, non comptés) = 10, ramené à ★★ (un seul ★★★ par nuit : Mavericks – Thunder l'emporte par la diffusion TV française)",
+      "brief": "Les champions NBA 2026 Jalen Brunson et Karl-Anthony Towns chez Josh Giddey, Matas Buzelis et le Français Noa Essengue. Nic Claxton (ischio-jambiers) est absent côté Bulls."
+    },
+    "401909888": {
+      "stars": 2,
+      "score": "3 + 3 + 2 (événement : les Français Rudy Gobert et Joan Beringer) = 8 ; Minnesota passe de 5 à 3 (aura ramenée de 3 à 1 : Anthony Edwards opéré du genou, absent jusqu'à deux mois) ; pas de slide (au plus 4)",
+      "brief": "Sans Anthony Edwards, absent jusqu'à deux mois (opération au genou), Minnesota mise sur les Français Rudy Gobert et Joan Beringer face à Stephen Curry."
+    },
+    "401909883": {
+      "stars": 2,
+      "score": "5 + 1 + 2 (événement : les Français Moussa Diabaté et Tidjane Salaün) = 8 ; pas de slide (au plus 4)",
+      "brief": "Cade Cunningham face à Brandon Miller et aux Français Moussa Diabaté et Tidjane Salaün. Kon Knueppel est absent."
+    },
+    "401909884": {
+      "stars": 2,
+      "score": "2 + 5 = 7 (Rayan Rupert, non entré en jeu aux quatre premiers matchs, non compté) ; pas de slide (au plus 4), en direct sur beIN SPORTS 1",
+      "brief": "Tyrese Maxey, Joel Embiid, Jaylen Brown et LeBron James chez Pascal Siakam. Tyrese Haliburton (ischio-jambiers) est incertain."
+    },
+    "401909892": {
+      "stars": 2,
+      "score": "1 + 6 = 7 ; pas de slide (au plus 4)",
+      "brief": "Luka Dončić et Austin Reaves face à des Clippers privés de Brandon Ingram et Bradley Beal."
+    },
+    "401909881": {
+      "stars": 2,
+      "score": "3 + 3 = 6 ; pas de slide (au plus 4)",
+      "brief": "Giannis Antetokounmpo et Bam Adebayo chez Jalen Johnson."
+    },
+    "401909887": {
+      "stars": 2,
+      "score": "1 + 3 + 2 (événement : le Français Ousmane Dieng) = 6 ; pas de slide (au plus 4)",
+      "brief": "Kevin Durant face à Tyler Herro, Myles Turner et au Français Ousmane Dieng. Alperen Şengün (dos) est absent."
+    },
+    "401909889": {
+      "stars": 2,
+      "score": "1 + 5 = 6 ; pas de slide (au plus 4)",
+      "brief": "Nikola Jokić et Jamal Murray chez Zion Williamson et Trey Murphy III."
+    },
+    "401909885": {
+      "stars": 1,
+      "score": "3 + 2 = 5 (Noah Penda blessé, non compté)",
+      "brief": "Scottie Barnes et RJ Barrett face à Franz Wagner et Desmond Bane, sans Paolo Banchero ni Kawhi Leonard (genou)."
+    }
+  }
+}
