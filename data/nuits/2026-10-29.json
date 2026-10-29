@@ -1,6 +1,6 @@
 {
   "night": "2026-10-29",
-  "generated_at": "2026-10-29T18:03+01:00",
+  "generated_at": "2026-10-29T18:52+01:00",
   "games": [
     {
       "id": "401909893",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Donovan Mitchell, James Harden, Evan Mobley et Jarrett Allen, finalistes de l'Est en 2026, chez Jalen Johnson, All-Star 2026, CJ McCollum et Dyson Daniels. Côté Hawks, Mouhamed Gueye (pied) est absent.",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Zion Williamson et Trey Murphy III face à Domantas Sabonis et Zach LaVine. Côté Kings, le Français Maxime Raynaud (genou), Keegan Murray (cheville) et Ben Simmons (tendon d'Achille) sont absents.",
       "commentators": null
     },
     {
@@ -126,8 +126,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Premier face-à-face entre Ja Morant et Memphis, qui l'a échangé à Portland en juin contre Jerami Grant et Kris Murray. Avec Damian Lillard, Deni Avdija et le Français Sidy Cissoko face au rookie Cameron Boozer, n° 3 de la draft 2026.",
       "commentators": null
     }
   ],
