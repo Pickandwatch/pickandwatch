@@ -1,0 +1,104 @@
+{
+  "couverture": {
+    "semaine": "26 AU 30 OCTOBRE 2026",
+    "sommaire": [
+      [
+        "À VOIR CE WEEK-END",
+        "Wembanyama dans « 60 Minutes »"
+      ],
+      [
+        "À LIRE",
+        "Sabrina Palie, la championne oubliée"
+      ],
+      [
+        "À SUIVRE",
+        "Ernie Johnson, dernière saison"
+      ]
+    ],
+    "accroche": "Le basket, en dehors des matchs."
+  },
+  "sujets": [
+    {
+      "rubrique": "LE DOSSIER · À VOIR CE WEEK-END",
+      "titre": [
+        "WEMBANYAMA",
+        "DANS « 60 MINUTES »"
+      ],
+      "chiffres": [
+        [
+          "DIFFUSION",
+          "DIM. 1/11"
+        ],
+        [
+          "CHAÎNE",
+          "CBS"
+        ]
+      ],
+      "texte": "« 60 Minutes », le magazine d'information phare de CBS, consacre un reportage de Jon Wertheim à Victor Wembanyama. Diffusion aux États-Unis dimanche soir, soit dans la nuit de dimanche à lundi en France. Le teaser donne le ton : « He's extraordinary. Singular even. » CBS n'a rien dit de plus sur le contenu de l'entretien.",
+      "source": [
+        "SOURCE",
+        "CBS NEWS",
+        "TEASER DU 25.10"
+      ],
+      "lien": "https://www.cbsnews.com/video/victor-wembanyama-coming-up-60-minutes-video-2026-10-25/",
+      "lien_titre": "le teaser de CBS"
+    },
+    {
+      "rubrique": "À LIRE",
+      "titre": [
+        "SABRINA PALIE,",
+        "LA CHAMPIONNE OUBLIÉE"
+      ],
+      "chiffres": [
+        [
+          "TITRE WNBA",
+          "2006"
+        ],
+        [
+          "MATCHS WNBA",
+          "11"
+        ],
+        [
+          "HOMMAGE FIBA",
+          "11 NOV."
+        ]
+      ],
+      "texte": "Première Française championne WNBA, avec Detroit en 2006, après quatre mois et demi aux États-Unis. Un titre dont presque personne n'a parlé. Le 11 novembre, la FIBA la met à l'honneur : son maillot du Shock entre dans une exposition sur le basket féminin, à son siège en Suisse. « Personne ne pourra m'enlever ce titre. »",
+      "source": [
+        "LONG FORMAT",
+        "BEBASKET",
+        "29.10"
+      ],
+      "lien": "https://www.bebasket.fr/sabrina-palie-la-premiere-francaise-championne-wnba",
+      "lien_titre": "l'entretien sur BeBasket"
+    },
+    {
+      "rubrique": "À SUIVRE",
+      "titre": [
+        "ERNIE JOHNSON,",
+        "DERNIÈRE SAISON"
+      ],
+      "chiffres": [
+        [
+          "À LA PRÉSENTATION",
+          "37 SAISONS"
+        ],
+        [
+          "DÉPART",
+          "JUIN 2027"
+        ]
+      ],
+      "texte": "La voix d'« Inside the NBA », l'émission culte avec Charles Barkley, Kenny Smith et Shaquille O'Neal, a annoncé que cette saison serait sa dernière à la présentation. « C'est entièrement ma décision. » Pas une retraite pour autant : il garde d'autres projets à la télévision américaine.",
+      "source": [
+        "SOURCES",
+        "BASKET USA · BEBASKET",
+        "29.10"
+      ],
+      "lien": "https://www.bebasket.fr/une-page-va-se-tourner-en-nba-ernie-johnson-annonce-son-depart-d-inside-the-nba-apres-37-saisons",
+      "lien_titre": "l'article de BeBasket"
+    }
+  ],
+  "fin": {
+    "texte": "Un livre, un documentaire, un événement basket près de chez toi ? Signale-le-nous en message privé : on vérifie, et on en parle vendredi prochain."
+  }
+}

@@ -8,7 +8,7 @@ sujet en « publié le <date> » ; ne jamais le reprendre ensuite sans fait nouv
 
 ### Wembanyama dans « 60 Minutes » (CBS), dimanche 1er novembre
 Envoyé par Alexandre le 27/10 (capture d'un post Instagram de l'Express-News de San Antonio).
-Statut : à publier (proposition : dossier de la semaine, format « à voir ce week-end »).
+Statut : proposé en dossier du numéro du 30/10 (brouillon, en attente de validation d'Alexandre). Non repris : l'exclusivité médias US selon ESPN (contestée par Awful Announcing), l'accès depuis la France (non vérifié).
 
 Faits vérifiés le 27/10 :
 - « 60 Minutes », le magazine d'information de CBS, consacre un reportage à Victor Wembanyama le
