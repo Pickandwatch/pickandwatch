@@ -1,11 +1,13 @@
 {
   "type": "reel",
   "publier_a": "2026-10-29T17:30:00+01:00",
-  "statut": "valide",
+  "statut": "publie",
   "valide_le": "2026-10-25T12:34+01:00",
   "images": [
     "cover.jpg"
   ],
   "video": "reel.mp4",
-  "legende": "NBA Cup · le palmarès : 3 éditions, 3 champions.\n\n2023 · Les Lakers ouvrent le palmarès face aux Pacers, LeBron James MVP.\n2024 · Les Bucks de Giannis Antetokounmpo font tomber le Thunder, Giannis MVP.\n2025 · Les Knicks battent les Spurs de Victor Wembanyama, Jalen Brunson MVP. Six mois plus tard, ils décrochent aussi le titre NBA : une première.\n\nQui sera le 4e ? Réponse le 11 décembre à Indianapolis. Premier soir de Cup vendredi : 76ers – Knicks à 0h30 et Warriors – Lakers à 3h sur @primevideosportfr.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#NBACup #NBA #NBAFrance #BasketFrance"
+  "legende": "NBA Cup · le palmarès : 3 éditions, 3 champions.\n\n2023 · Les Lakers ouvrent le palmarès face aux Pacers, LeBron James MVP.\n2024 · Les Bucks de Giannis Antetokounmpo font tomber le Thunder, Giannis MVP.\n2025 · Les Knicks battent les Spurs de Victor Wembanyama, Jalen Brunson MVP. Six mois plus tard, ils décrochent aussi le titre NBA : une première.\n\nQui sera le 4e ? Réponse le 11 décembre à Indianapolis. Premier soir de Cup vendredi : 76ers – Knicks à 0h30 et Warriors – Lakers à 3h sur @primevideosportfr.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#NBACup #NBA #NBAFrance #BasketFrance",
+  "publie_le": "2026-10-29T17:31+01:00",
+  "media_id": "17910416403581488"
 }
