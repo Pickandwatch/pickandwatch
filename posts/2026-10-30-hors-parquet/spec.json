@@ -7,7 +7,15 @@
         "Wembanyama dans « 60 Minutes »"
       ],
       [
-        "À LIRE",
+        "LE LIVRE",
+        "Wembanyama, trois ans au sommet"
+      ],
+      [
+        "LE LIVRE",
+        "Monclar, « Bonjour, bonsoir »"
+      ],
+      [
+        "À LIRE EN LIGNE",
         "Sabrina Palie, la championne oubliée"
       ],
       [
@@ -44,7 +52,65 @@
       "lien_titre": "le teaser de CBS"
     },
     {
-      "rubrique": "À LIRE",
+      "rubrique": "LE LIVRE",
+      "titre": [
+        "WEMBANYAMA,",
+        "TROIS ANS AU SOMMET"
+      ],
+      "chiffres": [
+        [
+          "ÉDITEUR",
+          "SOLAR"
+        ],
+        [
+          "PRÉFACE",
+          "R. GOBERT"
+        ],
+        [
+          "PRIX",
+          "19,90 €"
+        ]
+      ],
+      "texte": "Maxime Aubin a suivi Victor Wembanyama à San Antonio pendant trois saisons, comme correspondant de L'Équipe. Il en tire un journal de bord de ses débuts en NBA, coulisses comprises, avec des entretiens de Wembanyama, Chris Paul ou Sean Elliott. Préface de Rudy Gobert. En librairie depuis le 1er octobre.",
+      "source": [
+        "ÉDITIONS",
+        "SOLAR",
+        "PARU LE 1.10"
+      ],
+      "lien": "https://www.lisez.com/livres/wembanyama-trois-ans-au-sommet-de-la-nba/9782263197468",
+      "lien_titre": "la fiche de l'éditeur"
+    },
+    {
+      "rubrique": "LE LIVRE",
+      "titre": [
+        "JACQUES MONCLAR,",
+        "« BONJOUR, BONSOIR »"
+      ],
+      "chiffres": [
+        [
+          "ÉDITEUR",
+          "AMPHORA"
+        ],
+        [
+          "PAGES",
+          "272"
+        ],
+        [
+          "SORTIE",
+          "SEPT. 2025"
+        ]
+      ],
+      "texte": "La voix de la NBA sur beIN SPORTS raconte ses vies à Rémi Reverchon : joueur aux 201 sélections en équipe de France, entraîneur double champion de France, puis consultant. « Ce n'est pas une biographie, c'est une basketographie. » Pour Reverchon : « Si Jacques ne raconte pas son histoire, personne ne le fera à sa place. »",
+      "source": [
+        "ÉDITIONS",
+        "AMPHORA",
+        "AVEC R. REVERCHON"
+      ],
+      "lien": "https://www.basketusa.com/news/776740/bonjour-bonsoir-jacques-monclar-se-raconte-entre-parquets-et-micros/",
+      "lien_titre": "l'article de Basket USA"
+    },
+    {
+      "rubrique": "À LIRE EN LIGNE",
       "titre": [
         "SABRINA PALIE,",
         "LA CHAMPIONNE OUBLIÉE"
