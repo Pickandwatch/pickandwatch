@@ -1,0 +1,22 @@
+{
+  "_statut": "proposé le 29 octobre 2026 (en attente de validation)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary des trois matchs, blessures au 29/10/2026, 15h30 ; minutes jouées : Sidy Cissoko de 20 à 26 min aux trois premiers matchs de Portland ; Maxime Raynaud absent, genou) ; previews AP/Data Skrive du 28 et 29/10/2026 (blessures) ; ESPN 29/06/2026 (Ja Morant échangé à Portland contre Jerami Grant et Kris Murray) ; kait8.com 24/06/2026 (Cameron Boozer, 3e choix de la draft 2026) ; calendrier ESPN des Blazers (premier match contre Memphis de la saison) ; guide TV beIN SPORTS (Blazers – Grizzlies en direct sur beIN SPORTS 1, rediffusions) ; ESPN (diffusion nationale américaine NBA TV pour Hawks – Cavaliers, pas de Prime Video ; Prime Video France : jeudis à partir de janvier d'après insidebasket.com 20/10/2026) ; tv-direct.fr (aucune chaîne indiquée pour la nuit)",
+  "matchs": {
+    "401909893": {
+      "stars": 3,
+      "score": "3 + 6 = 9 ; seul match à 9 et plus",
+      "brief": "Donovan Mitchell, James Harden, Evan Mobley et Jarrett Allen, finalistes de l'Est en 2026, chez Jalen Johnson, All-Star 2026, CJ McCollum et Dyson Daniels. Côté Hawks, Mouhamed Gueye (pied) est absent."
+    },
+    "401909895": {
+      "stars": 2,
+      "score": "3 + 1 + 2 (événement : le Français Sidy Cissoko, dans la rotation ; aussi premier match de Ja Morant contre Memphis) = 6",
+      "brief": "Premier face-à-face entre Ja Morant et Memphis, qui l'a échangé à Portland en juin contre Jerami Grant et Kris Murray. Avec Damian Lillard, Deni Avdija et le Français Sidy Cissoko face au rookie Cameron Boozer, n° 3 de la draft 2026."
+    },
+    "401909894": {
+      "stars": 1,
+      "score": "1 + 1 = 2 (le Français Maxime Raynaud, blessé au genou, absent : pas d'événement)",
+      "brief": "Zion Williamson et Trey Murphy III face à Domantas Sabonis et Zach LaVine. Côté Kings, le Français Maxime Raynaud (genou), Keegan Murray (cheville) et Ben Simmons (tendon d'Achille) sont absents."
+    }
+  }
+}

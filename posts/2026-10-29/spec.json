@@ -1,0 +1,54 @@
+{
+ "cover": {
+  "title": "3 MATCHS, 1 SUR beIN SPORTS",
+  "date": "JEUDI 29 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["HAWKS", "CAVALIERS"],
+  "top_info": "01:00 · ATLANTA · NBA LEAGUE PASS · PAS DE TV FRANÇAISE REPÉRÉE",
+  "others": [
+   ["PELICANS – KINGS", "01:00", "★"],
+   ["BLAZERS – GRIZZLIES", "03:00", "★★"]
+  ],
+  "note": "TV : BLAZERS – GRIZZLIES EN DIRECT SUR beIN SPORTS 1<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "ATLANTA · STATE FARM ARENA",
+   "home": "Hawks",
+   "home_city": "ATLANTA",
+   "home_bg": "#C8102E",
+   "home_sec": "#FDB927",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#BC945C",
+   "counter": "NUIT DU 29 AU 30 OCT. · 2/4",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Donovan Mitchell, James Harden, Evan Mobley et Jarrett Allen, finalistes de l'Est en 2026, chez Jalen Johnson, All-Star 2026, CJ McCollum et Dyson Daniels. Côté Hawks, Mouhamed Gueye (pied) est absent.",
+   "chips": ["D. Mitchell", "J. Harden", "E. Mobley", "J. Johnson"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "PORTLAND · MODA CENTER",
+   "home": "Trail Blazers",
+   "home_city": "PORTLAND",
+   "home_bg": "#E03A3E",
+   "home_sec": "#000000",
+   "away": "Grizzlies",
+   "away_city": "MEMPHIS",
+   "away_c1": "#5D76A9",
+   "away_c2": "#12173F",
+   "counter": "NUIT DU 29 AU 30 OCT. · 3/4",
+   "label": "★★ À SURVEILLER",
+   "time": "03:00",
+   "channel": "beIN SPORTS 1",
+   "mode": "DIRECT + DIFFÉRÉ VEN. 10:45",
+   "brief": "Premier face-à-face entre Ja Morant et Memphis, qui l'a échangé à Portland en juin contre Jerami Grant et Kris Murray. Avec Damian Lillard, Deni Avdija et le Français Sidy Cissoko face au rookie Cameron Boozer, n° 3 de la draft 2026.",
+   "chips": ["J. Morant", "D. Lillard", "S. Cissoko", "C. Boozer"],
+   "foot": "Rediff. ven. sur beIN<br>10:45"
+  }
+ ]
+}
