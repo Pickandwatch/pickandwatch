@@ -9,13 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:401909937@pickandwatch.fr
-DTSTAMP:20261028T202327Z
+DTSTAMP:20261029T044653Z
 DTSTART:20261106T030000Z
 DTEND:20261106T053000Z
 SUMMARY:NBA · Warriors – Heat
-DESCRIPTION:Où regarder : Chaîne annoncée la semaine du match. Le verd
- ict sans spoiler demain à 8h sur Instagram : @pickandwatch.fr. Programm
- e : https://pickandwatch.fr
+DESCRIPTION:Où regarder : NBA League Pass. Le verdict sans spoiler demai
+ n à 8h sur Instagram : @pickandwatch.fr. Programme : https://pickandwat
+ ch.fr
 URL:https://pickandwatch.fr
 BEGIN:VALARM
 ACTION:DISPLAY

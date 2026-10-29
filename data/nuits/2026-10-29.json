@@ -1,0 +1,143 @@
+{
+  "night": "2026-10-29",
+  "generated_at": "2026-10-29T05:46+01:00",
+  "games": [
+    {
+      "id": "401909893",
+      "tip_paris": "2026-10-30T01:00:00+01:00",
+      "home": {
+        "abbr": "ATL",
+        "name": "Hawks",
+        "location": "Atlanta",
+        "full": "Atlanta Hawks",
+        "color": "#c8102e",
+        "color2": "#fdb927"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cavaliers",
+        "location": "Cleveland",
+        "full": "Cleveland Cavaliers",
+        "color": "#860038",
+        "color2": "#bc945c"
+      },
+      "venue": "State Farm Arena",
+      "city": "Atlanta",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909894",
+      "tip_paris": "2026-10-30T01:00:00+01:00",
+      "home": {
+        "abbr": "NO",
+        "name": "Pelicans",
+        "location": "New Orleans",
+        "full": "New Orleans Pelicans",
+        "color": "#0a2240",
+        "color2": "#b4975a"
+      },
+      "away": {
+        "abbr": "SAC",
+        "name": "Kings",
+        "location": "Sacramento",
+        "full": "Sacramento Kings",
+        "color": "#5a2d81",
+        "color2": "#6a7a82"
+      },
+      "venue": "Smoothie King Center",
+      "city": "New Orleans",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909895",
+      "tip_paris": "2026-10-30T03:00:00+01:00",
+      "home": {
+        "abbr": "POR",
+        "name": "Trail Blazers",
+        "location": "Portland",
+        "full": "Portland Trail Blazers",
+        "color": "#e03a3e",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "MEM",
+        "name": "Grizzlies",
+        "location": "Memphis",
+        "full": "Memphis Grizzlies",
+        "color": "#5d76a9",
+        "color2": "#12173f"
+      },
+      "venue": "Moda Center",
+      "city": "Portland",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-10-30T03:00:00+01:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-10-30T10:45:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 3",
+            "start": "2026-10-30T15:15:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 2",
+            "start": "2026-10-30T22:15:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-11-01T02:15:00+01:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Hawks – Cavaliers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Pelicans – Kings : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  },
+  "rediffusions_nuit": []
+}
