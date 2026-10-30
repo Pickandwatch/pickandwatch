@@ -1,0 +1,68 @@
+{
+ "theme": "cup",
+ "cover": {
+  "bandeau": "NBA CUP 2026 · PHASE DE GROUPES",
+  "title": "CE SOIR, NBA CUP",
+  "date": "VENDREDI 30 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["76ERS", "KNICKS"],
+  "top_info": "00:30 · PHILADELPHIE · PRIME VIDEO (INCLUS DANS PRIME)",
+  "other_size": 44,
+  "others": [
+   ["WARRIORS – LAKERS", "03:00", "★★"],
+   ["SUNS – NUGGETS", "03:00", "★★"],
+   ["CELTICS – BULLS", "00:30", "★★"],
+   ["NETS – PISTONS", "00:30", "★★"],
+   ["MAVS – ROCKETS", "01:00", "★★"],
+   ["WOLVES – CLIPPERS", "01:00", "★★"]
+  ],
+  "note": "★ AUSSI : WIZARDS – HORNETS 00:00 · RAPTORS – MAGIC 00:30<br>HEAT – PACERS 01:00 · DIX MATCHS, TOUS DE NBA CUP<br>TV : 76ERS – KNICKS ET WARRIORS – LAKERS SUR PRIME VIDEO<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "PHILADELPHIE · XFINITY MOBILE ARENA",
+   "home": "76ers", "home_city": "PHILADELPHIE", "home_bg": "#006BB6", "home_sec": "#ED174C",
+   "away": "Knicks", "away_city": "NEW YORK", "away_c1": "#006BB6", "away_c2": "#F58426",
+   "counter": "NUIT DU 30 AU 31 OCT. · 2/6",
+   "label": "NBA CUP · ★★★ L'IMMANQUABLE",
+   "time": "00:30", "channel": "Prime Video", "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Les Knicks, tenants du titre, ouvrent leur NBA Cup chez LeBron James, Joel Embiid et Tyrese Maxey. Embiid retrouve Karl-Anthony Towns, Jalen Brunson mène New York. Jaylen Brown (genou) est incertain.",
+   "chips": ["L. James", "J. Embiid", "J. Brunson", "K.-A. Towns"],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "SAN FRANCISCO · CHASE CENTER",
+   "home": "Warriors", "home_city": "GOLDEN STATE", "home_bg": "#1D428A", "home_sec": "#FFC72C",
+   "away": "Lakers", "away_city": "LOS ANGELES", "away_c1": "#552583", "away_c2": "#FDB927",
+   "counter": "NUIT DU 30 AU 31 OCT. · 3/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "03:00", "channel": "Prime Video", "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Stephen Curry reçoit Luka Dončić, retiré du rapport des blessures après une alerte au dos. Golden State reste privé de Jimmy Butler, Kristaps Porziņģis et Moses Moody.",
+   "chips": ["S. Curry", "L. Dončić", "D. Green"],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "PHOENIX · MORTGAGE MATCHUP CENTER",
+   "home": "Suns", "home_city": "PHOENIX", "home_bg": "#1D1160", "home_sec": "#E56020",
+   "away": "Nuggets", "away_city": "DENVER", "away_c1": "#0E2240", "away_c2": "#FEC524",
+   "counter": "NUIT DU 30 AU 31 OCT. · 4/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "03:00", "channel": "League Pass*", "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Nikola Jokić et les Nuggets, troisièmes de l'Ouest la saison dernière, chez Devin Booker. Côté Phoenix, Mark Williams (épaule) est absent.",
+   "chips": ["N. Jokić", "D. Booker"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "BOSTON · TD GARDEN",
+   "home": "Celtics", "home_city": "BOSTON", "home_bg": "#007A33", "home_sec": "#BA9653",
+   "away": "Bulls", "away_city": "CHICAGO", "away_c1": "#CE1141", "away_c2": "#000000",
+   "counter": "NUIT DU 30 AU 31 OCT. · 5/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "00:30", "channel": "League Pass*", "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Jayson Tatum et les Celtics, deuxièmes de l'Est la saison dernière, face au Français Noa Essengue, dans la rotation de Chicago. Nic Claxton (ischio-jambiers) est absent côté Bulls.",
+   "chips": ["J. Tatum", "N. Essengue"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
