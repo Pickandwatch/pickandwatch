@@ -2,12 +2,18 @@
   "nuit": "2026-10-29",
   "type": "story",
   "publier_a": "2026-10-30T08:00:00+01:00",
-  "statut": "propose",
+  "statut": "echec",
   "images": [
     "01.jpg",
     "02.jpg",
     "03.jpg",
     "04.jpg"
   ],
-  "legende": ""
+  "legende": "",
+  "stories_publiees": [
+    "18173534884481409"
+  ],
+  "tentatives": 1,
+  "erreur": "Erreur Meta 400 sur 17841425340665160/media_publish : {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Impossible de publier\",\"error_user_msg\":\"Le contenu n\\u2019est pas pr\\u00eat \\u00e0 \\u00eatre publi\\u00e9, patientez un peu\",\"fbtrace_id\":\"AF1igV-LftYLz1AYL0ED4iZ\"}}",
+  "erreur_le": "2026-10-30T08:00+01:00"
 }
