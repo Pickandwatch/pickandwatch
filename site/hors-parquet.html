@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hors parquet : l&#x27;actu basket de la semaine, hors des matchs · Pick &amp; Watch</title>
+<meta name="description" content="Chaque vendredi, le meilleur de l&#x27;actu basket hors des parquets : livres, documentaires, événements en France, interviews.">
+<link rel="canonical" href="https://pickandwatch.fr/hors-parquet.html">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<meta property="og:title" content="Hors parquet : l&#x27;actu basket de la semaine, hors des matchs">
+<meta property="og:description" content="Quoi regarder, où, quand. Sans spoiler.">
+<meta property="og:image" content="https://pickandwatch.fr/assets/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="ball" aria-hidden="true"></div>
+<header class="bar">
+  <a class="brand" href="index.html">Pick &amp; Watch</a>
+  <span class="date">HORS PARQUET</span>
+</header>
+<nav class="tabs" aria-label="Rubriques"><a href="index.html#aujourdhui">À voir aujourd'hui</a><a href="index.html#verdicts">Verdicts d'hier</a><a class="alt" href="equipes/index.html">Mon équipe</a><a class="alt" href="nba-cup.html">NBA Cup</a></nav>
+<main>
+  <section class="hero">
+    <p class="kicker fit" data-min="40">Hors parquet</p>
+    <h1 class="fit" data-min="30">Chaque vendredi, ce qu'il ne fallait pas rater</h1>
+    <p class="summary">Livres, documentaires, événements en France, interviews : le basket en dehors des matchs, avec les liens.</p>
+  </section>
+  <section class="vlist"><article class="verdict"><h3 class="mois">Semaine du 26 au 30 octobre 2026</h3><ul class="where"><li><strong>Le dossier · à voir ce week-end</strong> · WEMBANYAMA DANS « 60 MINUTES » · <a href="https://www.cbsnews.com/video/victor-wembanyama-coming-up-60-minutes-video-2026-10-25/">le teaser de CBS</a></li><li><strong>Le livre</strong> · WEMBANYAMA, TROIS ANS AU SOMMET · <a href="https://www.lisez.com/livres/wembanyama-trois-ans-au-sommet-de-la-nba/9782263197468">la fiche de l&#x27;éditeur</a></li><li><strong>Le livre</strong> · JACQUES MONCLAR, « BONJOUR, BONSOIR » · <a href="https://www.basketusa.com/news/776740/bonjour-bonsoir-jacques-monclar-se-raconte-entre-parquets-et-micros/">l&#x27;article de Basket USA</a></li><li><strong>À lire en ligne</strong> · SABRINA PALIE, LA CHAMPIONNE OUBLIÉE · <a href="https://www.bebasket.fr/sabrina-palie-la-premiere-francaise-championne-wnba">l&#x27;entretien sur BeBasket</a></li><li><strong>À suivre</strong> · ERNIE JOHNSON, DERNIÈRE SAISON · <a href="https://www.bebasket.fr/une-page-va-se-tourner-en-nba-ernie-johnson-annonce-son-depart-d-inside-the-nba-apres-37-saisons">l&#x27;article de BeBasket</a></li></ul><p class="muted small">Publié le 30 octobre 2026 sur Instagram.</p></article></section>
+</main>
+<footer>
+  <p class="sign">Ton programme NBA. Zéro spoiler. Jamais.</p>
+  <p>Suis-nous sur Instagram : <a href="https://www.instagram.com/pickandwatch.fr/">@pickandwatch.fr</a></p>
+  <p class="src">Sources : calendrier NBA via ESPN, diffusions via le guide TV XMLTV France, recoupés automatiquement.
+  Mis à jour le 30 octobre à 15:13.</p>
+</footer>
+<script>
+/* Titres pleine largeur (charte) : on ajuste la taille au conteneur, sans descendre sous data-min. */
+(function () {
+  function fit() {
+    document.querySelectorAll('.fit').forEach(function (el) {
+      el.style.fontSize = ''; el.style.whiteSpace = 'nowrap';
+      var base = parseFloat(getComputedStyle(el).fontSize);
+      var size = base * el.clientWidth / el.scrollWidth;
+      if (size >= (+el.dataset.min || 0)) { el.style.fontSize = size.toFixed(2) + 'px'; }
+      else { el.style.whiteSpace = ''; }
+    });
+  }
+  (document.fonts ? document.fonts.ready : Promise.resolve()).then(fit);
+  window.addEventListener('resize', fit);
+})();
+</script>
+</body>
+</html>
