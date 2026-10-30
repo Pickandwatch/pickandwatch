@@ -1,11 +1,13 @@
 {
   "type": "reel",
   "publier_a": "2026-10-30T17:30:00+01:00",
-  "statut": "valide",
+  "statut": "publie",
   "valide_le": "2026-10-25T12:34+01:00",
   "images": [
     "cover.jpg"
   ],
   "video": "reel.mp4",
-  "legende": "NBA Cup · les enjeux : ça commence cette nuit.\n\nLes Knicks, vainqueurs de la Cup puis champions NBA, remettent leur titre en jeu. Victor Wembanyama et les Spurs, battus deux fois en finale par New York en six mois, veulent leur revanche. 514 971 dollars par joueur pour les vainqueurs. Et des Français dans plusieurs groupes : Wembanyama, Gobert, Sarr, Coulibaly, Risacher.\n\nCette nuit sur @primevideosportfr : 76ers – Knicks à 0h30, Warriors – Lakers à 3h. Le programme complet ce soir à 19h, les verdicts sans spoiler demain à 8h.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#NBACup #NBA #NBAFrance #BasketFrance"
+  "legende": "NBA Cup · les enjeux : ça commence cette nuit.\n\nLes Knicks, vainqueurs de la Cup puis champions NBA, remettent leur titre en jeu. Victor Wembanyama et les Spurs, battus deux fois en finale par New York en six mois, veulent leur revanche. 514 971 dollars par joueur pour les vainqueurs. Et des Français dans plusieurs groupes : Wembanyama, Gobert, Sarr, Coulibaly, Risacher.\n\nCette nuit sur @primevideosportfr : 76ers – Knicks à 0h30, Warriors – Lakers à 3h. Le programme complet ce soir à 19h, les verdicts sans spoiler demain à 8h.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#NBACup #NBA #NBAFrance #BasketFrance",
+  "publie_le": "2026-10-30T17:30+01:00",
+  "media_id": "17914794531284898"
 }
