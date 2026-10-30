@@ -1,0 +1,57 @@
+{
+  "_statut": "publié sans réponse (règle de 19h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary des dix matchs, blessures et effectifs au 30/10/2026, 15h45 ; minutes jouées des Français via les gamelogs ESPN) ; previews AP/Data Skrive du 30/10/2026 ; thelibertyline.com 30/10/2026 (76ers – Knicks : Jaylen Brown incertain, Embiid face à Towns, groupe Knicks-76ers-Cavaliers-Pacers-Heat, Prime Video) ; nbcsports.com 30/10/2026 et basketnews.com 30/10/2026 (Luka Dončić retiré du rapport des blessures, dos) ; insidebasket.com 20/10/2026 (Prime Video France : Knicks – 76ers puis Lakers – Warriors le 30/10, inclus dans Prime) ; posts/2026-10-30-cup-enjeux (Knicks tenants de la Cup, validé par Alexandre le 25/10) ; guide TV beIN SPORTS (aucun match NBA de la nuit en direct)",
+  "matchs": {
+    "401909280": {
+      "stars": 3,
+      "score": "5 + 7 + 2 (événement : ouverture de la NBA Cup pour les Knicks, tenants du titre ; sur Prime Video ; Pacôme Dadiet et Mohamed Diawara, une minute jouée chacun cette saison, non comptés) = 14 ; meilleure note de la nuit",
+      "brief": "Les Knicks, tenants du titre, ouvrent leur NBA Cup chez LeBron James, Joel Embiid et Tyrese Maxey. Embiid retrouve Karl-Anthony Towns, Jalen Brunson mène New York. Jaylen Brown (genou) est incertain."
+    },
+    "401909285": {
+      "stars": 2,
+      "score": "3 + 6 = 9, ramené à ★★ (un seul ★★★ par nuit : 76ers – Knicks, aussi sur Prime Video, a la meilleure note)",
+      "brief": "Stephen Curry reçoit Luka Dončić, retiré du rapport des blessures après une alerte au dos. Golden State reste privé de Jimmy Butler, Kristaps Porziņģis et Moses Moody."
+    },
+    "401909286": {
+      "stars": 2,
+      "score": "3 + 5 = 8",
+      "brief": "Nikola Jokić et les Nuggets, troisièmes de l'Ouest la saison dernière, chez Devin Booker. Côté Phoenix, Mark Williams (épaule) est absent."
+    },
+    "401909278": {
+      "stars": 2,
+      "score": "5 + 1 + 2 (événement : le Français Noa Essengue, de 10 à 17 min à ses quatre matchs joués) = 8 (slide : départagé avec Nets – Pistons, à égalité, par la présence de Jayson Tatum, superstar)",
+      "brief": "Jayson Tatum et les Celtics, deuxièmes de l'Est la saison dernière, face au Français Noa Essengue, dans la rotation de Chicago. Nic Claxton (ischio-jambiers) est absent côté Bulls."
+    },
+    "401909279": {
+      "stars": 2,
+      "score": "1 + 5 + 2 (événement : le Français Nolan Traoré) = 8 (pas de slide : au plus 4 slides)",
+      "brief": "Cade Cunningham, sans Jalen Duren (ischio-jambiers), chez le Français Nolan Traoré."
+    },
+    "401909283": {
+      "stars": 2,
+      "score": "1 + 3 + 2 (événement : le Français Zaccharie Risacher) = 6 (pas de slide)",
+      "brief": "Cooper Flagg et le Français Zaccharie Risacher face à Kevin Durant ; Alperen Şengün (dos) est incertain."
+    },
+    "401909284": {
+      "stars": 2,
+      "score": "3 + 1 + 2 (événement : les Français Rudy Gobert et Joan Beringer) = 6 (pas de slide)",
+      "brief": "Rudy Gobert, Joan Beringer et LaMelo Ball, sans Anthony Edwards (genou), face à des Clippers privés de Bradley Beal, Brandon Ingram et Max Strus."
+    },
+    "401909277": {
+      "stars": 1,
+      "score": "2 + 1 + 2 (événement : les Français Bilal Coulibaly, Alex Sarr, Moussa Diabaté et Tidjane Salaün) = 5",
+      "brief": "Quatre Français sur le parquet : Bilal Coulibaly et Alex Sarr face à Moussa Diabaté et Tidjane Salaün. Kon Knueppel et Coby White sont absents côté Charlotte."
+    },
+    "401909281": {
+      "stars": 1,
+      "score": "3 + 2 = 5 (Noah Penda, blessé, absent : pas de bonus)",
+      "brief": "Scottie Barnes, sans Kawhi Leonard (genou), face à un Magic privé de Paolo Banchero, Jalen Suggs et du Français Noah Penda."
+    },
+    "401909282": {
+      "stars": 1,
+      "score": "3 + 2 = 5",
+      "brief": "Giannis Antetokounmpo et Bam Adebayo face à Pascal Siakam."
+    }
+  }
+}
