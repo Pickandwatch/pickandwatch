@@ -1,0 +1,387 @@
+{
+  "night": "2026-10-30",
+  "generated_at": "2026-10-30T05:46+01:00",
+  "games": [
+    {
+      "id": "401909277",
+      "tip_paris": "2026-10-31T00:00:00+01:00",
+      "home": {
+        "abbr": "WSH",
+        "name": "Wizards",
+        "location": "Washington",
+        "full": "Washington Wizards",
+        "color": "#e31837",
+        "color2": "#002b5c"
+      },
+      "away": {
+        "abbr": "CHA",
+        "name": "Hornets",
+        "location": "Charlotte",
+        "full": "Charlotte Hornets",
+        "color": "#008ca8",
+        "color2": "#1d1060"
+      },
+      "venue": "Capital One Arena",
+      "city": "Washington",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909278",
+      "tip_paris": "2026-10-31T00:30:00+01:00",
+      "home": {
+        "abbr": "BOS",
+        "name": "Celtics",
+        "location": "Boston",
+        "full": "Boston Celtics",
+        "color": "#008348",
+        "color2": "#ffffff"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Bulls",
+        "location": "Chicago",
+        "full": "Chicago Bulls",
+        "color": "#ce1141",
+        "color2": "#000000"
+      },
+      "venue": "TD Garden",
+      "city": "Boston",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909279",
+      "tip_paris": "2026-10-31T00:30:00+01:00",
+      "home": {
+        "abbr": "BKN",
+        "name": "Nets",
+        "location": "Brooklyn",
+        "full": "Brooklyn Nets",
+        "color": "#000000",
+        "color2": "#ffffff"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Pistons",
+        "location": "Detroit",
+        "full": "Detroit Pistons",
+        "color": "#1d428a",
+        "color2": "#c8102e"
+      },
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909280",
+      "tip_paris": "2026-10-31T00:30:00+01:00",
+      "home": {
+        "abbr": "PHI",
+        "name": "76ers",
+        "location": "Philadelphia",
+        "full": "Philadelphia 76ers",
+        "color": "#1d428a",
+        "color2": "#e01234"
+      },
+      "away": {
+        "abbr": "NY",
+        "name": "Knicks",
+        "location": "New York",
+        "full": "New York Knicks",
+        "color": "#1d428a",
+        "color2": "#f58426"
+      },
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": {
+          "channel": "Prime Video",
+          "start": "2026-10-31T00:30:00+01:00"
+        },
+        "replays": [],
+        "source": "calendrier NBA on Prime (repris par Prime Video France)",
+        "status": "annoncé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909281",
+      "tip_paris": "2026-10-31T00:30:00+01:00",
+      "home": {
+        "abbr": "TOR",
+        "name": "Raptors",
+        "location": "Toronto",
+        "full": "Toronto Raptors",
+        "color": "#d91244",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "ORL",
+        "name": "Magic",
+        "location": "Orlando",
+        "full": "Orlando Magic",
+        "color": "#0150b5",
+        "color2": "#9ca0a3"
+      },
+      "venue": "Scotiabank Arena",
+      "city": "Toronto",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909282",
+      "tip_paris": "2026-10-31T01:00:00+01:00",
+      "home": {
+        "abbr": "MIA",
+        "name": "Heat",
+        "location": "Miami",
+        "full": "Miami Heat",
+        "color": "#98002e",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Pacers",
+        "location": "Indiana",
+        "full": "Indiana Pacers",
+        "color": "#0c2340",
+        "color2": "#ffd520"
+      },
+      "venue": "Kaseya Center",
+      "city": "Miami",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909283",
+      "tip_paris": "2026-10-31T01:00:00+01:00",
+      "home": {
+        "abbr": "DAL",
+        "name": "Mavericks",
+        "location": "Dallas",
+        "full": "Dallas Mavericks",
+        "color": "#0064b1",
+        "color2": "#bbc4ca"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Rockets",
+        "location": "Houston",
+        "full": "Houston Rockets",
+        "color": "#ce0e2d",
+        "color2": "#000000"
+      },
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909284",
+      "tip_paris": "2026-10-31T01:00:00+01:00",
+      "home": {
+        "abbr": "MIN",
+        "name": "Timberwolves",
+        "location": "Minnesota",
+        "full": "Minnesota Timberwolves",
+        "color": "#266092",
+        "color2": "#79bc43"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Clippers",
+        "location": "LA",
+        "full": "LA Clippers",
+        "color": "#12173f",
+        "color2": "#c8102e"
+      },
+      "venue": "Target Center",
+      "city": "Minneapolis",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909285",
+      "tip_paris": "2026-10-31T03:00:00+01:00",
+      "home": {
+        "abbr": "GS",
+        "name": "Warriors",
+        "location": "Golden State",
+        "full": "Golden State Warriors",
+        "color": "#fdb927",
+        "color2": "#1d428a"
+      },
+      "away": {
+        "abbr": "LAL",
+        "name": "Lakers",
+        "location": "Los Angeles",
+        "full": "Los Angeles Lakers",
+        "color": "#552583",
+        "color2": "#fdb927"
+      },
+      "venue": "Chase Center",
+      "city": "San Francisco",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": {
+          "channel": "Prime Video",
+          "start": "2026-10-31T03:00:00+01:00"
+        },
+        "replays": [],
+        "source": "calendrier NBA on Prime (repris par Prime Video France)",
+        "status": "annoncé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909286",
+      "tip_paris": "2026-10-31T03:00:00+01:00",
+      "home": {
+        "abbr": "PHX",
+        "name": "Suns",
+        "location": "Phoenix",
+        "full": "Phoenix Suns",
+        "color": "#29127a",
+        "color2": "#e56020"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Nuggets",
+        "location": "Denver",
+        "full": "Denver Nuggets",
+        "color": "#0e2240",
+        "color2": "#fec524"
+      },
+      "venue": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": "NBA Cup",
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Wizards – Hornets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Celtics – Bulls : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Nets – Pistons : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Raptors – Magic : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Heat – Pacers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Mavericks – Rockets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Timberwolves – Clippers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Suns – Nuggets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  },
+  "rediffusions_nuit": []
+}
