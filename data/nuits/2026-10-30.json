@@ -1,6 +1,6 @@
 {
   "night": "2026-10-30",
-  "generated_at": "2026-10-30T15:54+01:00",
+  "generated_at": "2026-10-30T18:51+01:00",
   "games": [
     {
       "id": "401909277",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Quatre Français sur le parquet : Bilal Coulibaly et Alex Sarr face à Moussa Diabaté et Tidjane Salaün. Kon Knueppel et Coby White sont absents côté Charlotte.",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Jayson Tatum et les Celtics, deuxièmes de l'Est la saison dernière, face au Français Noa Essengue, dans la rotation de Chicago. Nic Claxton (ischio-jambiers) est absent côté Bulls.",
       "commentators": null
     },
     {
@@ -106,8 +106,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Cade Cunningham, sans Jalen Duren (ischio-jambiers), chez le Français Nolan Traoré.",
       "commentators": null
     },
     {
@@ -145,8 +145,8 @@
         "source": "calendrier NBA on Prime (repris par Prime Video France)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Les Knicks, tenants du titre, ouvrent leur NBA Cup chez LeBron James, Joel Embiid et Tyrese Maxey. Embiid retrouve Karl-Anthony Towns, Jalen Brunson mène New York. Jaylen Brown (genou) est incertain.",
       "commentators": null
     },
     {
@@ -181,8 +181,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Scottie Barnes, sans Kawhi Leonard (genou), face à un Magic privé de Paolo Banchero, Jalen Suggs et du Français Noah Penda.",
       "commentators": null
     },
     {
@@ -217,8 +217,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Giannis Antetokounmpo et Bam Adebayo face à Pascal Siakam.",
       "commentators": null
     },
     {
@@ -253,8 +253,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Cooper Flagg et le Français Zaccharie Risacher face à Kevin Durant ; Alperen Şengün (dos) est incertain.",
       "commentators": null
     },
     {
@@ -289,8 +289,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Rudy Gobert, Joan Beringer et LaMelo Ball, sans Anthony Edwards (genou), face à des Clippers privés de Bradley Beal, Brandon Ingram et Max Strus.",
       "commentators": null
     },
     {
@@ -328,8 +328,8 @@
         "source": "calendrier NBA on Prime (repris par Prime Video France)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Stephen Curry reçoit Luka Dončić, retiré du rapport des blessures après une alerte au dos. Golden State reste privé de Jimmy Butler, Kristaps Porziņģis et Moses Moody.",
       "commentators": null
     },
     {
@@ -364,8 +364,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Nikola Jokić et les Nuggets, troisièmes de l'Ouest la saison dernière, chez Devin Booker. Côté Phoenix, Mark Williams (épaule) est absent.",
       "commentators": null
     }
   ],
