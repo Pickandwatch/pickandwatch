@@ -56,3 +56,11 @@ liste des Français (data/francais.json, `valide: false` tant qu'Alexandre n'a p
 - **Grands rendez-vous** (contenus préparés ~5 jours avant) : quarts NBA Cup 4-5 déc., finale 11 déc.
   (Indianapolis), Christmas Day 25 déc. (Knicks – Spurs 18h), Paris Game 14 janv. (dispositif
   complet), Manchester 17 janv., All-Star, date limite des transferts, play-in et playoffs.
+
+## Test : programme du soir à 18h (décidé le 31/10/2026)
+- À partir du programme de la nuit du lundi 2 novembre : carrousel + story à 18h (avant : 19h),
+  même règle de publication automatique sans validation. Reels tirés d'un carrousel à 20h.
+- Bilan le lundi 16 novembre : vues et partages du programme du soir à 24 h, semaines du 2 et du 9/11
+  contre celles du 19 et du 26/10 (captures d'Alexandre). Pas mieux → retour à 19h.
+- Alexandre : bio « Tous les soirs à 18h » et couverture « 18H » de la story à la une Programme.
+

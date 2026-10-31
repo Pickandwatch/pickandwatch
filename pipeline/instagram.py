@@ -100,7 +100,7 @@ def caption_problems(caption: str) -> list[str]:
 
 def verify() -> None:
     """Contrôle, sans clé ni réseau, chaque post encore en attente : à lancer avant de pousser
-    un post.json. Sort en erreur si un post serait refusé à 19h."""
+    un post.json. Sort en erreur si un post serait refusé à l'heure de publication."""
     bad = 0
     for f in sorted((ROOT / "posts").glob("*/post.json")):
         post = json.loads(f.read_text(encoding="utf-8"))

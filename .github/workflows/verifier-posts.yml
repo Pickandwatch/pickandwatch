@@ -1,7 +1,7 @@
 name: Vérification des posts
 
 # Contrôle chaque post « propose » ou « valide » dès qu'il est poussé (longueur de légende,
-# garde-fou anti-score, images, fuseau horaire), pour que le problème se voie avant 19h et non à 19h.
+# garde-fou anti-score, images, fuseau horaire), pour que le problème se voie avant la publication du soir (18h) et non à 18h.
 on:
   push:
     paths:

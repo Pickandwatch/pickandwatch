@@ -15,8 +15,11 @@ prépare du contenu Pick & Watch le lit en entier avant de commencer.
   poussé dans `data/` avant sa validation, sauf la règle de 18h50 ci-dessous.
   **Exception : les verdicts du matin sont publiés sans attendre** (consigne d'Alexandre du
   14 octobre 2026) ; il les corrige après coup s'il le souhaite.
-- **Publication Instagram automatique à 19h** si Alexandre n'a pas répondu, sauf s'il a
+- **Publication Instagram automatique à 18h** si Alexandre n'a pas répondu, sauf s'il a
   demandé l'annulation (`"statut": "annule"` dans `posts/AAAA-MM-JJ/post.json`).
+  **Heure du soir : 18h à partir du programme de la nuit du lundi 2 novembre 2026** (décision
+  d'Alexandre du 31/10, test de deux semaines). Jusqu'au dimanche 1er novembre inclus : 19h.
+  Même fonctionnement qu'avant : sans validation à 18h, le carrousel et la story partent seuls.
 - Jamais de mot de passe ni de clé dans la conversation. La clé Instagram est un secret GitHub.
 - Ton : direct, sobre, tutoiement du lecteur, pas de superlatifs. Charte « papier ».
 
@@ -123,22 +126,22 @@ seulement que le site l'affiche.
    **2 200 caractères au maximum** (limite Instagram, espaces et sauts de ligne compris) :
    vérifier `len(legende)` ; au-delà, Meta refuse le post et rien ne part. Viser 2 000.
 6. Écrire `posts/<D>/post.json` :
-   `{"publier_a": "<D>T19:00:00+02:00", "statut": "propose", "images": [...], "legende": "..."}`
-   (heure d'hiver à partir du 25 octobre : `+01:00`). Garder l'éditorial du site dans
+   `{"publier_a": "<D>T18:00:00+01:00", "statut": "propose", "images": [...], "legende": "..."}`
+   (heure d'hiver : `+01:00` ; 18h à partir du 2 novembre 2026, 19h avant). Garder l'éditorial du site dans
    `posts/<D>/editorial.json` (même format que `data/editorial/`).
 7. **Story du soir** (demandée par Alexandre le 21 octobre 2026 ; règle confirmée le 25 octobre : toute annonce de match part **systématiquement en post ET en story**, y compris une annonce exceptionnelle hors carrousel du soir, par exemple un match en journée) : lancer
    `python3 studio/story_soir.py <D>`. Il reprend les images du carrousel, chacune centrée sur un
    fond 1080x1920 de sa couleur, dans `posts/<D>-story/` (`post.json` : `"type": "story"`,
    `"suit": "<D>"`, même heure, même statut). Mêmes règles que le carrousel : publication
-   automatique à 19h sans réponse ; le robot annule la story si le carrousel est `annule`.
+   automatique à 18h sans réponse ; le robot annule la story si le carrousel est `annule`.
    Relancer le script après toute correction d'image du carrousel. Pas de sticker lien (API).
 8. Lancer `python3 -m pipeline.instagram verify` (contrôle hors ligne de la légende et des
    images de chaque post en attente) : il doit répondre OK, sinon corriger avant de pousser.
    Commit et push de `posts/<D>/` et `posts/<D>-story/`, lancer `programme.yml`, vérifier que chaque
    `https://pickandwatch.fr/posts/<D>/0N.jpg` et `…/posts/<D>-story/0N.jpg` répond 200.
 9. Envoyer les images et la légende dans la conversation (SendUserFile + texte, en précisant
-   que les mêmes visuels partent aussi en story à 19h), puis la
-   notification « Post P&W à valider — publication automatique à 19h sans réponse de ta part ».
+   que les mêmes visuels partent aussi en story à 18h), puis la
+   notification « Post P&W à valider — publication automatique à 18h sans réponse de ta part ».
 
 **Si Alexandre répond** (chaque réponse vaut pour le carrousel ET la story) : « ok » →
 `"statut": "valide"` dans les deux `post.json`, et copier `posts/<D>/editorial.json`
@@ -148,33 +151,33 @@ Une correction → refaire l'image ou la légende, relancer `story_soir.py <D>`,
 (« pas de story ce soir ») : n'appliquer qu'à celui-là.
 
 **Matchs en journée** (Macao, Europe, matinées du week-end) : un match qui commence avant
-19h le lendemain est déjà joué quand le carrousel de sa nuit est publié. Annonce-le donc dans
+18h le lendemain est déjà joué quand le carrousel de sa nuit est publié. Annonce-le donc dans
 le carrousel de la veille (« demain à 12h10 en direct sur … »), avec son heure et sa chaîne.
 
-## 3. 18h50 : filet de sécurité
+## 3. 17h50 : filet de sécurité (18h50 jusqu'au 1er novembre 2026)
 
 Lancer d'abord `python3 -m pipeline.instagram verify` et corriger tout PROBLÈME signalé
-(sinon Meta refuse le post à 19h), sans attendre de réponse : légende trop longue → resserrer
+(sinon Meta refuse le post à 18h), sans attendre de réponse : légende trop longue → resserrer
 les briefs ★★ et ★ jusqu'à environ 2 000 caractères, sans rien ajouter ni changer sur le fond ;
 décalage horaire faux → le corriger ; image absente → la régénérer. Push, puis notification
-« Post P&W corrigé avant 19h » avec ce qui a été coupé. (`verifier-posts.yml` refait ce contrôle
+« Post P&W corrigé avant 18h » avec ce qui a été coupé. (`verifier-posts.yml` refait ce contrôle
 à chaque push dans `posts/` et ouvre une issue s'il échoue.) Si le post de D est encore `propose` : copier `posts/<D>/editorial.json` vers
-`data/editorial/<D>.json` avec `"_statut": "publié sans réponse (règle de 19h)"`, push,
+`data/editorial/<D>.json` avec `"_statut": "publié sans réponse (règle de 18h)"`, push,
 relancer le site (le site et le post doivent dire la même chose). Si `annule` : ne rien faire.
 Si `posts/<D>-story/` manque alors que le carrousel existe, lancer `story_soir.py <D>` et pousser.
-**À 19h00 pile** (attendre si besoin), lancer `instagram.yml` en mode `publish-due` sans attendre le cron, qui peut passer avec 30 min de retard :
+**À l'heure pile de `publier_a`** (18h00 ; attendre si besoin), lancer `instagram.yml` en mode `publish-due` sans attendre le cron, qui peut passer avec 30 min de retard :
 `gh api -X POST repos/Pickandwatch/pickandwatch/actions/workflows/instagram.yml/dispatches -f ref=main -f inputs[mode]=publish-due`.
-Après 19h05, vérifier le statut dans `posts/<D>/post.json` et `posts/<D>-story/post.json` (après `git pull`) :
+Cinq minutes après, vérifier le statut dans `posts/<D>/post.json` et `posts/<D>-story/post.json` (après `git pull`) :
 - `publie` avec un `media_id` : rien à faire.
 - `propose` avec un champ `erreur` : erreur passagère, le robot réessaie au passage suivant
-  (3 essais au plus) ; revérifier vers 19h40.
+  (3 essais au plus) ; revérifier 40 minutes après l'heure prévue.
 - `echec` : le robot a abandonné et a ouvert une issue GitHub « Post P&W non publié ».
   **Prévenir Alexandre tout de suite** (notification « Post P&W non publié », avec l'erreur).
   Si la cause se corrige (légende trop longue, image manquante) et qu'il est moins de 22h :
   corriger, remettre `"statut": "propose"`, retirer `tentatives` et `erreur`, push, puis lancer
   `instagram.yml` en mode `publish-due`
   (`gh api -X POST …/workflows/instagram.yml/dispatches -f ref=main -f inputs[mode]=publish-due`).
-- Toujours `propose` sans `erreur` à 19h15 : lancer `instagram.yml` en mode `publish-due`.
+- Toujours `propose` sans `erreur` un quart d'heure après l'heure prévue : lancer `instagram.yml` en mode `publish-due`.
 
 Le robot n'essaie plus un post resté sans publication 3 h après l'heure prévue (statut `echec`)
 et un post en échec ne bloque plus ceux des jours suivants.
@@ -198,6 +201,7 @@ du matin :
 5. **Reels tirés d'un carrousel** (`studio/reel_carrousel.py`) : toujours `"grille": false` dans
    leur `post.json` (31/10/2026) : ils restent dans l'onglet Reels sans doubler le carrousel dans la
    grille du profil. Le Reel du lundi, contenu original, garde la grille (champ absent).
+   Heure : **20h** (pas avant le programme du soir de 18h ; décision du 31/10/2026).
 
 ## 5. Le jeudi : Hors parquet du vendredi
 
