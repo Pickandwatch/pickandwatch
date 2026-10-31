@@ -1,3 +1,6 @@
+# Collaborations : priorités (Alexandre, 31/10/2026)
+- **Erwan Abautret (@erwanabau, First Team) : prioritaire.** Puis Thomas Dufant (@justbeliketom), Celtics France (@celtics_fra), Airball.
+
 # Commentaires proposés (validé par Alexandre le 31/10/2026)
 - Principe : chaque jour, UN SEUL lot (vers 17h30) de 3 à 5 commentaires rédigés pour des
   publications récentes des comptes basket clés ; Alexandre les publie lui-même (pas de commentaire
