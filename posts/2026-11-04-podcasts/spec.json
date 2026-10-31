@@ -8,27 +8,33 @@
   "lignes": [
    [
     "FIRST TEAM",
-    "LES INCONTOURNABLES"
+    "LES INCONTOURNABLES",
+    "logos/firstteam.jpg"
    ],
    [
     "BASKETSESSION",
-    "DES FANS ULTRA POINTUS"
+    "DES FANS ULTRA POINTUS",
+    "logos/basketsession.jpg"
    ],
    [
     "NBA EXTRA",
-    "LA BANDE DE beIN, EN OFF"
+    "LA BANDE DE beIN, EN OFF",
+    "logos/nbaextra.jpg"
    ],
    [
     "BASKET TIME",
-    "RMC SPORT"
+    "RMC SPORT",
+    "logos/baskettime.jpg"
    ],
    [
     "DREAMCAST SHOW",
-    "ANALYSE ET SCOUTING"
+    "ANALYSE ET SCOUTING",
+    "logos/dreamcast.jpg"
    ],
    [
     "AIRBALL",
-    "L'ACTU EN RIANT"
+    "L'ACTU EN RIANT",
+    "logos/airball.jpg"
    ]
   ],
   "accroche": "En français, tous gratuits."
@@ -61,7 +67,8 @@
     "Podcast et YouTube",
     ""
    ],
-   "taille": 33
+   "taille": 33,
+   "logo": "logos/firstteam.jpg"
   },
   {
    "etiquette": "À ÉCOUTER",
@@ -90,7 +97,8 @@
     "OÙ L'ÉCOUTER",
     "Spotify, Apple, Deezer, YouTube",
     ""
-   ]
+   ],
+   "logo": "logos/basketsession.jpg"
   },
   {
    "etiquette": "À ÉCOUTER",
@@ -119,7 +127,8 @@
     "OÙ L'ÉCOUTER",
     "Podcast et YouTube",
     ""
-   ]
+   ],
+   "logo": "logos/nbaextra.jpg"
   },
   {
    "etiquette": "À ÉCOUTER",
@@ -147,7 +156,8 @@
     "OÙ L'ÉCOUTER",
     "Ton appli de podcasts",
     ""
-   ]
+   ],
+   "logo": "logos/baskettime.jpg"
   },
   {
    "etiquette": "À ÉCOUTER",
@@ -175,7 +185,8 @@
     "OÙ L'ÉCOUTER",
     "Ton appli de podcasts",
     ""
-   ]
+   ],
+   "logo": "logos/dreamcast.jpg"
   },
   {
    "etiquette": "À ÉCOUTER",
@@ -203,7 +214,8 @@
     "OÙ L'ÉCOUTER",
     "Ton appli de podcasts",
     ""
-   ]
+   ],
+   "logo": "logos/airball.jpg"
   }
  ],
  "fin": {

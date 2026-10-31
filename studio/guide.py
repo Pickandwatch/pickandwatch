@@ -11,11 +11,18 @@ from hors_parquet import frame, header, title, stats, body, source_box, BAR, MON
 from carrousel import render
 
 
-def cover(c, n):
-    rows = ''.join(
-        f'<div style="padding: 18px 0; border-top: 1px solid {INK}; display: flex; justify-content: space-between; align-items: baseline; gap: 20px">'
-        f'<span style="{BAR}; font-size: 58px; line-height: 1">{k}</span>'
-        f'<span style="{MONO}; font-size: 24px; letter-spacing: 1px; color: {SUB}; text-align: right">{t}</span></div>' for k, t in c['lignes'])
+def _img(path, size, radius=0):
+    return (f'<img src="file://{path}" style="flex: none; width: {size}px; height: {size}px; object-fit: cover; '
+            f'border-radius: {radius}px; box-shadow: 0 0 0 2px {INK}; display: block">')
+
+
+def cover(c, n, base=None):
+    def row(k, t, *logo):
+        vignette = _img((base / logo[0]).resolve(), 64, 8) if logo and base else ''
+        return (f'<div style="padding: 14px 0; border-top: 1px solid {INK}; display: flex; justify-content: space-between; align-items: center; gap: 20px">'
+                f'<span style="display: flex; align-items: center; gap: 20px">{vignette}<span style="{BAR}; font-size: 54px; line-height: 1">{k}</span></span>'
+                f'<span style="{MONO}; font-size: 22px; letter-spacing: 1px; color: {SUB}; text-align: right">{t}</span></div>')
+    rows = ''.join(row(*l) for l in c['lignes'])
     inner = [header(f'{c.get("etiquette", "LE GUIDE")} · 1/{n}'), title(*c['titre']),
              f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {INK}">{rows}</div>',
              f'<div style="display: flex; justify-content: space-between; align-items: baseline"><span style="font-size: 30px; font-style: italic; color: {SUB}">{c["accroche"]}</span>'
@@ -23,12 +30,16 @@ def cover(c, n):
     return frame('\n'.join(inner))
 
 
-def slide(s, i, n):
+def slide(s, i, n, base=None):
+    bas = source_box(*s['encadre'])
+    if s.get('logo') and base:  # logo officiel du podcast / de la chaîne, à côté de l'encadré
+        bas = (f'<div style="display: flex; gap: 28px; align-items: center">{_img((base / s["logo"]).resolve(), 150, 14)}'
+               f'<div style="flex: 1; min-width: 0">{bas}</div></div>')
     inner = [header(f'{s.get("etiquette", "LE GUIDE")} · {i}/{n}'),
              f'<div style="display: flex; flex-direction: column; gap: 22px"><div style="{MONO}; font-size: 24px; letter-spacing: 4px; color: {OR}">{s["rubrique"]}</div>{title(*s["titre"])}</div>',
              stats(s['chiffres']),
              (body(s['texte']) if not s.get('taille') else body(s['texte']).replace('font-size: 37px', f"font-size: {s['taille']}px")),
-             source_box(*s['encadre'])]
+             bas]
     return frame('\n'.join(inner))
 
 
@@ -44,7 +55,8 @@ def fin(f, n):
 def main(spec_path):
     spec_path = pathlib.Path(spec_path); spec = json.loads(spec_path.read_text())
     tmp = pathlib.Path(tempfile.mkdtemp()); n = len(spec['slides']) + 2
-    pages = [cover(spec['couverture'], n)] + [slide(s, i, n) for i, s in enumerate(spec['slides'], 2)] + [fin(spec['fin'], n)]
+    base = spec_path.parent
+    pages = [cover(spec['couverture'], n, base)] + [slide(s, i, n, base) for i, s in enumerate(spec['slides'], 2)] + [fin(spec['fin'], n)]
     names = []
     for k, p in enumerate(pages, 1):
         (tmp / f'g{k}.dc.html').write_text(p); names.append(f'g{k}')
