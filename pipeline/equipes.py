@@ -235,7 +235,7 @@ def index_page(teams: dict, now: datetime, head, foot) -> str:
   <section class="hero">
     <p class="kicker fit" data-min="40">Mon équipe</p>
     <h1 class="fit" data-min="30">Choisis ton équipe</h1>
-    <p class="summary">Son calendrier à l'heure de Paris, la chaîne de chaque match, et un agenda qui se met à jour tout seul.</p>
+    <p class="summary">Tous ses matchs du mois à l'heure de Paris, la chaîne française de chaque match, et ceux qui te tentent dans ton agenda, en un clic.</p>
   </section>
   <section class="teams">{cards}</section>
 </main>
