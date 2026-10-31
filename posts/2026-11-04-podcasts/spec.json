@@ -1,0 +1,183 @@
+{
+ "couverture": {
+  "etiquette": "À ÉCOUTER",
+  "titre": [
+   "LE BASKET À L'OREILLE",
+   "NOS PODCASTS ET CHAÎNES NBA"
+  ],
+  "lignes": [
+   [
+    "NBA EXTRA",
+    "beIN SPORTS · CHAQUE SEMAINE"
+   ],
+   [
+    "BASKETSESSION",
+    "TOUS LES JOURS"
+   ],
+   [
+    "DREAMCAST SHOW",
+    "ANALYSE ET SCOUTING"
+   ],
+   [
+    "AIRBALL",
+    "L'ACTU EN RIANT"
+   ],
+   [
+    "FIRST TEAM",
+    "SUR YOUTUBE"
+   ]
+  ],
+  "accroche": "En français, tous gratuits."
+ },
+ "slides": [
+  {
+   "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST · beIN SPORTS",
+   "titre": [
+    "NBA EXTRA",
+    "LA BANDE DE beIN, CHAQUE SEMAINE"
+   ],
+   "chiffres": [
+    [
+     "RYTHME",
+     "HEBDO"
+    ],
+    [
+     "ÉPISODES",
+     "600+"
+    ],
+    [
+     "NOTE APPLE",
+     "4,6/5"
+    ]
+   ],
+   "texte": "Nicolas Sarnak et Baptiste Denis débattent chaque semaine de trois grands thèmes de l'actu NBA, avec les voix de beIN SPORTS : Jacques Monclar, Rémi Reverchon, Mary Patrux, Fred Weis, Xavier Vaution, Chris Singleton.",
+   "taille": 33,
+   "encadre": [
+    "OÙ L'ÉCOUTER",
+    "Podcast et YouTube",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST · QUOTIDIEN",
+   "titre": [
+    "BASKETSESSION",
+    "L'ACTU DU BASKET, TOUS LES JOURS"
+   ],
+   "chiffres": [
+    [
+     "RYTHME",
+     "1/JOUR"
+    ],
+    [
+     "ÉPISODES",
+     "1 400+"
+    ],
+    [
+     "APPLE SPORT",
+     "N°1"
+    ]
+   ],
+   "texte": "Les journalistes de BasketSession.com et du mook REVERSE décortiquent l'actualité du basket, NBA en tête. Un format court chaque jour, parfait pour le trajet.",
+   "encadre": [
+    "OÙ L'ÉCOUTER",
+    "Ton appli de podcasts",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST · HEBDO",
+   "titre": [
+    "LE DREAMCAST SHOW",
+    "ANALYSE, SCOUTING ET HUMOUR"
+   ],
+   "chiffres": [
+    [
+     "RYTHME",
+     "HEBDO"
+    ],
+    [
+     "NOTE APPLE",
+     "4,9/5"
+    ],
+    [
+     "DEPUIS",
+     "4 ANS"
+    ]
+   ],
+   "texte": "Baptiste et Azad mêlent analyse, actu, scouting des rookies et humour, de Bill Russell à Darko Milicic. Des épisodes longs, pour les passionnés.",
+   "encadre": [
+    "OÙ L'ÉCOUTER",
+    "Ton appli de podcasts",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST · HUMOUR",
+   "titre": [
+    "AIRBALL",
+    "L'ACTU NBA EN RIANT"
+   ],
+   "chiffres": [
+    [
+     "RYTHME",
+     "2×/SEM."
+    ],
+    [
+     "ÉPISODES",
+     "150"
+    ],
+    [
+     "TON",
+     "DÉCALÉ"
+    ]
+   ],
+   "texte": "Axel et Urbain racontent l'actu NBA de la semaine sur le ton de la blague. Pour ceux qui aiment le basket sans se prendre au sérieux.",
+   "encadre": [
+    "OÙ L'ÉCOUTER",
+    "Ton appli de podcasts",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À REGARDER",
+   "rubrique": "YOUTUBE",
+   "titre": [
+    "FIRST TEAM",
+    "LA CHAÎNE DE TOUS LES BASKETS"
+   ],
+   "chiffres": [
+    [
+     "DEPUIS",
+     "10 ANS"
+    ],
+    [
+     "FORMAT",
+     "ITW"
+    ],
+    [
+     "SUJETS",
+     "NBA, FR"
+    ]
+   ],
+   "texte": "Interviews, analyses et décryptages, de la NBA au basket français. Et pour la vidéo, NBA Extra met aussi ses émissions en ligne sur YouTube.",
+   "encadre": [
+    "OÙ LA REGARDER",
+    "YouTube",
+    ""
+   ]
+  }
+ ],
+ "fin": {
+  "etiquette": "À ÉCOUTER",
+  "titre": [
+   "ÉCOUTE-LES APRÈS TES MATCHS",
+   "EUX, ILS PARLENT DES SCORES."
+  ],
+  "texte": "Ces podcasts commentent les résultats : écoute-les après tes replays. Avant, il y a nous : le programme à 18h, le verdict sans spoiler à 8h. Et toi, quel podcast on a oublié ?"
+ }
+}
