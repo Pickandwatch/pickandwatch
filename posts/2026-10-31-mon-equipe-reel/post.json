@@ -1,11 +1,12 @@
 {
   "type": "reel",
   "publier_a": "2026-11-03T20:00:00+01:00",
-  "statut": "brouillon",
+  "statut": "valide",
   "grille": false,
   "images": [
     "cover.jpg"
   ],
   "video": "reel.mp4",
-  "legende": "Tous les matchs de ton équipe en novembre, sur notre site pickandwatch.fr (lien en bio). Mode d'emploi en 3 étapes :\n\n1. Va sur pickandwatch.fr, onglet « Mon équipe », et choisis ton équipe parmi les 30.\n2. Tu vois tous ses matchs de novembre, à l'heure de Paris, avec la chaîne française de chaque match. Les matchs de NBA Cup sont signalés.\n3. Un match te tente ? Clique sur « + Agenda » : il s'ajoute à Google Agenda, Outlook ou ton iPhone, avec l'heure et la chaîne. Seulement ceux que tu veux.\n\nC'est gratuit. Le lendemain de chaque match à 8h, notre verdict sans spoiler, ici. Et fin novembre, le programme de décembre.\n\nQuelle équipe tu suis ? Dis-le en commentaire.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#NBA #NBAFrance #BasketFrance"
+  "legende": "Tous les matchs de ton équipe en novembre, sur notre site pickandwatch.fr (lien en bio). Mode d'emploi en 3 étapes :\n\n1. Va sur pickandwatch.fr, onglet « Mon équipe », et choisis ton équipe parmi les 30.\n2. Tu vois tous ses matchs de novembre, à l'heure de Paris, avec la chaîne française de chaque match. Les matchs de NBA Cup sont signalés.\n3. Un match te tente ? Clique sur « + Agenda » : il s'ajoute à Google Agenda, Outlook ou ton iPhone, avec l'heure et la chaîne. Seulement ceux que tu veux.\n\nC'est gratuit. Le lendemain de chaque match à 8h, notre verdict sans spoiler, ici. Et fin novembre, le programme de décembre.\n\nQuelle équipe tu suis ? Dis-le en commentaire.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#NBA #NBAFrance #BasketFrance",
+  "valide_le": "2026-10-31T13:00+01:00"
 }
