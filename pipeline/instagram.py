@@ -138,14 +138,15 @@ def publish_carousel(image_urls: list[str], caption: str) -> str:
     return res["id"]
 
 
-def publish_reel(video_url: str, cover_url: str, caption: str) -> str:
-    """Publie un Reel (vidéo MP4 H.264, 9:16), partagé aussi dans le fil, avec sa couverture."""
+def publish_reel(video_url: str, cover_url: str, caption: str, grille: bool = True) -> str:
+    """Publie un Reel (vidéo MP4 H.264, 9:16) avec sa couverture. grille=False : le Reel reste dans
+    l'onglet Reels sans doubler dans la grille du profil (Reels tirés d'un carrousel déjà publié)."""
     pb = caption_problems(caption)
     if pb:
         raise SystemExit("Garde-fou : " + " ; ".join(pb) + ". Publication bloquée.")
     ig = CFG["ig_user_id"]
     c = call("POST", f"{ig}/media", media_type="REELS", video_url=video_url, cover_url=cover_url,
-             caption=caption, share_to_feed="true")
+             caption=caption, share_to_feed="true" if grille else "false")
     wait_ready(c["id"], tries=72)  # le traitement d'une vidéo prend plus de temps (jusqu'à 6 min)
     return call("POST", f"{ig}/media_publish", creation_id=c["id"])["id"]
 
@@ -252,7 +253,7 @@ def publish_due() -> list[Path]:
             if post.get("type") == "story":
                 media_id = publish_stories(urls, f, post)
             elif post.get("type") == "reel":
-                media_id = publish_reel(video_url, urls[0], post["legende"])
+                media_id = publish_reel(video_url, urls[0], post["legende"], post.get("grille", True))
             else:
                 media_id = publish_carousel(urls, post["legende"])
         except SystemExit as e:

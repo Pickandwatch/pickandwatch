@@ -190,6 +190,9 @@ du matin :
    `python3 -m pipeline.instagram verify`, push, lancer `programme.yml`, vérifier que la vidéo répond 200.
 4. Envoyer la vidéo et la légende à Alexandre avec la notification « Post P&W à valider ». Sans
    réponse, publication automatique à 12h30 (Reel muet ; Alexandre a choisi l'automatique).
+5. **Reels tirés d'un carrousel** (`studio/reel_carrousel.py`) : toujours `"grille": false` dans
+   leur `post.json` (31/10/2026) : ils restent dans l'onglet Reels sans doubler le carrousel dans la
+   grille du profil. Le Reel du lundi, contenu original, garde la grille (champ absent).
 
 ## 5. Le jeudi : Hors parquet du vendredi
 
