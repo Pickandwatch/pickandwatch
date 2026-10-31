@@ -8,11 +8,19 @@
   "lignes": [
    [
     "NBA EXTRA",
-    "beIN SPORTS · CHAQUE SEMAINE"
+    "beIN SPORTS"
    ],
    [
     "BASKETSESSION",
-    "TOUS LES JOURS"
+    "CQFR · HOOP CULTURE"
+   ],
+   [
+    "BASKET TIME",
+    "RMC SPORT"
+   ],
+   [
+    "FIRST TEAM",
+    "PODCAST + YOUTUBE"
    ],
    [
     "DREAMCAST SHOW",
@@ -21,10 +29,6 @@
    [
     "AIRBALL",
     "L'ACTU EN RIANT"
-   ],
-   [
-    "FIRST TEAM",
-    "SUR YOUTUBE"
    ]
   ],
   "accroche": "En français, tous gratuits."
@@ -61,14 +65,14 @@
   },
   {
    "etiquette": "À ÉCOUTER",
-   "rubrique": "PODCAST · QUOTIDIEN",
+   "rubrique": "PODCAST · BASKETSESSION",
    "titre": [
     "BASKETSESSION",
-    "L'ACTU DU BASKET, TOUS LES JOURS"
+    "CQFR, HOOP CULTURE ET LES AUTRES"
    ],
    "chiffres": [
     [
-     "RYTHME",
+     "CQFR",
      "1/JOUR"
     ],
     [
@@ -80,10 +84,67 @@
      "N°1"
     ]
    ],
-   "texte": "Les journalistes de BasketSession.com et du mook REVERSE décortiquent l'actualité du basket, NBA en tête. Un format court chaque jour, parfait pour le trajet.",
+   "texte": "Les journalistes de BasketSession.com et du mook REVERSE : l'actu du jour avec CQFR, animé par Antoine Pimmel et Shaï Mamou, et la culture basket avec Hoop Culture. L'un des meilleurs podcasts basket en France.",
+   "taille": 34,
    "encadre": [
     "OÙ L'ÉCOUTER",
     "Ton appli de podcasts",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST · RMC SPORT",
+   "titre": [
+    "BASKET TIME",
+    "LE PODCAST BASKET DE RMC"
+   ],
+   "chiffres": [
+    [
+     "ÉPISODES",
+     "600+"
+    ],
+    [
+     "DEPUIS",
+     "7 ANS"
+    ],
+    [
+     "ANTENNE",
+     "RMC"
+    ]
+   ],
+   "texte": "Pierre Dorian à l'animation, avec Fred Weis et Stephen Brun : l'actu NBA et du basket en quatre quart-temps, quiz compris.",
+   "encadre": [
+    "OÙ L'ÉCOUTER",
+    "Ton appli de podcasts",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST + YOUTUBE",
+   "titre": [
+    "FIRST TEAM",
+    "LA CHAÎNE DE TOUS LES BASKETS"
+   ],
+   "chiffres": [
+    [
+     "DEPUIS",
+     "10 ANS"
+    ],
+    [
+     "RYTHME",
+     "1/JOUR"
+    ],
+    [
+     "SUPPORTS",
+     "AUDIO + YT"
+    ]
+   ],
+   "texte": "Erwan et Thomas tous les jours : la Libre Antenne NBA, les previews des équipes, des interviews exclusives, et Offense, leur nouveau débat. En podcast et sur YouTube.",
+   "encadre": [
+    "OÙ LES SUIVRE",
+    "Podcast et YouTube",
     ""
    ]
   },
@@ -140,34 +201,6 @@
    "encadre": [
     "OÙ L'ÉCOUTER",
     "Ton appli de podcasts",
-    ""
-   ]
-  },
-  {
-   "etiquette": "À REGARDER",
-   "rubrique": "YOUTUBE",
-   "titre": [
-    "FIRST TEAM",
-    "LA CHAÎNE DE TOUS LES BASKETS"
-   ],
-   "chiffres": [
-    [
-     "DEPUIS",
-     "10 ANS"
-    ],
-    [
-     "FORMAT",
-     "ITW"
-    ],
-    [
-     "SUJETS",
-     "NBA, FR"
-    ]
-   ],
-   "texte": "Interviews, analyses et décryptages, de la NBA au basket français. Et pour la vidéo, NBA Extra met aussi ses émissions en ligne sur YouTube.",
-   "encadre": [
-    "OÙ LA REGARDER",
-    "YouTube",
     ""
    ]
   }
