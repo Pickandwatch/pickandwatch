@@ -27,6 +27,14 @@ prépare du contenu Pick & Watch le lit en entier avant de commencer.
   taguer @beinsports_fr et ses commentateurs (`data/comptes-instagram.json` : Rémi Reverchon, Fred Weis,
   Xavier Vaution, Chris Singleton ; Jacques Monclar cité sans tag) ; chaque fois qu'elle cite Prime Video,
   taguer @primevideosportfr. Jamais de pseudo deviné.
+- **Le site d'abord nommé (Alexandre, 31/10/2026)** : partir du principe que les abonnés connaissent
+  le compte Instagram, pas le site. Tout contenu qui parle d'une fonction du site dit explicitement
+  que Pick & Watch, c'est aussi un site, et fait apparaître **pickandwatch.fr** en grand (couverture
+  et slide de fin), pas seulement en petit : jamais « onglet Mon équipe » seul, toujours « sur notre
+  site pickandwatch.fr, onglet Mon équipe ». Légende : le nom du site dès la première ligne, avec
+  « (lien en bio) ». Pour présenter une fonction du site : `studio/site_tuto.py` (mode d'emploi
+  en étapes, avec de vraies captures d'écran du site dans un téléphone ; modèle :
+  `posts/2026-10-31-mon-equipe/`).
 - **Hashtags et mots-clés (31/10/2026)** : 3 à 5 hashtags ciblés au maximum (Instagram n'en accepte
   plus que 5 ; au-delà, le robot coupe après le 5e) : `#NBA #NBAFrance #BasketFrance`, plus un ou deux
   du sujet (`#NBACup`, `#Wembanyama`…). Les hashtags n'apportent presque pas de portée : ce qui compte,
