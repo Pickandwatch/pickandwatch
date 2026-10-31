@@ -39,3 +39,38 @@ Sources :
 
 Suite : lundi 2/11, regarder si le reportage est en ligne et visible depuis la France. Si oui,
 le proposer pour le numéro du 6 novembre (« à voir », avec le lien).
+
+## Pour le numéro du vendredi 6 novembre 2026
+
+### Suite Wembanyama / « 60 Minutes »
+Voir plus haut : si le reportage diffusé le 1er novembre est en ligne et visible depuis la France,
+le proposer en « à voir », avec le lien. Sinon, ne rien publier.
+
+### « Portrait of an Artist: Stephen Curry », documentaire ESPN Films
+Envoyé par Alexandre le 31/10. Statut : à publier (format « à voir », sortie en streaming mardi 10/11).
+
+Faits vérifiés le 31/10 :
+- Documentaire ESPN Films réalisé par Gotham Chopra, tourné avec des caméras certifiées IMAX.
+  Sorti en exclusivité dans les salles IMAX aux États-Unis le 9 octobre 2026 (Yahoo).
+- En streaming le mardi 10 novembre 2026 sur Disney+ et l'application ESPN (MickeyBlog, 29/10 ;
+  What's On Disney Plus, 29/10), puis diffusé sur ABC le dimanche 22 novembre (13h heure de New York).
+- Le film suit Curry jusqu'à son 4 000e tir à trois points en carrière, contre les Sacramento Kings :
+  premier joueur NBA à atteindre ce cap. Il revient sur son enfance, sa carrière et son rapport
+  « artistique » au jeu. Dans la bande-annonce, Curry dit : « It's always felt more like an art. »
+- Intervenants : Viola Davis, Rick Rubin, Patti Smith, Jon Batiste. Citation de Viola Davis :
+  « Your purpose is not what you do. It's what happens to people when you do what you do. »
+
+À vérifier le jeudi avant d'écrire :
+- Disponibilité sur Disney+ en France le 10/11. What's On Disney Plus (site de fans, non officiel)
+  écrit « most international markets » sans nommer la France : chercher une annonce de Disney+
+  France (page « Prochainement », communiqué, comptes officiels). Sans confirmation, écrire
+  « sur Disney+ aux États-Unis le 10 novembre ; disponibilité en France pas encore annoncée ».
+- Une éventuelle sortie en salles IMAX en France.
+- Le 4 000e tir à trois points est un fait passé (pas un résultat de match de la semaine) : il peut
+  être cité. Ne donner aucun score du match contre les Kings.
+- Tags : aucun compte Disney+ / ESPN dans data/comptes-instagram.json. Ne pas taguer.
+
+Sources :
+- https://mickeyblog.com/2026/10/29/stephen-curry-documentary-coming-to-disney-and-espn-this-november
+- https://whatsondisneyplus.com/portrait-of-an-artist-stephen-curry-coming-soon-to-disney/
+- https://www.yahoo.com/entertainment/movies/articles/disney-stephen-curry-imax-movie-200959552.html
