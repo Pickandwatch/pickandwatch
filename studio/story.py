@@ -301,7 +301,7 @@ def main(argv: list[str]) -> int:
                 # en retard sur 8h : 15 min de marge pour que le site mette les images en ligne
                 "publier_a": max(due, datetime.now(PARIS).replace(second=0, microsecond=0)
                                  + timedelta(minutes=15)).isoformat(),
-                "statut": "propose", "images": names[:10], "legende": legende}
+                "statut": "propose", "images": names[:10] if post_mode else names, "legende": legende}
         f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"{len(names)} image(s) dans {out}")
     return 0
