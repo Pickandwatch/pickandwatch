@@ -367,6 +367,14 @@ def veille() -> None:
         print("  ", e)
 
 
+def stories() -> None:
+    """Diagnostic : liste les stories en ligne (24 h) avec leur heure de publication."""
+    r = call("GET", f"{CFG['ig_user_id']}/stories", fields="id,timestamp,media_type,media_url,permalink")
+    for m in r.get("data", []):
+        print(m.get("timestamp"), m.get("id"), m.get("media_type"), (m.get("media_url") or "")[:90])
+    print(f"{len(r.get('data', []))} stories en ligne")
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
-    {"check": check, "publish-due": publish_due, "verify": verify, "veille": veille}[cmd]()
+    {"check": check, "publish-due": publish_due, "verify": verify, "veille": veille, "stories": stories}[cmd]()
