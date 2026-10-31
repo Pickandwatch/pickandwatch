@@ -1,3 +1,14 @@
+# Cap (Alexandre, 31/10/2026)
+- **Priorité : dépasser 1 000 abonnés Instagram avant le 31 décembre 2026** (284 le 31/10, soit
+  environ 80 abonnés nets par semaine). Point chaque lundi : gagnés, provenance (pub, Reels,
+  collaborations), ajustements ; sous 60/semaine fin novembre → renforcer collaborations et
+  grands rendez-vous (quarts et finale de la Cup, Noël).
+- **Objectif de long terme : rendre le site et le compte monétisables** (affiliation aux
+  abonnements, partenariats diffuseurs, Hors parquet sponsorisé, newsletter), sans toucher à la
+  confiance (zéro spoiler, indépendance, partenariats signalés). Pas de monétisation avant
+  quelques milliers d'abonnés ; paris sportifs écartés. À garder en tête dans chaque analyse de
+  résultats et chaque discussion de stratégie.
+
 # À suivre : consignes éditoriales d'Alexandre
 
 Chaque session qui écrit des briefs, des verdicts ou une légende lit ce fichier d'abord.
