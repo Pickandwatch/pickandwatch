@@ -40,9 +40,11 @@
     "RMC Sport": "rmc_sport",
     "Thomas Dufant": "justbeliketom",
     "Airball": "airball_axel_urbain",
-    "Celtics France": "celtics_fra"
+    "Celtics France": "celtics_fra",
+    "Erwan Abautret": "erwanabau",
+    "BeBasket": "be_basket"
   },
-  "_source": "donnés par Alexandre le 25/10/2026 ; Basket USA vérifié le 31/10/2026 (lien Instagram du site officiel basketusa.com) ; First Team vérifié le 31/10/2026 (chaîne YouTube officielle : Instagram @FirstTeam101) ; 31/10/2026 : abonnements d'Alexandre (captures de sa liste « Suivi(e)s ») ; « BasketSession » → reversemagazine (nom affiché : « REVERSE/BasketS… ») ; 31/10/2026 : profils trouvés et envoyés par Alexandre (Airball, Thomas Dufant fondateur de First Team, Baptiste Denis, Shaï Mamou, RMC Sport, Celtics France)",
+  "_source": "donnés par Alexandre le 25/10/2026 ; Basket USA vérifié le 31/10/2026 (lien Instagram du site officiel basketusa.com) ; First Team vérifié le 31/10/2026 (chaîne YouTube officielle : Instagram @FirstTeam101) ; 31/10/2026 : abonnements d'Alexandre (captures de sa liste « Suivi(e)s ») ; « BasketSession » → reversemagazine (nom affiché : « REVERSE/BasketS… ») ; 31/10/2026 : profils trouvés et envoyés par Alexandre (Airball, Thomas Dufant fondateur de First Team, Baptiste Denis, Shaï Mamou, RMC Sport, Celtics France) ; Erwan Abautret (First Team, bio : @Firstteam101) et BeBasket envoyés par Alexandre le 31/10/2026",
   "_a_verifier": [
     "Antoine Pimmel",
     "animateurs de Hoop Culture",
@@ -52,8 +54,7 @@
     "Le Dreamcast Show (Baptiste, Azad)",
     "commentateurs de Prime Video",
     "Équipe de France (pseudo tronqué sur la capture)",
-    "House of Highlights, Basketball Forever (pseudos tronqués)",
-    "Erwan (First Team) : erwanabau (Erwan Abautret) suggéré par Instagram, lien avec First Team non confirmé"
+    "House of Highlights, Basketball Forever (pseudos tronqués)"
   ],
   "variantes": {
     "beIN SPORTS": "beinsports_fr",

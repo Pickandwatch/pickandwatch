@@ -1,6 +1,8 @@
 {
  "_note": "Comptes basket dont le robot relève les dernières publications (mode « veille » d'instagram.yml) pour proposer des commentaires à Alexandre, qui les publie lui-même. Comptes professionnels seulement (API business_discovery). Liste à compléter à partir des abonnements d'Alexandre. Liste du 31/10/2026, tirée des abonnements d'Alexandre (comptes français ou francophones).",
  "comptes": [
+  "be_basket",
+  "erwanabau",
   "trashtalk.co",
   "nbafrance",
   "nbaextra",
