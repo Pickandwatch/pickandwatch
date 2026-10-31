@@ -43,8 +43,11 @@ def slide(s, i, n, base=None):
     return frame('\n'.join(inner))
 
 
-def fin(f, n):
-    inner = [header(f'{f.get("etiquette", "LE GUIDE")} · {n}/{n}'), title(*f['titre']), body(f['texte']),
+def fin(f, i, n=None):
+    n = n or i
+    if f.get('sans_site'):  # la slide de présentation qui suit porte déjà le site et l'appel à nous suivre
+        return frame('\n'.join([header(f'{f.get("etiquette", "LE GUIDE")} · {i}/{n}'), title(*f['titre']), body(f['texte']), '<div></div>']))
+    inner = [header(f'{f.get("etiquette", "LE GUIDE")} · {i}/{n}'), title(*f['titre']), body(f['texte']),
              f'<div style="display: flex; justify-content: space-between; align-items: center; gap: 24px; border: 3px solid {OR}; padding: 20px 30px">'
              f'<div style="display: flex; flex-direction: column; gap: 4px"><span style="{BAR}; font-size: 54px; line-height: 1">pickandwatch.fr</span>'
              f'<span style="{MONO}; font-size: 24px; color: {SUB}">Zéro spoiler. Jamais.</span></div>'
@@ -52,11 +55,30 @@ def fin(f, n):
     return frame('\n'.join(inner))
 
 
+def presentation(p, n):
+    """Dernière slide : qui est Pick & Watch (concept, ligne éditoriale) + appel à nous suivre."""
+    rows = ''.join(
+        f'<div style="padding: 14px 0; border-top: 1px solid {INK}; display: grid; grid-template-columns: 210px 1fr; align-items: baseline; gap: 20px">'
+        f'<span style="{BAR}; font-size: 48px; line-height: 1; color: {OR}">{k}</span>'
+        f'<span style="font-size: 30px; line-height: 1.3">{t}</span></div>' for k, t in p['lignes'])
+    cta = (f'<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px">'
+           f'<div style="background: {OR}; color: #F2EEE6; padding: 20px 24px; display: flex; flex-direction: column; gap: 6px">'
+           f'<span style="{MONO}; font-size: 20px; letter-spacing: 3px">SUIS-NOUS</span>'
+           f'<span style="{BAR}; font-size: 46px; line-height: 1">@pickandwatch.fr</span></div>'
+           f'<div style="border: 3px solid {OR}; padding: 17px 21px; display: flex; flex-direction: column; gap: 6px">'
+           f'<span style="{MONO}; font-size: 20px; letter-spacing: 3px; color: {SUB}">VISITE NOTRE SITE</span>'
+           f'<span style="{BAR}; font-size: 46px; line-height: 1">pickandwatch.fr</span></div></div>')
+    inner = [header(f'{p.get("etiquette", "PICK & WATCH")} · {n}/{n}'), title(*p['titre']),
+             f'<div style="font-size: 32px; line-height: 1.35; font-style: italic; color: {SUB}">{p["texte"]}</div>',
+             f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {INK}">{rows}</div>', cta]
+    return frame('\n'.join(inner))
+
+
 def main(spec_path):
     spec_path = pathlib.Path(spec_path); spec = json.loads(spec_path.read_text())
-    tmp = pathlib.Path(tempfile.mkdtemp()); n = len(spec['slides']) + 2
+    tmp = pathlib.Path(tempfile.mkdtemp()); n = len(spec['slides']) + 2 + (1 if spec.get('presentation') else 0)
     base = spec_path.parent
-    pages = [cover(spec['couverture'], n, base)] + [slide(s, i, n, base) for i, s in enumerate(spec['slides'], 2)] + [fin(spec['fin'], n)]
+    pages = [cover(spec['couverture'], n, base)] + [slide(s, i, n, base) for i, s in enumerate(spec['slides'], 2)] + [fin(spec['fin'], n - (1 if spec.get('presentation') else 0), n)] + ([presentation(spec['presentation'], n)] if spec.get('presentation') else [])
     names = []
     for k, p in enumerate(pages, 1):
         (tmp / f'g{k}.dc.html').write_text(p); names.append(f'g{k}')

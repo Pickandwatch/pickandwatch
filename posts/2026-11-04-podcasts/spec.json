@@ -53,18 +53,18 @@
      "4,8/5"
     ],
     [
-     "AVIS",
-     "336"
-    ],
-    [
      "RYTHME",
      "1/JOUR"
+    ],
+    [
+     "DEPUIS",
+     "10 ANS"
     ]
    ],
    "texte": "Erwan Abautret et Thomas Dufant, et leurs invités : Stephen Brun, Emmanuel Moine, Thomas Larrouquis… Libre Antenne NBA, previews, First Day Show, interviews et Offense. En podcast et sur YouTube.",
    "encadre": [
-    "OÙ LES SUIVRE",
-    "Podcast et YouTube",
+    "OÙ L'ÉCOUTER · AUSSI SUR YOUTUBE",
+    "Ton appli de podcasts préférée",
     ""
    ],
    "taille": 33,
@@ -83,19 +83,19 @@
      "4,8/5"
     ],
     [
-     "AVIS",
-     "324"
-    ],
-    [
      "CQFR",
      "1/JOUR"
+    ],
+    [
+     "ÉPISODES",
+     "1 400+"
     ]
    ],
    "texte": "De vrais fans de basket, ultra pointus : Antoine Pimmel, Shaï Mamou, Théophile Haumesser et la rédaction de BasketSession et du mook REVERSE. L'actu du jour avec CQFR, la culture basket avec Hoop Culture.",
    "taille": 33,
    "encadre": [
-    "OÙ L'ÉCOUTER",
-    "Spotify, Apple, Deezer, YouTube",
+    "OÙ L'ÉCOUTER · AUSSI SUR YOUTUBE",
+    "Ton appli de podcasts préférée",
     ""
    ],
    "logo": "logos/basketsession.jpg"
@@ -113,19 +113,19 @@
      "4,6/5"
     ],
     [
-     "AVIS",
-     "400"
-    ],
-    [
      "RYTHME",
      "HEBDO"
+    ],
+    [
+     "ÉPISODES",
+     "600+"
     ]
    ],
    "texte": "Nicolas Sarnak et Baptiste Denis avec les voix de beIN SPORTS (Jacques Monclar, Rémi Reverchon, Mary Patrux, Fred Weis, Xavier Vaution, Chris Singleton), sur un ton plus libre et plus « off » qu'à l'antenne.",
    "taille": 33,
    "encadre": [
-    "OÙ L'ÉCOUTER",
-    "Podcast et YouTube",
+    "OÙ L'ÉCOUTER · AUSSI SUR YOUTUBE",
+    "Ton appli de podcasts préférée",
     ""
    ],
    "logo": "logos/nbaextra.jpg"
@@ -143,8 +143,8 @@
      "4,6/5"
     ],
     [
-     "AVIS",
-     "300"
+     "ÉPISODES",
+     "600+"
     ],
     [
      "DEPUIS",
@@ -154,7 +154,7 @@
    "texte": "Pierre Dorian à l'animation, avec Fred Weis et Stephen Brun : l'actu NBA et du basket en quatre quart-temps, quiz compris.",
    "encadre": [
     "OÙ L'ÉCOUTER",
-    "Ton appli de podcasts",
+    "Ton appli de podcasts préférée",
     ""
    ],
    "logo": "logos/baskettime.jpg"
@@ -172,8 +172,8 @@
      "4,9/5"
     ],
     [
-     "AVIS",
-     "32"
+     "ÉPISODES",
+     "150+"
     ],
     [
      "DEPUIS",
@@ -183,7 +183,7 @@
    "texte": "Baptiste et Azad mêlent analyse, actu, scouting des rookies et humour, de Bill Russell à Darko Milicic. Des épisodes longs, pour les passionnés.",
    "encadre": [
     "OÙ L'ÉCOUTER",
-    "Ton appli de podcasts",
+    "Ton appli de podcasts préférée",
     ""
    ],
    "logo": "logos/dreamcast.jpg"
@@ -201,18 +201,18 @@
      "4,9/5"
     ],
     [
-     "AVIS",
-     "180"
-    ],
-    [
      "RYTHME",
      "LE LUNDI"
+    ],
+    [
+     "TON",
+     "DÉCALÉ"
     ]
    ],
    "texte": "Axel et Urbain racontent l'actu NBA sur le ton de la blague, chaque lundi. Pour ceux qui aiment le basket sans se prendre au sérieux.",
    "encadre": [
     "OÙ L'ÉCOUTER",
-    "Ton appli de podcasts",
+    "Ton appli de podcasts préférée",
     ""
    ],
    "logo": "logos/airball.jpg"
@@ -224,6 +224,33 @@
    "ÉCOUTE-LES APRÈS TES MATCHS",
    "EUX, ILS PARLENT DES SCORES."
   ],
-  "texte": "Ces podcasts commentent les résultats : écoute-les après tes replays. Avant, il y a nous : le programme à 18h, le verdict sans spoiler à 8h. Selon toi, on en oublie un ?"
+  "texte": "Ces podcasts commentent les résultats : écoute-les après tes replays. Selon toi, on en oublie un ? Dis-le en commentaire.",
+  "sans_site": true
+ },
+ "presentation": {
+  "etiquette": "PICK & WATCH",
+  "titre": [
+   "PICK & WATCH",
+   "TON PROGRAMME NBA. ZÉRO SPOILER."
+  ],
+  "texte": "Le programme NBA pensé pour les fans français : à l'heure de Paris, avec la chaîne de chaque match, et des verdicts qui ne révèlent jamais le score.",
+  "lignes": [
+   [
+    "18H",
+    "Les matchs de la nuit et où les voir"
+   ],
+   [
+    "8H",
+    "Le verdict sans score : replay, résumé ou zapper"
+   ],
+   [
+    "VENDREDI",
+    "Hors parquet : le basket au-delà des matchs"
+   ],
+   [
+    "LE SITE",
+    "Le programme de ton équipe et « + Agenda »"
+   ]
+  ]
  }
 }
