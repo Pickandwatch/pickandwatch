@@ -38,6 +38,12 @@ liste des Français (data/francais.json, `valide: false` tant qu'Alexandre n'a p
   « meilleurs podcasts basket » (idée d'Alexandre du 25/10).
 - **28/10 — fait** : Alexandre a sponsorisé le post NBA Cup (28/10, ~15h, 3 jours, jusqu'au 31/10)
   à la place du guide (gardé pour mi-novembre). Bilan : captures d'Alexandre → coût par abonné.
+  Bilan au 31/10 8h (18,68 € dépensés sur 21 €, fin le 31/10 vers 16h) : 4 541 vues, 3 309 comptes
+  touchés, 96 visites du profil (0,19 €/visite), 14 abonnés attribués à la pub → 1,33 €/abonné,
+  au-dessus du seuil de 0,80 €. Conversion visite → abonnement : 15 %. La pub amène des visites à
+  bon prix ; c'est le profil qui ne convertit pas assez. Audience utilisée : « Basket jeunes ».
+  Suite : revoir bio + stories à la une avant le test du guide ; mesurer désormais le coût par
+  abonné attribué à la pub (onglet Publicité), pas la croissance totale du compte.
 - **Mi-novembre — Alexandre** : sponsoriser le guide (~20 €, 25-44 ans) ; Claude calcule le coût
   par abonné à partir de ses captures. Règle : budget ~50 €/mois, couper au-delà de 0,80 €/abonné.
 - **Novembre — Claude** : plan du site pour Google (sitemap.xml, titres et descriptions des pages
