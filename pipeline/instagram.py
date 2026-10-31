@@ -111,7 +111,10 @@ def auto_mentions(caption: str) -> tuple[str, list[str]]:
             continue
         m = re.search(r"(?<![@#\w])" + re.escape(nom) + r"(?:\s+(?:MAX\s+)?\d+)?(?![\w])(?!\s*\(@)", out)  # « beIN SPORTS 1 », « MAX 5 » restent entiers
         if m:
-            out = out[:m.end()] + f" (@{pseudo})" + out[m.end():]
+            ligne = out[out.rfind("\n", 0, m.start()) + 1:m.start()]
+            dans_parentheses = ligne.count("(") > ligne.count(")")  # « NBA Extra (beIN SPORTS) » → « (beIN SPORTS @beinsports_fr) »
+            ajout = f" @{pseudo}" if dans_parentheses else f" (@{pseudo})"
+            out = out[:m.end()] + ajout + out[m.end():]
             tags.append(pseudo)
     if len(out) > CAPTION_MAX:
         return caption, []
