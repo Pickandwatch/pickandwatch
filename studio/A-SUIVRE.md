@@ -6,7 +6,7 @@ calées sur la date, budget pub concentré sur ces fenêtres. Préparation lanc�
 - NBA Cup, phase finale : quarts 4-5/12, demies 8-9/12, finale 11/12 (Hinkle Fieldhouse,
   Indianapolis). Préparer dès le 16/11 (fin des groupes autour du 28/11).
 - Noël : 25/12, 5 matchs sur beIN SPORTS de 18h à 4h30. Préparer dès le 4/12.
-- (Proposé, non demandé : match de Paris 14/01, Spurs – Pelicans, Accor Arena, 20h, Prime Video.)
+- Match de Paris : 14/01/2027, Spurs – Pelicans, Accor Arena, 20h, Prime Video (validé par Alexandre le 31/10). Préparer dès le 22/12.
 - All-Star Weekend : 19-21/02/2027, Phoenix. Préparer dès fin janvier.
 - Play-in 13-16/04/2027, playoffs à partir du 17/04, Finales en juin (beIN). Préparer dès fin mars ;
   dispositif sur deux mois (tableau, programme de chaque série, verdicts).
