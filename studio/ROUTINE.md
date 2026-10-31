@@ -24,6 +24,11 @@ prépare du contenu Pick & Watch le lit en entier avant de commencer.
   taguer @beinsports_fr et ses commentateurs (`data/comptes-instagram.json` : Rémi Reverchon, Fred Weis,
   Xavier Vaution, Chris Singleton ; Jacques Monclar cité sans tag) ; chaque fois qu'elle cite Prime Video,
   taguer @primevideosportfr. Jamais de pseudo deviné.
+- **Hashtags et mots-clés (31/10/2026)** : 3 à 5 hashtags ciblés au maximum (Instagram n'en accepte
+  plus que 5 ; au-delà, le robot coupe après le 5e) : `#NBA #NBAFrance #BasketFrance`, plus un ou deux
+  du sujet (`#NBACup`, `#Wembanyama`…). Les hashtags n'apportent presque pas de portée : ce qui compte,
+  ce sont les mots-clés en clair dans la première ligne de la légende et sur la couverture (« NBA »,
+  « heure de Paris », « où regarder », noms d'équipes et de joueurs), que la recherche Instagram lit.
 
 ## Mise en route d'une session
 

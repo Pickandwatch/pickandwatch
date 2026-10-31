@@ -76,6 +76,18 @@ def wait_ready(container_id: str, tries: int = 30) -> None:
     raise SystemExit(f"Conteneur {container_id} pas prêt à temps.")
 
 
+def limit_hashtags(caption: str, n: int = 5) -> str:
+    """Instagram n'accepte plus que 5 hashtags par post ou Reel (fin 2025) : garde les 5 premiers
+    plutôt que de risquer un refus de publication."""
+    seen = 0
+    def keep(m):
+        nonlocal seen
+        seen += 1
+        return m.group(0) if seen <= n else ""
+    out = re.sub(r"\s?#\w+", keep, caption)
+    return out.rstrip()
+
+
 def caption_problems(caption: str) -> list[str]:
     """Garde-fous de la légende, communs à la vérification et à la publication."""
     pb = []
@@ -253,9 +265,9 @@ def publish_due() -> list[Path]:
             if post.get("type") == "story":
                 media_id = publish_stories(urls, f, post)
             elif post.get("type") == "reel":
-                media_id = publish_reel(video_url, urls[0], post["legende"], post.get("grille", True))
+                media_id = publish_reel(video_url, urls[0], limit_hashtags(post["legende"]), post.get("grille", True))
             else:
-                media_id = publish_carousel(urls, post["legende"])
+                media_id = publish_carousel(urls, limit_hashtags(post["legende"]))
         except SystemExit as e:
             msg = str(e)
             definitif = msg.startswith("Garde-fou") or '"is_transient":false' in msg
