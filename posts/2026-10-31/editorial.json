@@ -1,0 +1,42 @@
+{
+ "_statut": "proposé le 31 octobre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des sept matchs, blessures au 31/10/2026, 15h10 ; minutes jouées via les feuilles de match ESPN du 27 au 30/10) ; previews AP/Data Skrive des 30 et 31/10/2026 ; ESPN 31/10/2026 (Chet Holmgren absent 8 à 10 semaines, déchirure du tendon rotulien ; Jalen Williams et Cason Wallace absents pour une longue durée) ; ESPN 31/10/2026 (Ja Morant absent au moins quatre semaines, ischio-jambiers) ; ESPN 31/10/2026 (Jaylen Brown absent vendredi, rotule gauche) ; ESPN 29/10/2026 (Anthony Edwards opéré du genou) ; calendrier ESPN du 30/10 (deuxième soir d'affilée pour PHI, CHA, MIN, HOU) ; guide TV beIN SPORTS (XMLTV, Jazz – Trail Blazers seul match en direct, beIN SPORTS MAX 5, rediffusions beIN SPORTS 1 dim. 10h45 et lun. 0h15) ; Prime Video : pas de match NBA le samedi avant février (insidebasket.com 20/10/2026)",
+ "matchs": {
+  "401909901": {
+   "stars": 3,
+   "score": "8 + 3 + 2 (événement : les Français Victor Wembanyama, Rudy Gobert et Joan Beringer, tous dans la rotation) = 13 ; meilleure note de la nuit",
+   "brief": "Trois Français sur le parquet : Victor Wembanyama, avec De'Aaron Fox et Dylan Harper, face à Rudy Gobert et Joan Beringer. Minnesota joue son deuxième soir d'affilée, sans Anthony Edwards (genou). Tobias Harris (mollet) est absent côté Spurs."
+  },
+  "401909902": {
+   "stars": 2,
+   "score": "3 + 7 = 10, ramené à ★★ (un seul ★★★ par nuit : Spurs – Timberwolves a la meilleure note ; aucun des deux sur une chaîne française)",
+   "brief": "Kevin Durant face à Shai Gilgeous-Alexander et au Thunder, privé de Chet Holmgren (genou, 8 à 10 semaines), Jalen Williams et Cason Wallace. Houston joue son deuxième soir d'affilée ; Alperen Şengün (dos) est incertain."
+  },
+  "401909900": {
+   "stars": 2,
+   "score": "1 + 6 + 2 (événement : le Français Ousmane Dieng, 3 et 13 min à ses deux derniers matchs) = 9, ramené à ★★ (un seul ★★★)",
+   "brief": "Donovan Mitchell, James Harden, Evan Mobley et Jarrett Allen, finalistes de l'Est en 2026, chez Tyler Herro, Myles Turner et le Français Ousmane Dieng."
+  },
+  "401909897": {
+   "stars": 2,
+   "score": "1 + 5 + 2 (événement : les Français Moussa Diabaté et Tidjane Salaün ; Rayan Rupert, non utilisé, non compté) = 8 (pas de slide : au plus 4 slides, LeBron James et Joel Embiid incertains)",
+   "brief": "Deuxième soir d'affilée pour les deux équipes. LeBron James, Joel Embiid (repos) et Jaylen Brown (genou) sont incertains ; en face, Brandon Miller et les Français Moussa Diabaté et Tidjane Salaün. Kon Knueppel et Coby White sont absents côté Charlotte."
+  },
+  "401909896": {
+   "stars": 2,
+   "score": "1 + 3 + 2 (événement : le Français Sidy Cissoko, 19 et 20 min à ses deux derniers matchs) = 6 (slide : seul match en direct sur une chaîne française)",
+   "brief": "Damian Lillard, Deni Avdija et le Français Sidy Cissoko, sans Ja Morant (ischio-jambiers, au moins quatre semaines), chez le rookie Darryn Peterson. Jaren Jackson Jr. (genou) est absent, Lauri Markkanen (poignet) incertain."
+  },
+  "401909898": {
+   "stars": 1,
+   "score": "1 + 3 = 4",
+   "brief": "Zion Williamson et Trey Murphy III face à Jalen Johnson. Jordan Poole (cheville) et Yves Missi (genou) sont absents côté Pelicans."
+  },
+  "401909899": {
+   "stars": 1,
+   "score": "1 + 1 = 2 (Maxime Raynaud, blessé, absent : pas de bonus)",
+   "brief": "Le rookie Cameron Boozer, n° 3 de la draft 2026, face à Domantas Sabonis et Zach LaVine. Le Français Maxime Raynaud (genou) est absent côté Kings."
+  }
+ }
+}

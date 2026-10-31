@@ -1,0 +1,142 @@
+{
+ "cover": {
+  "title": "7 MATCHS, 1 SUR beIN SPORTS",
+  "date": "SAMEDI 31 OCTOBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "SPURS",
+   "WOLVES"
+  ],
+  "top_info": "01:00 · SAN ANTONIO · NBA LEAGUE PASS · PAS DE TV FR. REPÉRÉE",
+  "others": [
+   [
+    "JAZZ – BLAZERS",
+    "20:00",
+    "★★"
+   ],
+   [
+    "HORNETS – 76ERS",
+    "23:00",
+    "★★"
+   ],
+   [
+    "PELICANS – HAWKS",
+    "00:00",
+    "★"
+   ],
+   [
+    "BUCKS – CAVALIERS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "GRIZZLIES – KINGS",
+    "01:00",
+    "★"
+   ],
+   [
+    "ROCKETS – THUNDER",
+    "01:30",
+    "★★"
+   ]
+  ],
+  "note": "TV : JAZZ – BLAZERS EN DIRECT À 20:00 SUR beIN SPORTS MAX 5<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Timberwolves",
+   "away_city": "MINNESOTA",
+   "away_c1": "#0C2340",
+   "away_c2": "#78BE20",
+   "counter": "NUIT DU 31 OCT. AU 1ER NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Trois Français sur le parquet : Victor Wembanyama, avec De'Aaron Fox et Dylan Harper, face à Rudy Gobert et Joan Beringer. Minnesota joue son deuxième soir d'affilée, sans Anthony Edwards (genou). Tobias Harris (mollet) est absent côté Spurs.",
+   "chips": [
+    "V. Wembanyama",
+    "R. Gobert",
+    "J. Beringer",
+    "L. Ball"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "SALT LAKE CITY · DELTA CENTER",
+   "home": "Jazz",
+   "home_city": "UTAH",
+   "home_bg": "#4E008E",
+   "home_sec": "#79A3DC",
+   "away": "Trail Blazers",
+   "away_city": "PORTLAND",
+   "away_c1": "#E03A3E",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 31 OCT. AU 1ER NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "20:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS MAX 5",
+   "brief": "Damian Lillard, Deni Avdija et le Français Sidy Cissoko, sans Ja Morant (ischio-jambiers, au moins quatre semaines), chez le rookie Darryn Peterson. Jaren Jackson Jr. (genou) est absent, Lauri Markkanen (poignet) incertain.",
+   "chips": [
+    "D. Lillard",
+    "D. Avdija",
+    "S. Cissoko",
+    "D. Peterson"
+   ],
+   "foot": "Rediff. dim. 10:45<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "MILWAUKEE · FISERV FORUM",
+   "home": "Bucks",
+   "home_city": "MILWAUKEE",
+   "home_bg": "#00471B",
+   "home_sec": "#EEE1C6",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#BC945C",
+   "counter": "NUIT DU 31 OCT. AU 1ER NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Donovan Mitchell, James Harden, Evan Mobley et Jarrett Allen, finalistes de l'Est en 2026, chez Tyler Herro, Myles Turner et le Français Ousmane Dieng.",
+   "chips": [
+    "D. Mitchell",
+    "J. Harden",
+    "E. Mobley",
+    "O. Dieng"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "HOUSTON · TOYOTA CENTER",
+   "home": "Rockets",
+   "home_city": "HOUSTON",
+   "home_bg": "#CE1141",
+   "home_sec": "#C4CED4",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 31 OCT. AU 1ER NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Kevin Durant face à Shai Gilgeous-Alexander et au Thunder, privé de Chet Holmgren (genou, 8 à 10 semaines), Jalen Williams et Cason Wallace. Houston joue son deuxième soir d'affilée ; Alperen Şengün (dos) est incertain.",
+   "chips": [
+    "K. Durant",
+    "S. Gilgeous-Alexander",
+    "A. Thompson"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
