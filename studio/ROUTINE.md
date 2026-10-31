@@ -35,6 +35,11 @@ prépare du contenu Pick & Watch le lit en entier avant de commencer.
   « (lien en bio) ». Pour présenter une fonction du site : `studio/site_tuto.py` (mode d'emploi
   en étapes, avec de vraies captures d'écran du site dans un téléphone ; modèle :
   `posts/2026-10-31-mon-equipe/`).
+- **Taguer l'écosystème basket dès que c'est pertinent (Alexandre, 31/10/2026)** : quand une légende
+  reprend une info, un contenu ou une émission d'un média, d'un podcast ou d'un créateur basket, le
+  citer et le taguer, s'il figure dans `data/comptes-instagram.json` (liste `_a_verifier` : ne pas
+  taguer tant qu'Alexandre n'a pas donné ou confirmé le pseudo). Jamais de tag sans lien avec le
+  contenu : un tag gratuit fait passer le compte pour du spam.
 - **Hashtags et mots-clés (31/10/2026)** : 3 à 5 hashtags ciblés au maximum (Instagram n'en accepte
   plus que 5 ; au-delà, le robot coupe après le 5e) : `#NBA #NBAFrance #BasketFrance`, plus un ou deux
   du sujet (`#NBACup`, `#Wembanyama`…). Les hashtags n'apportent presque pas de portée : ce qui compte,
