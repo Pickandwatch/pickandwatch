@@ -109,6 +109,8 @@ def auto_mentions(caption: str) -> tuple[str, list[str]]:
         if f"@{pseudo}".lower() in out.lower():
             tags.append(pseudo) if pseudo not in tags else None
             continue
+        if len(re.findall(r"@[\w.]+", out)) >= 20:  # Instagram : 20 mentions au plus par publication
+            break
         m = re.search(r"(?<![@#\w])" + re.escape(nom) + r"(?:\s+(?:MAX\s+)?\d+)?(?![\w])(?!\s*\(@)", out)  # « beIN SPORTS 1 », « MAX 5 » restent entiers
         if m:
             ligne = out[out.rfind("\n", 0, m.start()) + 1:m.start()]
