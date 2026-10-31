@@ -40,6 +40,11 @@ prépare du contenu Pick & Watch le lit en entier avant de commencer.
   citer et le taguer, s'il figure dans `data/comptes-instagram.json` (liste `_a_verifier` : ne pas
   taguer tant qu'Alexandre n'a pas donné ou confirmé le pseudo). Jamais de tag sans lien avec le
   contenu : un tag gratuit fait passer le compte pour du spam.
+  **Tag automatique (31/10/2026)** : à la publication, le robot ajoute « (@pseudo) » à la première
+  mention de chaque compte vérifié (`comptes` et `variantes` de `data/comptes-instagram.json`) qui
+  n'est pas déjà tagué ; `verify` affiche les tags qui seront ajoutés. Il suffit donc d'écrire le nom
+  (« Basket USA », « Prime Video », « Fred Weis ») ; pour un nouveau compte confirmé, l'ajouter au
+  fichier, avec ses variantes d'écriture.
 - **Hashtags et mots-clés (31/10/2026)** : 3 à 5 hashtags ciblés au maximum (Instagram n'en accepte
   plus que 5 ; au-delà, le robot coupe après le 5e) : `#NBA #NBAFrance #BasketFrance`, plus un ou deux
   du sujet (`#NBACup`, `#Wembanyama`…). Les hashtags n'apportent presque pas de portée : ce qui compte,

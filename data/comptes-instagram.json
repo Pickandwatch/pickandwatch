@@ -8,9 +8,10 @@
     "Frédéric Weis": "fredweis",
     "Xavier Vaution": "xavier_vaution",
     "Chris Singleton": "singleton5738",
-    "Basket USA": "basketusa"
+    "Basket USA": "basketusa",
+    "First Team": "firstteam101"
   },
-  "_source": "donnés par Alexandre le 25/10/2026 ; Basket USA vérifié le 31/10/2026 (lien Instagram du site officiel basketusa.com)",
+  "_source": "donnés par Alexandre le 25/10/2026 ; Basket USA vérifié le 31/10/2026 (lien Instagram du site officiel basketusa.com) ; First Team vérifié le 31/10/2026 (chaîne YouTube officielle : Instagram @FirstTeam101)",
   "_a_verifier": [
     "TrashTalk",
     "BasketSession",
@@ -19,7 +20,13 @@
     "NBA France",
     "NBA Extra (beIN SPORTS ; présentateurs Nicolas Sarnak et Baptiste Denis)",
     "Dunkhebdo",
-    "First Team",
     "commentateurs de Prime Video"
-  ]
+  ],
+  "variantes": {
+    "beIN SPORTS": "beinsports_fr",
+    "Prime Video": "primevideosportfr",
+    "Fred Weis": "fredweis",
+    "Basket USA": "basketusa"
+  },
+  "_variantes": "Autres façons d'écrire un nom déjà vérifié : le robot tague automatiquement la première mention (pipeline.instagram.auto_mentions)."
 }

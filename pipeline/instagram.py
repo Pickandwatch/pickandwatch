@@ -89,6 +89,35 @@ def wait_ready(container_id: str, tries: int = 30) -> None:
     raise SystemExit(f"Conteneur {container_id} pas prêt à temps.")
 
 
+def _comptes() -> dict:
+    """Noms (et variantes) → pseudo, depuis data/comptes-instagram.json (comptes vérifiés seulement)."""
+    try:
+        d = json.loads((ROOT / "data" / "comptes-instagram.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    m = {k: v for k, v in d.get("comptes", {}).items() if v != "pickandwatch.fr"}
+    m.update(d.get("variantes", {}))
+    return m
+
+
+def auto_mentions(caption: str) -> tuple[str, list[str]]:
+    """Tag automatique : à la première mention d'un compte vérifié (« Basket USA », « Prime Video »…),
+    ajoute « (@pseudo) » s'il n'est pas déjà tagué. Renvoie la légende et les pseudos tagués.
+    Ne touche ni aux hashtags ni aux liens. Si la légende dépasserait 2 200 caractères, rien n'est ajouté."""
+    out, tags = caption, []
+    for nom, pseudo in sorted(_comptes().items(), key=lambda kv: -len(kv[0])):
+        if f"@{pseudo}".lower() in out.lower():
+            tags.append(pseudo) if pseudo not in tags else None
+            continue
+        m = re.search(r"(?<![@#\w])" + re.escape(nom) + r"(?:\s+(?:MAX\s+)?\d+)?(?![\w])(?!\s*\(@)", out)  # « beIN SPORTS 1 », « MAX 5 » restent entiers
+        if m:
+            out = out[:m.end()] + f" (@{pseudo})" + out[m.end():]
+            tags.append(pseudo)
+    if len(out) > CAPTION_MAX:
+        return caption, []
+    return out, tags
+
+
 def limit_hashtags(caption: str, n: int = 5) -> str:
     """Instagram n'accepte plus que 5 hashtags par post ou Reel (fin 2025) : garde les 5 premiers
     plutôt que de risquer un refus de publication."""
@@ -139,7 +168,9 @@ def verify() -> None:
         except (KeyError, TypeError, ValueError):
             pb.append("publier_a absent ou illisible")
         print(f"{f.parent.name} : " + ("OK" if not pb else "PROBLÈME — " + " ; ".join(pb))
-              + f" ({len(post.get('legende', ''))} caractères)")
+              + f" ({len(post.get('legende', ''))} caractères)"
+              + ("".join(f" @{t}" for t in auto_mentions(post.get("legende", ""))[1]) and
+                 " ; tags auto :" + "".join(f" @{t}" for t in auto_mentions(post.get("legende", ""))[1])))
         bad += bool(pb)
     if bad:
         raise SystemExit(f"{bad} post(s) seraient refusés à la publication.")
@@ -278,9 +309,9 @@ def publish_due() -> list[Path]:
             if post.get("type") == "story":
                 media_id = publish_stories(urls, f, post)
             elif post.get("type") == "reel":
-                media_id = publish_reel(video_url, urls[0], limit_hashtags(post["legende"]), post.get("grille", True))
+                media_id = publish_reel(video_url, urls[0], limit_hashtags(auto_mentions(post["legende"])[0]), post.get("grille", True))
             else:
-                media_id = publish_carousel(urls, limit_hashtags(post["legende"]))
+                media_id = publish_carousel(urls, limit_hashtags(auto_mentions(post["legende"])[0]))
         except SystemExit as e:
             msg = str(e)
             definitif = msg.startswith("Garde-fou") or ('"is_transient":false' in msg and "2207027" not in msg)
