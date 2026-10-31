@@ -1,4 +1,34 @@
 {
- "_note": "Comptes basket dont le robot relève les dernières publications (mode « veille » d'instagram.yml) pour proposer des commentaires à Alexandre, qui les publie lui-même. Comptes professionnels seulement (API business_discovery). Liste à compléter à partir des abonnements d'Alexandre.",
- "comptes": ["basketusa", "beinsports_fr", "primevideosportfr", "firstteam101"]
+ "_note": "Comptes basket dont le robot relève les dernières publications (mode « veille » d'instagram.yml) pour proposer des commentaires à Alexandre, qui les publie lui-même. Comptes professionnels seulement (API business_discovery). Liste à compléter à partir des abonnements d'Alexandre. Liste du 31/10/2026, tirée des abonnements d'Alexandre (comptes français ou francophones).",
+ "comptes": [
+  "trashtalk.co",
+  "nbafrance",
+  "nbaextra",
+  "reversemagazine",
+  "basketusa",
+  "firstteam101",
+  "offense_emission",
+  "espnfrance",
+  "basket4ballers",
+  "parlons_nba",
+  "quotidienba",
+  "lesspurs",
+  "bleublancdunk",
+  "5majeur_officiel",
+  "overtimefr",
+  "headliners_fr",
+  "rookicksnews",
+  "nbaeurope",
+  "parisbasketball",
+  "lelancerfranc.fr",
+  "clutch5.fr",
+  "_moneytime__",
+  "marypatrux",
+  "fredweis",
+  "remireverchon",
+  "aballneverlies",
+  "bastftn",
+  "beinsports_fr",
+  "primevideosportfr"
+ ]
 }
