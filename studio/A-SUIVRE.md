@@ -1,3 +1,20 @@
+# Grands rendez-vous : dispositifs renforcés (demande d'Alexandre, 31/10/2026)
+Modèle : la séquence NBA Cup d'octobre (charte dédiée, annonce + palmarès + enjeux, bandeau en tête
+des programmes et verdicts). Pour chacun : J-7 « tout comprendre » (carrousel + story + Reel), page
+dédiée sur pickandwatch.fr si utile, J-1 programme renforcé, J+1 verdicts renforcés, collaborations
+calées sur la date, budget pub concentré sur ces fenêtres. Préparation lancée 3 semaines avant.
+- NBA Cup, phase finale : quarts 4-5/12, demies 8-9/12, finale 11/12 (Hinkle Fieldhouse,
+  Indianapolis). Préparer dès le 16/11 (fin des groupes autour du 28/11).
+- Noël : 25/12, 5 matchs sur beIN SPORTS de 18h à 4h30. Préparer dès le 4/12.
+- (Proposé, non demandé : match de Paris 14/01, Spurs – Pelicans, Accor Arena, 20h, Prime Video.)
+- All-Star Weekend : 19-21/02/2027, Phoenix. Préparer dès fin janvier.
+- Play-in 13-16/04/2027, playoffs à partir du 17/04, Finales en juin (beIN). Préparer dès fin mars ;
+  dispositif sur deux mois (tableau, programme de chaque série, verdicts).
+- Coupe du monde FIBA : à partir du 27/08/2027 à Doha (Qatar), environ deux semaines et demie,
+  32 équipes. À vérifier avant de communiquer : qualification de la France, diffuseur français,
+  maintien du calendrier (FIBA évoquait en juin 2026 de possibles ajustements liés au contexte
+  régional). Préparer dès début juillet.
+
 # Cap (Alexandre, 31/10/2026)
 - **Priorité : dépasser 1 000 abonnés Instagram avant le 31 décembre 2026** (284 le 31/10, soit
   environ 80 abonnés nets par semaine). Point chaque lundi : gagnés, provenance (pub, Reels,
