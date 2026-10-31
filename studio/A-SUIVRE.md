@@ -1,3 +1,14 @@
+# Commentaires proposés (validé par Alexandre le 31/10/2026)
+- Principe : chaque jour, UN SEUL lot (vers 17h30) de 3 à 5 commentaires rédigés pour des
+  publications récentes des comptes basket clés ; Alexandre les publie lui-même (pas de commentaire
+  automatique : interdit par Instagram et contraire à l'image du compte). Jamais de spoiler.
+- Lecture des publications : `python -m pipeline.instagram veille` (mode « veille » d'instagram.yml,
+  API business_discovery, lecture seule) sur `data/veille-comptes.json` → `data/veille/<date>.json`.
+- BLOQUÉ au 31/10 : erreur Meta (#10) « Application does not have permission » ; il faut un nouveau
+  jeton avec `pages_read_engagement` (avec `instagram_basic`), à faire pendant la séance Meta
+  prévue (avec instagram_manage_comments et instagram_manage_insights). Puis créer la tâche
+  quotidienne de 17h15 et compléter la liste des comptes à partir des abonnements d'Alexandre.
+
 # Grands rendez-vous : dispositifs renforcés (demande d'Alexandre, 31/10/2026)
 Modèle : la séquence NBA Cup d'octobre (charte dédiée, annonce + palmarès + enjeux, bandeau en tête
 des programmes et verdicts). Pour chacun : J-7 « tout comprendre » (carrousel + story + Reel), page
