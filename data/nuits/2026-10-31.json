@@ -1,6 +1,6 @@
 {
   "night": "2026-10-31",
-  "generated_at": "2026-10-31T15:10+01:00",
+  "generated_at": "2026-10-31T18:51+01:00",
   "games": [
     {
       "id": "401909896",
@@ -46,8 +46,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Damian Lillard, Deni Avdija et le Français Sidy Cissoko, sans Ja Morant (ischio-jambiers, au moins quatre semaines), chez le rookie Darryn Peterson. Jaren Jackson Jr. (genou) est absent, Lauri Markkanen (poignet) incertain.",
       "commentators": null
     },
     {
@@ -82,8 +82,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Deuxième soir d'affilée pour les deux équipes. LeBron James, Joel Embiid (repos) et Jaylen Brown (genou) sont incertains ; en face, Brandon Miller et les Français Moussa Diabaté et Tidjane Salaün. Kon Knueppel et Coby White sont absents côté Charlotte.",
       "commentators": null
     },
     {
@@ -118,8 +118,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Zion Williamson et Trey Murphy III face à Jalen Johnson. Jordan Poole (cheville) et Yves Missi (genou) sont absents côté Pelicans.",
       "commentators": null
     },
     {
@@ -154,8 +154,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Le rookie Cameron Boozer, n° 3 de la draft 2026, face à Domantas Sabonis et Zach LaVine. Le Français Maxime Raynaud (genou) est absent côté Kings.",
       "commentators": null
     },
     {
@@ -190,8 +190,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Donovan Mitchell, James Harden, Evan Mobley et Jarrett Allen, finalistes de l'Est en 2026, chez Tyler Herro, Myles Turner et le Français Ousmane Dieng.",
       "commentators": null
     },
     {
@@ -226,8 +226,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Trois Français sur le parquet : Victor Wembanyama, avec De'Aaron Fox et Dylan Harper, face à Rudy Gobert et Joan Beringer. Minnesota joue son deuxième soir d'affilée, sans Anthony Edwards (genou). Tobias Harris (mollet) est absent côté Spurs.",
       "commentators": null
     },
     {
@@ -262,8 +262,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Kevin Durant face à Shai Gilgeous-Alexander et au Thunder, privé de Chet Holmgren (genou, 8 à 10 semaines), Jalen Williams et Cason Wallace. Houston joue son deuxième soir d'affilée ; Alperen Şengün (dos) est incertain.",
       "commentators": null
     }
   ],
