@@ -26,7 +26,7 @@ prépare du contenu Pick & Watch le lit en entier avant de commencer.
 - **Diffuseurs et commentateurs (Alexandre, 25/10/2026)** : chaque fois qu'une légende cite beIN SPORTS,
   taguer @beinsports_fr et ses commentateurs (`data/comptes-instagram.json` : Rémi Reverchon, Fred Weis,
   Xavier Vaution, Chris Singleton ; Jacques Monclar cité sans tag) ; chaque fois qu'elle cite Prime Video,
-  taguer @primevideosportfr. Jamais de pseudo deviné.
+  taguer @primevideosportfr et, quand on parle de ses commentateurs, Max Le Liard (@max_leliard ; Kevin Séraphin : pseudo à confirmer). Jamais de pseudo deviné.
 - **Le site d'abord nommé (Alexandre, 31/10/2026)** : partir du principe que les abonnés connaissent
   le compte Instagram, pas le site. Tout contenu qui parle d'une fonction du site dit explicitement
   que Pick & Watch, c'est aussi un site, et fait apparaître **pickandwatch.fr** en grand (couverture
