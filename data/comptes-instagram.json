@@ -34,24 +34,26 @@
     "Headliners": "headliners_fr",
     "Rookicks": "rookicksnews",
     "Ultimedia Box": "ultimediabox",
-    "NBA on Prime": "nbaonprime"
+    "NBA on Prime": "nbaonprime",
+    "Baptiste Denis": "bap_denis",
+    "Shaï Mamou": "shaimamou",
+    "RMC Sport": "rmc_sport",
+    "Thomas Dufant": "justbeliketom",
+    "Airball": "airball_axel_urbain",
+    "Celtics France": "celtics_fra"
   },
-  "_source": "donnés par Alexandre le 25/10/2026 ; Basket USA vérifié le 31/10/2026 (lien Instagram du site officiel basketusa.com) ; First Team vérifié le 31/10/2026 (chaîne YouTube officielle : Instagram @FirstTeam101) ; 31/10/2026 : abonnements d'Alexandre (captures de sa liste « Suivi(e)s ») ; « BasketSession » → reversemagazine (nom affiché : « REVERSE/BasketS… »)",
+  "_source": "donnés par Alexandre le 25/10/2026 ; Basket USA vérifié le 31/10/2026 (lien Instagram du site officiel basketusa.com) ; First Team vérifié le 31/10/2026 (chaîne YouTube officielle : Instagram @FirstTeam101) ; 31/10/2026 : abonnements d'Alexandre (captures de sa liste « Suivi(e)s ») ; « BasketSession » → reversemagazine (nom affiché : « REVERSE/BasketS… ») ; 31/10/2026 : profils trouvés et envoyés par Alexandre (Airball, Thomas Dufant fondateur de First Team, Baptiste Denis, Shaï Mamou, RMC Sport, Celtics France)",
   "_a_verifier": [
     "Antoine Pimmel",
-    "Shaï Mamou",
     "animateurs de Hoop Culture",
-    "RMC Sport / Basket Time",
     "Pierre Dorian",
     "Stephen Brun",
     "Nicolas Sarnak",
-    "Baptiste Denis",
-    "Erwan et Thomas (First Team)",
     "Le Dreamcast Show (Baptiste, Azad)",
-    "Airball (Axel, Urbain)",
     "commentateurs de Prime Video",
     "Équipe de France (pseudo tronqué sur la capture)",
-    "House of Highlights, Basketball Forever (pseudos tronqués)"
+    "House of Highlights, Basketball Forever (pseudos tronqués)",
+    "Erwan (First Team) : erwanabau (Erwan Abautret) suggéré par Instagram, lien avec First Team non confirmé"
   ],
   "variantes": {
     "beIN SPORTS": "beinsports_fr",
@@ -65,7 +67,7 @@
   },
   "_variantes": "Autres façons d'écrire un nom déjà vérifié : le robot tague automatiquement la première mention (pipeline.instagram.auto_mentions).",
   "sans_variante": {
-    "lesspurs": "page de fans des Spurs (San Antonio Spurs, badge vérifié)",
+    "lesspurs": "San Antonio Spurs en français (badge vérifié, 250 K abonnés)",
     "aballneverlies": "Alex, TrashTalk (The Ball Never Lies)",
     "bastftn": "Bastien, TrashTalk"
   }

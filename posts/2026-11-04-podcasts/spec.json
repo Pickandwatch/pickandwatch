@@ -141,12 +141,13 @@
      "AUDIO + YT"
     ]
    ],
-   "texte": "Erwan et Thomas tous les jours : la Libre Antenne NBA, les previews des équipes, des interviews exclusives, et Offense, leur nouveau débat. En podcast et sur YouTube.",
+   "texte": "Fondé par Thomas Dufant, avec Erwan et Thomas tous les jours : la Libre Antenne NBA, les previews des équipes, des interviews exclusives et Offense, leur nouveau débat. En podcast et sur YouTube.",
    "encadre": [
     "OÙ LES SUIVRE",
     "Podcast et YouTube",
     ""
-   ]
+   ],
+   "taille": 34
   },
   {
    "etiquette": "À ÉCOUTER",
@@ -186,7 +187,7 @@
    "chiffres": [
     [
      "RYTHME",
-     "2×/SEM."
+     "LE LUNDI"
     ],
     [
      "ÉPISODES",
@@ -197,7 +198,7 @@
      "DÉCALÉ"
     ]
    ],
-   "texte": "Axel et Urbain racontent l'actu NBA de la semaine sur le ton de la blague. Pour ceux qui aiment le basket sans se prendre au sérieux.",
+   "texte": "Axel et Urbain racontent l'actu NBA sur le ton de la blague, chaque lundi. Pour ceux qui aiment le basket sans se prendre au sérieux.",
    "encadre": [
     "OÙ L'ÉCOUTER",
     "Ton appli de podcasts",
