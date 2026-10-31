@@ -337,6 +337,31 @@ def publish_due() -> list[Path]:
     return done
 
 
+def veille() -> None:
+    """Veille des comptes basket (data/veille-comptes.json) pour les commentaires proposés à Alexandre :
+    dernières publications publiques de chaque compte professionnel, via l'API officielle
+    (business_discovery, lecture seule). Écrit data/veille/AAAA-MM-JJ.json. Ne publie rien."""
+    noms = json.loads((ROOT / "data" / "veille-comptes.json").read_text(encoding="utf-8")).get("comptes", [])
+    ig, out, erreurs = CFG["ig_user_id"], [], []
+    champs = "username,name,followers_count,media.limit(4){caption,permalink,timestamp,like_count,comments_count,media_type}"
+    for u in noms:
+        try:
+            r = _call("GET", ig, fields=f"business_discovery.username({u}){{{champs}}}").get("business_discovery", {})
+            out.append({"compte": r.get("username", u), "nom": r.get("name"), "abonnes": r.get("followers_count"),
+                        "publications": [{k: m.get(k) for k in ("timestamp", "permalink", "media_type", "like_count", "comments_count")}
+                                          | {"legende": (m.get("caption") or "")[:600]} for m in r.get("media", {}).get("data", [])]})
+        except SystemExit as e:
+            erreurs.append(f"{u} : {str(e)[:200]}")
+    d = datetime.now(PARIS).strftime("%Y-%m-%d")
+    f = ROOT / "data" / "veille" / f"{d}.json"
+    f.parent.mkdir(parents=True, exist_ok=True)
+    f.write_text(json.dumps({"releve_le": datetime.now(PARIS).isoformat(timespec="minutes"), "comptes": out,
+                             "erreurs": erreurs}, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Veille : {len(out)} comptes lus, {len(erreurs)} erreurs → {f.relative_to(ROOT)}")
+    for e in erreurs:
+        print("  ", e)
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
-    {"check": check, "publish-due": publish_due, "verify": verify}[cmd]()
+    {"check": check, "publish-due": publish_due, "verify": verify, "veille": veille}[cmd]()

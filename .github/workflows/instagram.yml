@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "check = vérifier la clé sans publier ; publish-due = publier ce qui est prêt"
+        description: "check = vérifier la clé sans publier ; publish-due = publier ce qui est prêt ; veille = relever les publications des comptes basket"
         default: "check"
         required: true
 
@@ -40,7 +40,7 @@ jobs:
         run: |
           git config user.name "Pick & Watch (robot)"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add posts 2>/dev/null || true
+          git add posts data/veille 2>/dev/null || true
           if git diff --cached --quiet; then echo "Rien à enregistrer."; else
             git commit -m "Instagram : statut des posts mis à jour" && git pull --rebase && git push; fi
       - name: Alerter en cas d'échec
