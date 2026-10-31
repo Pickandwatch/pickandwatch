@@ -7,20 +7,20 @@
   ],
   "lignes": [
    [
-    "NBA EXTRA",
-    "beIN SPORTS"
+    "FIRST TEAM",
+    "LES INCONTOURNABLES"
    ],
    [
     "BASKETSESSION",
-    "CQFR · HOOP CULTURE"
+    "DES FANS ULTRA POINTUS"
+   ],
+   [
+    "NBA EXTRA",
+    "LA BANDE DE beIN, EN OFF"
    ],
    [
     "BASKET TIME",
     "RMC SPORT"
-   ],
-   [
-    "FIRST TEAM",
-    "PODCAST + YOUTUBE"
    ],
    [
     "DREAMCAST SHOW",
@@ -36,109 +36,23 @@
  "slides": [
   {
    "etiquette": "À ÉCOUTER",
-   "rubrique": "PODCAST · beIN SPORTS",
-   "titre": [
-    "NBA EXTRA",
-    "LA BANDE DE beIN, CHAQUE SEMAINE"
-   ],
-   "chiffres": [
-    [
-     "RYTHME",
-     "HEBDO"
-    ],
-    [
-     "ÉPISODES",
-     "600+"
-    ],
-    [
-     "NOTE APPLE",
-     "4,6/5"
-    ]
-   ],
-   "texte": "Nicolas Sarnak et Baptiste Denis débattent chaque semaine de trois grands thèmes de l'actu NBA, avec les voix de beIN SPORTS : Jacques Monclar, Rémi Reverchon, Mary Patrux, Fred Weis, Xavier Vaution, Chris Singleton.",
-   "taille": 33,
-   "encadre": [
-    "OÙ L'ÉCOUTER",
-    "Podcast et YouTube",
-    ""
-   ]
-  },
-  {
-   "etiquette": "À ÉCOUTER",
-   "rubrique": "PODCAST · BASKETSESSION",
-   "titre": [
-    "BASKETSESSION",
-    "CQFR, HOOP CULTURE ET LES AUTRES"
-   ],
-   "chiffres": [
-    [
-     "CQFR",
-     "1/JOUR"
-    ],
-    [
-     "ÉPISODES",
-     "1 400+"
-    ],
-    [
-     "APPLE SPORT",
-     "N°1"
-    ]
-   ],
-   "texte": "Les journalistes de BasketSession.com et du mook REVERSE : l'actu du jour avec CQFR, animé par Antoine Pimmel et Shaï Mamou, et la culture basket avec Hoop Culture. L'un des meilleurs podcasts basket en France.",
-   "taille": 34,
-   "encadre": [
-    "OÙ L'ÉCOUTER",
-    "Spotify, Apple, Deezer, YouTube",
-    ""
-   ]
-  },
-  {
-   "etiquette": "À ÉCOUTER",
-   "rubrique": "PODCAST · RMC SPORT",
-   "titre": [
-    "BASKET TIME",
-    "LE PODCAST BASKET DE RMC"
-   ],
-   "chiffres": [
-    [
-     "ÉPISODES",
-     "600+"
-    ],
-    [
-     "DEPUIS",
-     "7 ANS"
-    ],
-    [
-     "ANTENNE",
-     "RMC"
-    ]
-   ],
-   "texte": "Pierre Dorian à l'animation, avec Fred Weis et Stephen Brun : l'actu NBA et du basket en quatre quart-temps, quiz compris.",
-   "encadre": [
-    "OÙ L'ÉCOUTER",
-    "Ton appli de podcasts",
-    ""
-   ]
-  },
-  {
-   "etiquette": "À ÉCOUTER",
    "rubrique": "PODCAST + YOUTUBE",
    "titre": [
     "FIRST TEAM",
-    "LA CHAÎNE DE TOUS LES BASKETS"
+    "LES INCONTOURNABLES"
    ],
    "chiffres": [
     [
-     "DEPUIS",
-     "10 ANS"
+     "NOTE APPLE",
+     "?"
     ],
     [
      "RYTHME",
      "1/JOUR"
     ],
     [
-     "SUPPORTS",
-     "AUDIO + YT"
+     "DEPUIS",
+     "10 ANS"
     ]
    ],
    "texte": "Erwan Abautret et Thomas Dufant, tous les jours : la Libre Antenne NBA, les previews des équipes, des interviews exclusives et Offense, leur nouveau débat. En podcast et sur YouTube.",
@@ -151,6 +65,92 @@
   },
   {
    "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST · BASKETSESSION",
+   "titre": [
+    "BASKETSESSION",
+    "DES FANS ULTRA POINTUS"
+   ],
+   "chiffres": [
+    [
+     "NOTE APPLE",
+     "?"
+    ],
+    [
+     "CQFR",
+     "1/JOUR"
+    ],
+    [
+     "ÉPISODES",
+     "1 400+"
+    ]
+   ],
+   "texte": "De vrais fans de basket, ultra pointus : la rédaction de BasketSession et du mook REVERSE. L'actu du jour avec CQFR, animé par Antoine Pimmel et Shaï Mamou, et la culture basket avec Hoop Culture.",
+   "taille": 34,
+   "encadre": [
+    "OÙ L'ÉCOUTER",
+    "Spotify, Apple, Deezer, YouTube",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST · beIN SPORTS",
+   "titre": [
+    "NBA EXTRA",
+    "LA BANDE DE beIN, EN OFF"
+   ],
+   "chiffres": [
+    [
+     "NOTE APPLE",
+     "4,6/5"
+    ],
+    [
+     "RYTHME",
+     "HEBDO"
+    ],
+    [
+     "ÉPISODES",
+     "600+"
+    ]
+   ],
+   "texte": "Nicolas Sarnak et Baptiste Denis avec les voix de beIN SPORTS (Jacques Monclar, Rémi Reverchon, Mary Patrux, Fred Weis, Xavier Vaution, Chris Singleton), sur un ton plus libre et plus « off » qu'à l'antenne.",
+   "taille": 33,
+   "encadre": [
+    "OÙ L'ÉCOUTER",
+    "Podcast et YouTube",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À ÉCOUTER",
+   "rubrique": "PODCAST · RMC SPORT",
+   "titre": [
+    "BASKET TIME",
+    "LE PODCAST BASKET DE RMC"
+   ],
+   "chiffres": [
+    [
+     "NOTE APPLE",
+     "?"
+    ],
+    [
+     "ÉPISODES",
+     "600+"
+    ],
+    [
+     "DEPUIS",
+     "7 ANS"
+    ]
+   ],
+   "texte": "Pierre Dorian à l'animation, avec Fred Weis et Stephen Brun : l'actu NBA et du basket en quatre quart-temps, quiz compris.",
+   "encadre": [
+    "OÙ L'ÉCOUTER",
+    "Ton appli de podcasts",
+    ""
+   ]
+  },
+  {
+   "etiquette": "À ÉCOUTER",
    "rubrique": "PODCAST · HEBDO",
    "titre": [
     "LE DREAMCAST SHOW",
@@ -158,12 +158,12 @@
    ],
    "chiffres": [
     [
-     "RYTHME",
-     "HEBDO"
+     "NOTE APPLE",
+     "?"
     ],
     [
-     "NOTE APPLE",
-     "4,9/5"
+     "RYTHME",
+     "HEBDO"
     ],
     [
      "DEPUIS",
@@ -186,12 +186,12 @@
    ],
    "chiffres": [
     [
-     "RYTHME",
-     "LE LUNDI"
+     "NOTE APPLE",
+     "?"
     ],
     [
-     "ÉPISODES",
-     "150"
+     "RYTHME",
+     "LE LUNDI"
     ],
     [
      "TON",
