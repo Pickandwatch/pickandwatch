@@ -1,0 +1,10 @@
+{
+ "releve_le": "2026-10-31T13:48+01:00",
+ "comptes": [],
+ "erreurs": [
+  "basketusa : Erreur Meta 400 sur 17841425340665160 : {\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"fbtrace_id\":\"A8lRb628yfqOUNg1yEml0f5\"}}",
+  "beinsports_fr : Erreur Meta 400 sur 17841425340665160 : {\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"fbtrace_id\":\"AUsOHH4p8xAq1h7Q7QU0hpH\"}}",
+  "primevideosportfr : Erreur Meta 400 sur 17841425340665160 : {\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"fbtrace_id\":\"A8MsGIFmbu4YEoxw9HRjheg\"}}",
+  "firstteam101 : Erreur Meta 400 sur 17841425340665160 : {\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"type\":\"OAuthException\",\"code\":10,\"fbtrace_id\":\"AXGySVm1REHvHAknTESSL_z\"}}"
+ ]
+}
