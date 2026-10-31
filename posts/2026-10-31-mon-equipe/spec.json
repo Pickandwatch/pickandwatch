@@ -1,0 +1,69 @@
+{
+ "couverture": {
+  "etiquette": "SUR LE SITE",
+  "titre": [
+   "TON ÉQUIPE EN NOVEMBRE",
+   "TOUS SES MATCHS SUR LE SITE"
+  ],
+  "lignes": [
+   [
+    "TOUS SES MATCHS",
+    "À L'HEURE DE PARIS"
+   ],
+   [
+    "CHAQUE MATCH",
+    "SA CHAÎNE EN FRANCE"
+   ],
+   [
+    "+ AGENDA",
+    "CEUX QUE TU VEUX, EN 1 CLIC"
+   ]
+  ],
+  "accroche": "Le mode d'emploi en 3 étapes.",
+  "capture": "capture-2.png",
+  "cadrage": "top"
+ },
+ "etapes": [
+  {
+   "etiquette": "MODE D'EMPLOI",
+   "rubrique": "ÉTAPE 1",
+   "titre": [
+    "VA SUR PICKANDWATCH.FR",
+    "ONGLET « MON ÉQUIPE »"
+   ],
+   "texte": "Le lien est dans notre bio. Sur le site, ouvre l'onglet « Mon équipe » et choisis ton équipe parmi les 30.",
+   "capture": "capture-1.png",
+   "cadrage": "top"
+  },
+  {
+   "etiquette": "MODE D'EMPLOI",
+   "rubrique": "ÉTAPE 2",
+   "titre": [
+    "TOUS SES MATCHS",
+    "DE NOVEMBRE, HEURE DE PARIS"
+   ],
+   "texte": "Pour chaque match : la date, l'heure de Paris, l'adversaire et la chaîne française (beIN SPORTS, Prime Video ou League Pass). Les matchs de NBA Cup sont signalés.",
+   "capture": "capture-2.png",
+   "cadrage": "top"
+  },
+  {
+   "etiquette": "MODE D'EMPLOI",
+   "rubrique": "ÉTAPE 3",
+   "titre": [
+    "UN MATCH TE TENTE ?",
+    "« + AGENDA », C'EST NOTÉ"
+   ],
+   "texte": "Un clic, et le match s'ajoute à Google Agenda, Outlook ou ton iPhone, avec l'heure et la chaîne. Un par un : seulement ceux que tu veux voir.",
+   "capture": "capture-3.png",
+   "cadrage": "bottom"
+  }
+ ],
+ "fin": {
+  "etiquette": "MODE D'EMPLOI",
+  "titre": [
+   "TON ÉQUIPE, TON AGENDA.",
+   "ZÉRO SPOILER."
+  ],
+  "texte": "Le lendemain à 8h, notre verdict sans spoiler, ici sur Instagram : replay, résumé ou zapper. Et fin novembre, le programme de décembre."
+ }
+}

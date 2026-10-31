@@ -47,7 +47,7 @@ def main(night: str) -> int:
         print("Story déjà publiée : images refaites, post.json laissé tel quel.")
         return 0
     story = {"type": "story", "suit": night, "publier_a": post["publier_a"],
-             "statut": post["statut"] if post.get("statut") in ("valide", "annule") else "propose", "images": names, "legende": ""}
+             "statut": post["statut"] if post.get("statut") in ("valide", "annule", "brouillon") else "propose", "images": names, "legende": ""}
     f.write_text(json.dumps(story, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"{len(names)} stories dans {out} ({story['statut']}, {story['publier_a']})")
     return 0

@@ -40,6 +40,19 @@ def token() -> str:
 
 
 def call(method: str, path: str, **params) -> dict:
+    """Appel à l'API. Sur media_publish, l'erreur Meta 2207027 (« le contenu n'est pas prêt, patientez
+    un peu ») est en réalité passagère : on attend et on réessaie (6 fois, toutes les 10 s)."""
+    for essai in range(6):
+        try:
+            return _call(method, path, **params)
+        except SystemExit as e:
+            if path.endswith("/media_publish") and "2207027" in str(e) and essai < 5:
+                time.sleep(10)
+                continue
+            raise
+
+
+def _call(method: str, path: str, **params) -> dict:
     params["access_token"] = token()
     data = urllib.parse.urlencode(params).encode()
     url = f"{API}/{path}"
@@ -270,7 +283,7 @@ def publish_due() -> list[Path]:
                 media_id = publish_carousel(urls, limit_hashtags(post["legende"]))
         except SystemExit as e:
             msg = str(e)
-            definitif = msg.startswith("Garde-fou") or '"is_transient":false' in msg
+            definitif = msg.startswith("Garde-fou") or ('"is_transient":false' in msg and "2207027" not in msg)
             line = fail(f, post, msg, definitif)
             print(f"ÉCHEC {line}")
             if post["statut"] == "echec":  # alerte seulement quand on abandonne ; sinon nouvel essai au passage suivant
