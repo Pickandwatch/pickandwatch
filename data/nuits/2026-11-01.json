@@ -1,6 +1,6 @@
 {
   "night": "2026-11-01",
-  "generated_at": "2026-11-01T15:09+01:00",
+  "generated_at": "2026-11-01T18:52+01:00",
   "games": [
     {
       "id": "401909903",
@@ -37,8 +37,8 @@
         "source": "Prime Video Sport France sur X (@PVSportFR) : « Celtics @ Magic (NBA) - Dimanche 1 novembre 21:30 » (texte lu dans les résultats de recherche le 01/11/2026)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Jayson Tatum et Paul George chez Franz Wagner et Desmond Bane. Orlando reste privé de Paolo Banchero (cheville), Jalen Suggs (genou) et du Français Noah Penda (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -73,8 +73,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Pascal Siakam face à Julius Randle et au Français Nolan Traoré. Ivica Zubac (cheville) est absent côté Indiana.",
       "commentators": null
     },
     {
@@ -109,8 +109,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Stephen Curry et Draymond Green laissés au repos, premier soir d'un back-to-back. Brandin Podziemski et Yaxel Lendeborg face à Darius Garland, sans Brandon Ingram ni Bradley Beal.",
       "commentators": null
     },
     {
@@ -157,8 +157,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Luka Dončić, Austin Reaves et Walker Kessler reçoivent Scottie Barnes et Immanuel Quickley. Toronto reste privé de Kawhi Leonard, absent plusieurs semaines (genou gauche).",
       "commentators": null
     }
   ],
