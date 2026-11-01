@@ -1,0 +1,172 @@
+{
+  "night": "2026-11-01",
+  "generated_at": "2026-11-01T05:50+01:00",
+  "games": [
+    {
+      "id": "401909903",
+      "tip_paris": "2026-11-01T21:30:00+01:00",
+      "home": {
+        "abbr": "ORL",
+        "name": "Magic",
+        "location": "Orlando",
+        "full": "Orlando Magic",
+        "color": "#0150b5",
+        "color2": "#9ca0a3"
+      },
+      "away": {
+        "abbr": "BOS",
+        "name": "Celtics",
+        "location": "Boston",
+        "full": "Boston Celtics",
+        "color": "#008348",
+        "color2": "#ffffff"
+      },
+      "venue": "Kia Center",
+      "city": "Orlando",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909904",
+      "tip_paris": "2026-11-01T23:00:00+01:00",
+      "home": {
+        "abbr": "IND",
+        "name": "Pacers",
+        "location": "Indiana",
+        "full": "Indiana Pacers",
+        "color": "#0c2340",
+        "color2": "#ffd520"
+      },
+      "away": {
+        "abbr": "BKN",
+        "name": "Nets",
+        "location": "Brooklyn",
+        "full": "Brooklyn Nets",
+        "color": "#000000",
+        "color2": "#ffffff"
+      },
+      "venue": "Gainbridge Fieldhouse",
+      "city": "Indianapolis",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909905",
+      "tip_paris": "2026-11-02T02:30:00+01:00",
+      "home": {
+        "abbr": "GS",
+        "name": "Warriors",
+        "location": "Golden State",
+        "full": "Golden State Warriors",
+        "color": "#fdb927",
+        "color2": "#1d428a"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Clippers",
+        "location": "LA",
+        "full": "LA Clippers",
+        "color": "#12173f",
+        "color2": "#c8102e"
+      },
+      "venue": "Chase Center",
+      "city": "San Francisco",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909906",
+      "tip_paris": "2026-11-02T03:00:00+01:00",
+      "home": {
+        "abbr": "LAL",
+        "name": "Lakers",
+        "location": "Los Angeles",
+        "full": "Los Angeles Lakers",
+        "color": "#552583",
+        "color2": "#fdb927"
+      },
+      "away": {
+        "abbr": "TOR",
+        "name": "Raptors",
+        "location": "Toronto",
+        "full": "Toronto Raptors",
+        "color": "#d91244",
+        "color2": "#000000"
+      },
+      "venue": "crypto.com Arena",
+      "city": "Los Angeles",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-02T03:00:00+01:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-11-02T10:45:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 3",
+            "start": "2026-11-02T16:00:00+01:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Magic – Celtics : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Pacers – Nets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Warriors – Clippers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  },
+  "rediffusions_nuit": []
+}
