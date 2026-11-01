@@ -1,0 +1,27 @@
+{
+  "_statut": "publié sans réponse (règle de 18h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary des quatre matchs, blessures au 01/11/2026, 15h05 ; effectifs ESPN au 01/11 ; minutes de Nolan Traoré via le gamelog ESPN : 26, 24 et 25 min à ses trois derniers matchs) ; previews AP/Data Skrive du 31/10/2026 ; bolavip.com 27 et 28/10/2026 et eurohoops.net 28/10/2026 (Kawhi Leonard, genou gauche, absent plusieurs semaines) ; thebiglead.com 31/10/2026 citant Anthony Slater (ESPN) (Curry et Green au repos, premier soir d'un back-to-back) ; fadeawayworld.net 01/11/2026 (blessures Clippers) ; classement ESPN 2025-26 (Golden State 10e de l'Ouest) ; Prime Video : post du compte officiel Prime Video Sport France sur X (@PVSportFR : « Celtics @ Magic (NBA) - Dimanche 1 novembre 21:30 », texte lu dans les résultats de recherche, page X non lisible par les outils) ; guide TV beIN SPORTS (Lakers – Raptors en direct sur beIN SPORTS 1, rediffusions lun. 10h45 beIN SPORTS 1 et 16h beIN SPORTS 3)",
+  "matchs": {
+    "401909906": {
+      "stars": 3,
+      "score": "6 + 3 = 9 ; seul match à 9 ou plus, en direct sur beIN SPORTS 1",
+      "brief": "Luka Dončić, Austin Reaves et Walker Kessler reçoivent Scottie Barnes et Immanuel Quickley. Toronto reste privé de Kawhi Leonard, absent plusieurs semaines (genou gauche)."
+    },
+    "401909903": {
+      "stars": 2,
+      "score": "2 + 5 = 7 (Noah Penda, blessé, absent : pas de bonus) ; en direct sur Prime Video",
+      "brief": "Jayson Tatum et Paul George chez Franz Wagner et Desmond Bane. Orlando reste privé de Paolo Banchero (cheville), Jalen Suggs (genou) et du Français Noah Penda (ischio-jambiers)."
+    },
+    "401909904": {
+      "stars": 1,
+      "score": "2 + 1 + 2 (événement : le Français Nolan Traoré, 26, 24 et 25 min à ses trois derniers matchs) = 5",
+      "brief": "Pascal Siakam face à Julius Randle et au Français Nolan Traoré. Ivica Zubac (cheville) est absent côté Indiana."
+    },
+    "401909905": {
+      "stars": 1,
+      "score": "3 + 1 = 4 (Stephen Curry et Draymond Green au repos ce soir)",
+      "brief": "Stephen Curry et Draymond Green laissés au repos, premier soir d'un back-to-back. Brandin Podziemski et Yaxel Lendeborg face à Darius Garland, sans Brandon Ingram ni Bradley Beal."
+    }
+  }
+}
