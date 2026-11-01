@@ -1,6 +1,6 @@
 {
   "night": "2026-11-01",
-  "generated_at": "2026-11-01T14:57+01:00",
+  "generated_at": "2026-11-01T15:09+01:00",
   "games": [
     {
       "id": "401909903",
@@ -29,10 +29,13 @@
       "francais": [],
       "time_status": "calendrier officiel",
       "tv": {
-        "live": null,
+        "live": {
+          "channel": "Prime Video",
+          "start": "2026-11-01T21:30:00+01:00"
+        },
         "replays": [],
-        "source": null,
-        "status": "league-pass"
+        "source": "Prime Video Sport France sur X (@PVSportFR) : « Celtics @ Magic (NBA) - Dimanche 1 novembre 21:30 » (texte lu dans les résultats de recherche le 01/11/2026)",
+        "status": "annoncé"
       },
       "stars": null,
       "brief": null,
@@ -160,7 +163,6 @@
     }
   ],
   "checks": [
-    "Magic – Celtics : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Pacers – Nets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Warriors – Clippers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
   ],
