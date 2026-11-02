@@ -1,0 +1,32 @@
+{
+ "semaine": "DU 2 AU 8 NOV.",
+ "matchs": [
+  {
+   "quand": "NUIT DE LUNDI · 1H00",
+   "equipes": "CAVALIERS – THUNDER",
+   "chaine": "beIN SPORTS 1",
+   "plus": "Rediffusion mardi à 10h45",
+   "etoiles": 3,
+   "enjeu": "Shai Gilgeous-Alexander et le Thunder, premier de l'Ouest la saison dernière, chez les Cavaliers de Donovan Mitchell.",
+   "micro": "Sur beIN, la NBA, c'est aussi les excellents Rémi Reverchon, Fred Weis, Xavier Vaution, Jacques Monclar, Chris Singleton et toute la bande."
+  },
+  {
+   "quand": "NUIT DE MERCREDI · 2H00",
+   "equipes": "THUNDER – CAVALIERS",
+   "chaine": "NBA LEAGUE PASS",
+   "plus": "Pas de chaîne TV française repérée",
+   "etoiles": 3,
+   "enjeu": "Deuxième manche en trois jours : cette fois, les Cavaliers se déplacent à Oklahoma City.",
+   "micro": "Sur le League Pass, commentaires en VO."
+  },
+  {
+   "quand": "NUIT DE SAMEDI · 2H00",
+   "equipes": "CAVALIERS – KNICKS",
+   "chaine": "NBA LEAGUE PASS",
+   "plus": "Pas de chaîne TV française repérée",
+   "etoiles": 3,
+   "enjeu": "Revanche de la finale de conférence Est 2026 : les champions en titre de Jalen Brunson à Cleveland."
+  }
+ ],
+ "fin": "Chaque soir, les matchs de la nuit : l'heure, la chaîne, direct ou différé. Chaque matin, notre verdict. Jamais le score."
+}

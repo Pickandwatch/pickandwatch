@@ -51,7 +51,7 @@ def match(m, i, n):
 
 
 def fin(s):
-    return page(head('CHAQUE JOUR') + f'<div style="display: flex; flex-direction: column; gap: 18px">{line("LE PROGRAMME", color=OR)}{line("CHAQUE SOIR À 19H.", color=INK)}</div>'
+    return page(head('CHAQUE JOUR') + f'<div style="display: flex; flex-direction: column; gap: 18px">{line("LE PROGRAMME", color=OR)}{line("CHAQUE SOIR À 18H.", color=INK)}</div>'
                 + f'<div style="font-size: 46px; line-height: 1.4">{s["fin"]}</div>'
                 + f'<div style="border: 3px solid {OR}; padding: 24px 30px; display: flex; justify-content: space-between; align-items: center">'
                   f'<span style="{BAR}; font-size: 60px">@pickandwatch.fr</span><span style="{BAR}; font-size: 44px; color: {OR}">SUIS-NOUS</span></div>')
