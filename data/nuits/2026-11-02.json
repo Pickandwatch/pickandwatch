@@ -1,6 +1,6 @@
 {
   "night": "2026-11-02",
-  "generated_at": "2026-11-02T15:31+01:00",
+  "generated_at": "2026-11-02T18:09+01:00",
   "games": [
     {
       "id": "401909907",
@@ -46,8 +46,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Shai Gilgeous-Alexander chez Donovan Mitchell, James Harden et Evan Mobley. Oklahoma City reste privé de Jalen Williams, Chet Holmgren (genou), Cason Wallace (épaule) et Alex Caruso (cheville).",
       "commentators": null
     },
     {
@@ -82,8 +82,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Cade Cunningham, sans Jalen Duren (ischio-jambiers), chez Brandon Miller et les Français Moussa Diabaté et Tidjane Salaün.",
       "commentators": null
     },
     {
@@ -118,8 +118,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Jalen Johnson (cheville, incertain) chez Pascal Siakam, sans Tyrese Haliburton (ischio-jambiers) ni Ivica Zubac (cheville).",
       "commentators": null
     },
     {
@@ -154,8 +154,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Derby de New York. Les champions Jalen Brunson et Karl-Anthony Towns, avec les Français Pacôme Dadiet et Mohamed Diawara, reçoivent Michael Porter Jr., Julius Randle et le Français Nolan Traoré.",
       "commentators": null
     },
     {
@@ -190,8 +190,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr chez Franz Wagner et Desmond Bane, sans Paolo Banchero ni Jalen Suggs.",
       "commentators": null
     },
     {
@@ -226,8 +226,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Tyrese Maxey et Jaylen Brown face au Français Noa Essengue ; Joel Embiid (pied) est incertain.",
       "commentators": null
     },
     {
@@ -262,8 +262,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Cooper Flagg et le Français Zaccharie Risacher face à Domantas Sabonis ; Kyrie Irving (genou) est incertain.",
       "commentators": null
     },
     {
@@ -298,8 +298,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Le rookie Cameron Boozer face à Zion Williamson ; Jordan Poole (cheville) est absent.",
       "commentators": null
     },
     {
@@ -334,8 +334,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Joan Beringer et LaMelo Ball, sans Anthony Edwards (genou), face à Tyler Herro, Myles Turner et au Français Ousmane Dieng.",
       "commentators": null
     },
     {
@@ -370,8 +370,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Kevin Durant et Alperen Şengün face à Jayson Tatum et Paul George.",
       "commentators": null
     },
     {
@@ -406,8 +406,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Victor Wembanyama, De'Aaron Fox et Dylan Harper retrouvent le rookie Darryn Peterson, pour la deuxième fois en une semaine. Utah reste privé de Jaren Jackson Jr. (genou) et Jusuf Nurkić (pied).",
       "commentators": null
     },
     {
@@ -442,8 +442,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Nikola Jokić et Jamal Murray reçoivent Damian Lillard, Deni Avdija et le Français Sidy Cissoko. Portland reste privé de Ja Morant (ischio-jambiers) et Shaedon Sharpe (genou).",
       "commentators": null
     },
     {
@@ -478,8 +478,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Devin Booker et Jalen Green chez des Warriors privés de Kristaps Porziņģis et Moses Moody.",
       "commentators": null
     },
     {
@@ -514,8 +514,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Scottie Barnes, sans Kawhi Leonard (genou), chez des Clippers privés de Brandon Ingram et Bradley Beal.",
       "commentators": null
     },
     {
@@ -550,8 +550,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Luka Dončić et Austin Reaves face à Giannis Antetokounmpo et Bam Adebayo.",
       "commentators": null
     }
   ],
