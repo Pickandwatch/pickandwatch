@@ -39,6 +39,10 @@ Sources :
 
 Suite : lundi 2/11, regarder si le reportage est en ligne et visible depuis la France. Si oui,
 le proposer pour le numéro du 6 novembre (« à voir », avec le lien).
+**Mise à jour du 2/11** : le reportage (13 min 11, « Victor Wembanyama: The 60 Minutes Interview ») est
+en ligne gratuitement sur cbsnews.com depuis le 1/11 : https://www.cbsnews.com/news/victor-wembanyama-spurs-ambitions-60-minutes/
+(en anglais). Lecture depuis la France non vérifiée par Claude : Alexandre l'a cherché le 2/11 ; lui
+demander si la vidéo se lance. L'article rappelle l'issue des Finales 2026 (déjà connue, pas un spoiler de la semaine).
 
 ## Pour le numéro du vendredi 6 novembre 2026
 
