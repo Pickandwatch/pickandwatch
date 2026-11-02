@@ -1,0 +1,70 @@
+{
+ "cover": {
+  "title": "15 MATCHS, 1 SUR beIN SPORTS",
+  "date": "LUNDI 2 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["CAVALIERS", "THUNDER"],
+  "top_info": "01:00 · CLEVELAND · EN DIRECT SUR beIN SPORTS 1",
+  "others": [
+   ["HORNETS – PISTONS", "01:30", "★★"],
+   ["KNICKS – NETS", "01:30", "★★"],
+   ["76ERS – BULLS", "01:30", "★★"],
+   ["ROCKETS – CELTICS", "02:30", "★★"],
+   ["SPURS – JAZZ", "02:30", "★★"],
+   ["NUGGETS – BLAZERS", "03:00", "★★"],
+   ["WARRIORS – SUNS", "04:00", "★★"],
+   ["LAKERS – HEAT", "04:00", "★★"]
+  ],
+  "note": "★★ AUSSI : MAGIC – WIZARDS 01:30 · WOLVES – BUCKS 02:00<br>★ AUSSI : PACERS – HAWKS 01:30 · MAVS – KINGS 02:00<br>GRIZZLIES – PELICANS 02:00 · CLIPPERS – RAPTORS 04:00<br>TV : CAVALIERS – THUNDER SUR beIN SPORTS 1<br>LES AUTRES SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers", "home_city": "CLEVELAND", "home_bg": "#860038", "home_sec": "#BC945C",
+   "away": "Thunder", "away_city": "OKLAHOMA CITY", "away_c1": "#007AC1", "away_c2": "#EF3B24",
+   "counter": "NUIT DU 2 AU 3 NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "01:00", "channel": "beIN SPORTS 1",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Shai Gilgeous-Alexander chez Donovan Mitchell, James Harden et Evan Mobley. Oklahoma City reste privé de Jalen Williams, Chet Holmgren (genou), Cason Wallace (épaule) et Alex Caruso (cheville).",
+   "chips": ["S. Gilgeous-Alexander", "D. Mitchell", "J. Harden", "E. Mobley"],
+   "foot": "Rediff. mar. 10:45<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs", "home_city": "SAN ANTONIO", "home_bg": "#000000", "home_sec": "#C4CED4",
+   "away": "Jazz", "away_city": "UTAH", "away_c1": "#4E008E", "away_c2": "#79A3DC",
+   "counter": "NUIT DU 2 AU 3 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:30", "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Victor Wembanyama, De'Aaron Fox et Dylan Harper retrouvent le rookie Darryn Peterson, pour la deuxième fois en une semaine. Utah reste privé de Jaren Jackson Jr. (genou) et Jusuf Nurkić (pied).",
+   "chips": ["V. Wembanyama", "D. Fox", "D. Harper", "D. Peterson"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks", "home_city": "NEW YORK", "home_bg": "#1D428A", "home_sec": "#F58426",
+   "away": "Nets", "away_city": "BROOKLYN", "away_c1": "#000000", "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 2 AU 3 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30", "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Derby de New York. Les champions Jalen Brunson et Karl-Anthony Towns, avec les Français Pacôme Dadiet et Mohamed Diawara, reçoivent Michael Porter Jr., Julius Randle et le Français Nolan Traoré.",
+   "chips": ["J. Brunson", "K. Towns", "M. Porter Jr.", "N. Traoré"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "DENVER · BALL ARENA",
+   "home": "Nuggets", "home_city": "DENVER", "home_bg": "#0E2240", "home_sec": "#FEC524",
+   "away": "Blazers", "away_city": "PORTLAND", "away_c1": "#E03A3E", "away_c2": "#000000",
+   "counter": "NUIT DU 2 AU 3 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "03:00", "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Nikola Jokić et Jamal Murray reçoivent Damian Lillard, Deni Avdija et le Français Sidy Cissoko. Portland reste privé de Ja Morant (ischio-jambiers) et Shaedon Sharpe (genou).",
+   "chips": ["N. Jokić", "J. Murray", "D. Lillard", "S. Cissoko"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
