@@ -108,12 +108,12 @@ def pill(v: str, size: int) -> str:
 
 def recap(d: date, games: list, vs: dict) -> str:
     n = len(games)
-    big = 72 if n <= 5 else 60 if n <= 8 else 48 if n <= 11 else 40
-    pad = 26 if n <= 5 else 18 if n <= 8 else 10 if n <= 11 else 6
-    hsize = 230 if n <= 5 else 180 if n <= 8 else 130
+    big = 72 if n <= 5 else 60 if n <= 8 else 48 if n <= 11 else 40 if n <= 13 else 36
+    pad = 26 if n <= 5 else 18 if n <= 8 else 10 if n <= 11 else 6 if n <= 13 else 4
+    hsize = 230 if n <= 5 else 180 if n <= 8 else 130 if n <= 13 else 110
     if CUP:  # place pour le bandeau NBA Cup
         hsize, pad = int(hsize * 0.78), max(4, pad - 6)
-    psize = 30 if n <= 8 else 24
+    psize = 30 if n <= 8 else 24 if n <= 13 else 20
     width = W - 144 - int(psize * 7.2) - 28
     rows = "".join(
         f'<div style="display: flex; align-items: center; gap: 28px; padding: {pad}px 0; border-top: 1px solid {INK}">'
