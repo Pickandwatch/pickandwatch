@@ -1,0 +1,63 @@
+{
+ "couverture": {
+  "etiquette": "INFO",
+  "titre": [
+   "PAS DE NBA CETTE NUIT",
+   "LA LIGUE A FAIT RELÂCHE"
+  ],
+  "lignes": [
+   [
+    "MARDI 3 NOV.",
+    "JOUR D'ÉLECTION AUX ÉTATS-UNIS"
+   ],
+   [
+    "0 MATCH",
+    "TOUTE LA LIGUE AU REPOS"
+   ],
+   [
+    "CE SOIR",
+    "14 MATCHS, ÇA REPREND"
+   ]
+  ],
+  "accroche": "Pas de verdicts ce matin, donc."
+ },
+ "slides": [
+  {
+   "etiquette": "INFO",
+   "rubrique": "POURQUOI",
+   "titre": [
+    "GET IN THE GAME. VOTE.",
+    "LA NBA APPELLE À VOTER"
+   ],
+   "chiffres": [
+    [
+     "ÉLECTIONS",
+     "MI-MANDAT"
+    ],
+    [
+     "DEPUIS",
+     "2022"
+    ],
+    [
+     "ÉQUIPES",
+     "30"
+    ]
+   ],
+   "texte": "Mardi, les Américains votaient pour les élections de mi-mandat. La NBA n'a programmé aucun match pour laisser joueurs, staffs et fans aller voter. C'est aussi pour ça que lundi, les joueurs portaient des t-shirts « VOTE » à l'échauffement.",
+   "taille": 34,
+   "encadre": [
+    "LA CAMPAGNE",
+    "« Get In The Game. VOTE. »",
+    "NBA et NBPA"
+   ]
+  }
+ ],
+ "fin": {
+  "etiquette": "INFO",
+  "titre": [
+   "ÇA REPREND CE SOIR",
+   "14 MATCHS DANS LA NUIT"
+  ],
+  "texte": "Le programme complet, à l'heure de Paris et avec la chaîne de chaque match, arrive à 18h ici et sur notre site. Et demain à 8h, les verdicts sans spoiler."
+ }
+}
