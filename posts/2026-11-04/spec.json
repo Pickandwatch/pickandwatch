@@ -1,0 +1,152 @@
+{
+ "cover": {
+  "title": "14 MATCHS, 2 SUR beIN SPORTS",
+  "date": "MERCREDI 4 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "SPURS",
+   "MAVERICKS"
+  ],
+  "top_info": "03:30 · SAN ANTONIO · EN DIRECT SUR beIN SPORTS 2",
+  "others": [
+   [
+    "PISTONS – 76ERS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "WIZARDS – HAWKS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "CELTICS – BUCKS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "KNICKS – BULLS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "THUNDER – CAVALIERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "ROCKETS – WOLVES",
+    "02:30",
+    "★★"
+   ],
+   [
+    "NUGGETS – RAPTORS",
+    "03:00",
+    "★★"
+   ],
+   [
+    "SUNS – BLAZERS",
+    "03:00",
+    "★★"
+   ]
+  ],
+  "note": "★★ AUSSI : KINGS – LAKERS 04:00<br>★ AUSSI : NETS – HORNETS 01:30 · GRIZZLIES – PACERS 02:00<br>PELICANS – JAZZ 02:00 · CLIPPERS – HEAT 04:30<br>TV : PISTONS – 76ERS (beIN SPORTS 1) · SPURS – MAVS (beIN SPORTS 2)<br>LES AUTRES SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Mavericks",
+   "away_city": "DALLAS",
+   "away_c1": "#00538C",
+   "away_c2": "#B8C4CA",
+   "counter": "NUIT DU 4 AU 5 NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE DE LA NUIT",
+   "time": "03:30",
+   "channel": "beIN SPORTS 2",
+   "mode": "EN DIRECT SUR beIN SPORTS 2",
+   "brief": "Derby du Texas. Victor Wembanyama, De'Aaron Fox et Dylan Harper reçoivent Cooper Flagg, rookie de l'année 2026, et le Français Zaccharie Risacher. Dallas reste privé de Dereck Lively II (pied) et Santi Aldama (genou).",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "C. Flagg",
+    "Z. Risacher"
+   ],
+   "foot": "Rediff. jeu. 11:00<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "DETROIT · LITTLE CAESARS ARENA",
+   "home": "Pistons",
+   "home_city": "DETROIT",
+   "home_bg": "#1D428A",
+   "home_sec": "#C8102E",
+   "away": "76ers",
+   "away_city": "PHILADELPHIE",
+   "away_c1": "#006BB6",
+   "away_c2": "#ED174C",
+   "counter": "NUIT DU 4 AU 5 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "beIN SPORTS 1",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "LeBron James, Joel Embiid, Tyrese Maxey et Jaylen Brown chez Cade Cunningham. Detroit reste privé de Jalen Duren (ischio-jambiers) et Isaiah Joe (hanche).",
+   "chips": [
+    "C. Cunningham",
+    "L. James",
+    "J. Embiid",
+    "T. Maxey"
+   ],
+   "foot": "Rediff. jeu. 9:15<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder",
+   "home_city": "OKLAHOMA CITY",
+   "home_bg": "#007AC1",
+   "home_sec": "#EF3B24",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#BC945C",
+   "counter": "NUIT DU 4 AU 5 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deux jours après leur duel à Cleveland, retour à Oklahoma City : Shai Gilgeous-Alexander face à Donovan Mitchell, James Harden et Evan Mobley. Sans Chet Holmgren (genou) ni Cason Wallace (épaule) côté Thunder.",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "D. Mitchell",
+    "E. Mobley"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Bulls",
+   "away_city": "CHICAGO",
+   "away_c1": "#CE1141",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 4 AU 5 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les champions Jalen Brunson et Karl-Anthony Towns, avec les Français Pacôme Dadiet et Mohamed Diawara, reçoivent Josh Giddey et le Français Noa Essengue. Chicago sans Nic Claxton (ischio-jambiers).",
+   "chips": [
+    "J. Brunson",
+    "K. Towns",
+    "J. Giddey",
+    "N. Essengue"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
