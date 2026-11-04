@@ -1,0 +1,77 @@
+{
+  "_statut": "publié sans réponse (règle de 18h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary des quatorze matchs : blessures ESPN au 04/11/2026, 15h ; effectifs ESPN au 04/11/2026) ; previews AP/Data Skrive du 03/11/2026 ; guide TV beIN SPORTS (Pistons – 76ers en direct sur beIN SPORTS 1, rediffusions jeu. 9h15 beIN SPORTS 1 et 14h30 beIN SPORTS 3 ; Spurs – Mavericks en direct sur beIN SPORTS 2, rediffusions jeu. 11h beIN SPORTS 1 et 16h15 beIN SPORTS 3) ; Prime Video : aucun match ce soir (diffusions nationales ESPN sans Prime Video ; en novembre, Prime le vendredi). Statuts non retenus faute de source concordante : Kyrie Irving, Jalen Williams, Alex Caruso, Tyrese Haliburton.",
+  "matchs": {
+    "401909933": {
+      "stars": 3,
+      "score": "8 + 1 + 2 (événement : les Français Victor Wembanyama et Zaccharie Risacher, Cooper Flagg rookie de l'année 2026) = 11 ; ★★★ : meilleure note parmi les deux matchs diffusés à la télé française (direct beIN SPORTS 2, rediffusions jeu. 11h beIN SPORTS 1 et 16h15 beIN SPORTS 3), départage avec Thunder – Cavaliers (13, sans chaîne française)",
+      "brief": "Victor Wembanyama, De'Aaron Fox et Dylan Harper reçoivent Cooper Flagg, rookie de l'année 2026, et le Français Zaccharie Risacher. Dallas reste privé de Dereck Lively II (pied) et Santi Aldama (genou)."
+    },
+    "401909922": {
+      "stars": 2,
+      "score": "5 + 5 = 10 (Rayan Rupert non compté), ramené à ★★ (un seul ★★★ par nuit : Spurs – Mavericks, aussi sur beIN SPORTS, a la meilleure note) ; direct beIN SPORTS 1, rediffusions jeu. 9h15 beIN SPORTS 1 et 14h30 beIN SPORTS 3",
+      "brief": "LeBron James, Joel Embiid, Tyrese Maxey et Jaylen Brown chez Cade Cunningham. Detroit reste privé de Jalen Duren (ischio-jambiers) et Isaiah Joe (hanche)."
+    },
+    "401909929": {
+      "stars": 2,
+      "score": "7 + 6 = 13, ramené à ★★ (un seul ★★★ par nuit : Spurs – Mavericks l'emporte par la diffusion TV française)",
+      "brief": "Deux jours après leur duel à Cleveland, retour à Oklahoma City : Shai Gilgeous-Alexander face à Donovan Mitchell, James Harden et Evan Mobley. Sans Chet Holmgren (genou) ni Cason Wallace (épaule) côté Thunder."
+    },
+    "401909926": {
+      "stars": 2,
+      "score": "7 + 1 + 2 (événement : les Français Pacôme Dadiet, Mohamed Diawara et Noa Essengue) = 10, ramené à ★★ (un seul ★★★ par nuit : Spurs – Mavericks l'emporte par la diffusion TV française)",
+      "brief": "Les champions Jalen Brunson et Karl-Anthony Towns, avec les Français Pacôme Dadiet et Mohamed Diawara, reçoivent Josh Giddey et le Français Noa Essengue. Chicago sans Nic Claxton (ischio-jambiers)."
+    },
+    "401909924": {
+      "stars": 2,
+      "score": "5 + 1 + 2 (événement : le Français Ousmane Dieng) = 8",
+      "brief": "Paul George et Jayson Tatum (incertain, repos) face à Tyler Herro, Myles Turner et au Français Ousmane Dieng."
+    },
+    "401909930": {
+      "stars": 2,
+      "score": "3 + 3 + 2 (événement : les Français Rudy Gobert et Joan Beringer) = 8 (Anthony Edwards absent, aura de Minnesota à 1)",
+      "brief": "Kevin Durant et Alperen Şengün face à LaMelo Ball et aux Français Rudy Gobert et Joan Beringer, sans Anthony Edwards (genou)."
+    },
+    "401909931": {
+      "stars": 2,
+      "score": "5 + 3 = 8",
+      "brief": "Nikola Jokić et Jamal Murray face à Scottie Barnes, sans Kawhi Leonard (genou)."
+    },
+    "401909932": {
+      "stars": 2,
+      "score": "3 + 3 + 2 (événement : le Français Sidy Cissoko) = 8",
+      "brief": "Devin Booker et Jalen Green face à Deni Avdija, Damian Lillard et au Français Sidy Cissoko. Portland reste privé de Ja Morant (ischio-jambiers) et Shaedon Sharpe (genou)."
+    },
+    "401909923": {
+      "stars": 2,
+      "score": "2 + 3 + 2 (événement : les Français Bilal Coulibaly et Alex Sarr) = 7",
+      "brief": "Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr (genou, incertain) face à Atlanta, l'ancien club de Trae Young ; Jalen Johnson (cheville) est incertain."
+    },
+    "401909934": {
+      "stars": 2,
+      "score": "1 + 6 = 7 (Maxime Raynaud, blessé au genou, absent, non compté)",
+      "brief": "Luka Dončić et Austin Reaves chez Domantas Sabonis et Zach LaVine ; le Français Maxime Raynaud (genou) est absent."
+    },
+    "401909925": {
+      "stars": 1,
+      "score": "1 + 1 + 2 (événement : les Français Nolan Traoré, Moussa Diabaté et Tidjane Salaün) = 4",
+      "brief": "Michael Porter Jr. et le Français Nolan Traoré face à Brandon Miller et aux Français Moussa Diabaté et Tidjane Salaün ; Kon Knueppel (ischio-jambiers) est absent."
+    },
+    "401909935": {
+      "stars": 1,
+      "score": "1 + 3 = 4",
+      "brief": "Giannis Antetokounmpo (poignet, incertain) et Bam Adebayo chez des Clippers privés de Brandon Ingram et Bradley Beal."
+    },
+    "401909927": {
+      "stars": 1,
+      "score": "2 + 1 = 3",
+      "brief": "Pascal Siakam chez Ty Jerome et le rookie Cameron Boozer ; Indiana sans Ivica Zubac (cheville) ni T.J. McConnell (ischio-jambiers)."
+    },
+    "401909928": {
+      "stars": 1,
+      "score": "1 + 1 = 2",
+      "brief": "Zion Williamson face au rookie Darryn Peterson ; Utah reste privé de Jaren Jackson Jr. (genou)."
+    }
+  }
+}
