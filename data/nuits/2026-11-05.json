@@ -1,0 +1,102 @@
+{
+  "night": "2026-11-05",
+  "generated_at": "2026-11-05T05:58+01:00",
+  "games": [
+    {
+      "id": "401909936",
+      "tip_paris": "2026-11-06T03:00:00+01:00",
+      "home": {
+        "abbr": "PHX",
+        "name": "Suns",
+        "location": "Phoenix",
+        "full": "Phoenix Suns",
+        "color": "#29127a",
+        "color2": "#e56020"
+      },
+      "away": {
+        "abbr": "ORL",
+        "name": "Magic",
+        "location": "Orlando",
+        "full": "Orlando Magic",
+        "color": "#0150b5",
+        "color2": "#9ca0a3"
+      },
+      "venue": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-06T03:00:00+01:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-11-06T10:45:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 3",
+            "start": "2026-11-06T16:00:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-11-06T22:15:00+01:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909937",
+      "tip_paris": "2026-11-06T04:00:00+01:00",
+      "home": {
+        "abbr": "GS",
+        "name": "Warriors",
+        "location": "Golden State",
+        "full": "Golden State Warriors",
+        "color": "#fdb927",
+        "color2": "#1d428a"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Heat",
+        "location": "Miami",
+        "full": "Miami Heat",
+        "color": "#98002e",
+        "color2": "#000000"
+      },
+      "venue": "Chase Center",
+      "city": "San Francisco",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Warriors – Heat : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  },
+  "rediffusions_nuit": []
+}
