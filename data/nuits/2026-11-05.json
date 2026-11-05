@@ -1,6 +1,6 @@
 {
   "night": "2026-11-05",
-  "generated_at": "2026-11-05T15:28+01:00",
+  "generated_at": "2026-11-05T17:52+01:00",
   "games": [
     {
       "id": "401909936",
@@ -50,8 +50,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Devin Booker et Jalen Green face à Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville), Jalen Suggs (genou) ni le Français Noah Penda (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -86,8 +86,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Stephen Curry et Draymond Green reçoivent Giannis Antetokounmpo, Bam Adebayo et Klay Thompson, quatre titres en 13 saisons à Golden State. Les Warriors sans Jimmy Butler (genou), Kristaps Porziņģis (malade) ni Moses Moody (genou).",
       "commentators": null
     }
   ],
