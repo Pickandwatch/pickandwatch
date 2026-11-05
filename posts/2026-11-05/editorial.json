@@ -1,0 +1,17 @@
+{
+ "_statut": "proposé le 5 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des deux matchs, blessures ESPN au 05/11/2026, 15h ; effectifs ESPN au 05/11/2026) ; previews AP/Data Skrive du 05/11/2026 ; eurohoops.net 21/08/2026 (Klay Thompson : 13 saisons et quatre titres à Golden State, arrivée à Miami avec Giannis Antetokounmpo et Bam Adebayo) ; guide TV beIN SPORTS (Suns – Magic en direct sur beIN SPORTS 1, rediffusions ven. 10h45 beIN SPORTS 1, 16h beIN SPORTS 3, 22h15 beIN SPORTS 1) ; Prime Video : aucun match ce soir (NBA.com, « Every NBA game on Prime Video in 2026-27 » : en novembre, Prime le vendredi). Aucun match à 9 ou plus : pas de ★★★ ce soir.",
+ "matchs": {
+  "401909937": {
+   "stars": 2,
+   "score": "3 + 3 = 6 (Curry et Antetokounmpo disponibles ; Butler, Porziņģis, Moody absents ; Klay Thompson déjà revenu à San Francisco avec Dallas : pas d'événement) ; meilleure note de la nuit, sans ★★★ (moins de 9)",
+   "brief": "Stephen Curry et Draymond Green reçoivent Giannis Antetokounmpo, Bam Adebayo et Klay Thompson, quatre titres en 13 saisons à Golden State. Les Warriors sans Jimmy Butler (genou), Kristaps Porziņģis (malade) ni Moses Moody (genou)."
+  },
+  "401909936": {
+   "stars": 1,
+   "score": "3 + 2 = 5 (Paolo Banchero absent, Orlando reste à 1 en aura avec Wagner et Bane ; le Français Noah Penda, blessé, absent : pas d'événement) ; direct beIN SPORTS 1",
+   "brief": "Devin Booker et Jalen Green face à Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville), Jalen Suggs (genou) ni le Français Noah Penda (ischio-jambiers)."
+  }
+ }
+}

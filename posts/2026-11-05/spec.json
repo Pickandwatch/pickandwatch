@@ -1,0 +1,33 @@
+{
+ "cover": {
+  "title": "2 MATCHS, 1 SUR beIN SPORTS",
+  "date": "JEUDI 5 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★ L'AFFICHE DE LA NUIT",
+  "top": ["WARRIORS", "HEAT"],
+  "top_info": "04:00 · SAN FRANCISCO · NBA LEAGUE PASS",
+  "other_size": 60,
+  "others": [["SUNS – MAGIC", "03:00", "★"]],
+  "note": "TV : SUNS – MAGIC EN DIRECT SUR beIN SPORTS 1 · REDIFF. VEN. 10:45<br>WARRIORS – HEAT SUR NBA LEAGUE PASS"
+ },
+ "matches": [
+  {
+   "venue": "SAN FRANCISCO · CHASE CENTER",
+   "home": "Warriors",
+   "home_city": "GOLDEN STATE",
+   "home_bg": "#1D428A",
+   "home_sec": "#FFC72C",
+   "away": "Heat",
+   "away_city": "MIAMI",
+   "away_c1": "#98002E",
+   "away_c2": "#F9A01B",
+   "counter": "NUIT DU 5 AU 6 NOV. · 2/3",
+   "label": "★★ L'AFFICHE DE LA NUIT",
+   "time": "04:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Stephen Curry et Draymond Green reçoivent Giannis Antetokounmpo, Bam Adebayo et Klay Thompson, quatre titres en 13 saisons à Golden State. Les Warriors sans Jimmy Butler (genou), Kristaps Porziņģis (malade) ni Moses Moody (genou).",
+   "chips": ["S. Curry", "D. Green", "G. Antetokounmpo", "K. Thompson"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
