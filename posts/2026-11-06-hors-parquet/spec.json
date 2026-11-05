@@ -1,0 +1,33 @@
+{
+  "couverture": {
+    "semaine": "2 AU 6 NOVEMBRE 2026",
+    "sommaire": [
+      ["LE DOSSIER · À VOIR", "Stephen Curry, portrait d'un artiste"],
+      ["À SUIVRE · À PARIS", "Le Slam Dunk Show, 21 et 22 novembre"]
+    ],
+    "accroche": "Le basket, en dehors des matchs."
+  },
+  "sujets": [
+    {
+      "rubrique": "LE DOSSIER · À VOIR",
+      "titre": ["STEPHEN CURRY,", "PORTRAIT D'UN ARTISTE"],
+      "chiffres": [["STREAMING", "MAR. 10/11"], ["PLATEFORME", "DISNEY+"], ["CAMÉRAS IMAX", "21"]],
+      "texte": "ESPN Films suit Stephen Curry jusqu'à son 4 000e tir à trois points en carrière, et pendant ce match. Réalisation : Gotham Chopra. Curry y parle de son enfance, de son état d'esprit, de son travail. Viola Davis, Rick Rubin, Patti Smith et Jon Batiste racontent le jeu en artistes. Sur Disney+ aux États-Unis le 10 novembre ; ESPN annonce « la plupart des marchés internationaux », sans nommer la France.",
+      "source": ["SOURCE", "ESPN PRESS ROOM", "29.10"],
+      "lien": "https://espnpressroom.com/press-release/espn-films-portrait-of-an-artist-stephen-curry-to-stream-on-the-espn-app-and-disney-november-10-and-to-air-on-abc-sunday-november-22/",
+      "lien_titre": "le communiqué d'ESPN"
+    },
+    {
+      "rubrique": "À SUIVRE · À PARIS",
+      "titre": ["SLAM DUNK SHOW,", "LE SALON DU BASKET"],
+      "chiffres": [["DATES", "21-22 NOV."], ["LIEU", "PARIS 13E"], ["ATTENDUS", "10 000"]],
+      "texte": "Le premier salon du basket en France, selon ses organisateurs. Deux jours à la Halle Georges-Carpentier : pratique, métiers, clubs, marques, culture, avec la FFBB comme partenaire. Samedi 10h-22h, dimanche 10h-19h (horaires sous réserve). Entrée payante ; le programme complet n'est pas encore publié. On en reparle dès qu'il sort.",
+      "source": ["SOURCES", "SPORSORA · SPORT BUSINESS CLUB", "15.10"],
+      "lien": "https://sporsora.com/slam-dunk-show-presentation-de-levenement/",
+      "lien_titre": "la présentation du salon"
+    }
+  ],
+  "fin": {
+    "texte": "Un livre, un documentaire, un événement basket près de chez toi ? Signale-le-nous en message privé : on vérifie, et on en parle vendredi prochain."
+  }
+}

@@ -47,11 +47,12 @@ demander si la vidéo se lance. L'article rappelle l'issue des Finales 2026 (dé
 ## Pour le numéro du vendredi 6 novembre 2026
 
 ### Suite Wembanyama / « 60 Minutes »
+Statut au 5/11 : non repris dans le brouillon du 6/11 (lecture depuis la France toujours non vérifiée) ; question posée à Alexandre.
 Voir plus haut : si le reportage diffusé le 1er novembre est en ligne et visible depuis la France,
 le proposer en « à voir », avec le lien. Sinon, ne rien publier.
 
 ### « Portrait of an Artist: Stephen Curry », documentaire ESPN Films
-Envoyé par Alexandre le 31/10. Statut : à publier (format « à voir », sortie en streaming mardi 10/11).
+Envoyé par Alexandre le 31/10. Statut : proposé en dossier du numéro du 6/11 (brouillon, en attente de validation d'Alexandre). Revérifié le 5/11 (communiqué ESPN du 29/10) : Disney+ « in most international markets », France toujours non nommée ; Disney+ France (page d'accueil) ne mentionne pas le film.
 
 Faits vérifiés le 31/10 :
 - Documentaire ESPN Films réalisé par Gotham Chopra, tourné avec des caméras certifiées IMAX.
@@ -78,3 +79,6 @@ Sources :
 - https://mickeyblog.com/2026/10/29/stephen-curry-documentary-coming-to-disney-and-espn-this-november
 - https://whatsondisneyplus.com/portrait-of-an-artist-stephen-curry-coming-soon-to-disney/
 - https://www.yahoo.com/entertainment/movies/articles/disney-stephen-curry-imax-movie-200959552.html
+
+### Slam Dunk Show, salon du basket (Paris, 21-22 novembre) — trouvé par Claude le 5/11
+Statut : proposé en « à suivre » du numéro du 6/11 (brouillon). Faits recoupés (SPORSORA 6/07 maj 24/09 ; Sport Business Club 15/10 ; X-TremLimit 8/10) : Halle Georges-Carpentier, 81 bd Masséna, Paris 13e ; samedi 10h-22h, dimanche 10h-19h (sous réserve) ; entrée payante, billetterie « en cours de finalisation » ; FFBB partenaire inaugural ; 10 000 visiteurs attendus (prévision). Programme non publié au 8/10 : à revérifier (slamdunkshow.com non lu le 5/11) avant un rappel la semaine du 16/11.
