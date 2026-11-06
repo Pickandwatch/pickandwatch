@@ -1,6 +1,6 @@
 {
   "night": "2026-11-06",
-  "generated_at": "2026-11-06T15:08+01:00",
+  "generated_at": "2026-11-06T17:52+01:00",
   "games": [
     {
       "id": "401909287",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Trae Young, Anthony Davis (cheville, incertain) et les Français Bilal Coulibaly et Alex Sarr chez Jalen Johnson, lui aussi incertain (cheville).",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Jayson Tatum et les Celtics, deuxièmes de l'Est la saison dernière, chez Brandon Miller et les Français Moussa Diabaté, incertain (quadriceps), et Tidjane Salaün. Charlotte sans Kon Knueppel (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -109,8 +109,8 @@
         "source": "calendrier NBA on Prime (repris par Prime Video France)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Donovan Mitchell, James Harden et Evan Mobley, en finale de l'Est la saison dernière, face à LeBron James, Joel Embiid, Tyrese Maxey et Jaylen Brown. Jarrett Allen (genou) est incertain côté Cleveland.",
       "commentators": null
     },
     {
@@ -145,8 +145,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Cooper Flagg et le Français Zaccharie Risacher face à Keyonte George et Ace Bailey ; Utah sans Jaren Jackson Jr. (genou).",
       "commentators": null
     },
     {
@@ -181,8 +181,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Shai Gilgeous-Alexander, sans Chet Holmgren (genou) ni Jalen Williams, chez le rookie Cameron Boozer.",
       "commentators": null
     },
     {
@@ -217,8 +217,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Scottie Barnes, incertain (aine), et des Raptors sans Kawhi Leonard (genou) chez Tyler Herro et le Français Ousmane Dieng.",
       "commentators": null
     },
     {
@@ -253,8 +253,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Rudy Gobert, Joan Beringer et LaMelo Ball, toujours sans Anthony Edwards (genou), chez Zion Williamson ; Trey Murphy III (genou) est incertain.",
       "commentators": null
     },
     {
@@ -292,8 +292,8 @@
         "source": "calendrier NBA on Prime (repris par Prime Video France)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Luka Dončić et les Lakers, demi-finalistes de l'Ouest la saison dernière, reçoivent Deni Avdija, All-Star 2026, et le Français Sidy Cissoko, dans la rotation. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou).",
       "commentators": null
     },
     {
@@ -328,8 +328,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Victor Wembanyama et De'Aaron Fox, finalistes NBA la saison dernière, chez Domantas Sabonis et le rookie Darius Acuff Jr. Sacramento sans Keegan Murray (cheville) ni le Français Maxime Raynaud (genou), San Antonio sans Tobias Harris (mollet).",
       "commentators": null
     }
   ],
