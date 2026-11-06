@@ -1,0 +1,69 @@
+{
+ "theme": "cup",
+ "cover": {
+  "bandeau": "NBA CUP 2026 · PHASE DE GROUPES",
+  "title": "CE SOIR, NBA CUP",
+  "date": "VENDREDI 6 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["LAKERS", "BLAZERS"],
+  "top_info": "04:00 · LOS ANGELES · PRIME VIDEO (INCLUS DANS PRIME)",
+  "other_size": 44,
+  "others": [
+   ["HAWKS – WIZARDS", "01:00", "★★"],
+   ["HORNETS – CELTICS", "01:00", "★★"],
+   ["CAVALIERS – 76ERS", "01:30", "★★"],
+   ["GRIZZLIES – THUNDER", "02:00", "★★"],
+   ["BUCKS – RAPTORS", "02:00", "★★"],
+   ["PELICANS – WOLVES", "02:00", "★★"],
+   ["KINGS – SPURS", "04:00", "★★"]
+  ],
+  "note": "★ AUSSI : MAVS – JAZZ 02:00 · NEUF MATCHS, TOUS DE NBA CUP<br>TV : CAVALIERS – 76ERS ET LAKERS – BLAZERS SUR PRIME VIDEO<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "LOS ANGELES · CRYPTO.COM ARENA",
+   "home": "Lakers", "home_city": "LOS ANGELES", "home_bg": "#552583", "home_sec": "#FDB927",
+   "away": "Trail Blazers", "away_city": "PORTLAND", "away_c1": "#E03A3E", "away_c2": "#000000",
+   "counter": "NUIT DU 6 AU 7 NOV. · 2/6",
+   "label": "NBA CUP · ★★★ L'IMMANQUABLE",
+   "time": "04:00", "channel": "Prime Video", "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Luka Dončić et les Lakers, demi-finalistes de l'Ouest la saison dernière, reçoivent Deni Avdija, All-Star 2026, et le Français Sidy Cissoko, dans la rotation. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou).",
+   "chips": ["L. Dončić", "D. Avdija", "S. Cissoko"],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers", "home_city": "CLEVELAND", "home_bg": "#860038", "home_sec": "#FDBB30",
+   "away": "76ers", "away_city": "PHILADELPHIE", "away_c1": "#006BB6", "away_c2": "#ED174C",
+   "counter": "NUIT DU 6 AU 7 NOV. · 3/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:30", "channel": "Prime Video", "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Donovan Mitchell, James Harden et Evan Mobley, en finale de l'Est la saison dernière, face à LeBron James, Joel Embiid, Tyrese Maxey et Jaylen Brown. Jarrett Allen (genou) est incertain côté Cleveland.",
+   "chips": ["D. Mitchell", "J. Harden", "L. James", "J. Embiid"],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "SACRAMENTO · GOLDEN 1 CENTER",
+   "home": "Kings", "home_city": "SACRAMENTO", "home_bg": "#5A2D81", "home_sec": "#63727A",
+   "away": "Spurs", "away_city": "SAN ANTONIO", "away_c1": "#000000", "away_c2": "#C4CED4",
+   "counter": "NUIT DU 6 AU 7 NOV. · 4/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "04:00", "channel": "League Pass*", "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Victor Wembanyama et De'Aaron Fox, finalistes NBA la saison dernière, chez Domantas Sabonis et le rookie Darius Acuff Jr. Sacramento sans Keegan Murray (cheville) ni le Français Maxime Raynaud (genou), San Antonio sans Tobias Harris (mollet).",
+   "chips": ["V. Wembanyama", "D. Fox", "D. Sabonis"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "CHARLOTTE · SPECTRUM CENTER",
+   "home": "Hornets", "home_city": "CHARLOTTE", "home_bg": "#00788C", "home_sec": "#A1A1A4",
+   "away": "Celtics", "away_city": "BOSTON", "away_c1": "#007A33", "away_c2": "#BA9653",
+   "counter": "NUIT DU 6 AU 7 NOV. · 5/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:00", "channel": "League Pass*", "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Jayson Tatum et les Celtics, deuxièmes de l'Est la saison dernière, chez Brandon Miller et les Français Moussa Diabaté, incertain (quadriceps), et Tidjane Salaün. Charlotte sans Kon Knueppel (ischio-jambiers).",
+   "chips": ["J. Tatum", "B. Miller", "M. Diabaté"],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
