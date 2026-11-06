@@ -1,0 +1,52 @@
+{
+ "_statut": "publié sans réponse (règle de 18h)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des neuf matchs, blessures ESPN et effectifs ESPN au 06/11/2026, 15h ; minutes des Français : gamelogs ESPN) ; previews AP/Data Skrive du 05/11/2026 ; guide TV beIN SPORTS (xmltvfr.fr) : aucun match en direct cette nuit ; Prime Video : Cavaliers – 76ers et Lakers – Trail Blazers au calendrier NBA on Prime (ESPN, diffusion nationale Prime Video ; americantv.com pour Trail Blazers – Lakers), repris par Prime Video France (règle prime_usa_en_france, data/diffuseurs.json). Bilans de la saison 2025-26 et playoffs 2026 : data/grille-equipes.json.",
+ "matchs": {
+  "401909294": {
+   "stars": 3,
+   "score": "6 + 3 + 2 (événement : le Français Sidy Cissoko, 19 à 22 min à ses quatre derniers matchs) = 11 ; ★★★ : égalité à 11 avec Cavaliers – 76ers et Kings – Spurs, départagée par la diffusion TV française (Prime Video, comme Cavaliers – 76ers) puis par l'événement",
+   "brief": "Luka Dončić et les Lakers, demi-finalistes de l'Ouest la saison dernière, reçoivent Deni Avdija, All-Star 2026, et le Français Sidy Cissoko, dans la rotation. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou)."
+  },
+  "401909289": {
+   "stars": 2,
+   "score": "6 + 5 = 11 (le Français Rayan Rupert, 2 min à son dernier match, non compté), ramené à ★★ (un seul ★★★ par nuit : Lakers – Trail Blazers, aussi sur Prime Video, l'emporte par l'événement)",
+   "brief": "Donovan Mitchell, James Harden et Evan Mobley, en finale de l'Est la saison dernière, face à LeBron James, Joel Embiid, Tyrese Maxey et Jaylen Brown. Jarrett Allen (genou) est incertain côté Cleveland."
+  },
+  "401909295": {
+   "stars": 2,
+   "score": "1 + 8 + 2 (événement : le Français Victor Wembanyama ; Maxime Raynaud, blessé au genou, absent) = 11, ramené à ★★ (un seul ★★★ par nuit : Lakers – Trail Blazers l'emporte par la diffusion TV française)",
+   "brief": "Victor Wembanyama et De'Aaron Fox, finalistes NBA la saison dernière, chez Domantas Sabonis et le rookie Darius Acuff Jr. Sacramento sans Keegan Murray (cheville) ni le Français Maxime Raynaud (genou), San Antonio sans Tobias Harris (mollet)."
+  },
+  "401909288": {
+   "stars": 2,
+   "score": "1 + 5 + 2 (événement : les Français Moussa Diabaté, incertain, et Tidjane Salaün) = 8 ; slide : départagé avec Grizzlies – Thunder (8), aucun des deux sur une chaîne française, par l'événement",
+   "brief": "Jayson Tatum et les Celtics, deuxièmes de l'Est la saison dernière, chez Brandon Miller et les Français Moussa Diabaté, incertain (quadriceps), et Tidjane Salaün. Charlotte sans Kon Knueppel (ischio-jambiers)."
+  },
+  "401909291": {
+   "stars": 2,
+   "score": "1 + 7 = 8 (pas de slide : au plus 4 slides)",
+   "brief": "Shai Gilgeous-Alexander, sans Chet Holmgren (genou) ni Jalen Williams, chez le rookie Cameron Boozer."
+  },
+  "401909287": {
+   "stars": 2,
+   "score": "3 + 2 + 2 (événement : les Français Bilal Coulibaly et Alex Sarr) = 7 (pas de slide)",
+   "brief": "Trae Young, Anthony Davis (cheville, incertain) et les Français Bilal Coulibaly et Alex Sarr chez Jalen Johnson, lui aussi incertain (cheville)."
+  },
+  "401909293": {
+   "stars": 2,
+   "score": "1 + 3 + 2 (événement : les Français Rudy Gobert et Joan Beringer) = 6 ; Minnesota reste à 3 (Anthony Edwards absent) (pas de slide)",
+   "brief": "Rudy Gobert, Joan Beringer et LaMelo Ball, toujours sans Anthony Edwards (genou), chez Zion Williamson ; Trey Murphy III (genou) est incertain."
+  },
+  "401909292": {
+   "stars": 2,
+   "score": "1 + 3 + 2 (événement : le Français Ousmane Dieng) = 6 (pas de slide)",
+   "brief": "Scottie Barnes, incertain (aine), et des Raptors sans Kawhi Leonard (genou) chez Tyler Herro et le Français Ousmane Dieng."
+  },
+  "401909290": {
+   "stars": 1,
+   "score": "1 + 1 + 2 (événement : le Français Zaccharie Risacher) = 4",
+   "brief": "Cooper Flagg et le Français Zaccharie Risacher face à Keyonte George et Ace Bailey ; Utah sans Jaren Jackson Jr. (genou)."
+  }
+ }
+}
