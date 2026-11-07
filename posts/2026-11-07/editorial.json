@@ -1,0 +1,42 @@
+{
+ "_statut": "proposé le 7 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des sept matchs, blessures et effectifs ESPN au 07/11/2026, 15h ; minutes des Français : gamelogs ESPN) ; previews AP/Data Skrive des 06 et 07/11/2026 ; communiqué NBA du 16/04/2026 (pr.nba.com : NBA Mexico City Game 2026, Arena CDMX, débuts des Pacers à Mexico) ; guide TV beIN SPORTS (xmltvfr.fr) : Pacers – Nuggets en direct sur beIN SPORTS 1 à 23h, rediffusion dimanche 10h45 ; le créneau beIN SPORTS 1 « Knicks / Cavaliers » du 12/11 à 1h est le match Cavaliers à New York du 11/11 (calendrier ESPN), pas une rediffusion de cette nuit. Pas de Prime Video : aucun match NBA on Prime ce samedi (ESPN), et Prime France ne diffuse pas le samedi avant février.",
+ "matchs": {
+  "401909938": {
+   "stars": 3,
+   "score": "2 + 5 + 2 (événement : match à l'étranger, NBA Mexico City Game) = 9 ; seul match diffusé en France (direct beIN SPORTS 1), retenu comme ★★★",
+   "brief": "NBA Mexico City Game à l'Arena CDMX : Nikola Jokić et Jamal Murray, troisièmes de l'Ouest la saison dernière, face à Pascal Siakam, pour les débuts des Pacers à Mexico. Indiana sans Tyrese Haliburton (ischio-jambiers)."
+  },
+  "401909940": {
+   "stars": 2,
+   "score": "6 + 7 = 13 (Pacôme Dadiet et Mohamed Diawara, temps de jeu irrégulier, non comptés), ramené à ★★ (un seul ★★★ par nuit : Pacers – Nuggets l'emporte par la diffusion TV française)",
+   "brief": "Les deux finalistes de l'Est la saison dernière : Jalen Brunson, Karl-Anthony Towns et les champions en titre chez Donovan Mitchell, James Harden et Evan Mobley. Cleveland sans Jarrett Allen (genou), New York sans Josh Hart (cheville)."
+  },
+  "401909944": {
+   "stars": 2,
+   "score": "3 + 8 + 2 (événement : les Français Victor Wembanyama et Sidy Cissoko) = 13, ramené à ★★ (un seul ★★★ par nuit : Pacers – Nuggets l'emporte par la diffusion TV française)",
+   "brief": "Victor Wembanyama, De'Aaron Fox et les finalistes NBA chez Deni Avdija, Damian Lillard, Jrue Holiday et le Français Sidy Cissoko. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou), San Antonio sans Tobias Harris (mollet)."
+  },
+  "401909941": {
+   "stars": 2,
+   "score": "7 + 2 + 2 (événement : les Français Bilal Coulibaly et Alex Sarr) = 11, ramené à ★★ (un seul ★★★ par nuit : Pacers – Nuggets l'emporte par la diffusion TV française)",
+   "brief": "Shai Gilgeous-Alexander, sans Chet Holmgren ni Jalen Williams, face à Trae Young, le rookie AJ Dybantsa et les Français Bilal Coulibaly et Alex Sarr. Washington sans Anthony Davis (cheville)."
+  },
+  "401909939": {
+   "stars": 2,
+   "score": "3 + 1 + 2 (événement : le Français Nolan Traoré, 24 à 30 min à ses cinq derniers matchs) = 6 (pas de slide)",
+   "brief": "Le Français Nolan Traoré et les Nets chez CJ McCollum et Dyson Daniels ; Atlanta sans Jalen Johnson (cheville)."
+  },
+  "401909943": {
+   "stars": 2,
+   "score": "3 + 3 = 6 (pas de slide)",
+   "brief": "Kevin Durant et Alperen Şengün chez Devin Booker et Jalen Green."
+  },
+  "401909942": {
+   "stars": 1,
+   "score": "3 + 2 = 5 (le Français Noah Penda, blessé, absent)",
+   "brief": "Stephen Curry face à Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers)."
+  }
+ }
+}

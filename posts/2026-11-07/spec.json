@@ -1,0 +1,143 @@
+{
+ "cover": {
+  "title": "7 MATCHS, 1 SUR beIN SPORTS",
+  "date": "SAMEDI 7 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "PACERS",
+   "NUGGETS"
+  ],
+  "top_info": "23:00 · MEXICO · DIRECT beIN SPORTS 1 · REDIFF. DIM. 10:45",
+  "other_size": 48,
+  "others": [
+   [
+    "HAWKS – NETS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "CAVALIERS – KNICKS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "THUNDER – WIZARDS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "WARRIORS – MAGIC",
+    "02:30",
+    "★"
+   ],
+   [
+    "SUNS – ROCKETS",
+    "03:00",
+    "★★"
+   ],
+   [
+    "BLAZERS – SPURS",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "TV : PACERS – NUGGETS EN DIRECT SUR beIN SPORTS 1<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "MEXICO · ARENA CDMX",
+   "home": "Pacers",
+   "home_city": "INDIANA",
+   "home_bg": "#002D62",
+   "home_sec": "#FDBB30",
+   "away": "Nuggets",
+   "away_city": "DENVER",
+   "away_c1": "#0E2240",
+   "away_c2": "#FEC524",
+   "counter": "NUIT DU 7 AU 8 NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE",
+   "time": "23:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT · PUIS REDIFF.",
+   "brief": "NBA Mexico City Game : Nikola Jokić et Jamal Murray, troisièmes de l'Ouest la saison dernière, face à Pascal Siakam, pour les débuts des Pacers à Mexico. Indiana sans Tyrese Haliburton (ischio-jambiers).",
+   "chips": [
+    "N. Jokić",
+    "J. Murray",
+    "P. Siakam"
+   ],
+   "foot": "Direct : beIN 1<br>Rediff. : dim. 10:45"
+  },
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers",
+   "home_city": "CLEVELAND",
+   "home_bg": "#860038",
+   "home_sec": "#FDBB30",
+   "away": "Knicks",
+   "away_city": "NEW YORK",
+   "away_c1": "#006BB6",
+   "away_c2": "#F58426",
+   "counter": "NUIT DU 7 AU 8 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les deux finalistes de l'Est la saison dernière : Jalen Brunson, Karl-Anthony Towns et les champions en titre chez Donovan Mitchell, James Harden et Evan Mobley. Cleveland sans Jarrett Allen (genou), New York sans Josh Hart (cheville).",
+   "chips": [
+    "J. Brunson",
+    "K.-A. Towns",
+    "D. Mitchell",
+    "J. Harden"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "PORTLAND · MODA CENTER",
+   "home": "Trail Blazers",
+   "home_city": "PORTLAND",
+   "home_bg": "#E03A3E",
+   "home_sec": "#000000",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 7 AU 8 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "04:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Victor Wembanyama, De'Aaron Fox et les finalistes NBA chez Deni Avdija, Damian Lillard, Jrue Holiday et le Français Sidy Cissoko. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou), San Antonio sans Tobias Harris (mollet).",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "D. Avdija",
+    "S. Cissoko"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder",
+   "home_city": "OKLAHOMA CITY",
+   "home_bg": "#007AC1",
+   "home_sec": "#EF3B24",
+   "away": "Wizards",
+   "away_city": "WASHINGTON",
+   "away_c1": "#E31837",
+   "away_c2": "#002B5C",
+   "counter": "NUIT DU 7 AU 8 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Shai Gilgeous-Alexander, sans Chet Holmgren ni Jalen Williams, face à Trae Young, le rookie AJ Dybantsa et les Français Bilal Coulibaly et Alex Sarr. Washington sans Anthony Davis (cheville).",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "B. Coulibaly",
+    "A. Sarr"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
