@@ -1,6 +1,6 @@
 {
   "night": "2026-11-07",
-  "generated_at": "2026-11-07T15:08+01:00",
+  "generated_at": "2026-11-07T17:52+01:00",
   "games": [
     {
       "id": "401909938",
@@ -42,8 +42,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "NBA Mexico City Game à l'Arena CDMX : Nikola Jokić et Jamal Murray, troisièmes de l'Ouest la saison dernière, face à Pascal Siakam, pour les débuts des Pacers à Mexico. Indiana sans Tyrese Haliburton (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -78,8 +78,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Le Français Nolan Traoré et les Nets chez CJ McCollum et Dyson Daniels ; Atlanta sans Jalen Johnson (cheville).",
       "commentators": null
     },
     {
@@ -119,8 +119,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les deux finalistes de l'Est la saison dernière : Jalen Brunson, Karl-Anthony Towns et les champions en titre chez Donovan Mitchell, James Harden et Evan Mobley. Cleveland sans Jarrett Allen (genou), New York sans Josh Hart (cheville).",
       "commentators": null
     },
     {
@@ -155,8 +155,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Shai Gilgeous-Alexander, sans Chet Holmgren ni Jalen Williams, face à Trae Young, le rookie AJ Dybantsa et les Français Bilal Coulibaly et Alex Sarr. Washington sans Anthony Davis (cheville).",
       "commentators": null
     },
     {
@@ -191,8 +191,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Stephen Curry face à Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -227,8 +227,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Kevin Durant et Alperen Şengün chez Devin Booker et Jalen Green.",
       "commentators": null
     },
     {
@@ -263,8 +263,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Victor Wembanyama, De'Aaron Fox et les finalistes NBA chez Deni Avdija, Damian Lillard, Jrue Holiday et le Français Sidy Cissoko. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou), San Antonio sans Tobias Harris (mollet).",
       "commentators": null
     }
   ],
