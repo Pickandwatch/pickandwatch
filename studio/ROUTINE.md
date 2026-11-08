@@ -139,6 +139,12 @@ seulement que le site l'affiche.
    ★★★ et ★★, au plus 4 ; couleurs de l'équipe à domicile). Puis :
    `python3 studio/carrousel.py posts/<D>/spec.json` → `01.jpg` … ; le script signale tout
    débordement. Regarder chaque image avant d'aller plus loin.
+   **Titre de couverture et première ligne de la légende (Alexandre, 8/11/2026)** : ne mettre en
+   avant aucun diffuseur (pas de partenariat) : jamais « 7 MATCHS, 1 SUR beIN SPORTS » ni « dont un
+   sur beIN ». Titre sobre (« 7 MATCHS CETTE NUIT ») ou accroche sur l'affiche du soir (« DONČIĆ À
+   DETROIT »). La chaîne reste indiquée match par match (slides, note TV, légende). Si un nombre de
+   matchs par chaîne est cité quelque part, compter direct ET différé de la même façon partout
+   (couverture, story, légende), et le vérifier contre la liste des matchs avant de publier.
 5. **Légende** : modèle de `posts/2026-10-08/post.json`. Doit passer le garde-fou anti-score
    (`pipeline.instagram.SCORE_RE`) : écrire les heures « 1h30 », jamais « 01:30 – 02:00 ».
    **2 200 caractères au maximum** (limite Instagram, espaces et sauts de ligne compris) :
