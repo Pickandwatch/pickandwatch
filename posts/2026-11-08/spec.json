@@ -1,0 +1,145 @@
+{
+ "cover": {
+  "title": "7 MATCHS, 1 SUR beIN SPORTS",
+  "date": "DIMANCHE 8 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "PISTONS",
+   "LAKERS"
+  ],
+  "top_info": "00:00 · DETROIT · DIRECT beIN SPORTS 2",
+  "other_size": 48,
+  "others": [
+   [
+    "BULLS – 76ERS",
+    "21:30",
+    "★★"
+   ],
+   [
+    "WOLVES – JAZZ",
+    "01:00",
+    "★★"
+   ],
+   [
+    "MAVERICKS – NETS",
+    "01:30",
+    "★"
+   ],
+   [
+    "BUCKS – CELTICS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "CLIPPERS – PELICANS",
+    "03:00",
+    "★"
+   ],
+   [
+    "KINGS – HEAT",
+    "03:00",
+    "★"
+   ]
+  ],
+  "note": "TV : PISTONS – LAKERS EN DIRECT SUR beIN SPORTS 2 · BUCKS – CELTICS EN DIFFÉRÉ LUNDI 10:45<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "DETROIT · LITTLE CAESARS ARENA",
+   "home": "Pistons",
+   "home_city": "DETROIT",
+   "home_bg": "#1D428A",
+   "home_sec": "#C8102E",
+   "away": "Lakers",
+   "away_city": "LOS ANGELES",
+   "away_c1": "#552583",
+   "away_c2": "#FDB927",
+   "counter": "NUIT DU 8 AU 9 NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE",
+   "time": "00:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 2",
+   "brief": "Luka Dončić, Austin Reaves et Walker Kessler chez Cade Cunningham, Ausar Thompson et les Pistons, premiers de l'Est la saison dernière. Detroit sans Jalen Duren (ischio-jambiers) ; Dončić incertain (dos).",
+   "chips": [
+    "L. Dončić",
+    "A. Reaves",
+    "C. Cunningham",
+    "A. Thompson"
+   ],
+   "foot": "Direct : beIN 2"
+  },
+  {
+   "venue": "CHICAGO · UNITED CENTER",
+   "home": "Bulls",
+   "home_city": "CHICAGO",
+   "home_bg": "#CE1141",
+   "home_sec": "#FFFFFF",
+   "away": "76ers",
+   "away_city": "PHILADELPHIE",
+   "away_c1": "#006BB6",
+   "away_c2": "#ED174C",
+   "counter": "NUIT DU 8 AU 9 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "21:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "LeBron James, Jaylen Brown et Tyrese Maxey chez Josh Giddey, Caleb Wilson et le Français Noa Essengue. Joel Embiid à surveiller (pied droit) ; Nic Claxton incertain à Chicago (ischio-jambiers).",
+   "chips": [
+    "L. James",
+    "J. Brown",
+    "T. Maxey",
+    "N. Essengue"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "MILWAUKEE · FISERV FORUM",
+   "home": "Bucks",
+   "home_city": "MILWAUKEE",
+   "home_bg": "#00471B",
+   "home_sec": "#EEE1C6",
+   "away": "Celtics",
+   "away_city": "BOSTON",
+   "away_c1": "#007A33",
+   "away_c2": "#BA9653",
+   "counter": "NUIT DU 8 AU 9 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIFFÉRÉ · LUNDI 10:45",
+   "brief": "Deuxième duel en quelques jours entre Jayson Tatum, Paul George et Derrick White, deuxièmes de l'Est la saison dernière, et les Bucks de Tyler Herro, Myles Turner et du Français Ousmane Dieng.",
+   "chips": [
+    "J. Tatum",
+    "P. George",
+    "T. Herro",
+    "O. Dieng"
+   ],
+   "foot": "Différé : lun. 10:45 beIN 1<br>Rediff. : 16:15 beIN 3"
+  },
+  {
+   "venue": "MINNEAPOLIS · TARGET CENTER",
+   "home": "Timberwolves",
+   "home_city": "MINNESOTA",
+   "home_bg": "#0C2340",
+   "home_sec": "#78BE20",
+   "away": "Jazz",
+   "away_city": "UTAH",
+   "away_c1": "#4E008E",
+   "away_c2": "#79A3DC",
+   "counter": "NUIT DU 8 AU 9 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Le Français Rudy Gobert et LaMelo Ball, sans Anthony Edwards (genou), face à Keyonte George et Ace Bailey. Joan Beringer incertain (nez) ; Utah sans Jaren Jackson Jr. (genou), Lauri Markkanen incertain (poignet).",
+   "chips": [
+    "R. Gobert",
+    "L. Ball",
+    "K. George",
+    "J. Beringer"
+   ],
+   "foot": "*Aucune chaîne TV<br>française identifiée"
+  }
+ ]
+}
