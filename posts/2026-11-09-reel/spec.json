@@ -1,0 +1,32 @@
+{
+ "semaine": "DU 9 AU 15 NOV.",
+ "matchs": [
+  {
+   "quand": "NUIT DE LUNDI · 3H00",
+   "equipes": "SUNS – SPURS",
+   "chaine": "NBA LEAGUE PASS",
+   "plus": "Pas de chaîne TV française repérée",
+   "etoiles": 3,
+   "enjeu": "Victor Wembanyama et les Spurs à Phoenix, dans la salle de Devin Booker.",
+   "micro": "Sur le League Pass, commentaires en VO."
+  },
+  {
+   "quand": "NUIT DE MERCREDI · 1H00",
+   "equipes": "KNICKS – CAVALIERS",
+   "chaine": "beIN SPORTS 1",
+   "plus": "Rediffusion jeudi à 9h15",
+   "etoiles": 3,
+   "enjeu": "Quatre jours après leurs retrouvailles à Cleveland, les deux finalistes de l'Est se revoient au Madison Square Garden.",
+   "micro": "Sur beIN, la NBA, c'est aussi les excellents Rémi Reverchon, Fred Weis, Xavier Vaution, Jacques Monclar, Chris Singleton et toute la bande."
+  },
+  {
+   "quand": "NUIT DE VENDREDI · 3H30",
+   "equipes": "SPURS – WARRIORS",
+   "chaine": "Prime Video",
+   "plus": "NBA Cup, phase de groupes",
+   "etoiles": 3,
+   "enjeu": "Victor Wembanyama face à Stephen Curry, en NBA Cup."
+  }
+ ],
+ "fin": "Chaque soir, les matchs de la nuit : l'heure, la chaîne, direct ou différé. Chaque matin, notre verdict. Jamais le score."
+}
