@@ -1,0 +1,47 @@
+{
+ "_statut": "publié sans réponse (règle de 18h)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des huit matchs, blessures et effectifs ESPN au 09/11/2026, 15h ; minutes des Français : gamelogs ESPN) ; previews AP/Data Skrive du 09/11/2026 ; guide TV beIN SPORTS (xmltvfr.fr) : Pistons – Wizards en direct beIN SPORTS 1 à 1h, mardi 10h45 beIN SPORTS 1 et 16h15 beIN SPORTS 3. Prime Video : aucun match NBA on Prime au calendrier ESPN de la nuit ; agendatv-basket.com et bleublancdunk.com non consultables le 09/11 (accès refusé aux outils), donc aucun match annoncé sur Prime.",
+ "matchs": {
+  "401909954": {
+   "stars": "3",
+   "score": "5 + 2 + 2 (événement : les Français Bilal Coulibaly et Alex Sarr, 20 à 33 min à leurs six derniers matchs) = 9 ; ★★★ par la diffusion TV française (direct beIN SPORTS 1), départage avec Suns – Spurs (13), Hawks – Lakers (9) et Hornets – Cavaliers (9), sans chaîne française",
+   "brief": "Cade Cunningham et Ausar Thompson, sans Jalen Duren (ischio-jambiers) ni Isaiah Joe (hanche), reçoivent Trae Young et les Français Bilal Coulibaly et Alex Sarr. Anthony Davis incertain (cheville)."
+  },
+  "401909958": {
+   "stars": "2",
+   "score": "3 + 8 + 2 (événement : le Français Victor Wembanyama) = 13, ramené à ★★ (un seul ★★★ : départage par la diffusion TV française)",
+   "brief": "Le Français Victor Wembanyama et De'Aaron Fox, finalistes la saison dernière, chez Devin Booker et Miles Bridges. San Antonio sans Tobias Harris (mollet), Devin Vassell incertain (aine) ; Phoenix sans Mark Williams (épaule)."
+  },
+  "401909952": {
+   "stars": "2",
+   "score": "3 + 6 = 9, ramené à ★★ (un seul ★★★) ; Dončić absent ponctuellement, note d'équipe inchangée",
+   "brief": "Austin Reaves et Walker Kessler chez Jalen Johnson et Nickeil Alexander-Walker. Los Angeles sans Luka Dončić (dos), Quentin Grimes incertain (doigt)."
+  },
+  "401909953": {
+   "stars": "2",
+   "score": "1 + 6 + 2 (événement : les Français Moussa Diabaté et Tidjane Salaün, dans la rotation) = 9, ramené à ★★ (un seul ★★★)",
+   "brief": "Les Français Moussa Diabaté, incertain (quadriceps), et Tidjane Salaün face à Donovan Mitchell, James Harden et Evan Mobley. Charlotte sans Brandon Miller ni Kon Knueppel ; Jarrett Allen incertain (genou)."
+  },
+  "401909957": {
+   "stars": "2",
+   "score": "3 + 5 = 8 (pas de slide : au plus 4 slides, départagé par l'ordre des notes)",
+   "brief": "Kevin Durant et Alperen Şengün face à Nikola Jokić. Jamal Murray et Aaron Gordon incertains à Denver."
+  },
+  "401909955": {
+   "stars": "1",
+   "score": "3 + 1 = 4",
+   "brief": "Scottie Barnes incertain (aine) et Toronto sans Kawhi Leonard (genou), face à Ty Jerome et Cameron Boozer."
+  },
+  "401909956": {
+   "stars": "1",
+   "score": "1 + 2 + 2 (événement : le Français Zaccharie Risacher, 16 à 29 min à ses six derniers matchs) = 5",
+   "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher face à Pascal Siakam. Indiana sans Tyrese Haliburton (ischio-jambiers)."
+  },
+  "401909959": {
+   "stars": "1",
+   "score": "3 + 1 = 4",
+   "brief": "Stephen Curry, sans Jimmy Butler (genou) ni Kristaps Porziņģis, face à Zion Williamson."
+  }
+ }
+}
