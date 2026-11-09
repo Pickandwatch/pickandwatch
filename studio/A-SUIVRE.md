@@ -12,6 +12,9 @@
   prévue (avec instagram_manage_comments et instagram_manage_insights). Puis créer la tâche
   quotidienne de 17h15 et compléter la liste des comptes à partir des abonnements d'Alexandre.
 
+# Suivi des abonnés
+- 31/10/2026 : 287 · 9/11/2026 : 355 (+68 en 9 jours, environ 53 par semaine).
+
 # Grands rendez-vous : dispositifs renforcés (demande d'Alexandre, 31/10/2026)
 Modèle : la séquence NBA Cup d'octobre (charte dédiée, annonce + palmarès + enjeux, bandeau en tête
 des programmes et verdicts). Pour chacun : J-7 « tout comprendre » (carrousel + story + Reel), page
