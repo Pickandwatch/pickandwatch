@@ -1,10 +1,13 @@
 {
- "type": "reel",
- "publier_a": "2026-11-09T12:30:00+01:00",
- "statut": "propose",
- "images": [
-  "cover.jpg"
- ],
- "video": "reel.mp4",
- "legende": "Les 3 matchs NBA à ne pas rater cette semaine, heure de Paris.\n\n★★★ Suns – Spurs · nuit de lundi à 3h · NBA League Pass (commentaires en VO). Victor Wembanyama à Phoenix, dans la salle de Devin Booker.\n★★★ Knicks – Cavaliers · nuit de mercredi à 1h · beIN SPORTS 1 (rediffusion jeudi 9h15). Les deux finalistes de l'Est se revoient au Madison Square Garden. Sur beIN SPORTS, la NBA, c'est aussi les excellents Rémi Reverchon, Fred Weis, Xavier Vaution, Jacques Monclar, Chris Singleton et toute la bande.\n★★★ Spurs – Warriors · nuit de vendredi à 3h30 · Prime Video. NBA Cup, phase de groupes : Victor Wembanyama face à Stephen Curry.\n\nTout le programme, chaque soir à 18h : suis @pickandwatch.fr. Et sur notre site pickandwatch.fr (lien en bio), chaque matin, nos verdicts de la nuit.\nZéro spoiler. Jamais.\n#NBA #NBAFrance #BasketFrance #NBACup #Wembanyama"
+  "type": "reel",
+  "publier_a": "2026-11-09T12:30:00+01:00",
+  "statut": "echec",
+  "images": [
+    "cover.jpg"
+  ],
+  "video": "reel.mp4",
+  "legende": "Les 3 matchs NBA à ne pas rater cette semaine, heure de Paris.\n\n★★★ Suns – Spurs · nuit de lundi à 3h · NBA League Pass (commentaires en VO). Victor Wembanyama à Phoenix, dans la salle de Devin Booker.\n★★★ Knicks – Cavaliers · nuit de mercredi à 1h · beIN SPORTS 1 (rediffusion jeudi 9h15). Les deux finalistes de l'Est se revoient au Madison Square Garden. Sur beIN SPORTS, la NBA, c'est aussi les excellents Rémi Reverchon, Fred Weis, Xavier Vaution, Jacques Monclar, Chris Singleton et toute la bande.\n★★★ Spurs – Warriors · nuit de vendredi à 3h30 · Prime Video. NBA Cup, phase de groupes : Victor Wembanyama face à Stephen Curry.\n\nTout le programme, chaque soir à 18h : suis @pickandwatch.fr. Et sur notre site pickandwatch.fr (lien en bio), chaque matin, nos verdicts de la nuit.\nZéro spoiler. Jamais.\n#NBA #NBAFrance #BasketFrance #NBACup #Wembanyama",
+  "tentatives": 1,
+  "erreur": "jamais parti : plus de 3 h après l'heure prévue, publication abandonnée (les matchs ont commencé)",
+  "erreur_le": "2026-11-09T18:01+01:00"
 }
