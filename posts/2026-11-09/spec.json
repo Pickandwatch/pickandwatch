@@ -1,0 +1,150 @@
+{
+ "cover": {
+  "title": "8 MATCHS CETTE NUIT",
+  "date": "LUNDI 9 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "PISTONS",
+   "WIZARDS"
+  ],
+  "top_info": "01:00 · DETROIT · DIRECT beIN SPORTS 1",
+  "other_size": 44,
+  "others": [
+   [
+    "HAWKS – LAKERS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "HORNETS – CAVS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "RAPTORS – GRIZZLIES",
+    "01:30",
+    "★"
+   ],
+   [
+    "MAVERICKS – PACERS",
+    "02:00",
+    "★"
+   ],
+   [
+    "ROCKETS – NUGGETS",
+    "02:30",
+    "★★"
+   ],
+   [
+    "SUNS – SPURS",
+    "03:00",
+    "★★"
+   ],
+   [
+    "WARRIORS – PELICANS",
+    "04:00",
+    "★"
+   ]
+  ],
+  "note": "TV : PISTONS – WIZARDS EN DIRECT SUR beIN SPORTS 1 · DIFFÉRÉ MARDI 10:45<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "DETROIT · LITTLE CAESARS ARENA",
+   "home": "Pistons",
+   "home_city": "DETROIT",
+   "home_bg": "#1D428A",
+   "home_sec": "#C8102E",
+   "away": "Wizards",
+   "away_city": "WASHINGTON",
+   "away_c1": "#E31837",
+   "away_c2": "#002B5C",
+   "counter": "NUIT DU 9 AU 10 NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE",
+   "time": "01:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Cade Cunningham et Ausar Thompson, sans Jalen Duren (ischio-jambiers) ni Isaiah Joe (hanche), reçoivent Trae Young et les Français Bilal Coulibaly et Alex Sarr. Anthony Davis incertain (cheville).",
+   "chips": [
+    "C. Cunningham",
+    "A. Thompson",
+    "B. Coulibaly",
+    "A. Sarr"
+   ],
+   "foot": "Différé : mar. 10:45 beIN 1<br>Rediff. : 16:15 beIN 3"
+  },
+  {
+   "venue": "PHOENIX · MORTGAGE MATCHUP CENTER",
+   "home": "Suns",
+   "home_city": "PHOENIX",
+   "home_bg": "#29127A",
+   "home_sec": "#E56020",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 9 AU 10 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "03:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Le Français Victor Wembanyama et De'Aaron Fox, finalistes la saison dernière, chez Devin Booker et Miles Bridges. San Antonio sans Tobias Harris (mollet), Devin Vassell incertain (aine) ; Phoenix sans Mark Williams (épaule).",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "D. Booker",
+    "M. Bridges"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "ATLANTA · STATE FARM ARENA",
+   "home": "Hawks",
+   "home_city": "ATLANTA",
+   "home_bg": "#C8102E",
+   "home_sec": "#FDB927",
+   "away": "Lakers",
+   "away_city": "LOS ANGELES",
+   "away_c1": "#552583",
+   "away_c2": "#FDB927",
+   "counter": "NUIT DU 9 AU 10 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Austin Reaves et Walker Kessler chez Jalen Johnson et Nickeil Alexander-Walker. Los Angeles sans Luka Dončić (dos), Quentin Grimes incertain (doigt).",
+   "chips": [
+    "A. Reaves",
+    "W. Kessler",
+    "J. Johnson",
+    "N. Alexander-Walker"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "CHARLOTTE · SPECTRUM CENTER",
+   "home": "Hornets",
+   "home_city": "CHARLOTTE",
+   "home_bg": "#008CA8",
+   "home_sec": "#1D1060",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#BC945C",
+   "counter": "NUIT DU 9 AU 10 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les Français Moussa Diabaté, incertain (quadriceps), et Tidjane Salaün face à Donovan Mitchell, James Harden et Evan Mobley. Charlotte sans Brandon Miller ni Kon Knueppel ; Jarrett Allen incertain (genou).",
+   "chips": [
+    "D. Mitchell",
+    "J. Harden",
+    "M. Diabaté",
+    "T. Salaün"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
