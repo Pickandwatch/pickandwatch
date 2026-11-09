@@ -14,6 +14,7 @@
 
 # Suivi des abonnés
 - 31/10/2026 : 287 · 9/11/2026 : 355 (+68 en 9 jours, environ 53 par semaine).
+- Boost test lancé par Alexandre (annoncé le 9/11) : guide contre Reel des dates clés, 2 × 10 €, 4 jours, objectif visites du profil, France 25-44. Bilan : coût par abonné attribué (onglet Publicité) ; seuil 0,80 €.
 
 # Grands rendez-vous : dispositifs renforcés (demande d'Alexandre, 31/10/2026)
 Modèle : la séquence NBA Cup d'octobre (charte dédiée, annonce + palmarès + enjeux, bandeau en tête
