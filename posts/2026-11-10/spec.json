@@ -1,0 +1,115 @@
+{
+ "cover": {
+  "title": "6 MATCHS CETTE NUIT",
+  "date": "MARDI 10 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "76ERS",
+   "CELTICS"
+  ],
+  "top_info": "02:00 · PHILADELPHIE · DIRECT beIN SPORTS 1",
+  "other_size": 44,
+  "others": [
+   [
+    "KNICKS – BUCKS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "SUNS – CLIPPERS",
+    "03:00",
+    "★"
+   ],
+   [
+    "JAZZ – HEAT",
+    "03:00",
+    "★"
+   ],
+   [
+    "KINGS – MAGIC",
+    "04:00",
+    "★"
+   ],
+   [
+    "BLAZERS – THUNDER",
+    "05:00",
+    "★★"
+   ]
+  ],
+  "note": "TV : 76ERS – CELTICS ET BLAZERS – THUNDER EN DIRECT SUR beIN SPORTS 1<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "PHILADELPHIE · XFINITY MOBILE ARENA",
+   "home": "76ers",
+   "home_city": "PHILADELPHIE",
+   "home_bg": "#1D428A",
+   "home_sec": "#E01234",
+   "away": "Celtics",
+   "away_city": "BOSTON",
+   "away_c1": "#008348",
+   "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 10 AU 11 NOV. · 2/4",
+   "label": "★★★ L'IMMANQUABLE",
+   "time": "02:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Premier duel entre Jaylen Brown, transféré à Philadelphie cet été, et Jayson Tatum, son coéquipier pendant neuf saisons à Boston. Les deux premiers de l'Est se retrouvent.",
+   "chips": [
+    "J. Brown",
+    "J. Tatum",
+    "L. James",
+    "J. Embiid"
+   ],
+   "foot": "Différé : mer. 09:15 beIN 1"
+  },
+  {
+   "venue": "PORTLAND · MODA CENTER",
+   "home": "Trail Blazers",
+   "home_city": "PORTLAND",
+   "home_bg": "#E03A3E",
+   "home_sec": "#000000",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 10 AU 11 NOV. · 3/4",
+   "label": "★★ À SURVEILLER",
+   "time": "05:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Shai Gilgeous-Alexander, sans Chet Holmgren ni Jalen Williams, chez Deni Avdija, Damian Lillard et le Français Sidy Cissoko. Portland sans Ja Morant (ischio-jambiers).",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "D. Lillard",
+    "S. Cissoko"
+   ],
+   "foot": "Différé 11:00 beIN 1<br>Rediff. 16:15 beIN 3"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Bucks",
+   "away_city": "MILWAUKEE",
+   "away_c1": "#00471B",
+   "away_c2": "#EEE1C6",
+   "counter": "NUIT DU 10 AU 11 NOV. · 4/4",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Jalen Brunson et Karl-Anthony Towns, champions en titre, reçoivent Myles Turner, Tyler Herro, incertain (genou), et le Français Ousmane Dieng. Josh Hart incertain (cheville).",
+   "chips": [
+    "J. Brunson",
+    "K.-A. Towns",
+    "M. Turner",
+    "O. Dieng"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}

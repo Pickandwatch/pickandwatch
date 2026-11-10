@@ -1,0 +1,37 @@
+{
+ "_statut": "proposé le 10 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des six matchs, blessures et effectifs ESPN au 10/11/2026, 15h ; minutes : gamelogs ESPN) ; previews AP/Data Skrive du 09 et 10/11/2026 ; ESPN.com, 10/11/2026 : « As Jaylen Brown faces the Celtics for the first time, familiar questions linger » ; guide TV beIN SPORTS (xmltvfr.fr) : 76ers – Celtics en direct beIN SPORTS 1 à 2h, différé mercredi 9h15 beIN SPORTS 1 ; Trail Blazers – Thunder en direct beIN SPORTS 1 à 5h, mercredi 11h beIN SPORTS 1 et 16h15 beIN SPORTS 3. Prime Video : aucun match NBA on Prime au calendrier ESPN de la nuit (diffusions nationales NBC), aucune annonce Prime Video France trouvée.",
+ "matchs": {
+  "401909961": {
+   "stars": "3",
+   "score": "5 + 5 + 2 (événement : premier match de Jaylen Brown contre Boston depuis son transfert) = 12 ; à égalité avec Trail Blazers – Thunder (12), même diffusion (direct beIN SPORTS 1) et événement des deux côtés : affiche retenue pour le premier duel Brown – Tatum et l'horaire (2h contre 5h)",
+   "brief": "Premier duel entre Jaylen Brown, transféré à Philadelphie cet été, et Jayson Tatum, son coéquipier pendant neuf saisons à Boston. Les deux premiers de l'Est se retrouvent."
+  },
+  "401909965": {
+   "stars": "2",
+   "score": "3 + 7 + 2 (événement : le Français Sidy Cissoko, au moins 16 minutes à chacun de ses huit derniers matchs) = 12, ramené à ★★ (un seul ★★★)",
+   "brief": "Shai Gilgeous-Alexander, sans Chet Holmgren ni Jalen Williams, chez Deni Avdija, Damian Lillard et le Français Sidy Cissoko. Portland sans Ja Morant (ischio-jambiers)."
+  },
+  "401909960": {
+   "stars": "2",
+   "score": "7 + 1 = 8 (Ousmane Dieng, temps de jeu irrégulier : pas de bonus)",
+   "brief": "Jalen Brunson et Karl-Anthony Towns, champions en titre, reçoivent Myles Turner, Tyler Herro, incertain (genou), et le Français Ousmane Dieng. Josh Hart incertain (cheville)."
+  },
+  "401909962": {
+   "stars": "1",
+   "score": "3 + 1 = 4",
+   "brief": "Devin Booker et Jalen Green face à Darius Garland. Los Angeles sans Bradley Beal (genou) ni Brandon Ingram."
+  },
+  "401909963": {
+   "stars": "1",
+   "score": "1 + 3 = 4",
+   "brief": "Giannis Antetokounmpo, incertain (poignet), et Bam Adebayo chez le rookie Darryn Peterson et Ace Bailey. Utah sans Jaren Jackson Jr. (genou), Lauri Markkanen incertain (poignet)."
+  },
+  "401909964": {
+   "stars": "1",
+   "score": "1 + 2 = 3 (Maxime Raynaud et Noah Penda absents : pas de bonus)",
+   "brief": "Franz Wagner et Desmond Bane, incertain (maladie), chez Zach LaVine. Orlando sans Paolo Banchero ni le Français Noah Penda ; Sacramento sans le Français Maxime Raynaud, Domantas Sabonis incertain."
+  }
+ }
+}
