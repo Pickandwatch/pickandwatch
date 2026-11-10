@@ -1,0 +1,329 @@
+{
+ "couverture": {
+  "etiquette": "DÉBUT DE SAISON",
+  "titre": [
+   "LES LIGNES DE STATS",
+   "LES PLUS FOLLES DEPUIS LE 21/10"
+  ],
+  "lignes": [
+   [
+    "WEMBANYAMA",
+    "52 PTS · 24 REB · 8 CTR"
+   ],
+   [
+    "DONČIĆ",
+    "52 PTS · 8 REB · 10 PD"
+   ],
+   [
+    "FLAGG",
+    "43 PTS · 10 REB · 6 PD"
+   ],
+   [
+    "CURRY",
+    "44 PTS · 16/16 AUX LF"
+   ],
+   [
+    "MAXEY",
+    "38 PTS EN 38 MIN"
+   ],
+   [
+    "+ JEROME, EDWARDS, GIANNIS",
+    "LES BONUS"
+   ]
+  ],
+  "accroche": "Pas des moyennes : un match, une ligne."
+ },
+ "slides": [
+  {
+   "etiquette": "LIGNES DE STATS",
+   "rubrique": "NUIT DU 4 AU 5/11 · CONTRE DALLAS",
+   "titre": [
+    "VICTOR WEMBANYAMA",
+    "DOUBLE RECORD EN CARRIÈRE"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "34"
+    ],
+    [
+     "PTS",
+     "52"
+    ],
+    [
+     "REB",
+     "24"
+    ],
+    [
+     "CTR",
+     "8"
+    ]
+   ],
+   "texte": "16 sur 28 aux tirs, 19 sur 23 aux lancers francs : ses records en carrière aux points et aux rebonds. Et dans la nuit du 9 au 10/11 à Phoenix : 40 points et 9 contres en 25 minutes seulement.",
+   "encadre": [
+    "NOTRE VERDICT DU MATCH",
+    "À revoir en entier",
+    ""
+   ]
+  },
+  {
+   "etiquette": "LIGNES DE STATS",
+   "rubrique": "DIMANCHE 25/10 · À UTAH",
+   "titre": [
+    "LUKA DONČIĆ",
+    "LE PREMIER À 50 DE LA SAISON"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "38"
+    ],
+    [
+     "PTS",
+     "52"
+    ],
+    [
+     "REB",
+     "8"
+    ],
+    [
+     "PD",
+     "10"
+    ]
+   ],
+   "texte": "17 sur 30 aux tirs, 8 paniers à 3 points. Il a remis ça depuis : 53 points contre Portland, et 45 points, 15 rebonds et 5 interceptions contre Toronto, avec 13 lancers francs sur 13.",
+   "encadre": [
+    "NOTRE VERDICT DU MATCH",
+    "À revoir",
+    ""
+   ]
+  },
+  {
+   "etiquette": "LIGNES DE STATS",
+   "rubrique": "NUIT DU 9 AU 10/11 · CONTRE INDIANA",
+   "titre": [
+    "COOPER FLAGG",
+    "19 ANS, RECORD DE LA SAISON"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "39"
+    ],
+    [
+     "PTS",
+     "43"
+    ],
+    [
+     "REB",
+     "10"
+    ],
+    [
+     "PD",
+     "6"
+    ]
+   ],
+   "texte": "16 sur 25 aux tirs, 8 sur 8 aux lancers, 3 interceptions. Le 26/10 à Miami, il avait déjà rempli toutes les colonnes : 29 points, 11 passes, 5 interceptions et 3 contres.",
+   "encadre": [
+    "NOTRE VERDICT DU MATCH",
+    "Le match de la nuit",
+    ""
+   ]
+  },
+  {
+   "etiquette": "LIGNES DE STATS",
+   "rubrique": "NUIT DU 28 AU 29/10 · À MINNESOTA",
+   "titre": [
+    "STEPHEN CURRY",
+    "38 ANS, 44 POINTS"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "32"
+    ],
+    [
+     "PTS",
+     "44"
+    ],
+    [
+     "LF",
+     "16/16"
+    ],
+    [
+     "3 PTS",
+     "6"
+    ]
+   ],
+   "texte": "44 points en 32 minutes, sans manquer un seul lancer franc, avec 8 rebonds et 6 passes. Et le 8/11 contre Orlando : 41 points à 13 sur 19 aux tirs.",
+   "encadre": [
+    "NOTRE VERDICT DU MATCH",
+    "À revoir",
+    ""
+   ]
+  },
+  {
+   "etiquette": "LIGNES DE STATS",
+   "rubrique": "SAMEDI 31/10 · À CHARLOTTE",
+   "titre": [
+    "TYRESE MAXEY",
+    "SEUL AUX COMMANDES"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "38"
+    ],
+    [
+     "PTS",
+     "38"
+    ],
+    [
+     "TIRS",
+     "13/23"
+    ],
+    [
+     "3 PTS",
+     "4/9"
+    ]
+   ],
+   "texte": "Sans LeBron James ni Joel Embiid à ses côtés, il porte l'attaque de Philadelphie : 38 points, 4 rebonds, 4 passes et 2 interceptions.",
+   "encadre": [
+    "NOTRE VERDICT DU MATCH",
+    "À revoir",
+    ""
+   ]
+  },
+  {
+   "etiquette": "LIGNES DE STATS",
+   "rubrique": "NUIT DU 21 AU 22/10 · CONTRE UTAH",
+   "titre": [
+    "TY JEROME",
+    "LA SURPRISE DE MEMPHIS"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "32"
+    ],
+    [
+     "PTS",
+     "45"
+    ],
+    [
+     "TIRS",
+     "17/25"
+    ],
+    [
+     "3 PTS",
+     "5/10"
+    ]
+   ],
+   "texte": "45 points en 32 minutes, dès la première semaine. Il a récidivé le 3/11 contre La Nouvelle-Orléans : 40 points à 14 sur 22.",
+   "encadre": [
+    "NOTRE VERDICT DU MATCH",
+    "Le résumé suffit",
+    ""
+   ]
+  },
+  {
+   "etiquette": "LIGNES DE STATS",
+   "rubrique": "NUIT DU 21 AU 22/10 · À MIAMI",
+   "titre": [
+    "ANTHONY EDWARDS",
+    "NEUF À TROIS POINTS"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "33"
+    ],
+    [
+     "PTS",
+     "45"
+    ],
+    [
+     "3 PTS",
+     "9/17"
+    ],
+    [
+     "REB",
+     "10"
+    ]
+   ],
+   "texte": "45 points et 10 rebonds dès le premier match de la saison. Cinq jours plus tard à Cleveland, il en mettait 47.",
+   "encadre": [
+    "NOTRE VERDICT DU MATCH",
+    "Le résumé suffit",
+    ""
+   ]
+  },
+  {
+   "etiquette": "LIGNES DE STATS",
+   "rubrique": "NUIT DU 30 AU 31/10 · CONTRE INDIANA",
+   "titre": [
+    "GIANNIS ANTETOKOUNMPO",
+    "TRIPLE-DOUBLE EXPRESS"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "31"
+    ],
+    [
+     "PTS",
+     "31"
+    ],
+    [
+     "REB",
+     "18"
+    ],
+    [
+     "PD",
+     "10"
+    ]
+   ],
+   "texte": "Un triple-double en 31 minutes, à 13 sur 19 aux tirs. Le deuxième en une semaine avec Miami, après 29 points, 14 rebonds et 11 passes contre Dallas.",
+   "encadre": [
+    "NOTRE VERDICT DU MATCH",
+    "Le résumé suffit",
+    ""
+   ]
+  }
+ ],
+ "fin": {
+  "etiquette": "LIGNES DE STATS",
+  "titre": [
+   "ET TOI, TU MISES SUR QUI ?",
+   "LA PROCHAINE LIGNE FOLLE"
+  ],
+  "texte": "Chiffres issus des feuilles de match, du 21/10 au 10/11. Pour ne rater aucun de ces matchs : le programme chaque jour à 18h et le verdict sans score à 8h.",
+  "sans_site": true
+ },
+ "presentation": {
+  "etiquette": "PICK & WATCH",
+  "titre": [
+   "PICK & WATCH",
+   "TON PROGRAMME NBA. ZÉRO SPOILER."
+  ],
+  "texte": "Le programme NBA pensé pour les fans français : à l'heure de Paris, avec la chaîne de chaque match, et des verdicts qui ne révèlent jamais le score.",
+  "lignes": [
+   [
+    "18H",
+    "Les matchs de la nuit et où les voir"
+   ],
+   [
+    "8H",
+    "Le verdict sans score : replay, résumé ou zapper"
+   ],
+   [
+    "VENDREDI",
+    "Hors parquet : le basket au-delà des matchs"
+   ],
+   [
+    "LE SITE",
+    "Le programme de ton équipe et « + Agenda »"
+   ]
+  ]
+ }
+}
