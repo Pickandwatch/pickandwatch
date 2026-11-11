@@ -13,7 +13,7 @@
   quotidienne de 17h15 et compléter la liste des comptes à partir des abonnements d'Alexandre.
 
 # Suivi des abonnés
-- 31/10/2026 : 287 · 9/11/2026 : 355 (+68 en 9 jours, environ 53 par semaine).
+- 31/10/2026 : 287 · 9/11/2026 : 355 (+68 en 9 jours, environ 53 par semaine) · 11/11/2026 : 407 (+52 en 2 jours, pendant le boost ; Reel boosté à plus de 2 800 vues).
 - Boost test lancé par Alexandre (annoncé le 9/11) : guide contre Reel des dates clés, 2 × 10 €, 4 jours, objectif visites du profil, France 25-44. Bilan : coût par abonné attribué (onglet Publicité) ; seuil 0,80 €.
 
 # Grands rendez-vous : dispositifs renforcés (demande d'Alexandre, 31/10/2026)
