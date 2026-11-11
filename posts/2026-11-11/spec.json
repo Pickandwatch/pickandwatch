@@ -1,0 +1,160 @@
+{
+ "cover": {
+  "title": "10 MATCHS CETTE NUIT",
+  "date": "MERCREDI 11 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "KNICKS",
+   "CAVALIERS"
+  ],
+  "top_info": "01:00 · NEW YORK · DIRECT beIN SPORTS 1",
+  "other_size": 40,
+  "others": [
+   [
+    "PACERS – WIZARDS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "RAPTORS – CELTICS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "BULLS – SPURS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "GRIZZLIES – NUGGETS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "BUCKS – LAKERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "PELICANS – NETS",
+    "02:00",
+    "★"
+   ],
+   [
+    "JAZZ – MAGIC",
+    "03:00",
+    "★"
+   ],
+   [
+    "ROCKETS – WARRIORS",
+    "03:30",
+    "★★"
+   ],
+   [
+    "BLAZERS – THUNDER",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "TV : KNICKS – CAVS ET ROCKETS – WARRIORS EN DIRECT SUR beIN 1<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#BC945C",
+   "counter": "NUIT DU 11 AU 12 NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE",
+   "time": "01:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Les finalistes de l'Est 2026 se retrouvent, quatre jours après leur premier duel à Cleveland. Jalen Brunson et Karl-Anthony Towns face à Donovan Mitchell et James Harden. New York sans Josh Hart.",
+   "chips": [
+    "J. Brunson",
+    "K.-A. Towns",
+    "D. Mitchell",
+    "J. Harden"
+   ],
+   "foot": "Différé 09:15 beIN 1<br>Rediff. 14:30 beIN 3"
+  },
+  {
+   "venue": "PORTLAND · MODA CENTER",
+   "home": "Trail Blazers",
+   "home_city": "PORTLAND",
+   "home_bg": "#E03A3E",
+   "home_sec": "#000000",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 11 AU 12 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "04:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième match en deux nuits à Portland. Shai Gilgeous-Alexander, toujours sans Chet Holmgren ni Jalen Williams, face à Deni Avdija, Damian Lillard et le Français Sidy Cissoko. Portland sans Ja Morant.",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "D. Avdija",
+    "D. Lillard",
+    "S. Cissoko"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "CHICAGO · UNITED CENTER",
+   "home": "Bulls",
+   "home_city": "CHICAGO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 11 AU 12 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Victor Wembanyama, De'Aaron Fox et les finalistes NBA chez Josh Giddey, le rookie Caleb Wilson et le Français Noa Essengue. San Antonio sans Tobias Harris (mollet).",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "J. Giddey",
+    "N. Essengue"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "TORONTO · SCOTIABANK ARENA",
+   "home": "Raptors",
+   "home_city": "TORONTO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Celtics",
+   "away_city": "BOSTON",
+   "away_c1": "#008348",
+   "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 11 AU 12 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Jayson Tatum, Paul George et Derrick White à Toronto, privé de Scottie Barnes (adducteurs) et Kawhi Leonard (genou). Immanuel Quickley incertain.",
+   "chips": [
+    "J. Tatum",
+    "P. George",
+    "D. White",
+    "RJ Barrett"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
