@@ -30,13 +30,25 @@ def cover(c, n, base=None):
     return frame('\n'.join(inner))
 
 
+def _rubrique(s):
+    """Ligne de rubrique ; avec "badge": [étiquette, valeur], un pavé orange bien visible à droite (ex. bilan de l'équipe)."""
+    r = f'<div style="{MONO}; font-size: 24px; letter-spacing: 4px; color: {OR}">{s["rubrique"]}</div>'
+    if not s.get('badge'):
+        return r
+    k, v = s['badge']
+    return (f'<div style="display: flex; justify-content: space-between; align-items: center; gap: 24px">{r}'
+            f'<div style="flex: none; background: {OR}; color: #F2EEE6; padding: 12px 22px 10px; display: flex; flex-direction: column; align-items: flex-end; gap: 4px">'
+            f'<span style="{MONO}; font-size: 18px; letter-spacing: 3px">{k}</span>'
+            f'<span style="{BAR}; font-size: 60px; line-height: 1; white-space: nowrap">{v}</span></div></div>')
+
+
 def slide(s, i, n, base=None):
     bas = source_box(*s['encadre'])
     if s.get('logo') and base:  # logo officiel du podcast / de la chaîne, à côté de l'encadré
         bas = (f'<div style="display: flex; gap: 28px; align-items: center">{_img((base / s["logo"]).resolve(), 150, 14)}'
                f'<div style="flex: 1; min-width: 0">{bas}</div></div>')
     inner = [header(f'{s.get("etiquette", "LE GUIDE")} · {i}/{n}'),
-             f'<div style="display: flex; flex-direction: column; gap: 22px"><div style="{MONO}; font-size: 24px; letter-spacing: 4px; color: {OR}">{s["rubrique"]}</div>{title(*s["titre"])}</div>',
+             f'<div style="display: flex; flex-direction: column; gap: 22px">{_rubrique(s)}{title(*s["titre"])}</div>',
              stats(s['chiffres']),
              (body(s['texte']) if not s.get('taille') else body(s['texte']).replace('font-size: 37px', f"font-size: {s['taille']}px")),
              bas]
