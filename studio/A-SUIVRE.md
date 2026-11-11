@@ -16,6 +16,17 @@
 - 31/10/2026 : 287 · 9/11/2026 : 355 (+68 en 9 jours, environ 53 par semaine) · 11/11/2026 : 407 (+52 en 2 jours, pendant le boost ; Reel boosté à plus de 2 800 vues).
 - Boost test lancé par Alexandre (annoncé le 9/11) : guide contre Reel des dates clés, 2 × 10 €, 4 jours, objectif visites du profil, France 25-44. Bilan : coût par abonné attribué (onglet Publicité) ; seuil 0,80 €.
 
+# Tableau de bord Instagram (30 jours au 11/11/2026, captures d'Alexandre)
+- Audience : 93,5 % d'hommes ; 35-44 ans 41,5 %, 45-54 ans 27,7 %, 25-34 ans 23,7 % ; France 99,5 %.
+  → cibler les pubs sur 25-54 ans (et non plus 25-44, qui exclut 28 % de l'audience).
+- Heures actives : pic 18h-21h (dimanche 18h-21h, lundi 18h-minuit), 12h-15h presque aussi haut, 6h faible.
+  → le créneau 18h est confirmé ; 12h30 bon pour les posts ponctuels.
+- 63,8 k vues, 10,4 k comptes touchés ; 58 % des vues viennent de non-abonnés. Stories 20 k vues (surtout abonnés),
+  publications 8,1 k, Reels 1,2 k. 1,4 k visites du profil, 221 clics sur le lien en bio.
+- Courbe d'abonnés : deux phases de croissance (lancement 14-23/10, boost depuis le 7/11), plateau entre les deux.
+  Le profil convertit (375 abonnés nets pour 1,4 k visites) ; le frein est d'attirer des non-abonnés vers le profil.
+- Meilleur engagement organique : carrousel podcasts (452 vues, 14 j'aime, 6 commentaires) → les tags de l'écosystème marchent.
+
 # Grands rendez-vous : dispositifs renforcés (demande d'Alexandre, 31/10/2026)
 Modèle : la séquence NBA Cup d'octobre (charte dédiée, annonce + palmarès + enjeux, bandeau en tête
 des programmes et verdicts). Pour chacun : J-7 « tout comprendre » (carrousel + story + Reel), page
