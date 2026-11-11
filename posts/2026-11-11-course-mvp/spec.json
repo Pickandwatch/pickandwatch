@@ -2,8 +2,8 @@
  "couverture": {
   "etiquette": "COURSE AU MVP",
   "titre": [
-   "LE TOP 10 MVP DE TRASHTALK",
-   "ET NOS CHIFFRES POUR LE JUGER"
+   "NOTRE CLASSEMENT MVP",
+   "DU DÉBUT DE SAISON"
   ],
   "lignes": [
    [
@@ -31,7 +31,7 @@
     "FLAGG · TATUM · ŞENGÜN · JEROME · MURRAY"
    ]
   ],
-  "accroche": "D'accord avec leur classement ?"
+  "accroche": "D'accord avec notre classement ?"
  },
  "slides": [
   {
@@ -348,7 +348,7 @@
      "5,7"
     ]
    ],
-   "texte": "Plus d'un tir à 3 points sur deux : 36 réussis sur 71. Absent du top 15 de NBA.com, mais dans le top 10 de TrashTalk.",
+   "texte": "Plus d'un tir à 3 points sur deux : 36 réussis sur 71. Absent du top 15 de NBA.com : c'est notre pari.",
    "encadre": [
     "SA MEILLEURE LIGNE · 43 MIN",
     "42 pts · 3 reb · 6 pd",
@@ -362,7 +362,7 @@
    "ET TOI, TON MVP ?",
    "DIS-LE EN COMMENTAIRE"
   ],
-  "texte": "Classement : TrashTalk (10/11). Moyennes et bilans au 10/11, calculés sur les feuilles de match. Et pour les voir jouer : le programme chaque jour à 18h, le verdict sans score à 8h.",
+  "texte": "Moyennes et bilans au 10/11, calculés sur les feuilles de match. Et pour les voir jouer : le programme chaque jour à 18h, le verdict sans score à 8h.",
   "sans_site": true
  },
  "presentation": {
