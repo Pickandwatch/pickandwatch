@@ -303,3 +303,7 @@ de la marque comme seule couleur), toile d'araignée et croissant de lune au tra
 « ÉDITION HALLOWEEN · 31.10 » ; slides de match et cartes : seulement la toile au trait, discrète.
 Légende du soir : commencer par « Édition Halloween » et ajouter #Halloween. Aucun changement de
 contenu ni de règle anti-spoiler.
+
+
+## Appel au partage (11/11/2026)
+Sur les posts ponctuels (hors programme quotidien et verdicts), une ligne d'appel à l'envoi, contextuelle et ciblée sur un ami précis (« Envoie-le à ton pote fan des Spurs »), jamais un « partage ce post » générique. Une seule par légende, en fin de légende avant la signature. Les envois en message privé sont le signal qu'Instagram met en avant pour toucher des non-abonnés.
