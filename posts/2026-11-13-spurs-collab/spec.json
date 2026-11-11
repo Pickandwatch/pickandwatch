@@ -1,0 +1,243 @@
+{
+ "couverture": {
+  "etiquette": "SPURS · DEPUIS LA FRANCE",
+  "titre": [
+   "SUIVRE LES SPURS",
+   "DEPUIS LA FRANCE"
+  ],
+  "lignes": [
+   [
+    "SAM. 14/11 · 3H30",
+    "WARRIORS · NBA CUP"
+   ],
+   [
+    "DIM. 15/11 · 23H00",
+    "À UTAH"
+   ],
+   [
+    "MER. 18/11 · 2H00",
+    "PISTONS"
+   ],
+   [
+    "SAM. 28/11 · 3H30",
+    "LAKERS · NBA CUP"
+   ],
+   [
+    "DIM. 29/11 · 22H00",
+    "CELTICS"
+   ],
+   [
+    "MER. 14/01 · 20H00",
+    "À PARIS !"
+   ]
+  ],
+  "accroche": "Heures de Paris, chaînes françaises."
+ },
+ "slides": [
+  {
+   "etiquette": "SPURS · DEPUIS LA FRANCE",
+   "rubrique": "À NOTER DANS TON AGENDA",
+   "titre": [
+    "DEUX MATCHS",
+    "À HEURE HUMAINE"
+   ],
+   "chiffres": [
+    [
+     "DIM. 15/11 · À UTAH",
+     "23H00"
+    ],
+    [
+     "DIM. 29/11 · CELTICS",
+     "22H00"
+    ]
+   ],
+   "texte": "Pas besoin de mettre le réveil à 3h : ces deux dimanches, les Spurs jouent en soirée, heure de Paris. Tous les autres matchs de novembre démarrent entre 2h et 4h du matin.",
+   "encadre": [
+    "OÙ LES VOIR",
+    "Utah : NBA League Pass · Celtics : chaîne annoncée la semaine du match",
+    ""
+   ],
+   "taille": 34
+  },
+  {
+   "etiquette": "SPURS · DEPUIS LA FRANCE",
+   "rubrique": "NBA CUP · PHASE DE GROUPES",
+   "titre": [
+    "LA NBA CUP",
+    "DES SPURS"
+   ],
+   "chiffres": [
+    [
+     "SAM. 14/11",
+     "WARRIORS"
+    ],
+    [
+     "JEU. 26/11 · À",
+     "BLAZERS"
+    ],
+    [
+     "SAM. 28/11",
+     "LAKERS"
+    ]
+   ],
+   "texte": "Trois matchs de groupe pour viser les quarts de finale, début décembre. Contre Golden State (3h30) et contre les Lakers (3h30), c'est en direct sur Prime Video ; à Portland, 4h00.",
+   "encadre": [
+    "EN DIRECT SUR",
+    "Prime Video",
+    "Warriors · Lakers"
+   ]
+  },
+  {
+   "etiquette": "SPURS · DEPUIS LA FRANCE",
+   "rubrique": "DU 14/11 AU 1/12 · HEURES DE PARIS",
+   "titre": [
+    "TOUT LE PROGRAMME",
+    "ET OÙ LE VOIR"
+   ],
+   "chiffres": [
+    [
+     "MATCHS",
+     "9"
+    ],
+    [
+     "NBA CUP",
+     "3"
+    ],
+    [
+     "EN SOIRÉE",
+     "2"
+    ]
+   ],
+   "texte": "sam. 14/11 · 3h30 · Warriors · Prime Video<br>dim. 15/11 · 23h00 · à Utah · League Pass<br>mer. 18/11 · 2h00 · Pistons · beIN SPORTS 1<br>ven. 20/11 · 2h00 · Clippers<br>dim. 22/11 · 2h00 · Pelicans<br>mar. 24/11 · 4h00 · à Sacramento<br>jeu. 26/11 · 4h00 · à Portland<br>sam. 28/11 · 3h30 · Lakers · Prime Video<br>dim. 29/11 · 22h00 · Celtics<br>mar. 1/12 · 2h00 · à Milwaukee",
+   "encadre": [
+    "SANS CHAÎNE INDIQUÉE",
+    "Annoncée la semaine du match, sur pickandwatch.fr",
+    ""
+   ],
+   "taille": 29
+  },
+  {
+   "etiquette": "SPURS · DEPUIS LA FRANCE",
+   "rubrique": "SES MOYENNES AU 10/11",
+   "titre": [
+    "VICTOR WEMBANYAMA",
+    "DANS LA COURSE AU MVP"
+   ],
+   "chiffres": [
+    [
+     "MIN",
+     "29,8"
+    ],
+    [
+     "PTS",
+     "30,1"
+    ],
+    [
+     "REB",
+     "11,9"
+    ],
+    [
+     "CTR",
+     "4,4"
+    ]
+   ],
+   "texte": "Plus de 30 points en moins de 30 minutes par match, et meilleur contreur de la ligue, de loin. Avec en point d'orgue ses records en carrière : 52 points et 24 rebonds contre Dallas.",
+   "encadre": [
+    "SA MEILLEURE LIGNE · 34 MIN",
+    "52 pts · 24 reb · 8 ctr",
+    ""
+   ]
+  },
+  {
+   "etiquette": "SPURS · DEPUIS LA FRANCE",
+   "rubrique": "MERCREDI 14 JANVIER 2027",
+   "titre": [
+    "LES SPURS",
+    "À PARIS"
+   ],
+   "chiffres": [
+    [
+     "DATE",
+     "14/01"
+    ],
+    [
+     "HEURE",
+     "20H00"
+    ],
+    [
+     "FACE À",
+     "PELICANS"
+    ]
+   ],
+   "texte": "Victor Wembanyama et les Spurs retrouvent Paris pour affronter les Pelicans, à l'Accor Arena. Un match NBA à 20h, heure de Paris : le rendez-vous de l'hiver.",
+   "encadre": [
+    "EN DIRECT SUR",
+    "Prime Video",
+    ""
+   ]
+  },
+  {
+   "etiquette": "SPURS · DEPUIS LA FRANCE",
+   "rubrique": "GRATUIT, SUR PICKANDWATCH.FR",
+   "titre": [
+    "LES SPURS",
+    "DANS TON AGENDA"
+   ],
+   "chiffres": [
+    [
+     "HEURES",
+     "DE PARIS"
+    ],
+    [
+     "CHAÎNES",
+     "TV & WEB"
+    ],
+    [
+     "AGENDA",
+     "1 CLIC"
+    ]
+   ],
+   "texte": "Rubrique « Mon équipe » : tous les matchs des Spurs à l'heure de Paris, la chaîne dès qu'elle est annoncée, et le bouton « + Agenda » pour les ajouter à ton téléphone.",
+   "encadre": [
+    "SUR LE SITE",
+    "pickandwatch.fr",
+    "Mon équipe › Spurs"
+   ]
+  }
+ ],
+ "fin": {
+  "etiquette": "SPURS · DEPUIS LA FRANCE",
+  "titre": [
+   "ET TOI ?",
+   "DIRECT OU REPLAY ?"
+  ],
+  "texte": "Tu te lèves la nuit pour les Spurs, ou tu regardes le replay le matin ? Dis-le en commentaire. Et pour le replay sans te faire spoiler : notre verdict chaque matin à 8h.",
+  "sans_site": true
+ },
+ "presentation": {
+  "etiquette": "PICK & WATCH",
+  "titre": [
+   "PICK & WATCH",
+   "TON PROGRAMME NBA. ZÉRO SPOILER."
+  ],
+  "texte": "Le programme NBA pensé pour les fans français : à l'heure de Paris, avec la chaîne de chaque match, et des verdicts qui ne révèlent jamais le score.",
+  "lignes": [
+   [
+    "18H",
+    "Les matchs de la nuit et où les voir"
+   ],
+   [
+    "8H",
+    "Le verdict sans score : replay, résumé ou zapper"
+   ],
+   [
+    "VENDREDI",
+    "Hors parquet : le basket au-delà des matchs"
+   ],
+   [
+    "LE SITE",
+    "Le programme de ton équipe et « + Agenda »"
+   ]
+  ]
+ }
+}

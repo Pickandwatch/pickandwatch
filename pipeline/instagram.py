@@ -184,7 +184,7 @@ def verify() -> None:
         raise SystemExit(f"{bad} post(s) seraient refusés à la publication.")
 
 
-def publish_carousel(image_urls: list[str], caption: str) -> str:
+def publish_carousel(image_urls: list[str], caption: str, collaborateurs: list[str] | None = None) -> str:
     pb = caption_problems(caption)
     if pb:
         raise SystemExit("Garde-fou : " + " ; ".join(pb) + ". Publication bloquée.")
@@ -196,13 +196,14 @@ def publish_carousel(image_urls: list[str], caption: str) -> str:
         children.append(c["id"])
     if len(children) == 1:
         raise SystemExit("Un carrousel demande au moins 2 images.")
-    parent = call("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption)
+    extra = {"collaborators": json.dumps(collaborateurs[:3])} if collaborateurs else {}  # invitation « Collab » (max 3), à accepter par l'autre compte
+    parent = call("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption, **extra)
     wait_ready(parent["id"])
     res = call("POST", f"{ig}/media_publish", creation_id=parent["id"])
     return res["id"]
 
 
-def publish_reel(video_url: str, cover_url: str, caption: str, grille: bool = True) -> str:
+def publish_reel(video_url: str, cover_url: str, caption: str, grille: bool = True, collaborateurs: list[str] | None = None) -> str:
     """Publie un Reel (vidéo MP4 H.264, 9:16) avec sa couverture. grille=False : le Reel reste dans
     l'onglet Reels sans doubler dans la grille du profil (Reels tirés d'un carrousel déjà publié)."""
     pb = caption_problems(caption)
@@ -210,7 +211,8 @@ def publish_reel(video_url: str, cover_url: str, caption: str, grille: bool = Tr
         raise SystemExit("Garde-fou : " + " ; ".join(pb) + ". Publication bloquée.")
     ig = CFG["ig_user_id"]
     c = call("POST", f"{ig}/media", media_type="REELS", video_url=video_url, cover_url=cover_url,
-             caption=caption, share_to_feed="true" if grille else "false")
+             caption=caption, share_to_feed="true" if grille else "false",
+             **({"collaborators": json.dumps(collaborateurs[:3])} if collaborateurs else {}))
     wait_ready(c["id"], tries=72)  # le traitement d'une vidéo prend plus de temps (jusqu'à 6 min)
     return call("POST", f"{ig}/media_publish", creation_id=c["id"])["id"]
 
@@ -317,9 +319,9 @@ def publish_due() -> list[Path]:
             if post.get("type") == "story":
                 media_id = publish_stories(urls, f, post)
             elif post.get("type") == "reel":
-                media_id = publish_reel(video_url, urls[0], limit_hashtags(auto_mentions(post["legende"])[0]), post.get("grille", True))
+                media_id = publish_reel(video_url, urls[0], limit_hashtags(auto_mentions(post["legende"])[0]), post.get("grille", True), post.get("collaborateurs"))
             else:
-                media_id = publish_carousel(urls, limit_hashtags(auto_mentions(post["legende"])[0]))
+                media_id = publish_carousel(urls, limit_hashtags(auto_mentions(post["legende"])[0]), post.get("collaborateurs"))
         except SystemExit as e:
             msg = str(e)
             definitif = msg.startswith("Garde-fou") or ('"is_transient":false' in msg and "2207027" not in msg)

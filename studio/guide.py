@@ -42,7 +42,22 @@ def _rubrique(s):
             f'<span style="{BAR}; font-size: 60px; line-height: 1; white-space: nowrap">{v}</span></div></div>')
 
 
+def _classement(lignes):
+    """Liste compacte [nom, valeur orange, détail] (ex. n°6 à 10 d'un classement)."""
+    rows = ''.join(
+        f'<div style="padding: 14px 0; border-top: 1px solid {INK}; display: flex; flex-direction: column; gap: 6px">'
+        f'<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 20px">'
+        f'<span style="{BAR}; font-size: 46px; line-height: 1">{k}</span>'
+        f'<span style="{BAR}; font-size: 40px; line-height: 1; color: {OR}; white-space: nowrap">{v}</span></div>'
+        f'<span style="{MONO}; font-size: 21px; letter-spacing: 1px; color: {SUB}">{d}</span></div>' for k, v, d in lignes)
+    return f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {INK}">{rows}</div>'
+
+
 def slide(s, i, n, base=None):
+    if s.get('classement'):
+        return frame('\n'.join([header(f'{s.get("etiquette", "LE GUIDE")} · {i}/{n}'),
+                                f'<div style="display: flex; flex-direction: column; gap: 22px">{_rubrique(s)}{title(*s["titre"])}</div>',
+                                _classement(s['classement'])]))
     bas = source_box(*s['encadre'])
     if s.get('logo') and base:  # logo officiel du podcast / de la chaîne, à côté de l'encadré
         bas = (f'<div style="display: flex; gap: 28px; align-items: center">{_img((base / s["logo"]).resolve(), 150, 14)}'
@@ -88,9 +103,9 @@ def presentation(p, n):
 
 def main(spec_path):
     spec_path = pathlib.Path(spec_path); spec = json.loads(spec_path.read_text())
-    tmp = pathlib.Path(tempfile.mkdtemp()); n = len(spec['slides']) + 2 + (1 if spec.get('presentation') else 0)
+    tmp = pathlib.Path(tempfile.mkdtemp()); n = len(spec['slides']) + 1 + (1 if spec.get('fin') else 0) + (1 if spec.get('presentation') else 0)
     base = spec_path.parent
-    pages = [cover(spec['couverture'], n, base)] + [slide(s, i, n, base) for i, s in enumerate(spec['slides'], 2)] + [fin(spec['fin'], n - (1 if spec.get('presentation') else 0), n)] + ([presentation(spec['presentation'], n)] if spec.get('presentation') else [])
+    pages = [cover(spec['couverture'], n, base)] + [slide(s, i, n, base) for i, s in enumerate(spec['slides'], 2)] + ([fin(spec['fin'], n - (1 if spec.get('presentation') else 0), n)] if spec.get('fin') else []) + ([presentation(spec['presentation'], n)] if spec.get('presentation') else [])
     names = []
     for k, p in enumerate(pages, 1):
         (tmp / f'g{k}.dc.html').write_text(p); names.append(f'g{k}')

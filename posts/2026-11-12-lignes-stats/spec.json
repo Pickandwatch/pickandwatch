@@ -291,15 +291,6 @@
    ]
   }
  ],
- "fin": {
-  "etiquette": "LIGNES DE STATS",
-  "titre": [
-   "ET TOI, TU MISES SUR QUI ?",
-   "LA PROCHAINE LIGNE FOLLE"
-  ],
-  "texte": "Chiffres issus des feuilles de match, du 21/10 au 10/11. Pour ne rater aucun de ces matchs : le programme chaque jour à 18h et le verdict sans score à 8h.",
-  "sans_site": true
- },
  "presentation": {
   "etiquette": "PICK & WATCH",
   "titre": [
