@@ -197,7 +197,13 @@ def publish_carousel(image_urls: list[str], caption: str, collaborateurs: list[s
     if len(children) == 1:
         raise SystemExit("Un carrousel demande au moins 2 images.")
     extra = {"collaborators": json.dumps(collaborateurs[:3])} if collaborateurs else {}  # invitation « Collab » (max 3), à accepter par l'autre compte
-    parent = call("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption, **extra)
+    try:
+        parent = call("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption, **extra)
+    except SystemExit as e:  # invitation refusée par l'API (compte introuvable, droits) : on publie sans
+        if not extra:
+            raise
+        print(f"Collab impossible ({e}) : publication sans co-auteur")
+        parent = call("POST", f"{ig}/media", media_type="CAROUSEL", children=",".join(children), caption=caption)
     wait_ready(parent["id"])
     res = call("POST", f"{ig}/media_publish", creation_id=parent["id"])
     return res["id"]
