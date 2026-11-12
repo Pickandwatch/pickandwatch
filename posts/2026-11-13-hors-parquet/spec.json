@@ -1,0 +1,43 @@
+{
+  "couverture": {
+    "semaine": "9 AU 13 NOVEMBRE 2026",
+    "sommaire": [
+      ["LE DOSSIER · À VOIR", "Stephen Curry, portrait d'un artiste"],
+      ["À LIRE · EN PRÉVENTE", "« What If...? », la NBA qui aurait pu être"],
+      ["À SUIVRE · À PARIS", "Le Slam Dunk Show, 21 et 22 novembre"]
+    ],
+    "accroche": "Le basket, en dehors des matchs."
+  },
+  "sujets": [
+    {
+      "rubrique": "LE DOSSIER · À VOIR",
+      "titre": ["STEPHEN CURRY,", "PORTRAIT D'UN ARTISTE"],
+      "chiffres": [["SORTIE", "MAR. 10/11"], ["PLATEFORME", "DISNEY+"], ["DURÉE", "1H13"]],
+      "texte": "Le documentaire d'ESPN Films, réalisé par Gotham Chopra, suit Stephen Curry à l'approche de son 4 000e tir à trois points en carrière, et pendant ce match. Curry y revient sur son enfance, son état d'esprit, son travail. Viola Davis, Rick Rubin, Patti Smith et Jon Batiste parlent du jeu en artistes. En streaming depuis mardi ; Disney+ France a mis en ligne sa fiche : « Portrait d'un artiste : Stephen Curry ».",
+      "source": ["SOURCES", "ESPN · DISNEY+", "10.11"],
+      "lien": "https://www.disneyplus.com/fr-fr/browse/entity-d46606cf-d029-4784-bc50-3bdaac98c984",
+      "lien_titre": "la fiche Disney+"
+    },
+    {
+      "rubrique": "À LIRE · EN PRÉVENTE",
+      "titre": ["« WHAT IF...? »,", "LA NBA QUI AURAIT PU ÊTRE"],
+      "chiffres": [["PAGES", "256"], ["PRIX", "24,90 €"], ["EXPÉDITION", "25/11"]],
+      "texte": "Et si une seule décision avait changé toute l'histoire de la NBA ? Un échange annulé, une draft qui tourne autrement : l'équipe de BasketSession tire le fil et raconte les titres qui changent de mains, les dynasties qui n'existent pas, les carrières renversées. Deux ans après « GOATS », même format, ton plus léger. En prévente sur basketsession.com.",
+      "source": ["SOURCE", "BASKETSESSION", "6.11"],
+      "lien": "https://www.basketsession.com/NBA/what-if-le-nouveau-livre-qui-vous-envoie-dans-le-multivers-nba-785423/",
+      "lien_titre": "la présentation de BasketSession"
+    },
+    {
+      "rubrique": "À SUIVRE · À PARIS",
+      "titre": ["SLAM DUNK SHOW,", "LE SALON DU BASKET"],
+      "chiffres": [["DATES", "21-22 NOV."], ["LIEU", "PARIS 13E"], ["BILLETTERIE", "OUVERTE"]],
+      "texte": "Présenté par ses organisateurs comme le premier salon du basket en France : deux jours à la Halle Georges-Carpentier, boulevard Masséna. Au menu annoncé : dunks et shows, stands de marques, ateliers, concours, conférences. Avec la Ville de Paris, la mairie du 13e et la FFBB. Le programme détaillé n'est pas encore publié : on en reparle dès qu'il sort.",
+      "source": ["SOURCES", "SLAMDUNKSHOW.COM · OANDB", "12.11"],
+      "lien": "https://event.oandb.fr/fr/slam-dunk-show-edition-2026",
+      "lien_titre": "la page de l'événement"
+    }
+  ],
+  "fin": {
+    "texte": "Un livre, un documentaire, un événement basket près de chez toi ? Signale-le-nous en message privé : on vérifie, et on en parle vendredi prochain."
+  }
+}

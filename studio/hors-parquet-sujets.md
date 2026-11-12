@@ -82,3 +82,12 @@ Sources :
 
 ### Slam Dunk Show, salon du basket (Paris, 21-22 novembre) — trouvé par Claude le 5/11
 Statut : proposé en « à suivre » du numéro du 6/11 (brouillon). Faits recoupés (SPORSORA 6/07 maj 24/09 ; Sport Business Club 15/10 ; X-TremLimit 8/10) : Halle Georges-Carpentier, 81 bd Masséna, Paris 13e ; samedi 10h-22h, dimanche 10h-19h (sous réserve) ; entrée payante, billetterie « en cours de finalisation » ; FFBB partenaire inaugural ; 10 000 visiteurs attendus (prévision). Programme non publié au 8/10 : à revérifier (slamdunkshow.com non lu le 5/11) avant un rappel la semaine du 16/11.
+
+## Pour le numéro du vendredi 13 novembre 2026
+Le numéro du 6/11 n'est pas parti (resté en brouillon). Repris le 12/11, revérifiés :
+- **Curry, « Portrait d'un artiste »** (dossier) : ESPN 10/11 « available to stream now on the ESPN App, Disney+ » (sans pays) ; Disney+ a une fiche fr-fr « Portrait d'un artiste : Stephen Curry » (1 h 13, 12+), sans mention explicite de disponibilité en France. À confirmer par Alexandre dans son application.
+- **Slam Dunk Show** (à suivre) : slamdunkshow.com et event.oandb.fr lus le 12/11 : 21-22/11, Halle Carpentier, 81 bd Masséna ; partenaires Ville de Paris, mairie du 13e, FFBB ; billetterie OandB ; programme non publié (« encore un peu de patience »). Horaires et prix non publiés sur ces pages.
+Nouveau :
+- **« What If...? », livre de BasketSession** (à lire) : article du 6/11 + fiche produit (12/11) : 256 pages, 24,90 €, prévente, expéditions à partir du 25/11, livraison offerte pour les préventes jusqu'au 22/11. Auteurs non nommés.
+Écartés : Livre d'or Solar 2026 (dates, prix et pages contradictoires entre sources) ; « Avez-vous la culture NBA ? » (Amphora, Basket USA 8/11 : 96 p., 9,95 €) gardé en réserve ; Apéro Collector TrashTalk (page illisible).
+Statut : brouillon du 13/11, en attente de validation d'Alexandre.
