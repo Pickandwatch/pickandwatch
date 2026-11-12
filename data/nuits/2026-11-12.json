@@ -1,6 +1,6 @@
 {
   "night": "2026-11-12",
-  "generated_at": "2026-11-12T15:07+01:00",
+  "generated_at": "2026-11-12T17:58+01:00",
   "games": [
     {
       "id": "401909976",
@@ -46,8 +46,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Tyrese Maxey et Jaylen Brown reçoivent RJ Barrett et Immanuel Quickley. LeBron James (dos) et Joel Embiid (pied) incertains. Toronto, qui jouait la veille, sans Scottie Barnes (adducteurs) ni Kawhi Leonard (genou).",
       "commentators": null
     },
     {
@@ -82,8 +82,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Deuxième duel de la semaine, après celui de la nuit de lundi à Detroit. Trae Young, Anthony Davis, le rookie AJ Dybantsa et les Français Alex Sarr et Bilal Coulibaly face à Cade Cunningham. Detroit sans Jalen Duren (ischio-jambiers) ni Isaiah Joe (hanche).",
       "commentators": null
     },
     {
@@ -118,8 +118,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher chez LaMelo Ball et les Français Rudy Gobert et Joan Beringer. Minnesota sans Anthony Edwards (genou), Dallas sans Dereck Lively II (pied).",
       "commentators": null
     },
     {
@@ -154,8 +154,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Devin Booker et Jalen Green reçoivent Coby White, Naz Reid et le Français Tidjane Salaün. Charlotte sans Brandon Miller (aine) ni Kon Knueppel ; le Français Moussa Diabaté incertain (quadriceps).",
       "commentators": null
     }
   ],
