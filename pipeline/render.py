@@ -70,6 +70,10 @@ def flag(team: dict) -> str:
 
 
 def stars(n: int | None) -> str:
+    try:
+        n = int(n) if n else 0
+    except (TypeError, ValueError):
+        n = 0
     if not n:
         return ""
     labels = {3: "Immanquable", 2: "À surveiller", 1: "Pour les curieux"}
