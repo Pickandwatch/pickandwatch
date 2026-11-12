@@ -90,4 +90,4 @@ Le numéro du 6/11 n'est pas parti (resté en brouillon). Repris le 12/11, revé
 Nouveau :
 - **« What If...? », livre de BasketSession** (à lire) : article du 6/11 + fiche produit (12/11) : 256 pages, 24,90 €, prévente, expéditions à partir du 25/11, livraison offerte pour les préventes jusqu'au 22/11. Auteurs non nommés.
 Écartés : Livre d'or Solar 2026 (dates, prix et pages contradictoires entre sources) ; « Avez-vous la culture NBA ? » (Amphora, Basket USA 8/11 : 96 p., 9,95 €) gardé en réserve ; Apéro Collector TrashTalk (page illisible).
-Statut : brouillon du 13/11, en attente de validation d'Alexandre.
+Statut : validé par Alexandre le 12/11 (publication le 13/11 à 12h).
