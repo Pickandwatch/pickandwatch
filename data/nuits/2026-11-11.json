@@ -77,6 +77,10 @@
           {
             "channel": "beIN SPORTS 3",
             "start": "2026-11-12T14:30:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-11-12T22:30:00+01:00"
           }
         ],
         "source": "guide TV beIN SPORTS (XMLTV France)",
