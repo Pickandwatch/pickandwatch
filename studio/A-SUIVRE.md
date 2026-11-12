@@ -17,6 +17,7 @@
 - Boost test lancé par Alexandre (annoncé le 9/11) : guide contre Reel des dates clés, 2 × 10 €, 4 jours, objectif visites du profil, France 25-44. Bilan : coût par abonné attribué (onglet Publicité) ; seuil 0,80 €.
   Résultat Reel dates clés (11/11, 11,30 € sur 12 €) : 2 720 vues payantes, 1 976 comptes, 56 visites du profil (0,20 €), 12 abonnés attribués → 0,94 €/abonné (vs 1,33 € pour le boost NBA Cup). Placements Instagram + Facebook (à décocher). Résultat du boost « guide » : à récupérer.
   Erwan / First Team : collaboration jugée impossible par Alexandre (11/11) → piste écartée.
+  Collab @lesspurs : message privé envoyé par Alexandre le 12/11 à 11h38 ; carrousel publié le 13/11 à 19h30 avec invitation Collab. Si succès, décliner le format « Suivre [équipe] depuis la France » avec d'autres comptes de fans.
 
 # Tableau de bord Instagram (30 jours au 11/11/2026, captures d'Alexandre)
 - Audience : 93,5 % d'hommes ; 35-44 ans 41,5 %, 45-54 ans 27,7 %, 25-34 ans 23,7 % ; France 99,5 %.
