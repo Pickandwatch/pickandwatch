@@ -1,0 +1,27 @@
+{
+ "_statut": "publié sans réponse (règle de 18h)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des quatre matchs, blessures ESPN au 12/11/2026 vers 15h ; effectifs ESPN ; minutes : gamelogs ESPN) ; previews AP/Data Skrive du 12/11/2026 (dont : Wizards – Pistons, deuxième rencontre de la saison après celle du 10/11 heure US) ; guide TV beIN SPORTS (xmltvfr.fr) et agendatv-basket.com : 76ers – Raptors en direct beIN SPORTS 1 à 1h, vendredi 10h45 beIN SPORTS 1 et 16h15 beIN SPORTS 3, seul match NBA de la nuit sur une chaîne française. Prime Video : aucun match NBA on Prime au calendrier ESPN de la nuit (diffusions nationales : NBA TV), aucun match Prime sur agendatv-basket.com.",
+ "matchs": {
+  "401909977": {
+   "stars": "3",
+   "score": "2 + 5 + 2 (événement : les Français Alex Sarr et Bilal Coulibaly, 20 à 33 min à leurs derniers matchs) = 9 ; seul match à 9 ou plus : ★★★ (sans chaîne française)",
+   "brief": "Deuxième duel de la semaine, après celui de la nuit de lundi à Detroit. Trae Young, Anthony Davis, le rookie AJ Dybantsa et les Français Alex Sarr et Bilal Coulibaly face à Cade Cunningham. Detroit sans Jalen Duren (ischio-jambiers) ni Isaiah Joe (hanche)."
+  },
+  "401909976": {
+   "stars": "2",
+   "score": "5 + 3 = 8 (Rayan Rupert, temps de jeu irrégulier : pas de bonus)",
+   "brief": "Tyrese Maxey et Jaylen Brown reçoivent RJ Barrett et Immanuel Quickley. LeBron James (dos) et Joel Embiid (pied) incertains. Toronto, qui jouait la veille, sans Scottie Barnes (adducteurs) ni Kawhi Leonard (genou)."
+  },
+  "401909978": {
+   "stars": "2",
+   "score": "3 + 1 + 2 (événement : les Français Rudy Gobert, Joan Beringer et Zaccharie Risacher) = 6 ; Minnesota reste à 3 (Anthony Edwards absent)",
+   "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher chez LaMelo Ball et les Français Rudy Gobert et Joan Beringer. Minnesota sans Anthony Edwards (genou), Dallas sans Dereck Lively II (pied)."
+  },
+  "401909979": {
+   "stars": "2",
+   "score": "3 + 1 + 2 (événement : le Français Tidjane Salaün, 9 à 23 min à ses sept derniers matchs ; Moussa Diabaté incertain) = 6",
+   "brief": "Devin Booker et Jalen Green reçoivent Coby White, Naz Reid et le Français Tidjane Salaün. Charlotte sans Brandon Miller (aine) ni Kon Knueppel ; le Français Moussa Diabaté incertain (quadriceps)."
+  }
+ }
+}
