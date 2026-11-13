@@ -1,0 +1,139 @@
+{
+ "theme": "cup",
+ "cover": {
+  "bandeau": "NBA CUP 2026 · PHASE DE GROUPES",
+  "title": "CE SOIR, NBA CUP",
+  "date": "VENDREDI 13 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "SPURS",
+   "WARRIORS"
+  ],
+  "top_info": "03:30 · SAN ANTONIO · PRIME VIDEO (INCLUS DANS PRIME)",
+  "other_size": 44,
+  "others": [
+   [
+    "PACERS – KNICKS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "HEAT – CAVALIERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "BULLS – HAWKS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "KINGS – BLAZERS",
+    "04:00",
+    "★★"
+   ],
+   [
+    "CLIPPERS – THUNDER",
+    "04:30",
+    "★★"
+   ]
+  ],
+  "note": "★ AUSSI : MAGIC – BUCKS, PELICANS – GRIZZLIES, ROCKETS – JAZZ<br>TV : PACERS – KNICKS ET SPURS – WARRIORS SUR PRIME VIDEO<br>NEUF MATCHS DE CUP · LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Warriors",
+   "away_city": "GOLDEN STATE",
+   "away_c1": "#1D428A",
+   "away_c2": "#FFC72C",
+   "counter": "NUIT DU 13 AU 14 NOV. · 2/6",
+   "label": "NBA CUP · ★★★ L'IMMANQUABLE",
+   "time": "03:30",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Victor Wembanyama et les Spurs, finalistes NBA la saison dernière, reçoivent des Warriors privés de Stephen Curry (abdominaux) et de Kristaps Porziņģis (malade). De'Aaron Fox (hanche) et Devin Vassell (adducteurs) sont incertains.",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "D. Harper",
+    "B. Podziemski"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "INDIANAPOLIS · GAINBRIDGE FIELDHOUSE",
+   "home": "Pacers",
+   "home_city": "INDIANA",
+   "home_bg": "#002D62",
+   "home_sec": "#FDBB30",
+   "away": "Knicks",
+   "away_city": "NEW YORK",
+   "away_c1": "#006BB6",
+   "away_c2": "#F58426",
+   "counter": "NUIT DU 13 AU 14 NOV. · 3/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Les Knicks, champions NBA en titre, avec Jalen Brunson, Karl-Anthony Towns et le Français Mohamed Diawara, chez Pascal Siakam. Indiana sans Tyrese Haliburton (ischio-jambiers) ; Aaron Nesmith (genou) est incertain.",
+   "chips": [
+    "J. Brunson",
+    "K.-A. Towns",
+    "M. Diawara",
+    "P. Siakam"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat",
+   "home_city": "MIAMI",
+   "home_bg": "#98002E",
+   "home_sec": "#F9A01B",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#BC945C",
+   "counter": "NUIT DU 13 AU 14 NOV. · 4/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Giannis Antetokounmpo, incertain (poignet), reçoit Donovan Mitchell et James Harden, en finale de l'Est la saison dernière. Cleveland sans Evan Mobley (orteil) ; Klay Thompson (cheville) est incertain côté Miami.",
+   "chips": [
+    "G. Antetokounmpo",
+    "D. Mitchell",
+    "J. Harden"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "INGLEWOOD · INTUIT DOME",
+   "home": "Clippers",
+   "home_city": "LOS ANGELES",
+   "home_bg": "#1D428A",
+   "home_sec": "#C8102E",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 13 AU 14 NOV. · 5/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "04:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, chez Darius Garland. Oklahoma City sans Chet Holmgren (genou), Los Angeles sans Bradley Beal (genou) ni Brandon Ingram.",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "D. Garland"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
