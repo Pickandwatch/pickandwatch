@@ -1,6 +1,6 @@
 {
   "publier_a": "2026-11-13T12:00:00+01:00",
-  "statut": "valide",
+  "statut": "echec",
   "images": [
     "01.jpg",
     "02.jpg",
@@ -8,5 +8,8 @@
     "04.jpg",
     "05.jpg"
   ],
-  "legende": "Hors parquet · semaine du 9 au 13 novembre. Le basket NBA et français, en dehors des matchs. Les liens des sources sont sur notre site pickandwatch.fr (lien en bio).\n\nÀ voir : « Portrait d'un artiste : Stephen Curry », le documentaire d'ESPN Films réalisé par Gotham Chopra, est en streaming depuis mardi sur Disney+ (1h13). Le film suit Curry à l'approche de son 4 000e tir à trois points en carrière, et pendant ce match, avec Viola Davis, Rick Rubin, Patti Smith et Jon Batiste. Disney+ France a mis en ligne sa fiche, en français. (sources : ESPN, Disney+)\n\nÀ lire : « What If...? », le nouveau livre de BasketSession. Et si une seule décision avait changé l'histoire de la NBA ? Un échange annulé, une draft qui tourne autrement, des titres qui changent de mains. 256 pages, 24,90 €, en prévente sur basketsession.com, expéditions à partir du 25 novembre. (source : BasketSession)\n\nÀ suivre à Paris : le Slam Dunk Show, présenté par ses organisateurs comme le premier salon du basket en France, les 21 et 22 novembre à la Halle Georges-Carpentier (Paris 13e). Dunks et shows, stands, ateliers, concours, conférences, avec la Ville de Paris, la mairie du 13e et la FFBB. Billetterie ouverte, programme détaillé pas encore publié : on en reparle. (sources : slamdunkshow.com, OandB)\n\nEnvoie-le à ton pote fan des Warriors : il a 1h13 de Curry à regarder ce week-end.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#HorsParquet #NBA #NBAFrance #BasketFrance #StephenCurry"
+  "legende": "Hors parquet · semaine du 9 au 13 novembre. Le basket NBA et français, en dehors des matchs. Les liens des sources sont sur notre site pickandwatch.fr (lien en bio).\n\nÀ voir : « Portrait d'un artiste : Stephen Curry », le documentaire d'ESPN Films réalisé par Gotham Chopra, est en streaming depuis mardi sur Disney+ (1h13). Le film suit Curry à l'approche de son 4 000e tir à trois points en carrière, et pendant ce match, avec Viola Davis, Rick Rubin, Patti Smith et Jon Batiste. Disney+ France a mis en ligne sa fiche, en français. (sources : ESPN, Disney+)\n\nÀ lire : « What If...? », le nouveau livre de BasketSession. Et si une seule décision avait changé l'histoire de la NBA ? Un échange annulé, une draft qui tourne autrement, des titres qui changent de mains. 256 pages, 24,90 €, en prévente sur basketsession.com, expéditions à partir du 25 novembre. (source : BasketSession)\n\nÀ suivre à Paris : le Slam Dunk Show, présenté par ses organisateurs comme le premier salon du basket en France, les 21 et 22 novembre à la Halle Georges-Carpentier (Paris 13e). Dunks et shows, stands, ateliers, concours, conférences, avec la Ville de Paris, la mairie du 13e et la FFBB. Billetterie ouverte, programme détaillé pas encore publié : on en reparle. (sources : slamdunkshow.com, OandB)\n\nEnvoie-le à ton pote fan des Warriors : il a 1h13 de Curry à regarder ce week-end.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#HorsParquet #NBA #NBAFrance #BasketFrance #StephenCurry",
+  "tentatives": 1,
+  "erreur": "jamais parti : plus de 3 h après l'heure prévue, publication abandonnée (les matchs ont commencé)",
+  "erreur_le": "2026-11-13T18:01+01:00"
 }
