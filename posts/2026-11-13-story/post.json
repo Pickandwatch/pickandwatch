@@ -2,7 +2,7 @@
   "type": "story",
   "suit": "2026-11-13",
   "publier_a": "2026-11-13T18:00:00+01:00",
-  "statut": "echec",
+  "statut": "propose",
   "images": [
     "01.jpg",
     "02.jpg",
@@ -17,8 +17,5 @@
     "17882912880548250",
     "18132299482700410",
     "18098756594661828"
-  ],
-  "tentatives": 1,
-  "erreur": "Erreur Meta 400 sur 17841425340665160/media_publish : {\"error\":{\"message\":\"The requested resource does not exist\",\"code\":24,\"type\":\"OAuthException\",\"error_subcode\":2207006,\"is_transient\":false,\"error_user_msg\":\"Le contenu multimédia 18 129 788 719 844 689 est introuvable.\",\"error_user_title\":\"Contenu multimédia introuvable\",\"fbtrace_id\":\"AHJcM76_rjw-IQofIGxtk4F\"}}",
-  "erreur_le": "2026-11-13T18:02+01:00"
+  ]
 }
