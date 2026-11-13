@@ -389,6 +389,12 @@ def derniers() -> None:
     for m in r.get("data", []):
         print("====", m.get("timestamp"), m.get("id"), m.get("media_type"), m.get("permalink"))
         print(m.get("caption"))
+        try:  # invitations Collab : statut côté co-auteur (Accepted / Pending / Declined)
+            c = call("GET", f"{m['id']}/collaborators")
+            for x in c.get("data", []):
+                print("   collab :", x.get("username"), x.get("invite_status"))
+        except SystemExit as e:
+            print("   collab : non lisible ", e)
 
 
 if __name__ == "__main__":
