@@ -1,0 +1,52 @@
+{
+ "_statut": "publié sans réponse (règle de 18h)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des neuf matchs, blessures ESPN au 13/11/2026, 15h ; minutes des Français : gamelogs ESPN) ; previews AP/Data Skrive du 12/11/2026 ; guide TV beIN SPORTS (xmltvfr.fr) : aucun match en direct cette nuit ; Prime Video : Pacers – Knicks et Spurs – Warriors au calendrier NBA on Prime (ESPN, diffusion nationale Prime Video ; americantv.com, nba.com « Every NBA game on Prime Video in 2026-27 »), repris par Prime Video France (règle prime_usa_en_france, data/diffuseurs.json). Bilans 2025-26 et playoffs 2026 : data/grille-equipes.json.",
+ "matchs": {
+  "401909302": {
+   "stars": 3,
+   "score": "8 + 3 + 2 (événement : le Français Victor Wembanyama) = 13 ; Golden State reste à 3 (Stephen Curry absent, même règle que pour Minnesota sans Edwards) ; meilleure note de la nuit, sur Prime Video : ★★★",
+   "brief": "Victor Wembanyama et les Spurs, finalistes NBA la saison dernière, reçoivent des Warriors privés de Stephen Curry (abdominaux) et de Kristaps Porziņģis (malade). De'Aaron Fox (hanche) et Devin Vassell (adducteurs) sont incertains."
+  },
+  "401909296": {
+   "stars": 2,
+   "score": "2 + 7 + 2 (événement : le Français Mohamed Diawara, 11 à 21 min à ses quatre derniers matchs ; Pacôme Dadiet, temps de jeu irrégulier, non compté) = 11, ramené à ★★ (un seul ★★★ par nuit : Spurs – Warriors, aussi sur Prime Video, l'emporte à la note)",
+   "brief": "Les Knicks, champions NBA en titre, avec Jalen Brunson, Karl-Anthony Towns et le Français Mohamed Diawara, chez Pascal Siakam. Indiana sans Tyrese Haliburton (ischio-jambiers) ; Aaron Nesmith (genou) est incertain."
+  },
+  "401909298": {
+   "stars": 2,
+   "score": "3 + 6 = 9, ramené à ★★ (un seul ★★★ par nuit ; pas de diffusion TV française)",
+   "brief": "Giannis Antetokounmpo, incertain (poignet), reçoit Donovan Mitchell et James Harden, en finale de l'Est la saison dernière. Cleveland sans Evan Mobley (orteil) ; Klay Thompson (cheville) est incertain côté Miami."
+  },
+  "401909304": {
+   "stars": 2,
+   "score": "1 + 7 = 8",
+   "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, chez Darius Garland. Oklahoma City sans Chet Holmgren (genou), Los Angeles sans Bradley Beal (genou) ni Brandon Ingram."
+  },
+  "401909299": {
+   "stars": 2,
+   "score": "1 + 3 + 2 (événement : le Français Noa Essengue, 11 à 16 min à ses derniers matchs) = 6 (pas de slide : au plus 4 slides)",
+   "brief": "Jalen Johnson et Nickeil Alexander-Walker chez Josh Giddey et le Français Noa Essengue ; Norman Powell (épaule) est incertain."
+  },
+  "401909303": {
+   "stars": 2,
+   "score": "1 + 3 + 2 (événement : le Français Sidy Cissoko, 16 à 33 min à ses derniers matchs ; Maxime Raynaud, blessé au genou, absent) = 6 (pas de slide)",
+   "brief": "Deni Avdija et le Français Sidy Cissoko chez le rookie Darius Acuff Jr. et Domantas Sabonis. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou), Sacramento sans le Français Maxime Raynaud (genou)."
+  },
+  "401909297": {
+   "stars": 1,
+   "score": "2 + 1 + 2 (événement : le Français Ousmane Dieng, 15 à 24 min à ses trois derniers matchs ; Noah Penda absent) = 5",
+   "brief": "Franz Wagner, sans Paolo Banchero (cheville), face à Tyler Herro et au Français Ousmane Dieng."
+  },
+  "401909300": {
+   "stars": 1,
+   "score": "1 + 1 = 2",
+   "brief": "Zion Williamson face à Ty Jerome et au rookie Cameron Boozer ; Memphis sans Zach Edey."
+  },
+  "401909301": {
+   "stars": 1,
+   "score": "3 + 1 = 4",
+   "brief": "Alperen Şengün et Kevin Durant face à Keyonte George et au rookie Darryn Peterson ; Utah sans Lauri Markkanen ni Jaren Jackson Jr."
+  }
+ }
+}
