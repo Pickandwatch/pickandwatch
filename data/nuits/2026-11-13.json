@@ -1,6 +1,6 @@
 {
   "night": "2026-11-13",
-  "generated_at": "2026-11-13T15:15+01:00",
+  "generated_at": "2026-11-13T17:52+01:00",
   "games": [
     {
       "id": "401909296",
@@ -37,8 +37,8 @@
         "source": "calendrier NBA on Prime (repris par Prime Video France)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Knicks, champions NBA en titre, avec Jalen Brunson, Karl-Anthony Towns et le Français Mohamed Diawara, chez Pascal Siakam. Indiana sans Tyrese Haliburton (ischio-jambiers) ; Aaron Nesmith (genou) est incertain.",
       "commentators": null
     },
     {
@@ -73,8 +73,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Franz Wagner, sans Paolo Banchero (cheville), face à Tyler Herro et au Français Ousmane Dieng.",
       "commentators": null
     },
     {
@@ -109,8 +109,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Giannis Antetokounmpo, incertain (poignet), reçoit Donovan Mitchell et James Harden, en finale de l'Est la saison dernière. Cleveland sans Evan Mobley (orteil) ; Klay Thompson (cheville) est incertain côté Miami.",
       "commentators": null
     },
     {
@@ -145,8 +145,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Jalen Johnson et Nickeil Alexander-Walker chez Josh Giddey et le Français Noa Essengue ; Norman Powell (épaule) est incertain.",
       "commentators": null
     },
     {
@@ -181,8 +181,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Zion Williamson face à Ty Jerome et au rookie Cameron Boozer ; Memphis sans Zach Edey.",
       "commentators": null
     },
     {
@@ -217,8 +217,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Alperen Şengün et Kevin Durant face à Keyonte George et au rookie Darryn Peterson ; Utah sans Lauri Markkanen ni Jaren Jackson Jr.",
       "commentators": null
     },
     {
@@ -256,8 +256,8 @@
         "source": "calendrier NBA on Prime (repris par Prime Video France)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Victor Wembanyama et les Spurs, finalistes NBA la saison dernière, reçoivent des Warriors privés de Stephen Curry (abdominaux) et de Kristaps Porziņģis (malade). De'Aaron Fox (hanche) et Devin Vassell (adducteurs) sont incertains.",
       "commentators": null
     },
     {
@@ -292,8 +292,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Deni Avdija et le Français Sidy Cissoko chez le rookie Darius Acuff Jr. et Domantas Sabonis. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou), Sacramento sans le Français Maxime Raynaud (genou).",
       "commentators": null
     },
     {
@@ -328,8 +328,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, chez Darius Garland. Oklahoma City sans Chet Holmgren (genou), Los Angeles sans Bradley Beal (genou) ni Brandon Ingram.",
       "commentators": null
     }
   ],
