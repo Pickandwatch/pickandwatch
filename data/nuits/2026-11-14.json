@@ -1,0 +1,205 @@
+{
+  "night": "2026-11-14",
+  "generated_at": "2026-11-14T01:29+01:00",
+  "games": [
+    {
+      "id": "401909980",
+      "tip_paris": "2026-11-15T01:00:00+01:00",
+      "home": {
+        "abbr": "NO",
+        "name": "Pelicans",
+        "location": "New Orleans",
+        "full": "New Orleans Pelicans",
+        "color": "#0a2240",
+        "color2": "#b4975a"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Nuggets",
+        "location": "Denver",
+        "full": "Denver Nuggets",
+        "color": "#0e2240",
+        "color2": "#fec524"
+      },
+      "venue": "Smoothie King Center",
+      "city": "New Orleans",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909981",
+      "tip_paris": "2026-11-15T01:30:00+01:00",
+      "home": {
+        "abbr": "CLE",
+        "name": "Cavaliers",
+        "location": "Cleveland",
+        "full": "Cleveland Cavaliers",
+        "color": "#860038",
+        "color2": "#bc945c"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Mavericks",
+        "location": "Dallas",
+        "full": "Dallas Mavericks",
+        "color": "#0064b1",
+        "color2": "#bbc4ca"
+      },
+      "venue": "Rocket Arena",
+      "city": "Cleveland",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS 1",
+          "start": "2026-11-15T01:30:00+01:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-11-15T10:45:00+01:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909982",
+      "tip_paris": "2026-11-15T02:00:00+01:00",
+      "home": {
+        "abbr": "MIA",
+        "name": "Heat",
+        "location": "Miami",
+        "full": "Miami Heat",
+        "color": "#98002e",
+        "color2": "#000000"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Pistons",
+        "location": "Detroit",
+        "full": "Detroit Pistons",
+        "color": "#1d428a",
+        "color2": "#c8102e"
+      },
+      "venue": "Kaseya Center",
+      "city": "Miami",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909983",
+      "tip_paris": "2026-11-15T02:00:00+01:00",
+      "home": {
+        "abbr": "MEM",
+        "name": "Grizzlies",
+        "location": "Memphis",
+        "full": "Memphis Grizzlies",
+        "color": "#5d76a9",
+        "color2": "#12173f"
+      },
+      "away": {
+        "abbr": "BKN",
+        "name": "Nets",
+        "location": "Brooklyn",
+        "full": "Brooklyn Nets",
+        "color": "#000000",
+        "color2": "#ffffff"
+      },
+      "venue": "FedExForum",
+      "city": "Memphis",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401909984",
+      "tip_paris": "2026-11-15T02:00:00+01:00",
+      "home": {
+        "abbr": "MIN",
+        "name": "Timberwolves",
+        "location": "Minnesota",
+        "full": "Minnesota Timberwolves",
+        "color": "#266092",
+        "color2": "#79bc43"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Bulls",
+        "location": "Chicago",
+        "full": "Chicago Bulls",
+        "color": "#ce1141",
+        "color2": "#000000"
+      },
+      "venue": "Target Center",
+      "city": "Minneapolis",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Pelicans – Nuggets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Heat – Pistons : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Grizzlies – Nets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Timberwolves – Bulls : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  },
+  "rediffusions_nuit": []
+}
