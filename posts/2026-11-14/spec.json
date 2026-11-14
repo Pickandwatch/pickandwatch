@@ -1,0 +1,134 @@
+{
+ "cover": {
+  "title": "5 MATCHS CETTE NUIT",
+  "date": "SAMEDI 14 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": [
+   "CAVALIERS",
+   "MAVERICKS"
+  ],
+  "top_info": "01:30 · CLEVELAND · DIRECT beIN SPORTS 1",
+  "other_size": 50,
+  "others": [
+   [
+    "PELICANS – NUGGETS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "HEAT – PISTONS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "TIMBERWOLVES – BULLS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "GRIZZLIES – NETS",
+    "02:00",
+    "★"
+   ]
+  ],
+  "note": "TV : CAVALIERS – MAVERICKS EN DIRECT SUR beIN SPORTS 1 · DIFFÉRÉ DIM. 10:45<br>LES AUTRES MATCHS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers",
+   "home_city": "CLEVELAND",
+   "home_bg": "#860038",
+   "home_sec": "#FDBB30",
+   "away": "Mavericks",
+   "away_city": "DALLAS",
+   "away_c1": "#00538C",
+   "away_c2": "#B8C4CA",
+   "counter": "NUIT DU 14 AU 15 NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE",
+   "time": "01:30",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher chez Donovan Mitchell et James Harden. Cleveland, qui jouait la veille, avec Evan Mobley incertain (orteil). Dallas sans Dereck Lively II (pied).",
+   "chips": [
+    "C. Flagg",
+    "K. Irving",
+    "Z. Risacher",
+    "D. Mitchell"
+   ],
+   "foot": "Différé dim. 10:45<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "NEW ORLEANS · SMOOTHIE KING CENTER",
+   "home": "Pelicans",
+   "home_city": "NEW ORLEANS",
+   "home_bg": "#0C2340",
+   "home_sec": "#C8102E",
+   "away": "Nuggets",
+   "away_city": "DENVER",
+   "away_c1": "#0E2240",
+   "away_c2": "#FEC524",
+   "counter": "NUIT DU 14 AU 15 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Troisième duel de la saison entre les deux équipes. Nikola Jokić et Jamal Murray chez Zion Williamson. New Orleans, qui jouait la veille, sans Dejounte Murray (cheville), avec Trey Murphy III incertain (genou).",
+   "chips": [
+    "N. Jokić",
+    "J. Murray",
+    "Z. Williamson",
+    "J. Fears"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat",
+   "home_city": "MIAMI",
+   "home_bg": "#98002E",
+   "home_sec": "#F9A01B",
+   "away": "Pistons",
+   "away_city": "DETROIT",
+   "away_c1": "#C8102E",
+   "away_c2": "#1D42BA",
+   "counter": "NUIT DU 14 AU 15 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Giannis Antetokounmpo et Bam Adebayo reçoivent Cade Cunningham, pour le deuxième duel de la saison. Detroit sans Jalen Duren (ischio-jambiers) ni Isaiah Joe (hanche) ; Miami jouait la veille.",
+   "chips": [
+    "G. Antetokounmpo",
+    "B. Adebayo",
+    "C. Cunningham"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "MINNEAPOLIS · TARGET CENTER",
+   "home": "Timberwolves",
+   "home_city": "MINNESOTA",
+   "home_bg": "#0C2340",
+   "home_sec": "#78BE20",
+   "away": "Bulls",
+   "away_city": "CHICAGO",
+   "away_c1": "#CE1141",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 14 AU 15 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "LaMelo Ball et les Français Rudy Gobert et Joan Beringer reçoivent Josh Giddey, Norman Powell et le Français Noa Essengue. Minnesota toujours sans Anthony Edwards (genou) ; Chicago, qui jouait la veille, sans Caleb Wilson (main).",
+   "chips": [
+    "L. Ball",
+    "R. Gobert",
+    "J. Beringer",
+    "N. Essengue"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "_statut": "proposé le 14 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des cinq matchs, blessures ESPN au 14/11/2026 vers 15h ; effectifs ESPN ; minutes : gamelogs ESPN) ; previews AP/Data Skrive du 14/11/2026 (Pelicans – Nuggets : troisième rencontre de la saison ; Heat – Pistons : deuxième) ; guide TV beIN SPORTS (xmltvfr.fr) et agendatv-basket.com : Cavaliers – Mavericks en direct beIN SPORTS 1 à 1h30, différé dimanche 10h45 beIN SPORTS 1, seul match NBA de la nuit sur une chaîne française. Prime Video : aucun match NBA on Prime au calendrier ESPN de la nuit (diffusions nationales : NBA TV), aucun match Prime sur agendatv-basket.com.",
+ "matchs": {
+  "401909981": {
+   "stars": "3",
+   "score": "6 + 1 + 2 (événement : le Français Zaccharie Risacher, 15 à 25 min à ses six derniers matchs) = 9 ; seul match à 9 ou plus : ★★★ (direct beIN SPORTS 1)",
+   "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher chez Donovan Mitchell et James Harden. Cleveland, qui jouait la veille, avec Evan Mobley incertain (orteil). Dallas sans Dereck Lively II (pied)."
+  },
+  "401909980": {
+   "stars": "2",
+   "score": "1 + 5 = 6",
+   "brief": "Troisième duel de la saison entre les deux équipes. Nikola Jokić et Jamal Murray chez Zion Williamson. New Orleans, qui jouait la veille, sans Dejounte Murray (cheville), avec Trey Murphy III incertain (genou)."
+  },
+  "401909982": {
+   "stars": "2",
+   "score": "3 + 5 = 8",
+   "brief": "Giannis Antetokounmpo et Bam Adebayo reçoivent Cade Cunningham, pour le deuxième duel de la saison. Detroit sans Jalen Duren (ischio-jambiers) ni Isaiah Joe (hanche) ; Miami, qui jouait la veille, avec Klay Thompson incertain (cheville)."
+  },
+  "401909984": {
+   "stars": "2",
+   "score": "3 + 1 + 2 (événement : les Français Rudy Gobert, Joan Beringer et Noa Essengue) = 6 ; Minnesota reste à 3 (Anthony Edwards absent)",
+   "brief": "LaMelo Ball et les Français Rudy Gobert et Joan Beringer reçoivent Josh Giddey, Norman Powell et le Français Noa Essengue. Minnesota toujours sans Anthony Edwards (genou) ; Chicago, qui jouait la veille, sans Caleb Wilson (main)."
+  },
+  "401909983": {
+   "stars": "1",
+   "score": "1 + 1 + 2 (événement : le Français Nolan Traoré, 21 à 30 min à ses derniers matchs, incertain) = 4",
+   "brief": "Le rookie Cameron Boozer et Ty Jerome reçoivent Michael Porter Jr., Julius Randle et le Français Nolan Traoré, incertain (mollet). Memphis, qui jouait la veille, avec Zach Edey incertain (cheville)."
+  }
+ }
+}
