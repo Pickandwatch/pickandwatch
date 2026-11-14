@@ -1,6 +1,6 @@
 {
   "night": "2026-11-14",
-  "generated_at": "2026-11-14T15:07+01:00",
+  "generated_at": "2026-11-14T17:51+01:00",
   "games": [
     {
       "id": "401909980",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Troisième duel de la saison entre les deux équipes. Nikola Jokić et Jamal Murray chez Zion Williamson. New Orleans, qui jouait la veille, sans Dejounte Murray (cheville), avec Trey Murphy III incertain (genou).",
       "commentators": null
     },
     {
@@ -78,8 +78,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher chez Donovan Mitchell et James Harden. Cleveland, qui jouait la veille, avec Evan Mobley incertain (orteil). Dallas sans Dereck Lively II (pied).",
       "commentators": null
     },
     {
@@ -114,8 +114,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Giannis Antetokounmpo et Bam Adebayo reçoivent Cade Cunningham, pour le deuxième duel de la saison. Detroit sans Jalen Duren (ischio-jambiers) ni Isaiah Joe (hanche) ; Miami, qui jouait la veille, avec Klay Thompson incertain (cheville).",
       "commentators": null
     },
     {
@@ -150,8 +150,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Le rookie Cameron Boozer et Ty Jerome reçoivent Michael Porter Jr., Julius Randle et le Français Nolan Traoré, incertain (mollet). Memphis, qui jouait la veille, avec Zach Edey incertain (cheville).",
       "commentators": null
     },
     {
@@ -186,8 +186,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "LaMelo Ball et les Français Rudy Gobert et Joan Beringer reçoivent Josh Giddey, Norman Powell et le Français Noa Essengue. Minnesota toujours sans Anthony Edwards (genou) ; Chicago, qui jouait la veille, sans Caleb Wilson (main).",
       "commentators": null
     }
   ],
