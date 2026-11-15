@@ -1,0 +1,52 @@
+{
+ "_statut": "publié sans réponse (règle de 18h)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des neuf matchs, blessures ESPN au 15/11/2026 vers 15h ; effectifs ESPN ; minutes : gamelogs ESPN ; scoreboard du 14/11 : Dallas seul en back-to-back) ; previews AP/Data Skrive des 14 et 15/11/2026 (Jazz – Spurs : troisième rencontre de la saison) ; preview NBA.com/pacers du 14/11/2026 (Oubre ex-76er, blessures) ; guide TV beIN SPORTS (xmltvfr.fr) : Suns – Lakers en direct beIN SPORTS 1 (22h15), différé lundi 10h45 beIN SPORTS 1, 16h30 beIN SPORTS 3. Prime Video : 76ers – Pacers à 19h, agendatv-basket.com et bleublancdunk.com/diffusions, recoupés.",
+ "matchs": {
+  "401909986": {
+   "stars": "3",
+   "score": "3 + 6 = 9 ; ★★★ par la diffusion TV française (direct beIN SPORTS 1), départage avec Jazz – Spurs (11) et Raptors – Knicks (10), sans chaîne française",
+   "brief": "Luka Dončić et Walker Kessler chez Devin Booker et Miles Bridges. Les Lakers, quatrièmes de l'Ouest la saison dernière, sans Austin Reaves (talon), avec Collin Sexton incertain (tête). Phoenix sans Mark Williams (épaule)."
+  },
+  "401909988": {
+   "stars": "2",
+   "score": "1 + 8 + 2 (événement : le Français Victor Wembanyama) = 11, ramené à ★★ (un seul ★★★ par nuit : Suns – Lakers l'emporte par la diffusion TV française)",
+   "brief": "Troisième duel de la saison. Le Français Victor Wembanyama, De'Aaron Fox et Stephon Castle chez le rookie Darryn Peterson, Keyonte George et Ace Bailey. Utah sans Lauri Markkanen (main) ni Jaren Jackson Jr. (genou)."
+  },
+  "401909990": {
+   "stars": "2",
+   "score": "3 + 7 = 10 (Mohamed Diawara et Pacôme Dadiet, temps de jeu irrégulier, non comptés ; Toronto garde 2 en aura malgré Barnes et Leonard absents ce soir), ramené à ★★ (un seul ★★★, pas de chaîne française)",
+   "brief": "Les champions en titre Jalen Brunson et Karl-Anthony Towns, avec le Français Mohamed Diawara, chez RJ Barrett et Jamal Shead. Toronto sans Scottie Barnes (aine) ni Kawhi Leonard (genou)."
+  },
+  "401909989": {
+   "stars": "2",
+   "score": "5 + 1 + 2 (événement : le Français Zaccharie Risacher, 14 à 25 min à ses six derniers matchs) = 8 ; slide retenue (départage à 8 avec Kings – Thunder par l'événement)",
+   "brief": "Jayson Tatum et Paul George reçoivent Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher. Dallas, qui jouait la veille, sans Dereck Lively II (pied), Daniel Gafford (visage) ni Max Christie (cheville)."
+  },
+  "401909993": {
+   "stars": "2",
+   "score": "1 + 7 = 8 (le Français Maxime Raynaud, blessé au genou, absent : pas de bonus) ; pas de slide (au plus 4)",
+   "brief": "Shai Gilgeous-Alexander chez Domantas Sabonis et le rookie Darius Acuff Jr. Oklahoma City sans Chet Holmgren (genou) ni Cason Wallace (épaule) ; Sacramento sans le Français Maxime Raynaud (genou)."
+  },
+  "401909985": {
+   "stars": "2",
+   "score": "5 + 2 = 7 (Rayan Rupert, 2 à 6 min, non compté) ; pas de slide (au plus 4, départagé par la note) ; en direct sur Prime Video, cité en couverture et en légende",
+   "brief": "LeBron James, Tyrese Maxey et Jaylen Brown reçoivent Pascal Siakam et Kelly Oubre Jr., ancien de Philadelphie. Philadelphie sans Joel Embiid (pied) ; Indiana sans Tyrese Haliburton (ischio-jambiers), Andrew Nembhard et Aaron Nesmith incertains."
+  },
+  "401909991": {
+   "stars": "2",
+   "score": "2 + 3 + 2 (événement : les Français Bilal Coulibaly et Alex Sarr, 20 à 44 min à leurs derniers matchs ; Sarr incertain) = 7 ; pas de slide (au plus 4)",
+   "brief": "Kevin Durant et Alperen Şengün chez Anthony Davis, Trae Young et les Français Bilal Coulibaly et Alex Sarr, incertain (malade). Houston sans Fred VanVleet (genou) ni Steven Adams (mollet)."
+  },
+  "401909987": {
+   "stars": "1",
+   "score": "1 + 1 + 2 (événement : les Français Moussa Diabaté et Tidjane Salaün) = 4",
+   "brief": "Darius Garland, sans Brandon Ingram ni Bradley Beal, face à Brandon Miller et aux Français Moussa Diabaté et Tidjane Salaün. Charlotte sans Kon Knueppel (ischio-jambiers)."
+  },
+  "401909992": {
+   "stars": "1",
+   "score": "1 + 3 = 4 (le Français Ousmane Dieng, blessé au doigt, absent : pas de bonus)",
+   "brief": "Tyler Herro et Myles Turner reçoivent Jalen Johnson et Nickeil Alexander-Walker. Milwaukee sans le Français Ousmane Dieng (doigt)."
+  }
+ }
+}
