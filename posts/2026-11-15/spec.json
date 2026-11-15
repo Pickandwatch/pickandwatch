@@ -1,0 +1,76 @@
+{
+ "cover": {
+  "title": "9 MATCHS CETTE NUIT",
+  "date": "DIMANCHE 15 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'IMMANQUABLE",
+  "top": ["SUNS", "LAKERS"],
+  "top_info": "22:00 · PHOENIX · DIRECT beIN SPORTS 1",
+  "other_size": 40,
+  "others": [
+   ["76ERS – PACERS", "19:00", "★★"],
+   ["CLIPPERS – HORNETS", "22:30", "★"],
+   ["JAZZ – SPURS", "23:00", "★★"],
+   ["CELTICS – MAVERICKS", "00:00", "★★"],
+   ["RAPTORS – KNICKS", "00:00", "★★"],
+   ["WIZARDS – ROCKETS", "01:00", "★★"],
+   ["BUCKS – HAWKS", "02:00", "★"],
+   ["KINGS – THUNDER", "03:00", "★★"]
+  ],
+  "note": "TV : SUNS – LAKERS EN DIRECT SUR beIN SPORTS 1 · DIFFÉRÉ LUN. 10:45<br>76ERS – PACERS SUR PRIME VIDEO · LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "PHOENIX · MORTGAGE MATCHUP CENTER",
+   "home": "Suns", "home_city": "PHOENIX", "home_bg": "#1D1160", "home_sec": "#E56020",
+   "away": "Lakers", "away_city": "LOS ANGELES", "away_c1": "#552583", "away_c2": "#FDB927",
+   "counter": "NUIT DU 15 AU 16 NOV. · 2/6",
+   "label": "★★★ L'IMMANQUABLE",
+   "time": "22:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Luka Dončić et Walker Kessler chez Devin Booker et Miles Bridges. Les Lakers, quatrièmes de l'Ouest la saison dernière, sans Austin Reaves (talon), avec Collin Sexton incertain (tête). Phoenix sans Mark Williams (épaule).",
+   "chips": ["L. Dončić", "W. Kessler", "D. Booker", "M. Bridges"],
+   "foot": "Différé lun. 10:45<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "SALT LAKE CITY · DELTA CENTER",
+   "home": "Jazz", "home_city": "UTAH", "home_bg": "#4E008E", "home_sec": "#79A3DC",
+   "away": "Spurs", "away_city": "SAN ANTONIO", "away_c1": "#000000", "away_c2": "#C4CED4",
+   "counter": "NUIT DU 15 AU 16 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "23:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Troisième duel de la saison. Le Français Victor Wembanyama, De'Aaron Fox et Stephon Castle chez le rookie Darryn Peterson, Keyonte George et Ace Bailey. Utah sans Lauri Markkanen (main) ni Jaren Jackson Jr. (genou).",
+   "chips": ["V. Wembanyama", "D. Fox", "D. Peterson", "K. George"],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "TORONTO · SCOTIABANK ARENA",
+   "home": "Raptors", "home_city": "TORONTO", "home_bg": "#CE1141", "home_sec": "#000000",
+   "away": "Knicks", "away_city": "NEW YORK", "away_c1": "#006BB6", "away_c2": "#F58426",
+   "counter": "NUIT DU 15 AU 16 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "00:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les champions en titre Jalen Brunson et Karl-Anthony Towns, avec le Français Mohamed Diawara, chez RJ Barrett et Jamal Shead. Toronto sans Scottie Barnes (aine) ni Kawhi Leonard (genou).",
+   "chips": ["J. Brunson", "K.-A. Towns", "M. Diawara", "RJ Barrett"],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "BOSTON · TD GARDEN",
+   "home": "Celtics", "home_city": "BOSTON", "home_bg": "#007A33", "home_sec": "#BA9653",
+   "away": "Mavericks", "away_city": "DALLAS", "away_c1": "#00538C", "away_c2": "#B8C4CA",
+   "counter": "NUIT DU 15 AU 16 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "00:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Jayson Tatum et Paul George reçoivent Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher. Dallas, qui jouait la veille, sans Dereck Lively II (pied), Daniel Gafford (visage) ni Max Christie (cheville).",
+   "chips": ["J. Tatum", "P. George", "C. Flagg", "Z. Risacher"],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
