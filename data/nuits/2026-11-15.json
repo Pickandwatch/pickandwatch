@@ -1,6 +1,6 @@
 {
   "night": "2026-11-15",
-  "generated_at": "2026-11-15T15:08+01:00",
+  "generated_at": "2026-11-15T17:52+01:00",
   "games": [
     {
       "id": "401909985",
@@ -37,8 +37,8 @@
         "source": "agendatv-basket.com (« 19h00 Primevideo ») et bleublancdunk.com/diffusions (« 19:00 · Prime Video », Indiana Pacers @ Philadelphia 76ers), lus le 15/11/2026 vers 15h",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "LeBron James, Tyrese Maxey et Jaylen Brown reçoivent Pascal Siakam et Kelly Oubre Jr., ancien de Philadelphie. Philadelphie sans Joel Embiid (pied) ; Indiana sans Tyrese Haliburton (ischio-jambiers), Andrew Nembhard et Aaron Nesmith incertains.",
       "commentators": null
     },
     {
@@ -85,8 +85,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Luka Dončić et Walker Kessler chez Devin Booker et Miles Bridges. Les Lakers, quatrièmes de l'Ouest la saison dernière, sans Austin Reaves (talon), avec Collin Sexton incertain (tête). Phoenix sans Mark Williams (épaule).",
       "commentators": null
     },
     {
@@ -121,8 +121,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Darius Garland, sans Brandon Ingram ni Bradley Beal, face à Brandon Miller et aux Français Moussa Diabaté et Tidjane Salaün. Charlotte sans Kon Knueppel (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -157,8 +157,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Troisième duel de la saison. Le Français Victor Wembanyama, De'Aaron Fox et Stephon Castle chez le rookie Darryn Peterson, Keyonte George et Ace Bailey. Utah sans Lauri Markkanen (main) ni Jaren Jackson Jr. (genou).",
       "commentators": null
     },
     {
@@ -193,8 +193,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Jayson Tatum et Paul George reçoivent Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher. Dallas, qui jouait la veille, sans Dereck Lively II (pied), Daniel Gafford (visage) ni Max Christie (cheville).",
       "commentators": null
     },
     {
@@ -229,8 +229,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Les champions en titre Jalen Brunson et Karl-Anthony Towns, avec le Français Mohamed Diawara, chez RJ Barrett et Jamal Shead. Toronto sans Scottie Barnes (aine) ni Kawhi Leonard (genou).",
       "commentators": null
     },
     {
@@ -265,8 +265,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Kevin Durant et Alperen Şengün chez Anthony Davis, Trae Young et les Français Bilal Coulibaly et Alex Sarr, incertain (malade). Houston sans Fred VanVleet (genou) ni Steven Adams (mollet).",
       "commentators": null
     },
     {
@@ -301,8 +301,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Tyler Herro et Myles Turner reçoivent Jalen Johnson et Nickeil Alexander-Walker. Milwaukee sans le Français Ousmane Dieng (doigt).",
       "commentators": null
     },
     {
@@ -337,8 +337,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Shai Gilgeous-Alexander chez Domantas Sabonis et le rookie Darius Acuff Jr. Oklahoma City sans Chet Holmgren (genou) ni Cason Wallace (épaule) ; Sacramento sans le Français Maxime Raynaud (genou).",
       "commentators": null
     }
   ],
