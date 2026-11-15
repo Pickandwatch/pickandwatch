@@ -1,6 +1,6 @@
 {
   "night": "2026-11-15",
-  "generated_at": "2026-11-15T12:53+01:00",
+  "generated_at": "2026-11-15T15:08+01:00",
   "games": [
     {
       "id": "401909985",
@@ -29,10 +29,13 @@
       "francais": [],
       "time_status": "calendrier officiel",
       "tv": {
-        "live": null,
+        "live": {
+          "channel": "Prime Video",
+          "start": "2026-11-15T19:00:00+01:00"
+        },
         "replays": [],
-        "source": null,
-        "status": "league-pass"
+        "source": "agendatv-basket.com (« 19h00 Primevideo ») et bleublancdunk.com/diffusions (« 19:00 · Prime Video », Indiana Pacers @ Philadelphia 76ers), lus le 15/11/2026 vers 15h",
+        "status": "annoncé"
       },
       "stars": null,
       "brief": null,
@@ -340,7 +343,6 @@
     }
   ],
   "checks": [
-    "76ers – Pacers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Clippers – Hornets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Jazz – Spurs : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Celtics – Mavericks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
