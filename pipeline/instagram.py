@@ -384,8 +384,8 @@ def stories() -> None:
 
 
 def derniers() -> None:
-    """Diagnostic : les 3 dernières publications, avec leur légende telle que publiée."""
-    r = call("GET", f"{CFG['ig_user_id']}/media", fields="id,timestamp,media_type,caption,permalink", limit="3")
+    """Diagnostic : les 8 dernières publications, avec leur légende telle que publiée."""
+    r = call("GET", f"{CFG['ig_user_id']}/media", fields="id,timestamp,media_type,caption,permalink", limit="8")
     for m in r.get("data", []):
         print("====", m.get("timestamp"), m.get("id"), m.get("media_type"), m.get("permalink"))
         print(m.get("caption"))
