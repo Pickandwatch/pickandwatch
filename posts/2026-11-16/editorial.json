@@ -1,0 +1,47 @@
+{
+ "_statut": "proposé le 16 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des huit matchs et blessures ESPN au 16/11/2026 vers 15h ; effectifs ESPN au 16/11/2026 ; minutes des Français : gamelogs ESPN) ; previews AP/Data Skrive des 15 et 16/11/2026 (Celtics – Magic et Nuggets – Suns : deuxième rencontre de la saison) ; posts/2026-11-15 (76ers – Pacers le 15/11 : Philadelphie en back-to-back) ; guide TV beIN SPORTS (XMLTV France) : Celtics – Magic en direct beIN SPORTS 1 à 1h, différé mardi 10h45 beIN SPORTS 1, 21h beIN SPORTS 3, recoupé avec agendatv-basket.com (seul match NBA de la nuit à la télé française). Prime Video : aucun match ce soir (agendatv-basket.com ; en novembre, Prime le vendredi). Aucun match à 9 ou plus : pas de ★★★ ce soir.",
+ "matchs": {
+  "401909999": {
+   "stars": "2",
+   "score": "3 + 3 + 2 (événement : les Français Rudy Gobert, 23 à 33 min, Joan Beringer, 7 à 22 min, et Sidy Cissoko, 16 à 33 min à leurs derniers matchs) = 8 ; Minnesota reste à 3 (Anthony Edwards absent) ; affiche de la nuit : à égalité à 8 avec Nets – 76ers et Nuggets – Suns, aucune diffusion française, départagé par l'événement (trois Français)",
+   "brief": "Trois Français sur le parquet : Rudy Gobert et Joan Beringer, avec LaMelo Ball, face à Deni Avdija, Damian Lillard et Sidy Cissoko. Minnesota sans Anthony Edwards (genou) ; Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou)."
+  },
+  "401909994": {
+   "stars": "2",
+   "score": "5 + 2 = 7 (Orlando reste à 1 en aura avec Wagner et Bane, Banchero absent ; le Français Noah Penda, blessé, absent : pas de bonus) ; slide retenue devant Cavaliers – Bulls (7) par la diffusion TV française (direct beIN SPORTS 1)",
+   "brief": "Deuxième duel de la saison. Jayson Tatum et Paul George reçoivent Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville), Jonathan Isaac (genou) ni le Français Noah Penda (ischio-jambiers)."
+  },
+  "401909997": {
+   "stars": "2",
+   "score": "1 + 5 + 2 (événement : le Français Nolan Traoré, 20 à 30 min à ses six derniers matchs ; Rayan Rupert, 2 à 6 min, non compté) = 8",
+   "brief": "LeBron James, Tyrese Maxey et Jaylen Brown chez Julius Randle, Michael Porter Jr. et le Français Nolan Traoré. Philadelphie, qui jouait la veille face à Indiana, avec Joel Embiid incertain (pied)."
+  },
+  "401910001": {
+   "stars": "2",
+   "score": "5 + 3 = 8",
+   "brief": "Deuxième duel de la saison. Nikola Jokić et Jamal Murray reçoivent Devin Booker, Jalen Green et Miles Bridges. Denver sans Julian Strawther (genou) ; Phoenix sans Mark Williams (épaule)."
+  },
+  "401909995": {
+   "stars": "2",
+   "score": "6 + 1 = 7 (le Français Noa Essengue, 7 et 8 min à ses deux derniers matchs, 7 à 15 sur six : temps de jeu en baisse, non compté ; compté, le match ferait 9) ; pas de slide (au plus 4)",
+   "brief": "Donovan Mitchell et James Harden reçoivent Josh Giddey, Norman Powell et le Français Noa Essengue. Cleveland sans Evan Mobley (orteil)."
+  },
+  "401909998": {
+   "stars": "2",
+   "score": "3 + 3 = 6 ; pas de slide",
+   "brief": "Giannis Antetokounmpo et Bam Adebayo reçoivent Kevin Durant et Alperen Şengün. Houston sans Fred VanVleet (genou) ni Clint Capela (cheville), Marcus Smart suspendu."
+  },
+  "401909996": {
+   "stars": "1",
+   "score": "2 + 1 + 2 (événement : les Français Bilal Coulibaly, 20 à 29 min, et Alex Sarr, 25 à 44 min à leurs derniers matchs) = 5",
+   "brief": "Anthony Davis, Trae Young et les Français Bilal Coulibaly et Alex Sarr reçoivent le rookie Cameron Boozer et Cedric Coward. Memphis sans Ty Jerome (hanche), Zach Edey incertain (cheville)."
+  },
+  "401910000": {
+   "stars": "1",
+   "score": "1 + 3 = 4 (Stephen Curry absent)",
+   "brief": "Zion Williamson reçoit Draymond Green et Brandin Podziemski. Golden State sans Stephen Curry (abdomen) ni Kristaps Porziņģis (malade) ; New Orleans sans Trey Murphy III (genou) ni Dejounte Murray (cheville)."
+  }
+ }
+}

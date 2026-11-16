@@ -1,0 +1,150 @@
+{
+ "cover": {
+  "title": "8 MATCHS CETTE NUIT",
+  "date": "LUNDI 16 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "TIMBERWOLVES",
+   "TRAIL BLAZERS"
+  ],
+  "top_info": "02:00 · MINNEAPOLIS · NBA LEAGUE PASS",
+  "other_size": 40,
+  "others": [
+   [
+    "CELTICS – MAGIC",
+    "01:00",
+    "★★"
+   ],
+   [
+    "CAVALIERS – BULLS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "WIZARDS – GRIZZLIES",
+    "01:00",
+    "★"
+   ],
+   [
+    "NETS – 76ERS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "HEAT – ROCKETS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "PELICANS – WARRIORS",
+    "02:00",
+    "★"
+   ],
+   [
+    "NUGGETS – SUNS",
+    "03:00",
+    "★★"
+   ]
+  ],
+  "note": "TV : CELTICS – MAGIC EN DIRECT SUR beIN SPORTS 1 · DIFFÉRÉ MAR. 10:45<br>LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "MINNEAPOLIS · TARGET CENTER",
+   "home": "Timberwolves",
+   "home_city": "MINNESOTA",
+   "home_bg": "#0C2340",
+   "home_sec": "#78BE20",
+   "away": "Trail Blazers",
+   "away_city": "PORTLAND",
+   "away_c1": "#E03A3E",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 16 AU 17 NOV. · 2/6",
+   "label": "★★ L'AFFICHE DE LA NUIT",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Trois Français sur le parquet : Rudy Gobert et Joan Beringer, avec LaMelo Ball, face à Deni Avdija, Damian Lillard et Sidy Cissoko. Minnesota sans Anthony Edwards (genou) ; Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou).",
+   "chips": [
+    "R. Gobert",
+    "J. Beringer",
+    "D. Avdija",
+    "S. Cissoko"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "BOSTON · TD GARDEN",
+   "home": "Celtics",
+   "home_city": "BOSTON",
+   "home_bg": "#007A33",
+   "home_sec": "#BA9653",
+   "away": "Magic",
+   "away_city": "ORLANDO",
+   "away_c1": "#0077C0",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 16 AU 17 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Deuxième duel de la saison. Jayson Tatum et Paul George reçoivent Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville), Jonathan Isaac (genou) ni le Français Noah Penda (ischio-jambiers).",
+   "chips": [
+    "J. Tatum",
+    "P. George",
+    "F. Wagner",
+    "D. Bane"
+   ],
+   "foot": "Différé mar. 10:45<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "BROOKLYN · BARCLAYS CENTER",
+   "home": "Nets",
+   "home_city": "BROOKLYN",
+   "home_bg": "#000000",
+   "home_sec": "#FFFFFF",
+   "away": "76ers",
+   "away_city": "PHILADELPHIE",
+   "away_c1": "#006BB6",
+   "away_c2": "#ED174C",
+   "counter": "NUIT DU 16 AU 17 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "LeBron James, Tyrese Maxey et Jaylen Brown chez Julius Randle, Michael Porter Jr. et le Français Nolan Traoré. Philadelphie, qui jouait la veille face à Indiana, avec Joel Embiid incertain (pied).",
+   "chips": [
+    "L. James",
+    "T. Maxey",
+    "J. Randle",
+    "N. Traoré"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "DENVER · BALL ARENA",
+   "home": "Nuggets",
+   "home_city": "DENVER",
+   "home_bg": "#0E2240",
+   "home_sec": "#FEC524",
+   "away": "Suns",
+   "away_city": "PHOENIX",
+   "away_c1": "#1D1160",
+   "away_c2": "#E56020",
+   "counter": "NUIT DU 16 AU 17 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "03:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième duel de la saison. Nikola Jokić et Jamal Murray reçoivent Devin Booker, Jalen Green et Miles Bridges. Denver sans Julian Strawther (genou) ; Phoenix sans Mark Williams (épaule).",
+   "chips": [
+    "N. Jokić",
+    "J. Murray",
+    "D. Booker",
+    "J. Green"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
