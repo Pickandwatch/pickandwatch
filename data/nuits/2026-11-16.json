@@ -1,6 +1,6 @@
 {
   "night": "2026-11-16",
-  "generated_at": "2026-11-16T15:08+01:00",
+  "generated_at": "2026-11-16T17:52+01:00",
   "games": [
     {
       "id": "401909994",
@@ -46,8 +46,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Deuxième duel de la saison. Jayson Tatum et Paul George reçoivent Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville), Jonathan Isaac (genou) ni le Français Noah Penda (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -82,8 +82,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Donovan Mitchell et James Harden reçoivent Josh Giddey, Norman Powell et le Français Noa Essengue. Cleveland sans Evan Mobley (orteil).",
       "commentators": null
     },
     {
@@ -118,8 +118,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Anthony Davis, Trae Young et les Français Bilal Coulibaly et Alex Sarr reçoivent le rookie Cameron Boozer et Cedric Coward. Memphis sans Ty Jerome (hanche), Zach Edey incertain (cheville).",
       "commentators": null
     },
     {
@@ -154,8 +154,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "LeBron James, Tyrese Maxey et Jaylen Brown chez Julius Randle, Michael Porter Jr. et le Français Nolan Traoré. Philadelphie, qui jouait la veille face à Indiana, avec Joel Embiid incertain (pied).",
       "commentators": null
     },
     {
@@ -190,8 +190,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Giannis Antetokounmpo et Bam Adebayo reçoivent Kevin Durant et Alperen Şengün. Houston sans Fred VanVleet (genou) ni Clint Capela (cheville), Marcus Smart suspendu.",
       "commentators": null
     },
     {
@@ -226,8 +226,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Trois Français sur le parquet : Rudy Gobert et Joan Beringer, avec LaMelo Ball, face à Deni Avdija, Damian Lillard et Sidy Cissoko. Minnesota sans Anthony Edwards (genou) ; Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou).",
       "commentators": null
     },
     {
@@ -262,8 +262,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Zion Williamson reçoit Draymond Green et Brandin Podziemski. Golden State sans Stephen Curry (abdomen) ni Kristaps Porziņģis (malade) ; New Orleans sans Trey Murphy III (genou) ni Dejounte Murray (cheville).",
       "commentators": null
     },
     {
@@ -298,8 +298,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Deuxième duel de la saison. Nikola Jokić et Jamal Murray reçoivent Devin Booker, Jalen Green et Miles Bridges. Denver sans Julian Strawther (genou) ; Phoenix sans Mark Williams (épaule).",
       "commentators": null
     }
   ],
