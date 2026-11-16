@@ -35,8 +35,11 @@ Modèle : la séquence NBA Cup d'octobre (charte dédiée, annonce + palmarès +
 des programmes et verdicts). Pour chacun : J-7 « tout comprendre » (carrousel + story + Reel), page
 dédiée sur pickandwatch.fr si utile, J-1 programme renforcé, J+1 verdicts renforcés, collaborations
 calées sur la date, budget pub concentré sur ces fenêtres. Préparation lancée 3 semaines avant.
-- NBA Cup, phase finale : quarts 4-5/12, demies 8-9/12, finale 11/12 (Hinkle Fieldhouse,
-  Indianapolis). Préparer dès le 16/11 (fin des groupes autour du 28/11).
+- NBA Cup, phase finale : quarts 4-5/12 et demies 8-9/12 chez le mieux classé, finale 11/12 (Hinkle Fieldhouse,
+  Indianapolis), phase finale sur Prime Video. Dernière soirée de groupes : 27/11 (US), nuit du 27 au 28/11 à Paris.
+  Plan proposé à Alexandre le 16/11 (en attente de validation) : 24/11 course aux quarts ; 28/11 tableau des quarts
+  (+ Reel 20h, boost 12 €) ; 3/12 quarts mode d'emploi ; 7/12 dernier carré ; 10/12 la finale (boost 12 €) ;
+  11/12 Hors parquet Hinkle Fieldhouse (la salle du film Hoosiers) ; verdicts renforcés ; aucun palmarès mis à jour (spoiler).
 - Noël : 25/12, 5 matchs sur beIN SPORTS de 18h à 4h30. Préparer dès le 4/12.
 - Match de Paris : 14/01/2027, Spurs – Pelicans, Accor Arena, 20h, Prime Video (validé par Alexandre le 31/10). Préparer dès le 22/12.
 - All-Star Weekend : 19-21/02/2027, Phoenix. Préparer dès fin janvier.
