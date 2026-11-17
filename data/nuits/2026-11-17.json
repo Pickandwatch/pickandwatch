@@ -1,6 +1,6 @@
 {
   "night": "2026-11-17",
-  "generated_at": "2026-11-17T15:08+01:00",
+  "generated_at": "2026-11-17T17:53+01:00",
   "games": [
     {
       "id": "401910002",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Deuxième duel en trois jours à Toronto. Les champions en titre, Jalen Brunson, Karl-Anthony Towns et OG Anunoby, face à Scottie Barnes, RJ Barrett et Immanuel Quickley. Toronto sans Kawhi Leonard (genou).",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Deuxième duel en deux soirs à Minneapolis. Rudy Gobert, Joan Beringer et LaMelo Ball face à Deni Avdija, Damian Lillard et Sidy Cissoko. Minnesota sans Anthony Edwards (genou), Jonathan Kuminga incertain (épaule) ; Portland sans Ja Morant ni Shaedon Sharpe.",
       "commentators": null
     },
     {
@@ -122,8 +122,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Le finaliste 2026 reçoit le premier de l'Est de la saison dernière : Victor Wembanyama et Dylan Harper face à Cade Cunningham et Ausar Thompson. Detroit sans Jalen Duren (ischio-jambiers), Duncan Robinson ni Isaiah Joe.",
       "commentators": null
     },
     {
@@ -158,8 +158,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Darius Garland et Brook Lopez reçoivent Keyonte George, Ace Bailey et le rookie Darryn Peterson. Utah sans Lauri Markkanen (main), Jaren Jackson Jr. (genou) ni Jusuf Nurkić (pied) ; Los Angeles sans Bradley Beal (genou) ni Brandon Ingram.",
       "commentators": null
     },
     {
@@ -194,8 +194,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Luka Dončić et Collin Sexton reçoivent Naz Reid, Coby White et les Français Moussa Diabaté et Tidjane Salaün. Los Angeles sans Austin Reaves (talon) ni Walker Kessler (jambe) ; Charlotte sans Kon Knueppel ni Dennis Schröder (ischio-jambiers).",
       "commentators": null
     }
   ],
