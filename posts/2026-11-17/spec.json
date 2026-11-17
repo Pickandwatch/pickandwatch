@@ -1,0 +1,134 @@
+{
+ "cover": {
+  "title": "5 MATCHS CETTE NUIT",
+  "date": "MARDI 17 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "SPURS",
+   "PISTONS"
+  ],
+  "top_info": "02:00 · SAN ANTONIO · beIN SPORTS 1",
+  "other_size": 40,
+  "others": [
+   [
+    "RAPTORS – KNICKS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "TIMBERWOLVES – TRAIL BLAZERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "CLIPPERS – JAZZ",
+    "04:30",
+    "★"
+   ],
+   [
+    "LAKERS – HORNETS",
+    "05:00",
+    "★★"
+   ]
+  ],
+  "note": "TV : SPURS – PISTONS EN DIRECT SUR beIN SPORTS 1 · DIFFÉRÉ MER. 10:45<br>LES AUTRES : CHAÎNE FRANÇAISE NON CONFIRMÉE · NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Pistons",
+   "away_city": "DETROIT",
+   "away_c1": "#C8102E",
+   "away_c2": "#1D42BA",
+   "counter": "NUIT DU 17 AU 18 NOV. · 2/6",
+   "label": "★★★ L'AFFICHE DE LA NUIT",
+   "time": "02:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Le finaliste 2026 reçoit le premier de l'Est de la saison dernière : Victor Wembanyama et Dylan Harper face à Cade Cunningham et Ausar Thompson. Detroit sans Jalen Duren (ischio-jambiers), Duncan Robinson ni Isaiah Joe.",
+   "chips": [
+    "V. Wembanyama",
+    "D. Harper",
+    "C. Cunningham"
+   ],
+   "foot": "Différé mer. 10:45<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "TORONTO · SCOTIABANK ARENA",
+   "home": "Raptors",
+   "home_city": "TORONTO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Knicks",
+   "away_city": "NEW YORK",
+   "away_c1": "#006BB6",
+   "away_c2": "#F58426",
+   "counter": "NUIT DU 17 AU 18 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième duel en trois jours à Toronto. Les champions en titre, Jalen Brunson, Karl-Anthony Towns et OG Anunoby, face à Scottie Barnes, RJ Barrett et Immanuel Quickley. Toronto sans Kawhi Leonard (genou).",
+   "chips": [
+    "J. Brunson",
+    "K.-A. Towns",
+    "S. Barnes",
+    "RJ Barrett"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "MINNEAPOLIS · TARGET CENTER",
+   "home": "Timberwolves",
+   "home_city": "MINNESOTA",
+   "home_bg": "#0C2340",
+   "home_sec": "#78BE20",
+   "away": "Trail Blazers",
+   "away_city": "PORTLAND",
+   "away_c1": "#E03A3E",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 17 AU 18 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième duel en deux soirs à Minneapolis. Rudy Gobert, Joan Beringer et LaMelo Ball face à Deni Avdija, Damian Lillard et Sidy Cissoko. Minnesota sans Anthony Edwards (genou), Jonathan Kuminga incertain (épaule) ; Portland sans Ja Morant ni Shaedon Sharpe.",
+   "chips": [
+    "R. Gobert",
+    "J. Beringer",
+    "D. Avdija",
+    "S. Cissoko"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "LOS ANGELES · CRYPTO.COM ARENA",
+   "home": "Lakers",
+   "home_city": "LOS ANGELES",
+   "home_bg": "#552583",
+   "home_sec": "#FDB927",
+   "away": "Hornets",
+   "away_city": "CHARLOTTE",
+   "away_c1": "#1D1160",
+   "away_c2": "#00788C",
+   "counter": "NUIT DU 17 AU 18 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "05:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Luka Dončić et Collin Sexton reçoivent Naz Reid, Coby White et les Français Moussa Diabaté et Tidjane Salaün. Los Angeles sans Austin Reaves (talon) ni Walker Kessler (jambe) ; Charlotte sans Kon Knueppel ni Dennis Schröder (ischio-jambiers).",
+   "chips": [
+    "L. Dončić",
+    "N. Reid",
+    "M. Diabaté",
+    "T. Salaün"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
