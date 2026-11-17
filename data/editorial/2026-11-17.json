@@ -1,0 +1,32 @@
+{
+ "_statut": "publié sans réponse (règle de 18h)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des cinq matchs et blessures ESPN au 17/11/2026 vers 15h ; minutes des trois derniers matchs de chaque équipe : feuilles de match ESPN) ; previews AP/Data Skrive des 16 et 17/11/2026 (Raptors – Knicks : deuxième rencontre, après celle du 15/11 à Toronto, data/nuits/2026-11-15.json ; Timberwolves – Trail Blazers : deuxième rencontre, après celle de la veille, posts/2026-11-16) ; guide TV beIN SPORTS (XMLTV France, lu le 17/11 vers 15h) : Spurs – Pistons en direct beIN SPORTS 1 à 2h, mercredi 10h45 beIN SPORTS 1, 16h15 beIN SPORTS 3, 20h beIN SPORTS 1, recoupé avec agendatv-basket.com et bleublancdunk.com/diffusions. Clippers – Jazz : annoncé sur beIN SPORTS 1 par agendatv-basket.com (4h30) et bleublancdunk.com (beIN SPORTS, 5h), absent du guide beIN (beIN SPORTS 1 : magazine puis « Pourquoi moi ? » après Spurs – Pistons) : non confirmé. Prime Video : aucun match ce soir (pas de diffusion « NBA on Prime » au calendrier ESPN ; aucun match Prime sur agendatv-basket.com ni bleublancdunk.com).",
+ "matchs": {
+  "401910004": {
+   "stars": "3",
+   "score": "8 + 5 + 2 (événement : le Français Victor Wembanyama, 21 à 35 min à ses trois derniers matchs) = 15 ; meilleure note de la nuit, en direct sur beIN SPORTS 1 : ★★★",
+   "brief": "Le finaliste 2026 reçoit le premier de l'Est de la saison dernière : Victor Wembanyama et Dylan Harper face à Cade Cunningham et Ausar Thompson. Detroit sans Jalen Duren (ischio-jambiers), Duncan Robinson ni Isaiah Joe."
+  },
+  "401910002": {
+   "stars": "2",
+   "score": "3 + 7 = 10 (Mohamed Diawara et Pacôme Dadiet, temps de jeu irrégulier, non comptés ; Toronto garde 2 en aura avec Scottie Barnes, Kawhi Leonard absent), ramené à ★★ (un seul ★★★ par nuit ; pas de diffusion TV française)",
+   "brief": "Deuxième duel en trois jours à Toronto. Les champions en titre, Jalen Brunson, Karl-Anthony Towns et OG Anunoby, face à Scottie Barnes, RJ Barrett et Immanuel Quickley. Toronto sans Kawhi Leonard (genou)."
+  },
+  "401910003": {
+   "stars": "2",
+   "score": "3 + 3 + 2 (événement : les Français Rudy Gobert, 23 à 32 min, Joan Beringer, 13 à 22 min, et Sidy Cissoko, 26 à 29 min à leurs trois derniers matchs) = 8 ; Minnesota reste à 3 (Anthony Edwards absent)",
+   "brief": "Deuxième duel en deux soirs à Minneapolis. Rudy Gobert, Joan Beringer et LaMelo Ball face à Deni Avdija, Damian Lillard et Sidy Cissoko. Minnesota sans Anthony Edwards (genou), Jonathan Kuminga incertain (épaule) ; Portland sans Ja Morant ni Shaedon Sharpe."
+  },
+  "401910005": {
+   "stars": "2",
+   "score": "6 + 1 + 2 (événement : les Français Moussa Diabaté, 26 et 32 min à deux de ses trois derniers matchs, et Tidjane Salaün, 5 à 18 min) = 9, ramené à ★★ (un seul ★★★ par nuit ; pas de diffusion TV française)",
+   "brief": "Luka Dončić et Collin Sexton reçoivent Naz Reid, Coby White et les Français Moussa Diabaté et Tidjane Salaün. Los Angeles sans Austin Reaves (talon) ni Walker Kessler (jambe) ; Charlotte sans Kon Knueppel ni Dennis Schröder (ischio-jambiers)."
+  },
+  "401910006": {
+   "stars": "1",
+   "score": "1 + 1 = 2",
+   "brief": "Darius Garland et Brook Lopez reçoivent Keyonte George, Ace Bailey et le rookie Darryn Peterson. Utah sans Lauri Markkanen (main), Jaren Jackson Jr. (genou) ni Jusuf Nurkić (pied) ; Los Angeles sans Bradley Beal (genou) ni Brandon Ingram."
+  }
+ }
+}
