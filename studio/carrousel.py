@@ -48,6 +48,9 @@ def render(src, out, names, theme=None, theme_names=None, halloween=False):
             if theme == 'cup' and (theme_names is None or n in theme_names):
                 from cup_theme import cupify
                 body = cupify(body)
+            if theme == 'vice':
+                from vice_theme import vicify
+                body = vicify(body)
             if halloween:  # nuit du 31 octobre : édition Halloween (couverture en version nuit, toile au trait)
                 from halloween_theme import edition
                 body = edition(body, cover=(n == 'cover'), light=(n == 'cta'))

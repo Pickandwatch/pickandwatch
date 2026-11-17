@@ -1,0 +1,227 @@
+{
+ "theme": "vice",
+ "couverture": {
+  "etiquette": "GTA 6 × NBA",
+  "titre": [
+   "GTA 6 DÉBARQUE,",
+   "LA NBA PASSE À VICE CITY"
+  ],
+  "lignes": [
+   [
+    "CETTE NUIT · 1H00",
+    "HEAT – BUCKS, LE MATCH « VICE CITY »"
+   ],
+   [
+    "JEUDI 19/11",
+    "SORTIE DE GTA 6"
+   ],
+   [
+    "DÈS LE 27/11",
+    "NBA 2K27 PASSE EN MODE GTA"
+   ],
+   [
+    "TOUT NOVEMBRE",
+    "LA « MALÉDICTION » DE STEVEN ADAMS"
+   ]
+  ],
+  "accroche": "Le basket et le jeu le plus attendu, même semaine."
+ },
+ "slides": [
+  {
+   "etiquette": "GTA 6 × NBA",
+   "rubrique": "POURQUOI MIAMI",
+   "titre": [
+    "VICE CITY,",
+    "C'EST MIAMI"
+   ],
+   "chiffres": [
+    [
+     "SORTIE",
+     "19/11"
+    ],
+    [
+     "CONSOLES",
+     "PS5 · XBOX"
+    ],
+    [
+     "PC",
+     "PLUS TARD"
+    ]
+   ],
+   "texte": "La ville de GTA 6 est une copie à peine déguisée de Miami. Et le Heat n'a pas attendu le jeu : ses maillots « Vice », inspirés des années 80, existent depuis 2017.",
+   "encadre": [
+    "LE JEU",
+    "Grand Theft Auto VI · Rockstar Games",
+    ""
+   ]
+  },
+  {
+   "etiquette": "GTA 6 × NBA",
+   "rubrique": "NUIT DU MER. 18 AU JEU. 19/11",
+   "titre": [
+    "HEAT – BUCKS",
+    "LE MATCH « VICE CITY »"
+   ],
+   "chiffres": [
+    [
+     "HEURE DE PARIS",
+     "1H00"
+    ],
+    [
+     "À",
+     "MIAMI"
+    ],
+    [
+     "LA VEILLE DE",
+     "LA SORTIE"
+    ]
+   ],
+   "texte": "Pour un soir, le Heat joue sous le nom « Vice City », sur un parquet construit pour l'occasion et avec un maillot inédit, gardé secret jusqu'au match.",
+   "encadre": [
+    "LA CHAÎNE",
+    "Dans notre programme du soir, à 18h",
+    ""
+   ]
+  },
+  {
+   "etiquette": "GTA 6 × NBA",
+   "rubrique": "LE MÊME SOIR",
+   "titre": [
+    "GIANNIS CONTRE",
+    "SON ANCIENNE ÉQUIPE"
+   ],
+   "chiffres": [
+    [
+     "MVP",
+     "×2"
+    ],
+    [
+     "TITRE NBA",
+     "2021"
+    ],
+    [
+     "MVP DES FINALES",
+     "2021"
+    ]
+   ],
+   "texte": "Premier match de Giannis Antetokounmpo face aux Bucks depuis son transfert à Miami. Le champion de 2021 retrouve la franchise avec laquelle il a tout gagné.",
+   "encadre": [
+    "NOTRE VERDICT",
+    "Jeudi à 8h, sans le score",
+    ""
+   ]
+  },
+  {
+   "etiquette": "GTA 6 × NBA",
+   "rubrique": "« WATCH THEM PLUMMET, MATE »",
+   "titre": [
+    "LA PROPHÉTIE",
+    "DE STEVEN ADAMS"
+   ],
+   "chiffres": [
+    [
+     "SON ÉQUIPE",
+     "ROCKETS"
+    ],
+    [
+     "SA PRÉDICTION",
+     "NOVEMBRE"
+    ],
+    [
+     "LA CAUSE",
+     "GTA 6"
+    ]
+   ],
+   "texte": "« Attendez-vous à novembre. Les performances de toute la ligue. GTA sort. Regardez-les s'effondrer. Juste pour le mois de novembre, après ça devrait remonter. » Steven Adams, en septembre, à moitié sérieux.",
+   "encadre": [
+    "ON VÉRIFIE",
+    "Nos lignes de stats de fin novembre diront s'il avait raison",
+    ""
+   ],
+   "taille": 33
+  },
+  {
+   "etiquette": "GTA 6 × NBA",
+   "rubrique": "DU 27/11 AU 15/01",
+   "titre": [
+    "NBA 2K27",
+    "PASSE À VICE CITY"
+   ],
+   "chiffres": [
+    [
+     "SAISON",
+     "3"
+    ],
+    [
+     "DÉBUT",
+     "27/11"
+    ],
+    [
+     "FIN",
+     "15/01"
+    ]
+   ],
+   "texte": "Les deux jeux phares de Take-Two se croisent : un parc en bord de mer, la Sahara Arena de l'équipe de Vice City, des maillots Vice City et Los Santos. Pas de GTA jouable dans 2K, mais une édition « Vice City » avec Bam Adebayo en couverture.",
+   "encadre": [
+    "ÉDITION VICE CITY",
+    "39,99 $ aux États-Unis",
+    ""
+   ],
+   "taille": 33
+  },
+  {
+   "etiquette": "GTA 6 × NBA",
+   "rubrique": "TU VAS PASSER TES NUITS À VICE CITY ?",
+   "titre": [
+    "NE RATE PAS",
+    "LES MATCHS POUR AUTANT"
+   ],
+   "chiffres": [
+    [
+     "LE PROGRAMME",
+     "18H"
+    ],
+    [
+     "LE VERDICT",
+     "8H"
+    ],
+    [
+     "SPOILER",
+     "0"
+    ]
+   ],
+   "texte": "Chaque soir à 18h, les matchs de la nuit, l'heure de Paris et la chaîne. Chaque matin à 8h, notre verdict : à revoir, résumé ou zapper, sans jamais le score. Tu joues la nuit, tu rattrapes le basket le matin.",
+   "encadre": [
+    "SUR LE SITE",
+    "pickandwatch.fr",
+    "lien en bio"
+   ]
+  }
+ ],
+ "presentation": {
+  "etiquette": "PICK & WATCH",
+  "titre": [
+   "PICK & WATCH",
+   "TON PROGRAMME NBA. ZÉRO SPOILER."
+  ],
+  "texte": "Le programme NBA pensé pour les fans français : à l'heure de Paris, avec la chaîne de chaque match, et des verdicts qui ne révèlent jamais le score.",
+  "lignes": [
+   [
+    "18H",
+    "Les matchs de la nuit et où les voir"
+   ],
+   [
+    "8H",
+    "Le verdict sans score : replay, résumé ou zapper"
+   ],
+   [
+    "VENDREDI",
+    "Hors parquet : le basket au-delà des matchs"
+   ],
+   [
+    "LE SITE",
+    "Le programme de ton équipe et « + Agenda »"
+   ]
+  ]
+ }
+}
