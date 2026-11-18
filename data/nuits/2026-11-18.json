@@ -1,6 +1,6 @@
 {
   "night": "2026-11-18",
-  "generated_at": "2026-11-18T15:10+01:00",
+  "generated_at": "2026-11-18T17:51+01:00",
   "games": [
     {
       "id": "401910007",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Donovan Mitchell et James Harden reçoivent Cameron Boozer et Cedric Coward. Cleveland sans Evan Mobley (orteil) ; Memphis sans Ty Jerome, Isaiah Stewart ni Scotty Pippen Jr.",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Pascal Siakam et Andrew Nembhard (incertain) reçoivent Alperen Şengün et Kevin Durant. Indiana sans Tyrese Haliburton (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -118,8 +118,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Premier Heat – Bucks de la saison, le premier depuis le départ de Giannis Antetokounmpo à Miami cet été. Il retrouve son ancienne équipe, où joue désormais Tyler Herro. Bam Adebayo incertain (hanche) ; Milwaukee sans le Français Ousmane Dieng (doigt).",
       "commentators": null
     },
     {
@@ -154,8 +154,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Franz Wagner, Desmond Bane et Wendell Carter Jr. reçoivent Tyrese Maxey et Joel Embiid. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda ; Philadelphie sans Jaylen Brown (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -190,8 +190,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Julius Randle et le Français Nolan Traoré reçoivent Josh Giddey, Norman Powell, Matas Buzelis et le Français Noa Essengue.",
       "commentators": null
     },
     {
@@ -226,8 +226,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Les Français Alex Sarr et Bilal Coulibaly, avec Trae Young et Anthony Davis, chez Scottie Barnes, RJ Barrett et Immanuel Quickley. Toronto sans Kawhi Leonard (genou).",
       "commentators": null
     },
     {
@@ -262,8 +262,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Zion Williamson et Jeremiah Fears reçoivent Cade Cunningham et Ausar Thompson. New Orleans sans Trey Murphy III ni Dejounte Murray ; Detroit sans Jalen Duren, Duncan Robinson ni Isaiah Joe.",
       "commentators": null
     },
     {
@@ -298,8 +298,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Shai Gilgeous-Alexander reçoit Jalen Johnson et Dyson Daniels. Oklahoma City sans Chet Holmgren (genou) ni Jalen Williams (jambe) ; Atlanta sans CJ McCollum (mollet).",
       "commentators": null
     },
     {
@@ -347,8 +347,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher reçoivent Brandin Podziemski. Golden State sans Stephen Curry (abdomen) ni Kristaps Porziņģis ; Draymond Green incertain (coude).",
       "commentators": null
     },
     {
@@ -383,8 +383,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Nikola Jokić et Jamal Murray reçoivent Jayson Tatum, Derrick White et Paul George. Deux effectifs presque au complet : Denver sans Julian Strawther (genou), aucun absent annoncé côté Boston.",
       "commentators": null
     },
     {
@@ -419,8 +419,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Luka Dončić reçoit Keyonte George, Ace Bailey et le rookie Darryn Peterson. Los Angeles sans Austin Reaves ni Walker Kessler ; Utah sans Lauri Markkanen ni Jaren Jackson Jr.",
       "commentators": null
     },
     {
@@ -455,8 +455,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Domantas Sabonis et Darius Acuff Jr. reçoivent Devin Booker. Sacramento sans le Français Maxime Raynaud (genou).",
       "commentators": null
     }
   ],
