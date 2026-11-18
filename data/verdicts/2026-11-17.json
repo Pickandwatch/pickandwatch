@@ -11,11 +11,15 @@
     },
     "401910004": {
       "verdict": "resume",
-      "text": "Le résumé suffit : l'écart se fait au troisième quart-temps et ne se resserre plus. Victor Wembanyama en double-double (25 points, 18 rebonds), Dylan Harper à 20 points ; côté Detroit, Cade Cunningham (27 points), Daniss Jenkins (25 points) et Ausar Thompson tout près du triple-double (14 points, 9 rebonds, 12 passes, 5 interceptions)."
+      "text": "Le résumé suffit : l'écart se fait au troisième quart-temps et ne se resserre plus. Victor Wembanyama en double-double (25 points, 18 rebonds) face à Cade Cunningham (27 points) et Ausar Thompson, tout près du triple-double (14 points, 9 rebonds, 12 passes)."
     },
     "401910006": {
       "verdict": "resume",
       "text": "Le résumé suffit, pour Brice Sensabaugh : record de la saison (40 points à 16 sur 21, dont 8 sur 11 à trois points). L'écart se fait dans le dernier quart-temps. Keyonte George à 30 points et 11 passes, Brook Lopez à 23 points côté Los Angeles."
+    },
+    "401910005": {
+      "verdict": "replay",
+      "text": "À voir en replay, jusqu'au bout : le dernier quart-temps se regarde en entier. Quentin Grimes en feu à trois points, Luka Dončić face à Brandon Miller et Naz Reid ; le Français Moussa Diabaté solide au rebond."
     }
   }
 }
