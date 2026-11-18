@@ -1,0 +1,67 @@
+{
+ "_statut": "proposé le 18 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des douze matchs et blessures ESPN au 18/11/2026 vers 15h ; minutes des trois derniers matchs de chaque équipe concernée : feuilles de match ESPN) ; previews AP/Data Skrive du 17/11/2026 sur ESPN ; calendrier ESPN du Heat (premier Heat – Bucks de la saison) et FOX6 Milwaukee, 13/08/2026 (Giannis Antetokounmpo « traded to Miami this offseason ») ; guide TV beIN SPORTS (XMLTV France, lu le 18/11 vers 15h) : Heat – Bucks en direct beIN SPORTS 1 à 1h, jeudi 9h15 beIN SPORTS 1 et 14h45 beIN SPORTS 3 ; « Dallas Mavericks / Golden State Warriors » à 3h30 sur beIN SPORTS 1, jeudi 11h beIN SPORTS 1 et 16h30 beIN SPORTS 3. agendatv-basket.com (Miami 1h, Dallas 2h et Denver 3h30 sur beIN SPORTS 1) et bleublancdunk.com/diffusions (Bucks – Heat 1h, Celtics – Nuggets 3h, Warriors – Mavericks 3h30, beIN SPORTS) : Nuggets – Celtics sur beIN non confirmé par le guide beIN. Calendrier ESPN : Bucks – Heat et Celtics – Nuggets diffusés nationalement sur ESPN aux États-Unis. Prime Video : aucun match ce soir (pas de diffusion « NBA on Prime » au calendrier ESPN ; aucun match Prime cette nuit sur bleublancdunk.com).",
+ "matchs": {
+  "401910015": {
+   "stars": "3",
+   "score": "5 + 5 = 10 ; à égalité avec Thunder – Hawks (aucune diffusion TV française confirmée, aucun événement) : ★★★ pour Nuggets – Celtics, deux effectifs presque au complet quand Oklahoma City joue sans Chet Holmgren ni Jalen Williams ; affiche nationale ESPN, annoncée sur beIN SPORTS 1 par agendatv-basket.com et bleublancdunk.com (non confirmé par le guide beIN)",
+   "brief": "Nikola Jokić et Jamal Murray reçoivent Jayson Tatum, Derrick White et Paul George. Deux effectifs presque au complet : Denver sans Julian Strawther (genou), aucun absent annoncé côté Boston."
+  },
+  "401910014": {
+   "stars": "2",
+   "score": "7 + 3 = 10, ramené à ★★ (un seul ★★★ par nuit ; voir Nuggets – Celtics) ; Oklahoma City garde 3 en aura avec Shai Gilgeous-Alexander",
+   "brief": "Shai Gilgeous-Alexander reçoit Jalen Johnson et Dyson Daniels. Oklahoma City sans Chet Holmgren (genou) ni Jalen Williams (jambe) ; Atlanta sans CJ McCollum (mollet)."
+  },
+  "401910009": {
+   "stars": "2",
+   "score": "3 + 1 + 2 (événement : premier Heat – Bucks depuis le transfert de Giannis Antetokounmpo à Miami, intersaison 2026) = 6 ; en direct sur beIN SPORTS 1",
+   "brief": "Premier Heat – Bucks de la saison, le premier depuis le départ de Giannis Antetokounmpo à Miami cet été. Il retrouve son ancienne équipe, où joue désormais Tyler Herro. Bam Adebayo incertain (hanche) ; Milwaukee sans le Français Ousmane Dieng (doigt)."
+  },
+  "401910012": {
+   "stars": "2",
+   "score": "3 + 2 + 2 (événement : les Français Alex Sarr, 27 à 44 min, et Bilal Coulibaly, 16 à 29 min à leurs trois derniers matchs) = 7",
+   "brief": "Les Français Alex Sarr et Bilal Coulibaly, avec Trae Young et Anthony Davis, chez Scottie Barnes, RJ Barrett et Immanuel Quickley. Toronto sans Kawhi Leonard (genou)."
+  },
+  "401910007": {
+   "stars": "2",
+   "score": "6 + 1 = 7",
+   "brief": "Donovan Mitchell et James Harden reçoivent Cameron Boozer et Cedric Coward. Cleveland sans Evan Mobley (orteil) ; Memphis sans Ty Jerome, Isaiah Stewart ni Scotty Pippen Jr."
+  },
+  "401910010": {
+   "stars": "2",
+   "score": "2 + 5 = 7 (Noah Penda et Rayan Rupert non comptés : absent et temps de jeu marginal)",
+   "brief": "Franz Wagner, Desmond Bane et Wendell Carter Jr. reçoivent Tyrese Maxey et Joel Embiid. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda ; Philadelphie sans Jaylen Brown (ischio-jambiers)."
+  },
+  "401910013": {
+   "stars": "2",
+   "score": "1 + 5 = 6",
+   "brief": "Zion Williamson et Jeremiah Fears reçoivent Cade Cunningham et Ausar Thompson. New Orleans sans Trey Murphy III ni Dejounte Murray ; Detroit sans Jalen Duren, Duncan Robinson ni Isaiah Joe."
+  },
+  "401910017": {
+   "stars": "2",
+   "score": "6 + 1 = 7",
+   "brief": "Luka Dončić reçoit Keyonte George, Ace Bailey et le rookie Darryn Peterson. Los Angeles sans Austin Reaves ni Walker Kessler ; Utah sans Lauri Markkanen ni Jaren Jackson Jr."
+  },
+  "401910008": {
+   "stars": "1",
+   "score": "2 + 3 = 5",
+   "brief": "Pascal Siakam et Andrew Nembhard (incertain) reçoivent Alperen Şengün et Kevin Durant. Indiana sans Tyrese Haliburton (ischio-jambiers)."
+  },
+  "401910011": {
+   "stars": "1",
+   "score": "1 + 1 + 2 (événement : le Français Nolan Traoré, 20 et 30 min à deux de ses trois derniers matchs ; Noa Essengue, 7 à 14 min, non compté) = 4",
+   "brief": "Julius Randle et le Français Nolan Traoré reçoivent Josh Giddey, Norman Powell, Matas Buzelis et le Français Noa Essengue."
+  },
+  "401910016": {
+   "stars": "1",
+   "score": "1 + 1 + 2 (événement : le Français Zaccharie Risacher, 14 à 27 min à ses trois derniers matchs) = 4 ; Golden State ramené à 1 en aura ce soir (Stephen Curry absent)",
+   "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher reçoivent Brandin Podziemski. Golden State sans Stephen Curry (abdomen) ni Kristaps Porziņģis ; Draymond Green incertain (coude)."
+  },
+  "401910018": {
+   "stars": "1",
+   "score": "1 + 3 = 4 (Maxime Raynaud absent)",
+   "brief": "Domantas Sabonis et Darius Acuff Jr. reçoivent Devin Booker. Sacramento sans le Français Maxime Raynaud (genou)."
+  }
+ }
+}

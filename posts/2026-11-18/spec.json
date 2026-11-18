@@ -1,0 +1,149 @@
+{
+ "cover": {
+  "title": "12 MATCHS CETTE NUIT",
+  "date": "MERCREDI 18 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "NUGGETS",
+   "CELTICS"
+  ],
+  "top_info": "03:30 · DENVER · JOKIĆ – TATUM",
+  "others": [
+   [
+    "CAVALIERS – GRIZZLIES",
+    "01:00",
+    "★★"
+   ],
+   [
+    "HEAT – BUCKS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "MAGIC – 76ERS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "RAPTORS – WIZARDS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "THUNDER – HAWKS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "PELICANS – PISTONS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "LAKERS – JAZZ",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "★ AUSSI : PACERS – ROCKETS 01:00 · NETS – BULLS 01:30<br>MAVS – WARRIORS 02:00 · KINGS – SUNS 04:00<br>TV : HEAT – BUCKS EN DIRECT SUR beIN SPORTS 1<br>beIN SPORTS 1 À 3:30 : AFFICHE À CONFIRMER (VOIR LÉGENDE)<br>LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200,
+  "other_size": 40
+ },
+ "matches": [
+  {
+   "venue": "DENVER · BALL ARENA",
+   "home": "Nuggets",
+   "home_city": "DENVER",
+   "home_bg": "#0E2240",
+   "home_sec": "#FEC524",
+   "away": "Celtics",
+   "away_city": "BOSTON",
+   "away_c1": "#008348",
+   "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 18 AU 19 NOV. · 2/6",
+   "label": "★★★ L'AFFICHE DE LA NUIT",
+   "time": "03:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Nikola Jokić et Jamal Murray reçoivent Jayson Tatum, Derrick White et Paul George. Deux effectifs presque au complet : Denver sans Julian Strawther (genou), aucun absent annoncé côté Boston.",
+   "chips": [
+    "N. Jokić",
+    "J. Murray",
+    "J. Tatum",
+    "D. White"
+   ],
+   "foot": "*Chaîne française<br>à confirmer"
+  },
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat",
+   "home_city": "MIAMI",
+   "home_bg": "#98002E",
+   "home_sec": "#F9A01B",
+   "away": "Bucks",
+   "away_city": "MILWAUKEE",
+   "away_c1": "#00471B",
+   "away_c2": "#EEE1C6",
+   "counter": "NUIT DU 18 AU 19 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Premier Heat – Bucks de la saison, le premier depuis le départ de Giannis Antetokounmpo à Miami cet été. Il retrouve son ancienne équipe, où joue désormais Tyler Herro. Bam Adebayo incertain (hanche) ; Milwaukee sans le Français Ousmane Dieng (doigt).",
+   "chips": [
+    "G. Antetokounmpo",
+    "B. Adebayo",
+    "T. Herro",
+    "K. Kuzma"
+   ],
+   "foot": "Rediffusion jeu. 9:15<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "TORONTO · SCOTIABANK ARENA",
+   "home": "Raptors",
+   "home_city": "TORONTO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Wizards",
+   "away_city": "WASHINGTON",
+   "away_c1": "#E31837",
+   "away_c2": "#002B5C",
+   "counter": "NUIT DU 18 AU 19 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les Français Alex Sarr et Bilal Coulibaly, avec Trae Young et Anthony Davis, chez Scottie Barnes, RJ Barrett et Immanuel Quickley. Toronto sans Kawhi Leonard (genou).",
+   "chips": [
+    "A. Sarr",
+    "B. Coulibaly",
+    "T. Young",
+    "S. Barnes"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder",
+   "home_city": "OKLAHOMA CITY",
+   "home_bg": "#007AC1",
+   "home_sec": "#EF3B24",
+   "away": "Hawks",
+   "away_city": "ATLANTA",
+   "away_c1": "#C8102E",
+   "away_c2": "#FDB927",
+   "counter": "NUIT DU 18 AU 19 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Shai Gilgeous-Alexander reçoit Jalen Johnson et Dyson Daniels. Oklahoma City sans Chet Holmgren (genou) ni Jalen Williams (jambe) ; Atlanta sans CJ McCollum (mollet).",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "J. Johnson",
+    "D. Daniels"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
