@@ -1,6 +1,6 @@
 {
   "night": "2026-11-19",
-  "generated_at": "2026-11-19T15:11+01:00",
+  "generated_at": "2026-11-19T17:51+01:00",
   "games": [
     {
       "id": "401910019",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Cameron Boozer et Cedric Coward reçoivent Draymond Green et Brandin Podziemski. Golden State sans Stephen Curry (abdomen), Kristaps Porziņģis ni Al Horford ; Memphis sans Ty Jerome ni Scotty Pippen Jr.",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Le Français Sidy Cissoko, Damian Lillard et Deni Avdija (incertain, pied) chez Tyler Herro, Myles Turner et Jaime Jaquez Jr. Milwaukee sans le Français Ousmane Dieng (doigt).",
       "commentators": null
     },
     {
@@ -106,8 +106,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Les Français Rudy Gobert et Joan Beringer, avec LaMelo Ball, reçoivent les champions en titre de Jalen Brunson et Karl-Anthony Towns. Minnesota sans Anthony Edwards (genou) ni Donte DiVincenzo ; aucun absent annoncé côté New York.",
       "commentators": null
     },
     {
@@ -158,8 +158,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Victor Wembanyama et De'Aaron Fox reçoivent Darius Garland et Brook Lopez. San Antonio sans Dylan Harper (hanche) ni Tobias Harris (mollet) ; Los Angeles sans Brandon Ingram ni Bradley Beal.",
       "commentators": null
     }
   ],
