@@ -1,0 +1,27 @@
+{
+ "_statut": "publié sans réponse (règle de 18h)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des quatre matchs et blessures ESPN au 19/11/2026 vers 15h ; minutes des trois derniers matchs des joueurs cités : feuilles de match ESPN) ; previews AP/Data Skrive des 18 et 19/11/2026 sur ESPN ; guide TV beIN SPORTS (XMLTV France, via data/nuits/2026-11-19.json) : Spurs – Clippers en direct beIN SPORTS 1 à 2h, rediffusions vendredi 10h45 beIN SPORTS 1, 15h30 beIN SPORTS 3, samedi 0h15 beIN SPORTS 1. Prime Video : aucun match ce soir (aucune diffusion « NBA on Prime » au calendrier ESPN ; jeudis sur Prime Video à partir de janvier, Insidebasket 20/10/2026). agendatv-basket.com et bleublancdunk.com non lus (accès refusé à l'outil).",
+ "matchs": {
+  "401910022": {
+   "stars": "3",
+   "score": "8 + 1 + 2 (événement : le Français Victor Wembanyama, 21 à 35 min à ses trois derniers matchs) = 11 ; seul match en direct sur une chaîne française (beIN SPORTS 1) : ★★★",
+   "brief": "Victor Wembanyama et De'Aaron Fox reçoivent Darius Garland et Brook Lopez. San Antonio sans Dylan Harper (hanche) ni Tobias Harris (mollet) ; Los Angeles sans Brandon Ingram ni Bradley Beal."
+  },
+  "401910021": {
+   "stars": "2",
+   "score": "3 + 7 + 2 (événement : les Français Rudy Gobert, 22 à 32 min, et Joan Beringer, 13 à 26 min à leurs trois derniers matchs) = 12, ramené à ★★ (un seul ★★★ par nuit : Spurs – Clippers l'emporte par la diffusion TV française) ; Minnesota reste à 3 (Anthony Edwards absent)",
+   "brief": "Les Français Rudy Gobert et Joan Beringer, avec LaMelo Ball, reçoivent les champions en titre de Jalen Brunson et Karl-Anthony Towns. Minnesota sans Anthony Edwards (genou) ni Donte DiVincenzo ; aucun absent annoncé côté New York."
+  },
+  "401910020": {
+   "stars": "2",
+   "score": "1 + 3 + 2 (événement : le Français Sidy Cissoko, 26 à 32 min à ses trois derniers matchs) = 6",
+   "brief": "Le Français Sidy Cissoko, Damian Lillard et Deni Avdija (incertain, pied) chez Tyler Herro, Myles Turner et Jaime Jaquez Jr. Milwaukee sans le Français Ousmane Dieng (doigt)."
+  },
+  "401910019": {
+   "stars": "1",
+   "score": "1 + 1 = 2 ; Golden State ramené à 1 en aura ce soir (Stephen Curry absent)",
+   "brief": "Cameron Boozer et Cedric Coward reçoivent Draymond Green et Brandin Podziemski. Golden State sans Stephen Curry (abdomen), Kristaps Porziņģis ni Al Horford ; Memphis sans Ty Jerome ni Scotty Pippen Jr."
+  }
+ }
+}
