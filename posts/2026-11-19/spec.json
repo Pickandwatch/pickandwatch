@@ -1,0 +1,106 @@
+{
+ "cover": {
+  "title": "4 MATCHS CETTE NUIT",
+  "date": "JEUDI 19 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "SPURS",
+   "CLIPPERS"
+  ],
+  "top_info": "02:00 · SAN ANTONIO · WEMBANYAMA",
+  "others": [
+   [
+    "TIMBERWOLVES – KNICKS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "BUCKS – TRAIL BLAZERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "GRIZZLIES – WARRIORS",
+    "02:00",
+    "★"
+   ]
+  ],
+  "note": "TV : SPURS – CLIPPERS EN DIRECT SUR beIN SPORTS 1<br>LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200,
+  "other_size": 40
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Clippers",
+   "away_city": "LOS ANGELES",
+   "away_c1": "#C8102E",
+   "away_c2": "#1D428A",
+   "counter": "NUIT DU 19 AU 20 NOV. · 2/5",
+   "label": "★★★ L'AFFICHE DE LA NUIT",
+   "time": "02:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Victor Wembanyama et De'Aaron Fox reçoivent Darius Garland et Brook Lopez. San Antonio sans Dylan Harper (hanche) ni Tobias Harris (mollet) ; Los Angeles sans Brandon Ingram ni Bradley Beal.",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "S. Castle",
+    "D. Garland"
+   ],
+   "foot": "Rediffusion ven. 10:45<br>sur beIN SPORTS 1"
+  },
+  {
+   "venue": "MINNEAPOLIS · TARGET CENTER",
+   "home": "Timberwolves",
+   "home_city": "MINNESOTA",
+   "home_bg": "#0C2340",
+   "home_sec": "#78BE20",
+   "away": "Knicks",
+   "away_city": "NEW YORK",
+   "away_c1": "#006BB6",
+   "away_c2": "#F58426",
+   "counter": "NUIT DU 19 AU 20 NOV. · 3/5",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les Français Rudy Gobert et Joan Beringer, avec LaMelo Ball, reçoivent les champions en titre de Jalen Brunson et Karl-Anthony Towns. Minnesota sans Anthony Edwards (genou) ni Donte DiVincenzo ; aucun absent annoncé côté New York.",
+   "chips": [
+    "R. Gobert",
+    "J. Beringer",
+    "J. Brunson",
+    "K.-A. Towns"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "MILWAUKEE · FISERV FORUM",
+   "home": "Bucks",
+   "home_city": "MILWAUKEE",
+   "home_bg": "#00471B",
+   "home_sec": "#EEE1C6",
+   "away": "Trail Blazers",
+   "away_city": "PORTLAND",
+   "away_c1": "#E03A3E",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 19 AU 20 NOV. · 4/5",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Le Français Sidy Cissoko, Damian Lillard et Deni Avdija (incertain, pied) chez Tyler Herro, Myles Turner et Jaime Jaquez Jr. Milwaukee sans le Français Ousmane Dieng (doigt).",
+   "chips": [
+    "S. Cissoko",
+    "D. Lillard",
+    "D. Avdija",
+    "T. Herro"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
