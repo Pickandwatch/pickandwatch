@@ -91,3 +91,10 @@ Nouveau :
 - **« What If...? », livre de BasketSession** (à lire) : article du 6/11 + fiche produit (12/11) : 256 pages, 24,90 €, prévente, expéditions à partir du 25/11, livraison offerte pour les préventes jusqu'au 22/11. Auteurs non nommés.
 Écartés : Livre d'or Solar 2026 (dates, prix et pages contradictoires entre sources) ; « Avez-vous la culture NBA ? » (Amphora, Basket USA 8/11 : 96 p., 9,95 €) gardé en réserve ; Apéro Collector TrashTalk (page illisible).
 Statut : validé par Alexandre le 12/11 (publication le 13/11 à 12h).
+
+## Pour le numéro du vendredi 20 novembre 2026
+Le numéro du 13/11, validé, n'est pas parti (statut `echec` : « jamais parti, plus de 3 h après l'heure prévue »). Préparé le 19/11 (brouillon, en attente de validation d'Alexandre) :
+- **« Le Rêve américain »** (dossier, trouvé par Claude) : film d'Anthony Marciano (Raphaël Quenard, Jean-Pascal Zadi), sorti en salles le 18/02/2026, 2 h 01 (Allociné), sur Disney+ le 20/11/2026 (Gameblog 16/11, Série News 7/11, Sortiraparis 8/11). Inspiré de Jérémy Medjana et Bouna Ndiaye (Série News, Orange/Allociné), agents ayant accompagné Gobert, Batum, Wembanyama (Orange/Allociné). Fiche Disney+ France non trouvée.
+- **Slam Dunk Show** (à suivre, ce week-end) : OandB et Sporsora lus le 19/11 ; horaires sous réserve (sam. 10h-22h, dim. 10h-19h), prix et programme non publiés. slamdunkshow.com non lisible le 19/11.
+- **« What If...? »** (à lire) : fiche produit lue le 19/11 : 256 p., 24,90 €, expéditions dès le 25/11, livraison offerte pour les préventes jusqu'au 22/11 (France métropolitaine) ; liste des scénarios publiée le 13/11.
+Curry (« Portrait d'un artiste ») non repris : en ligne depuis le 10/11, plus d'actualité en France.
