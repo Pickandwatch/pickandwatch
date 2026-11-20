@@ -74,7 +74,7 @@ def cover(c, n):
 def sujet(s, i, n):
     inner = [header(f'HORS PARQUET · {i}/{n}'),
              f'<div style="display: flex; flex-direction: column; gap: 22px"><div style="{MONO}; font-size: 24px; letter-spacing: 4px; color: {OR}">{s["rubrique"]}</div>{title(*s["titre"])}</div>',
-             stats(s['chiffres']), body(s['texte']), source_box(*s['source'])]
+             stats(s['chiffres']), body(s['texte'])] + ([source_box(*s['source'])] if s.get('source') else [])
     return frame('\n'.join(inner))
 
 

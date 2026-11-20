@@ -2,37 +2,91 @@
   "couverture": {
     "semaine": "16 AU 20 NOVEMBRE 2026",
     "sommaire": [
-      ["LE DOSSIER · À VOIR", "« Le Rêve américain », agents NBA"],
-      ["À SUIVRE · CE WEEK-END", "Le Slam Dunk Show, à Paris"],
-      ["À LIRE · EN PRÉVENTE", "« What If...? », la NBA qui aurait pu être"]
+      [
+        "LE DOSSIER · À VOIR",
+        "« Le Rêve américain », agents NBA"
+      ],
+      [
+        "À SUIVRE · CE WEEK-END",
+        "Le Slam Dunk Show, à Paris"
+      ],
+      [
+        "À LIRE · EN PRÉVENTE",
+        "« What If...? », la NBA qui aurait pu être"
+      ]
     ],
     "accroche": "Le basket, en dehors des matchs."
   },
   "sujets": [
     {
       "rubrique": "LE DOSSIER · À VOIR",
-      "titre": ["« LE RÊVE AMÉRICAIN »,", "DEUX FRANÇAIS EN NBA"],
-      "chiffres": [["SUR DISNEY+", "VEN. 20/11"], ["DURÉE", "2H01"], ["EN SALLES", "FÉV. 2026"]],
+      "titre": [
+        "« LE RÊVE AMÉRICAIN »,",
+        "DEUX FRANÇAIS EN NBA"
+      ],
+      "chiffres": [
+        [
+          "SUR DISNEY+",
+          "VEN. 20/11"
+        ],
+        [
+          "DURÉE",
+          "2H01"
+        ],
+        [
+          "EN SALLES",
+          "FÉV. 2026"
+        ]
+      ],
       "texte": "Raphaël Quenard et Jean-Pascal Zadi jouent Jérémy et Bouna, deux outsiders qui veulent devenir agents de joueurs NBA. Le film d'Anthony Marciano s'inspire du parcours de Jérémy Medjana et Bouna Ndiaye, les agents français qui ont accompagné Rudy Gobert, Nicolas Batum ou Victor Wembanyama aux États-Unis. Une comédie, pas un documentaire. Sorti au cinéma en février, il arrive ce vendredi sur Disney+.",
-      "source": ["SOURCES", "GAMEBLOG · ALLOCINÉ", "16.11"],
       "lien": "https://www.gameblog.fr/geek/ed/news/disney-sorties-semaine-novembre-s3-726659",
       "lien_titre": "les sorties Disney+ de la semaine"
     },
     {
       "rubrique": "À SUIVRE · CE WEEK-END",
-      "titre": ["SLAM DUNK SHOW,", "LE SALON DU BASKET"],
-      "chiffres": [["DATES", "21-22 NOV."], ["LIEU", "PARIS 13E"], ["OUVERTURE", "10H"]],
+      "titre": [
+        "SLAM DUNK SHOW,",
+        "LE SALON DU BASKET"
+      ],
+      "chiffres": [
+        [
+          "DATES",
+          "21-22 NOV."
+        ],
+        [
+          "LIEU",
+          "PARIS 13E"
+        ],
+        [
+          "OUVERTURE",
+          "10H"
+        ]
+      ],
       "texte": "Présenté par ses organisateurs comme le premier salon du basket en France : samedi et dimanche à la Halle Georges-Carpentier, boulevard Masséna. Horaires annoncés, sous réserve : 10h-22h samedi, 10h-19h dimanche. Entrée payante, billetterie en ligne. Jeudi, le programme détaillé n'était toujours pas publié : jette un œil à la page avant d'y aller.",
-      "source": ["SOURCES", "OANDB · SPORSORA", "19.11"],
       "lien": "https://event.oandb.fr/fr/slam-dunk-show-edition-2026",
       "lien_titre": "la page de l'événement"
     },
     {
       "rubrique": "À LIRE · EN PRÉVENTE",
-      "titre": ["« WHAT IF...? »,", "LA NBA QUI AURAIT PU ÊTRE"],
-      "chiffres": [["PAGES", "256"], ["PRIX", "24,90 €"], ["EXPÉDITION", "25/11"]],
+      "titre": [
+        "« WHAT IF...? »,",
+        "LA NBA QUI AURAIT PU ÊTRE"
+      ],
+      "chiffres": [
+        [
+          "PAGES",
+          "256"
+        ],
+        [
+          "PRIX",
+          "24,90 €"
+        ],
+        [
+          "EXPÉDITION",
+          "25/11"
+        ]
+      ],
       "texte": "Et si LeBron James était né en 1969 ? Et si les Suns avaient drafté Luka Dončić ? Le nouveau livre de BasketSession tire le fil de dizaines d'histoires alternatives de la NBA ; la liste complète des scénarios est en ligne. En prévente sur basketsession.com, livraison offerte jusqu'à dimanche 22 novembre (France métropolitaine).",
-      "source": ["SOURCE", "BASKETSESSION", "19.11"],
       "lien": "https://www.basketsession.com/NBA/multivers-nba-la-liste-de-nos-90-what-if-786120/",
       "lien_titre": "la liste des « What If » de BasketSession"
     }
