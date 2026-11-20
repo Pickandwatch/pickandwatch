@@ -1,6 +1,6 @@
 {
   "night": "2026-11-20",
-  "generated_at": "2026-11-20T15:13+01:00",
+  "generated_at": "2026-11-20T17:52+01:00",
   "games": [
     {
       "id": "401909305",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Jalen Johnson et Nickeil Alexander-Walker face à Brandon Miller et au Français Moussa Diabaté. Charlotte sans Kon Knueppel (ischio-jambiers) ; Atlanta sans CJ McCollum (mollet).",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Julius Randle et le Français Nolan Traoré face à Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -106,8 +106,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Donovan Mitchell et James Harden, en finale de l'Est la saison dernière, reçoivent Pascal Siakam. Cleveland sans Evan Mobley (orteil) ; Indiana sans Tyrese Haliburton (ischio-jambiers), Andrew Nembhard (hanche) est incertain.",
       "commentators": null
     },
     {
@@ -145,8 +145,8 @@
         "source": "calendrier NBA on Prime (repris par Prime Video France)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Cade Cunningham, incertain (genou), et les Pistons, premiers de l'Est la saison dernière, reçoivent Scottie Barnes. Toronto sans Kawhi Leonard (genou) ni RJ Barrett (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -181,8 +181,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr chez Josh Giddey et Noa Essengue, incertain (poignet).",
       "commentators": null
     },
     {
@@ -217,8 +217,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, sans Chet Holmgren (genou) ni Jalen Williams (jambe), face à Zion Williamson. New Orleans sans Trey Murphy III (genou) ni Dejounte Murray (cheville).",
       "commentators": null
     },
     {
@@ -253,8 +253,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Devin Booker face à Keyonte George et au rookie Darryn Peterson. Utah sans Lauri Markkanen ni Jaren Jackson Jr.",
       "commentators": null
     },
     {
@@ -292,8 +292,8 @@
         "source": "calendrier NBA on Prime (repris par Prime Video France)",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Nikola Jokić et Jamal Murray reçoivent Kevin Durant et Alperen Şengün, incertain (œil). Houston sans Clint Capela (cheville) ; Steven Adams (quadriceps) est incertain.",
       "commentators": null
     },
     {
@@ -328,8 +328,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Luka Dončić, sans Austin Reaves (talon), face au rookie Darius Acuff Jr. et à Domantas Sabonis. Sacramento sans le Français Maxime Raynaud (genou).",
       "commentators": null
     }
   ],
