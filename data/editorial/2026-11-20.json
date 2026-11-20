@@ -1,0 +1,52 @@
+{
+ "_statut": "publié sans réponse (règle de 18h)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des neuf matchs, blessures ESPN au 20/11/2026, 15h ; minutes des Français : gamelogs ESPN) ; previews AP/Data Skrive du 19/11/2026 ; guide TV beIN SPORTS (xmltvfr.fr) : aucun match en direct cette nuit ; Prime Video : Pistons – Raptors et Nuggets – Rockets au calendrier NBA on Prime (ESPN, diffusion nationale Prime Video ; nba.com « Every NBA game on Prime Video in 2026-27 », lu le 20/11), repris par Prime Video France (règle prime_usa_en_france, data/diffuseurs.json). Bilans 2025-26 et playoffs 2026 : data/grille-equipes.json.",
+ "matchs": {
+  "401909312": {
+   "stars": 2,
+   "score": "5 + 3 = 8 ; affiche de la nuit : à égalité à 8 avec Pistons – Raptors (aussi sur Prime Video), Thunder – Pelicans et Cavaliers – Pacers ; départagé par la diffusion TV française puis par les effectifs (Toronto sans Kawhi Leonard ni RJ Barrett, Cade Cunningham incertain) ; aucun match à 9 : pas de ★★★ ce soir",
+   "brief": "Nikola Jokić et Jamal Murray reçoivent Kevin Durant et Alperen Şengün, incertain (œil). Houston sans Clint Capela (cheville) ; Steven Adams (quadriceps) est incertain."
+  },
+  "401909308": {
+   "stars": 2,
+   "score": "5 + 3 = 8 (Toronto garde 2 en aura avec Scottie Barnes, Kawhi Leonard absent) ; slide (direct Prime Video)",
+   "brief": "Cade Cunningham, incertain (genou), et les Pistons, premiers de l'Est la saison dernière, reçoivent Scottie Barnes. Toronto sans Kawhi Leonard (genou) ni RJ Barrett (ischio-jambiers)."
+  },
+  "401909310": {
+   "stars": 2,
+   "score": "7 + 1 = 8 (Oklahoma City garde 3 en aura avec Shai Gilgeous-Alexander) ; slide",
+   "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, sans Chet Holmgren (genou) ni Jalen Williams (jambe), face à Zion Williamson. New Orleans sans Trey Murphy III (genou) ni Dejounte Murray (cheville)."
+  },
+  "401909307": {
+   "stars": 2,
+   "score": "6 + 2 = 8 ; slide",
+   "brief": "Donovan Mitchell et James Harden, en finale de l'Est la saison dernière, reçoivent Pascal Siakam. Cleveland sans Evan Mobley (orteil) ; Indiana sans Tyrese Haliburton (ischio-jambiers), Andrew Nembhard (hanche) est incertain."
+  },
+  "401909313": {
+   "stars": 2,
+   "score": "6 + 1 = 7 (le Français Maxime Raynaud, blessé au genou, absent : pas de bonus) ; pas de slide (au plus 4)",
+   "brief": "Luka Dončić, sans Austin Reaves (talon), face au rookie Darius Acuff Jr. et à Domantas Sabonis. Sacramento sans le Français Maxime Raynaud (genou)."
+  },
+  "401909305": {
+   "stars": 2,
+   "score": "3 + 1 + 2 (événement : le Français Moussa Diabaté, 24 à 38 min à ses six derniers matchs ; Tidjane Salaün, temps de jeu irrégulier, non compté) = 6 ; pas de slide",
+   "brief": "Jalen Johnson et Nickeil Alexander-Walker face à Brandon Miller et au Français Moussa Diabaté. Charlotte sans Kon Knueppel (ischio-jambiers) ; Atlanta sans CJ McCollum (mollet)."
+  },
+  "401909306": {
+   "stars": 1,
+   "score": "1 + 2 + 2 (événement : le Français Nolan Traoré, 20 à 30 min à ses six derniers matchs ; Noah Penda absent) = 5",
+   "brief": "Julius Randle et le Français Nolan Traoré face à Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers)."
+  },
+  "401909309": {
+   "stars": 1,
+   "score": "1 + 2 + 2 (événement : les Français Bilal Coulibaly, 16 à 29 min, et Alex Sarr, 22 à 44 min à leurs six derniers matchs ; Noa Essengue incertain) = 5",
+   "brief": "Trae Young, Anthony Davis et les Français Bilal Coulibaly et Alex Sarr chez Josh Giddey et Noa Essengue, incertain (poignet)."
+  },
+  "401909311": {
+   "stars": 1,
+   "score": "1 + 3 = 4",
+   "brief": "Devin Booker face à Keyonte George et au rookie Darryn Peterson. Utah sans Lauri Markkanen ni Jaren Jackson Jr."
+  }
+ }
+}
