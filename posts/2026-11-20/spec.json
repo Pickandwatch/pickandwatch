@@ -1,0 +1,154 @@
+{
+ "theme": "cup",
+ "cover": {
+  "bandeau": "NBA CUP 2026 · PHASE DE GROUPES",
+  "title": "CE SOIR, NBA CUP",
+  "date": "VENDREDI 20 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "NUGGETS",
+   "ROCKETS"
+  ],
+  "top_info": "04:00 · DENVER · PRIME VIDEO (INCLUS DANS PRIME)",
+  "other_size": 40,
+  "others": [
+   [
+    "HAWKS – HORNETS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "NETS – MAGIC",
+    "01:30",
+    "★"
+   ],
+   [
+    "CAVALIERS – PACERS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "PISTONS – RAPTORS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "BULLS – WIZARDS",
+    "02:00",
+    "★"
+   ],
+   [
+    "THUNDER – PELICANS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "JAZZ – SUNS",
+    "03:30",
+    "★"
+   ],
+   [
+    "LAKERS – KINGS",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "TV : PISTONS – RAPTORS ET NUGGETS – ROCKETS SUR PRIME VIDEO<br>NEUF MATCHS DE CUP · LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "DENVER · BALL ARENA",
+   "home": "Nuggets",
+   "home_city": "DENVER",
+   "home_bg": "#0E2240",
+   "home_sec": "#FEC524",
+   "away": "Rockets",
+   "away_city": "HOUSTON",
+   "away_c1": "#CE1141",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 20 AU 21 NOV. · 2/6",
+   "label": "NBA CUP · ★★ L'AFFICHE DE LA NUIT",
+   "time": "04:00",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Nikola Jokić et Jamal Murray reçoivent Kevin Durant et Alperen Şengün, incertain (œil). Houston sans Clint Capela (cheville) ; Steven Adams (quadriceps) est incertain.",
+   "chips": [
+    "N. Jokić",
+    "J. Murray",
+    "K. Durant",
+    "A. Şengün"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "DETROIT · LITTLE CAESARS ARENA",
+   "home": "Pistons",
+   "home_city": "DETROIT",
+   "home_bg": "#1D428A",
+   "home_sec": "#C8102E",
+   "away": "Raptors",
+   "away_city": "TORONTO",
+   "away_c1": "#CE1141",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 20 AU 21 NOV. · 3/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Cade Cunningham, incertain (genou), et les Pistons, premiers de l'Est la saison dernière, reçoivent Scottie Barnes. Toronto sans Kawhi Leonard (genou) ni RJ Barrett (ischio-jambiers).",
+   "chips": [
+    "C. Cunningham",
+    "A. Thompson",
+    "S. Barnes"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder",
+   "home_city": "OKLAHOMA CITY",
+   "home_bg": "#007AC1",
+   "home_sec": "#EF3B24",
+   "away": "Pelicans",
+   "away_city": "NEW ORLEANS",
+   "away_c1": "#0A2240",
+   "away_c2": "#B4975A",
+   "counter": "NUIT DU 20 AU 21 NOV. · 4/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, sans Chet Holmgren (genou) ni Jalen Williams (jambe), face à Zion Williamson. New Orleans sans Trey Murphy III (genou) ni Dejounte Murray (cheville).",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "Z. Williamson",
+    "J. Fears"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "CLEVELAND · ROCKET ARENA",
+   "home": "Cavaliers",
+   "home_city": "CLEVELAND",
+   "home_bg": "#860038",
+   "home_sec": "#BC945C",
+   "away": "Pacers",
+   "away_city": "INDIANA",
+   "away_c1": "#002D62",
+   "away_c2": "#FDBB30",
+   "counter": "NUIT DU 20 AU 21 NOV. · 5/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Donovan Mitchell et James Harden, en finale de l'Est la saison dernière, reçoivent Pascal Siakam. Cleveland sans Evan Mobley (orteil) ; Indiana sans Tyrese Haliburton (ischio-jambiers), Andrew Nembhard (hanche) est incertain.",
+   "chips": [
+    "D. Mitchell",
+    "J. Harden",
+    "P. Siakam"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
