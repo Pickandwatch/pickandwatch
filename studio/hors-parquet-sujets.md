@@ -98,3 +98,4 @@ Le numéro du 13/11, validé, n'est pas parti (statut `echec` : « jamais parti,
 - **Slam Dunk Show** (à suivre, ce week-end) : OandB et Sporsora lus le 19/11 ; horaires sous réserve (sam. 10h-22h, dim. 10h-19h), prix et programme non publiés. slamdunkshow.com non lisible le 19/11.
 - **« What If...? »** (à lire) : fiche produit lue le 19/11 : 256 p., 24,90 €, expéditions dès le 25/11, livraison offerte pour les préventes jusqu'au 22/11 (France métropolitaine) ; liste des scénarios publiée le 13/11.
 Curry (« Portrait d'un artiste ») non repris : en ligne depuis le 10/11, plus d'actualité en France.
+Statut : validé par Alexandre le 20/11 (publication le 20/11 à 12h, sans encadré source, tags @disneyplusfr et @sds_paris).
