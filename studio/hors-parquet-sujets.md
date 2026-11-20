@@ -99,3 +99,4 @@ Le numéro du 13/11, validé, n'est pas parti (statut `echec` : « jamais parti,
 - **« What If...? »** (à lire) : fiche produit lue le 19/11 : 256 p., 24,90 €, expéditions dès le 25/11, livraison offerte pour les préventes jusqu'au 22/11 (France métropolitaine) ; liste des scénarios publiée le 13/11.
 Curry (« Portrait d'un artiste ») non repris : en ligne depuis le 10/11, plus d'actualité en France.
 Statut : validé par Alexandre le 20/11 (publication le 20/11 à 12h, sans encadré source, tags @disneyplusfr et @sds_paris).
+Publié le 20/11/2026 à 12h00 (media_id 18290235580294894).
