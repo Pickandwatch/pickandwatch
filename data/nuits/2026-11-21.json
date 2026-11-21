@@ -1,6 +1,6 @@
 {
   "night": "2026-11-21",
-  "generated_at": "2026-11-21T15:07+01:00",
+  "generated_at": "2026-11-21T17:52+01:00",
   "games": [
     {
       "id": "401910023",
@@ -50,8 +50,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Un match dès 19h : LeBron James, Joel Embiid et Tyrese Maxey (incertain, pied) reçoivent Tyler Herro et Kel'el Ware. Philadelphie sans Jaylen Brown (ischio-jambiers) ; Milwaukee sans le Français Ousmane Dieng (doigt).",
       "commentators": null
     },
     {
@@ -86,8 +86,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Le Français Sidy Cissoko et Damian Lillard chez les champions en titre de Jalen Brunson et Karl-Anthony Towns. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou), Deni Avdija incertain (pied) ; OG Anunoby incertain (mollet), Jordan Clarkson absent.",
       "commentators": null
     },
     {
@@ -122,8 +122,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher reçoivent Darius Garland et Rui Hachimura. Los Angeles sans Brandon Ingram ni Bradley Beal ; Dallas sans Dereck Lively II.",
       "commentators": null
     },
     {
@@ -158,8 +158,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Les Français Rudy Gobert et Joan Beringer, avec LaMelo Ball et Jonathan Kuminga, reçoivent Cedric Coward et Cam Spencer. Minnesota sans Anthony Edwards (genou) ni Donte DiVincenzo ; Memphis sans Cameron Boozer, Ty Jerome ni Jerami Grant.",
       "commentators": null
     },
     {
@@ -194,8 +194,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Victor Wembanyama, De'Aaron Fox et Stephon Castle reçoivent Zion Williamson et Jeremiah Fears, qui jouent leur deuxième match en deux soirs. San Antonio sans Dylan Harper (hanche) ni Tobias Harris (mollet) ; New Orleans sans Dejounte Murray ni Bennedict Mathurin.",
       "commentators": null
     },
     {
@@ -230,8 +230,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Jayson Tatum (incertain, repos), Derrick White et Paul George chez Domantas Sabonis, Zach LaVine et Darius Acuff Jr. Deuxième match en deux soirs pour Sacramento, sans le Français Maxime Raynaud (genou).",
       "commentators": null
     }
   ],
