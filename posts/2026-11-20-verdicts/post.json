@@ -15,5 +15,8 @@
     "09.jpg",
     "10.jpg"
   ],
-  "legende": ""
+  "legende": "",
+  "tentatives": 1,
+  "erreur": "Image non disponible : https://pickandwatch.fr/posts/2026-11-20-verdicts/01.jpg",
+  "erreur_le": "2026-11-21T08:00+01:00"
 }
