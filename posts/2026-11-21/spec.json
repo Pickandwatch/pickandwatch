@@ -1,0 +1,140 @@
+{
+ "cover": {
+  "title": "6 MATCHS CETTE NUIT",
+  "date": "SAMEDI 21 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "KNICKS",
+   "TRAIL BLAZERS"
+  ],
+  "top_info": "01:30 · NEW YORK · CISSOKO",
+  "others": [
+   [
+    "76ERS – BUCKS",
+    "19:00",
+    "★★"
+   ],
+   [
+    "SPURS – PELICANS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "WOLVES – GRIZZLIES",
+    "02:00",
+    "★★"
+   ],
+   [
+    "MAVERICKS – CLIPPERS",
+    "02:00",
+    "★"
+   ],
+   [
+    "KINGS – CELTICS",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "TV : 76ERS – BUCKS EN DIRECT SUR beIN SPORTS 2 À 19:00<br>LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200,
+  "other_size": 40
+ },
+ "matches": [
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Trail Blazers",
+   "away_city": "PORTLAND",
+   "away_c1": "#E03A3E",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 21 AU 22 NOV. · 2/6",
+   "label": "★★★ L'AFFICHE DE LA NUIT",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Le Français Sidy Cissoko et Damian Lillard chez les champions en titre de Jalen Brunson et Karl-Anthony Towns. Portland sans Ja Morant ni Shaedon Sharpe, Deni Avdija incertain (pied) ; OG Anunoby incertain (mollet).",
+   "chips": [
+    "S. Cissoko",
+    "D. Lillard",
+    "J. Brunson",
+    "K.-A. Towns"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "PHILADELPHIE · XFINITY MOBILE ARENA",
+   "home": "76ers",
+   "home_city": "PHILADELPHIE",
+   "home_bg": "#1D428A",
+   "home_sec": "#E01234",
+   "away": "Bucks",
+   "away_city": "MILWAUKEE",
+   "away_c1": "#00471B",
+   "away_c2": "#EEE1C6",
+   "counter": "NUIT DU 21 AU 22 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "19:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 2",
+   "brief": "Un match dès 19h : LeBron James, Joel Embiid et Tyrese Maxey (incertain) reçoivent Tyler Herro et Kel'el Ware. Philadelphie sans Jaylen Brown ; Milwaukee sans le Français Ousmane Dieng.",
+   "chips": [
+    "L. James",
+    "J. Embiid",
+    "T. Maxey",
+    "T. Herro"
+   ],
+   "foot": "Rediffusion dim. 10:45<br>beIN SPORTS 1"
+  },
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Pelicans",
+   "away_city": "NEW ORLEANS",
+   "away_c1": "#0A2240",
+   "away_c2": "#B4975A",
+   "counter": "NUIT DU 21 AU 22 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Victor Wembanyama, De'Aaron Fox et Stephon Castle reçoivent Zion Williamson et Jeremiah Fears, qui jouent leur deuxième match en deux soirs. San Antonio sans Dylan Harper ni Tobias Harris ; New Orleans sans Dejounte Murray ni Bennedict Mathurin.",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "S. Castle",
+    "Z. Williamson"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "MINNEAPOLIS · TARGET CENTER",
+   "home": "Timberwolves",
+   "home_city": "MINNESOTA",
+   "home_bg": "#0C2340",
+   "home_sec": "#78BE20",
+   "away": "Grizzlies",
+   "away_city": "MEMPHIS",
+   "away_c1": "#5D76A9",
+   "away_c2": "#12173F",
+   "counter": "NUIT DU 21 AU 22 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les Français Rudy Gobert et Joan Beringer, avec LaMelo Ball et Jonathan Kuminga, reçoivent Cedric Coward et Cam Spencer. Minnesota sans Anthony Edwards (genou) ni Donte DiVincenzo ; Memphis sans Cameron Boozer, Ty Jerome ni Jerami Grant.",
+   "chips": [
+    "R. Gobert",
+    "J. Beringer",
+    "L. Ball",
+    "C. Coward"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}

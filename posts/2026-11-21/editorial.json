@@ -1,0 +1,37 @@
+{
+ "_statut": "proposé le 21 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des six matchs et blessures ESPN au 21/11/2026 vers 15h ; minutes des trois derniers matchs des joueurs cités : feuilles de match ESPN ; back-to-back de New Orleans et Sacramento : matchs ESPN du 20/11 au soir, heure américaine) ; guide TV beIN SPORTS (XMLTV France, via data/nuits/2026-11-21.json) : 76ers – Bucks en direct beIN SPORTS 2 à 19h, rediffusions dimanche 10h45 beIN SPORTS 1, 16h30 beIN SPORTS 2, 21h15 beIN SPORTS 1. Prime Video : aucun match ce soir (aucune diffusion « NBA on Prime » au calendrier ESPN ; samedis sur Prime Video à partir de février, Insidebasket 20/10/2026). Aucun match dimanche avant 18h (calendrier ESPN du 22/11). Pas de preview AP disponible sur ESPN au moment de la rédaction.",
+ "matchs": {
+  "401910024": {
+   "stars": "3",
+   "score": "7 + 3 + 2 (événement : le Français Sidy Cissoko, 28 à 32 min à ses trois derniers matchs) = 12 ; meilleure note de la nuit, devant Spurs – Pelicans (11) ; aucune diffusion TV française pour l'un ni l'autre : ★★★",
+   "brief": "Le Français Sidy Cissoko et Damian Lillard chez les champions en titre de Jalen Brunson et Karl-Anthony Towns. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou), Deni Avdija incertain (pied) ; OG Anunoby incertain (mollet), Jordan Clarkson absent."
+  },
+  "401910023": {
+   "stars": "2",
+   "score": "5 + 1 = 6 (pas d'événement : le Français Rayan Rupert n'a pas joué ses deux derniers matchs) ; seul match en direct sur une chaîne française (beIN SPORTS 2, 19h)",
+   "brief": "Un match dès 19h : LeBron James, Joel Embiid et Tyrese Maxey (incertain, pied) reçoivent Tyler Herro et Kel'el Ware. Philadelphie sans Jaylen Brown (ischio-jambiers) ; Milwaukee sans le Français Ousmane Dieng (doigt)."
+  },
+  "401910027": {
+   "stars": "2",
+   "score": "8 + 1 + 2 (événement : le Français Victor Wembanyama, 33 à 35 min à ses trois derniers matchs) = 11, ramené à ★★ (un seul ★★★ par nuit : Knicks – Trail Blazers a la meilleure note)",
+   "brief": "Victor Wembanyama, De'Aaron Fox et Stephon Castle reçoivent Zion Williamson et Jeremiah Fears, qui jouent leur deuxième match en deux soirs. San Antonio sans Dylan Harper (hanche) ni Tobias Harris (mollet) ; New Orleans sans Dejounte Murray ni Bennedict Mathurin."
+  },
+  "401910026": {
+   "stars": "2",
+   "score": "3 + 1 + 2 (événement : les Français Rudy Gobert, 22 à 35 min, et Joan Beringer, 13 à 26 min à leurs trois derniers matchs) = 6 ; Minnesota reste à 3 (Anthony Edwards absent)",
+   "brief": "Les Français Rudy Gobert et Joan Beringer, avec LaMelo Ball et Jonathan Kuminga, reçoivent Cedric Coward et Cam Spencer. Minnesota sans Anthony Edwards (genou) ni Donte DiVincenzo ; Memphis sans Cameron Boozer, Ty Jerome ni Jerami Grant."
+  },
+  "401910028": {
+   "stars": "2",
+   "score": "5 + 1 = 6 (pas d'événement : le Français Maxime Raynaud absent, genou) (pas de slide : au plus 4 slides, départagé avec Timberwolves – Grizzlies par l'événement)",
+   "brief": "Jayson Tatum (incertain, repos), Derrick White et Paul George chez Domantas Sabonis, Zach LaVine et Darius Acuff Jr. Deuxième match en deux soirs pour Sacramento, sans le Français Maxime Raynaud (genou)."
+  },
+  "401910025": {
+   "stars": "1",
+   "score": "1 + 1 + 2 (événement : le Français Zaccharie Risacher, 18 à 27 min à ses trois derniers matchs) = 4",
+   "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher reçoivent Darius Garland et Rui Hachimura. Los Angeles sans Brandon Ingram ni Bradley Beal ; Dallas sans Dereck Lively II."
+  }
+ }
+}
