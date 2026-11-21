@@ -25,11 +25,20 @@ CFG = json.loads((ROOT / "config" / "instagram.json").read_text(encoding="utf-8"
 API = f"https://graph.facebook.com/{CFG['graph_version']}"
 PARIS = ZoneInfo("Europe/Paris")
 SITE = "https://pickandwatch.fr"
+SECOURS = "https://raw.githubusercontent.com/Pickandwatch/pickandwatch/main"  # si le site est hors ligne
 EARLY_WAIT = 40 * 60  # les crons GitHub passent parfois toutes les 35 min : un passage peut démarrer jusqu'à 40 min avant l'heure et attendre
 
 # Garde-fou anti-spoiler : un score du type « 112-108 » ou « 112 à 108 » bloque la publication.
 SCORE_RE = re.compile(r"\b1?\d{2}\s?(?:-|–|à|a)\s?1?\d{2}\b")
 CAPTION_MAX = 2200  # limite Instagram (caractères)
+
+
+def en_ligne(u: str) -> bool:
+    try:
+        with urllib.request.urlopen(urllib.request.Request(u, method="HEAD"), timeout=30) as r:
+            return r.status == 200
+    except (urllib.error.URLError, OSError):
+        return False
 
 
 def token() -> str:
@@ -314,13 +323,14 @@ def publish_due() -> list[Path]:
         try:
             urls = [f"{SITE}/posts/{f.parent.name}/{name}" for name in post["images"]]
             video_url = f"{SITE}/posts/{f.parent.name}/{post['video']}" if post.get("type") == "reel" else None
+            if not all(en_ligne(u) for u in urls + ([video_url] if video_url else [])):
+                # Secours (21/11/2026, domaine pickandwatch.fr suspendu) : si le site ne répond pas,
+                # Meta va chercher les fichiers sur GitHub (raw), à condition qu'ils y soient tous.
+                urls = [u.replace(SITE, SECOURS) for u in urls]
+                video_url = video_url.replace(SITE, SECOURS) if video_url else None
+                print(f"{f.parent.name} : {SITE} ne répond pas, images servies par {SECOURS}")
             for u in urls + ([video_url] if video_url else []):  # images et vidéo doivent déjà être en ligne
-                try:
-                    with urllib.request.urlopen(urllib.request.Request(u, method="HEAD"), timeout=30) as r:
-                        ok = r.status == 200
-                except urllib.error.URLError:
-                    ok = False
-                if not ok:
+                if not en_ligne(u):
                     raise SystemExit(f"Image non disponible : {u}")
             if post.get("type") == "story":
                 media_id = publish_stories(urls, f, post)
