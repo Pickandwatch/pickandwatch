@@ -1,0 +1,250 @@
+{
+  "night": "2026-11-21",
+  "generated_at": "2026-11-21T01:58+01:00",
+  "games": [
+    {
+      "id": "401910023",
+      "tip_paris": "2026-11-21T19:00:00+01:00",
+      "home": {
+        "abbr": "PHI",
+        "name": "76ers",
+        "location": "Philadelphia",
+        "full": "Philadelphia 76ers",
+        "color": "#1d428a",
+        "color2": "#e01234"
+      },
+      "away": {
+        "abbr": "MIL",
+        "name": "Bucks",
+        "location": "Milwaukee",
+        "full": "Milwaukee Bucks",
+        "color": "#00471b",
+        "color2": "#eee1c6"
+      },
+      "venue": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "recoupé",
+      "tv": {
+        "live": {
+          "channel": "beIN SPORTS 2",
+          "start": "2026-11-21T19:00:00+01:00"
+        },
+        "replays": [
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-11-22T10:45:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 2",
+            "start": "2026-11-22T16:30:00+01:00"
+          },
+          {
+            "channel": "beIN SPORTS 1",
+            "start": "2026-11-22T21:15:00+01:00"
+          }
+        ],
+        "source": "guide TV beIN SPORTS (XMLTV France)",
+        "status": "confirmé"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401910024",
+      "tip_paris": "2026-11-22T01:30:00+01:00",
+      "home": {
+        "abbr": "NY",
+        "name": "Knicks",
+        "location": "New York",
+        "full": "New York Knicks",
+        "color": "#1d428a",
+        "color2": "#f58426"
+      },
+      "away": {
+        "abbr": "POR",
+        "name": "Trail Blazers",
+        "location": "Portland",
+        "full": "Portland Trail Blazers",
+        "color": "#e03a3e",
+        "color2": "#000000"
+      },
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401910025",
+      "tip_paris": "2026-11-22T02:00:00+01:00",
+      "home": {
+        "abbr": "DAL",
+        "name": "Mavericks",
+        "location": "Dallas",
+        "full": "Dallas Mavericks",
+        "color": "#0064b1",
+        "color2": "#bbc4ca"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Clippers",
+        "location": "LA",
+        "full": "LA Clippers",
+        "color": "#12173f",
+        "color2": "#c8102e"
+      },
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401910026",
+      "tip_paris": "2026-11-22T02:00:00+01:00",
+      "home": {
+        "abbr": "MIN",
+        "name": "Timberwolves",
+        "location": "Minnesota",
+        "full": "Minnesota Timberwolves",
+        "color": "#266092",
+        "color2": "#79bc43"
+      },
+      "away": {
+        "abbr": "MEM",
+        "name": "Grizzlies",
+        "location": "Memphis",
+        "full": "Memphis Grizzlies",
+        "color": "#5d76a9",
+        "color2": "#12173f"
+      },
+      "venue": "Target Center",
+      "city": "Minneapolis",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401910027",
+      "tip_paris": "2026-11-22T02:00:00+01:00",
+      "home": {
+        "abbr": "SA",
+        "name": "Spurs",
+        "location": "San Antonio",
+        "full": "San Antonio Spurs",
+        "color": "#000000",
+        "color2": "#c4ced4"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "Pelicans",
+        "location": "New Orleans",
+        "full": "New Orleans Pelicans",
+        "color": "#0a2240",
+        "color2": "#b4975a"
+      },
+      "venue": "Frost Bank Center",
+      "city": "San Antonio",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    },
+    {
+      "id": "401910028",
+      "tip_paris": "2026-11-22T04:00:00+01:00",
+      "home": {
+        "abbr": "SAC",
+        "name": "Kings",
+        "location": "Sacramento",
+        "full": "Sacramento Kings",
+        "color": "#5a2d81",
+        "color2": "#6a7a82"
+      },
+      "away": {
+        "abbr": "BOS",
+        "name": "Celtics",
+        "location": "Boston",
+        "full": "Boston Celtics",
+        "color": "#008348",
+        "color2": "#ffffff"
+      },
+      "venue": "Golden 1 Center",
+      "city": "Sacramento",
+      "neutral": false,
+      "phase": "regular-season",
+      "cup": null,
+      "francais": [],
+      "time_status": "calendrier officiel",
+      "tv": {
+        "live": null,
+        "replays": [],
+        "source": null,
+        "status": "league-pass"
+      },
+      "stars": null,
+      "brief": null,
+      "commentators": null
+    }
+  ],
+  "checks": [
+    "Knicks – Trail Blazers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Mavericks – Clippers : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Timberwolves – Grizzlies : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Spurs – Pelicans : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
+    "Kings – Celtics : aucune diffusion TV française trouvée → NBA League Pass (à confirmer)."
+  ],
+  "sources": {
+    "calendrier": "ESPN (scoreboard NBA), horaires convertis en heure de Paris",
+    "diffusion": "Guide TV XMLTV France (xmltvfr.fr), chaînes beIN SPORTS"
+  },
+  "rediffusions_nuit": []
+}
