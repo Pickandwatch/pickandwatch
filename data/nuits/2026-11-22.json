@@ -1,6 +1,6 @@
 {
   "night": "2026-11-22",
-  "generated_at": "2026-11-22T15:09+01:00",
+  "generated_at": "2026-11-22T17:51+01:00",
   "games": [
     {
       "id": "401910029",
@@ -37,8 +37,8 @@
         "source": "agendatv-basket.com (« 21h30 Primevideo ») et bleublancdunk.com/diffusions (« 21:30 · Prime Video », Detroit Pistons @ Atlanta Hawks), lus le 22/11/2026 vers 15h05",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Un match dès 21h30 : Jalen Johnson et Dyson Daniels reçoivent Cade Cunningham (incertain, genou) et Ausar Thompson, premiers de l'Est la saison dernière. Atlanta sans CJ McCollum (mollet) ni Kingston Flemings (dos).",
       "commentators": null
     },
     {
@@ -85,8 +85,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Première rencontre de la saison : Giannis Antetokounmpo (incertain, aine) et Bam Adebayo face à Shai Gilgeous-Alexander (incertain, dos) et au Thunder, finaliste de l'Ouest 2026. Oklahoma City sans Alex Caruso ni Nikola Topić.",
       "commentators": null
     },
     {
@@ -121,8 +121,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Anthony Davis, Trae Young et les Français Bilal Coulibaly et Alex Sarr reçoivent Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -157,8 +157,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Nikola Jokić, Jamal Murray et Aaron Gordon chez Josh Giddey, Matas Buzelis et le Français Noa Essengue, pour la première rencontre de la saison. Norman Powell (ischio-jambiers) et Patrick Williams (pouce) incertains côté Chicago.",
       "commentators": null
     },
     {
@@ -193,8 +193,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher, deuxième match en deux soirs, chez Keyonte George et le rookie Darryn Peterson. Utah sans Lauri Markkanen ni Jaren Jackson Jr.",
       "commentators": null
     },
     {
@@ -229,8 +229,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Deuxième match en deux soirs pour les champions en titre de Jalen Brunson et Mikal Bridges. Karl-Anthony Towns (malade) et OG Anunoby (mollet) incertains. Indiana sans Tyrese Haliburton (ischio-jambiers), avec Pascal Siakam incertain (hanche).",
       "commentators": null
     },
     {
@@ -265,8 +265,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Deuxième match en deux soirs pour Boston, sans Jayson Tatum (repos), Derrick White (épaule) ni Mitchell Robinson : Paul George et Payton Pritchard chez des Warriors privés de Stephen Curry, Jimmy Butler et Kristaps Porziņģis.",
       "commentators": null
     }
   ],
