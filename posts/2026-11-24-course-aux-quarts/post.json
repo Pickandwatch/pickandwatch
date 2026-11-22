@@ -1,6 +1,6 @@
 {
   "publier_a": "2026-11-24T12:30:00+01:00",
-  "statut": "brouillon",
+  "statut": "valide",
   "images": [
     "01.jpg",
     "02.jpg",
@@ -12,5 +12,6 @@
     "08.jpg",
     "09.jpg"
   ],
-  "legende": "NBA Cup : plus que trois nuits pour décrocher les quarts de finale.\n\n8 places : les 6 premiers de groupe et le meilleur deuxième de chaque conférence.\nLes chocs à ne pas rater :\nMavericks – Nuggets, les deux invaincus de l'Ouest A (nuit du 24 au 25/11, 4h)\nTimberwolves – Thunder (nuit du 25 au 26/11, 1h30)\nHeat – 76ers, le seul match en soirée (mercredi 25/11, 23h)\nHawks – Celtics (nuit du 27 au 28/11, 2h)\nLakers – Spurs pour finir (nuit du 27 au 28/11, 3h30)\n\nTous les horaires sont à l'heure de Paris, groupe par groupe dans le carrousel. Bilans arrêtés au 23/11.\nLes chaînes de chaque match et le bouton « + Agenda » : page NBA Cup de notre site pickandwatch.fr (lien en bio).\n\nLe tableau des quarts arrive samedi 28/11. Envoie-le à ton pote qui ne sait toujours pas comment marche la NBA Cup.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#NBACup #NBA #NBAFrance #BasketFrance"
+  "legende": "NBA Cup : plus que trois nuits pour décrocher les quarts de finale.\n\n8 places : les 6 premiers de groupe et le meilleur deuxième de chaque conférence.\nLes chocs à ne pas rater :\nMavericks – Nuggets, les deux invaincus de l'Ouest A (nuit du 24 au 25/11, 4h)\nTimberwolves – Thunder (nuit du 25 au 26/11, 1h30)\nHeat – 76ers, le seul match en soirée (mercredi 25/11, 23h)\nHawks – Celtics (nuit du 27 au 28/11, 2h)\nLakers – Spurs pour finir (nuit du 27 au 28/11, 3h30)\n\nTous les horaires sont à l'heure de Paris, groupe par groupe dans le carrousel. Bilans arrêtés au 23/11.\nLes chaînes de chaque match et le bouton « + Agenda » : page NBA Cup de notre site pickandwatch.fr (lien en bio).\n\nLe tableau des quarts arrive samedi 28/11. Envoie-le à ton pote qui ne sait toujours pas comment marche la NBA Cup.\n\nPick & Watch. Ton programme NBA. Zéro spoiler. Jamais.\n#NBACup #NBA #NBAFrance #BasketFrance",
+  "valide_le": "2026-11-22T10:05+01:00"
 }
