@@ -1,0 +1,42 @@
+{
+  "_statut": "publié sans réponse (règle de 18h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary des sept matchs et blessures ESPN au 22/11/2026 vers 15h ; séries de la saison ESPN : première rencontre pour Hawks – Pistons, Heat – Thunder, Bulls – Nuggets, Warriors – Celtics ; minutes des trois derniers matchs des Français cités et effectifs des derniers matchs : feuilles de match ESPN ; deuxième match en deux soirs pour New York, Boston et Dallas : matchs ESPN du 21/11 au soir, heure américaine) ; guide TV beIN SPORTS (XMLTV France, via data/nuits/2026-11-22.json) : Heat – Thunder en direct beIN SPORTS 1 à 0h, rediffusions lundi 10h45 beIN SPORTS 1 et 16h beIN SPORTS 3. Prime Video : Hawks – Pistons à 21h30 (agendatv-basket.com « 21h30 Primevideo » et bleublancdunk.com/diffusions « 21:30 · Prime Video », lus le 22/11/2026 vers 15h05). Aucun match lundi avant 18h (agendatv-basket.com). Pas de preview AP disponible sur ESPN au moment de la rédaction.",
+  "matchs": {
+    "401910030": {
+      "stars": "3",
+      "score": "3 + 7 = 10 (pas d'événement) ; meilleure note de la nuit, en direct sur beIN SPORTS 1 : ★★★",
+      "brief": "Première rencontre de la saison : Giannis Antetokounmpo (incertain, aine) et Bam Adebayo face à Shai Gilgeous-Alexander (incertain, dos) et au Thunder, finaliste de l'Ouest 2026. Oklahoma City sans Alex Caruso ni Nikola Topić."
+    },
+    "401910034": {
+      "stars": "2",
+      "score": "7 + 2 = 9, ramené à ★★ (un seul ★★★ par nuit : Heat – Thunder a une meilleure note et une diffusion TV française) ; pas d'événement (le Français Pacôme Dadiet : 11 min sur un seul de ses trois derniers matchs, Mohamed Diawara non utilisé)",
+      "brief": "Deuxième match en deux soirs pour les champions en titre de Jalen Brunson et Mikal Bridges. Karl-Anthony Towns (malade) et OG Anunoby (mollet) incertains. Indiana sans Tyrese Haliburton (ischio-jambiers), avec Pascal Siakam incertain (hanche)."
+    },
+    "401910029": {
+      "stars": "2",
+      "score": "3 + 5 = 8 (pas d'événement) ; en direct sur Prime Video à 21h30",
+      "brief": "Un match dès 21h30 : Jalen Johnson et Dyson Daniels reçoivent Cade Cunningham (incertain, genou) et Ausar Thompson, premiers de l'Est la saison dernière. Atlanta sans CJ McCollum (mollet) ni Kingston Flemings (dos)."
+    },
+    "401910032": {
+      "stars": "2",
+      "score": "1 + 5 + 2 (événement : le Français Noa Essengue, 14 à 15 min à ses trois derniers matchs) = 8",
+      "brief": "Nikola Jokić, Jamal Murray et Aaron Gordon chez Josh Giddey, Matas Buzelis et le Français Noa Essengue, pour la première rencontre de la saison. Norman Powell (ischio-jambiers) et Patrick Williams (pouce) incertains côté Chicago."
+    },
+    "401910035": {
+      "stars": "2",
+      "score": "1 + 5 = 6 (Golden State ramené de 3 à 1 : Stephen Curry absent jusqu'à mi-décembre, Jimmy Butler et Kristaps Porziņģis jusqu'à janvier, blessures ESPN) (pas de slide : au plus 4)",
+      "brief": "Deuxième match en deux soirs pour Boston, sans Jayson Tatum (repos), Derrick White (épaule) ni Mitchell Robinson : Paul George et Payton Pritchard chez des Warriors privés de Stephen Curry, Jimmy Butler et Kristaps Porziņģis."
+    },
+    "401910031": {
+      "stars": "2",
+      "score": "2 + 2 + 2 (événement : les Français Alex Sarr, 20 à 31 min, et Bilal Coulibaly, 16 à 26 min à leurs trois derniers matchs) = 6 (pas de slide : au plus 4)",
+      "brief": "Anthony Davis, Trae Young et les Français Bilal Coulibaly et Alex Sarr reçoivent Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers)."
+    },
+    "401910033": {
+      "stars": "1",
+      "score": "1 + 1 + 2 (événement : le Français Zaccharie Risacher, 18 à 29 min à ses trois derniers matchs) = 4",
+      "brief": "Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher, deuxième match en deux soirs, chez Keyonte George et le rookie Darryn Peterson. Utah sans Lauri Markkanen ni Jaren Jackson Jr."
+    }
+  }
+}
