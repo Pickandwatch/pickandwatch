@@ -1,6 +1,6 @@
 {
   "night": "2026-11-22",
-  "generated_at": "2026-11-22T13:29+01:00",
+  "generated_at": "2026-11-22T15:09+01:00",
   "games": [
     {
       "id": "401910029",
@@ -29,10 +29,13 @@
       "francais": [],
       "time_status": "calendrier officiel",
       "tv": {
-        "live": null,
+        "live": {
+          "channel": "Prime Video",
+          "start": "2026-11-22T21:30:00+01:00"
+        },
         "replays": [],
-        "source": null,
-        "status": "league-pass"
+        "source": "agendatv-basket.com (« 21h30 Primevideo ») et bleublancdunk.com/diffusions (« 21:30 · Prime Video », Detroit Pistons @ Atlanta Hawks), lus le 22/11/2026 vers 15h05",
+        "status": "annoncé"
       },
       "stars": null,
       "brief": null,
@@ -268,7 +271,6 @@
     }
   ],
   "checks": [
-    "Hawks – Pistons : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Wizards – Magic : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Bulls – Nuggets : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
     "Jazz – Mavericks : aucune diffusion TV française trouvée → NBA League Pass (à confirmer).",
