@@ -1,0 +1,299 @@
+{
+ "theme": "cup",
+ "couverture": {
+  "etiquette": "NBA CUP · COURSE AUX QUARTS",
+  "titre": [
+   "LA COURSE AUX QUARTS",
+   "3 NUITS POUR TOUT DÉCIDER"
+  ],
+  "lignes": [
+   [
+    "8 PLACES",
+    "6 PREMIERS + MEILLEUR 2E DE CHAQUE CONFÉRENCE"
+   ],
+   [
+    "3 NUITS",
+    "24-25/11 · 25-26/11 · 27-28/11"
+   ],
+   [
+    "23 MATCHS",
+    "DONT 7 EN DIRECT À LA TÉLÉ"
+   ],
+   [
+    "MER. 25/11 · 23H",
+    "LE SEUL MATCH EN SOIRÉE : HEAT – 76ERS"
+   ],
+   [
+    "4 ÉQUIPES",
+    "DÉJÀ HORS COURSE"
+   ]
+  ],
+  "accroche": "Bilans au 23/11, groupe par groupe."
+ },
+ "slides": [
+  {
+   "etiquette": "NBA CUP · COURSE AUX QUARTS",
+   "rubrique": "GROUPE OUEST A · RESTE À JOUER, HEURE DE PARIS",
+   "titre": [
+    "CHOC POUR LA 1RE PLACE",
+    "MAVERICKS ET NUGGETS, INVAINCUS"
+   ],
+   "classement": [
+    [
+     "MAVERICKS",
+     "2 V · 0 D",
+     "À NUGGETS 25/11 4H00 · À SUNS 28/11 3H00"
+    ],
+    [
+     "NUGGETS",
+     "2 V · 0 D",
+     "MAVERICKS 25/11 4H00 · À JAZZ 28/11 3H30"
+    ],
+    [
+     "SUNS",
+     "1 V · 1 D",
+     "À ROCKETS 26/11 2H30 · MAVERICKS 28/11 3H00"
+    ],
+    [
+     "ROCKETS",
+     "1 V · 2 D",
+     "SUNS 26/11 2H30"
+    ],
+    [
+     "JAZZ · HORS COURSE",
+     "0 V · 3 D",
+     "NUGGETS 28/11 3H30"
+    ]
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · COURSE AUX QUARTS",
+   "rubrique": "GROUPE OUEST B · RESTE À JOUER, HEURE DE PARIS",
+   "titre": [
+    "TIMBERWOLVES EN TÊTE",
+    "LE THUNDER À L'AFFÛT"
+   ],
+   "classement": [
+    [
+     "TIMBERWOLVES",
+     "2 V · 0 D",
+     "À THUNDER 26/11 1H30 · GRIZZLIES 28/11 2H30"
+    ],
+    [
+     "THUNDER",
+     "2 V · 1 D",
+     "TIMBERWOLVES 26/11 1H30"
+    ],
+    [
+     "GRIZZLIES",
+     "1 V · 1 D",
+     "CLIPPERS 26/11 2H00 · À TIMBERWOLVES 28/11 2H30"
+    ],
+    [
+     "CLIPPERS",
+     "1 V · 1 D",
+     "À GRIZZLIES 26/11 2H00 · PELICANS 28/11 3H30"
+    ],
+    [
+     "PELICANS · HORS COURSE",
+     "0 V · 3 D",
+     "À CLIPPERS 28/11 3H30"
+    ]
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · COURSE AUX QUARTS",
+   "rubrique": "GROUPE OUEST C · RESTE À JOUER, HEURE DE PARIS",
+   "titre": [
+    "SPURS INVAINCUS",
+    "LES LAKERS POUR FINIR"
+   ],
+   "classement": [
+    [
+     "SPURS",
+     "2 V · 0 D",
+     "À TRAIL BLAZERS 26/11 4H00 · LAKERS 28/11 3H30"
+    ],
+    [
+     "LAKERS",
+     "2 V · 1 D",
+     "À SPURS 28/11 3H30"
+    ],
+    [
+     "TRAIL BLAZERS",
+     "1 V · 1 D",
+     "SPURS 26/11 4H00 · WARRIORS 28/11 3H30"
+    ],
+    [
+     "WARRIORS",
+     "1 V · 1 D",
+     "KINGS 26/11 4H00 · À TRAIL BLAZERS 28/11 3H30"
+    ],
+    [
+     "KINGS · HORS COURSE",
+     "0 V · 3 D",
+     "À WARRIORS 26/11 4H00"
+    ]
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · COURSE AUX QUARTS",
+   "rubrique": "GROUPE EST A · RESTE À JOUER, HEURE DE PARIS",
+   "titre": [
+    "LE MAGIC SEUL INVAINCU",
+    "DETROIT EN EMBUSCADE"
+   ],
+   "classement": [
+    [
+     "MAGIC",
+     "3 V · 0 D",
+     "PISTONS 25/11 1H00"
+    ],
+    [
+     "RAPTORS",
+     "2 V · 1 D",
+     "NETS 28/11 1H30"
+    ],
+    [
+     "PISTONS",
+     "1 V · 1 D",
+     "À MAGIC 25/11 1H00 · BUCKS 28/11 1H30"
+    ],
+    [
+     "NETS",
+     "0 V · 2 D",
+     "À BUCKS 26/11 2H00 · À RAPTORS 28/11 1H30"
+    ],
+    [
+     "BUCKS",
+     "0 V · 2 D",
+     "NETS 26/11 2H00 · À PISTONS 28/11 1H30"
+    ]
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · COURSE AUX QUARTS",
+   "rubrique": "GROUPE EST B · RESTE À JOUER, HEURE DE PARIS",
+   "titre": [
+    "LE HEAT EN TÊTE",
+    "CLEVELAND À L'AFFÛT"
+   ],
+   "classement": [
+    [
+     "HEAT",
+     "2 V · 0 D",
+     "À 76ERS 25/11 23H00 · À KNICKS 28/11 1H00"
+    ],
+    [
+     "CAVALIERS",
+     "2 V · 1 D",
+     "À KNICKS 26/11 1H30"
+    ],
+    [
+     "76ERS",
+     "1 V · 1 D",
+     "HEAT 25/11 23H00 · À PACERS 28/11 1H30"
+    ],
+    [
+     "PACERS",
+     "1 V · 2 D",
+     "76ERS 28/11 1H30"
+    ],
+    [
+     "KNICKS",
+     "0 V · 2 D",
+     "CAVALIERS 26/11 1H30 · HEAT 28/11 1H00"
+    ]
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · COURSE AUX QUARTS",
+   "rubrique": "GROUPE EST C · RESTE À JOUER, HEURE DE PARIS",
+   "titre": [
+    "BOSTON EN TÊTE",
+    "TROIS ÉQUIPES À DEUX VICTOIRES"
+   ],
+   "classement": [
+    [
+     "CELTICS",
+     "2 V · 0 D",
+     "À WIZARDS 25/11 2H00 · HAWKS 28/11 2H00"
+    ],
+    [
+     "HAWKS",
+     "2 V · 1 D",
+     "À CELTICS 28/11 2H00"
+    ],
+    [
+     "WIZARDS",
+     "2 V · 1 D",
+     "CELTICS 25/11 2H00"
+    ],
+    [
+     "BULLS",
+     "1 V · 2 D",
+     "À HORNETS 26/11 1H00"
+    ],
+    [
+     "HORNETS · HORS COURSE",
+     "0 V · 3 D",
+     "BULLS 26/11 1H00"
+    ]
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · COURSE AUX QUARTS",
+   "rubrique": "LA SUITE",
+   "titre": [
+    "ET APRÈS ?",
+    "LE TABLEAU DÈS SAMEDI"
+   ],
+   "chiffres": [
+    [
+     "TABLEAU",
+     "28/11"
+    ],
+    [
+     "QUARTS",
+     "4-5/12"
+    ],
+    [
+     "FINALE",
+     "11/12"
+    ]
+   ],
+   "texte": "On publie le tableau des quarts samedi 28/11. Quarts et demies se jouent chez le mieux classé, la finale à Indianapolis. Toute la phase finale est en direct sur Prime Video.",
+   "encadre": [
+    "SUR LE SITE",
+    "pickandwatch.fr",
+    "page NBA Cup"
+   ]
+  }
+ ],
+ "presentation": {
+  "etiquette": "PICK & WATCH",
+  "titre": [
+   "PICK & WATCH",
+   "TON PROGRAMME NBA. ZÉRO SPOILER."
+  ],
+  "texte": "Le programme NBA pensé pour les fans français : à l'heure de Paris, avec la chaîne de chaque match, et des verdicts qui ne révèlent jamais le score.",
+  "lignes": [
+   [
+    "18H",
+    "Les matchs de la nuit et où les voir"
+   ],
+   [
+    "8H",
+    "Le verdict sans score : replay, résumé ou zapper"
+   ],
+   [
+    "VENDREDI",
+    "Hors parquet : le basket au-delà des matchs"
+   ],
+   [
+    "LE SITE",
+    "Le programme de ton équipe et « + Agenda »"
+   ]
+  ]
+ }
+}
