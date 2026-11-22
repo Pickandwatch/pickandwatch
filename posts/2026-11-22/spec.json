@@ -1,0 +1,142 @@
+{
+ "cover": {
+  "title": "7 MATCHS CETTE NUIT",
+  "date": "DIMANCHE 22 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "HEAT",
+   "THUNDER"
+  ],
+  "top_info": "00:00 · MIAMI · beIN SPORTS 1",
+  "others": [
+   [
+    "HAWKS – PISTONS",
+    "21:30",
+    "★★"
+   ],
+   [
+    "WIZARDS – MAGIC",
+    "01:00",
+    "★★"
+   ],
+   [
+    "BULLS – NUGGETS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "JAZZ – MAVERICKS",
+    "01:00",
+    "★"
+   ],
+   [
+    "KNICKS – PACERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "WARRIORS – CELTICS",
+    "02:30",
+    "★★"
+   ]
+  ],
+  "note": "TV : HAWKS – PISTONS SUR PRIME VIDEO À 21:30<br>HEAT – THUNDER EN DIRECT SUR beIN SPORTS 1 À 00:00<br>LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200,
+  "other_size": 40
+ },
+ "matches": [
+  {
+   "venue": "MIAMI · KASEYA CENTER",
+   "home": "Heat",
+   "home_city": "MIAMI",
+   "home_bg": "#98002E",
+   "home_sec": "#F9A01B",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 22 AU 23 NOV. · 2/6",
+   "label": "★★★ L'AFFICHE DE LA NUIT",
+   "time": "00:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Première rencontre de la saison : Giannis Antetokounmpo (incertain, aine) et Bam Adebayo face à Shai Gilgeous-Alexander (incertain, dos) et au Thunder, finaliste de l'Ouest 2026.",
+   "chips": [
+    "G. Antetokounmpo",
+    "S. Gilgeous-Alexander"
+   ],
+   "foot": "Rediffusion lun. 10:45<br>beIN SPORTS 1"
+  },
+  {
+   "venue": "ATLANTA · STATE FARM ARENA",
+   "home": "Hawks",
+   "home_city": "ATLANTA",
+   "home_bg": "#C8102E",
+   "home_sec": "#FDB927",
+   "away": "Pistons",
+   "away_city": "DETROIT",
+   "away_c1": "#C8102E",
+   "away_c2": "#1D42BA",
+   "counter": "NUIT DU 22 AU 23 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "21:30",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Un match dès 21h30 : Jalen Johnson et Dyson Daniels reçoivent Cade Cunningham (incertain, genou) et Ausar Thompson, premiers de l'Est la saison dernière. Atlanta sans CJ McCollum.",
+   "chips": [
+    "J. Johnson",
+    "C. Cunningham",
+    "A. Thompson"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "CHICAGO · UNITED CENTER",
+   "home": "Bulls",
+   "home_city": "CHICAGO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Nuggets",
+   "away_city": "DENVER",
+   "away_c1": "#0E2240",
+   "away_c2": "#FEC524",
+   "counter": "NUIT DU 22 AU 23 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Nikola Jokić, Jamal Murray et Aaron Gordon chez Josh Giddey, Matas Buzelis et le Français Noa Essengue, pour la première rencontre de la saison. Norman Powell (ischio-jambiers) et Patrick Williams (pouce) incertains côté Chicago.",
+   "chips": [
+    "N. Jokić",
+    "J. Murray",
+    "J. Giddey",
+    "N. Essengue"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Pacers",
+   "away_city": "INDIANA",
+   "away_c1": "#002D62",
+   "away_c2": "#FDBB30",
+   "counter": "NUIT DU 22 AU 23 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Deuxième match en deux soirs pour les champions en titre de Jalen Brunson et Mikal Bridges. Karl-Anthony Towns (malade) et OG Anunoby (mollet) incertains. Indiana sans Tyrese Haliburton, avec Pascal Siakam incertain (hanche).",
+   "chips": [
+    "J. Brunson",
+    "M. Bridges",
+    "P. Siakam",
+    "A. Nembhard"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
