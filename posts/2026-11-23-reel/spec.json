@@ -1,0 +1,32 @@
+{
+ "semaine": "DU 23 AU 29 NOV.",
+ "matchs": [
+  {
+   "quand": "NUIT DE MERCREDI · 1H30",
+   "equipes": "KNICKS – CAVALIERS",
+   "chaine": "NBA LEAGUE PASS",
+   "plus": "NBA Cup · option payante",
+   "etoiles": 3,
+   "enjeu": "NBA Cup : les champions en titre de Jalen Brunson reçoivent Donovan Mitchell et James Harden. Les deux finalistes de l'Est se revoient.",
+   "micro": "Sur le League Pass, commentaires en VO."
+  },
+  {
+   "quand": "NUIT DE VENDREDI · 3H30",
+   "equipes": "SPURS – LAKERS",
+   "chaine": "PRIME VIDEO",
+   "plus": "Inclus dans l'abonnement Amazon Prime",
+   "etoiles": 3,
+   "enjeu": "NBA Cup, dernière soirée de groupes : Victor Wembanyama et les finalistes 2026 reçoivent Luka Dončić."
+  },
+  {
+   "quand": "DIMANCHE · 22H00",
+   "equipes": "SPURS – CELTICS",
+   "chaine": "NBA LEAGUE PASS",
+   "plus": "Option payante",
+   "etoiles": 3,
+   "enjeu": "Un dimanche soir à une heure rare : Victor Wembanyama et De'Aaron Fox face à Jayson Tatum.",
+   "micro": "Sur le League Pass, commentaires en VO."
+  }
+ ],
+ "fin": "Chaque soir, les matchs de la nuit : l'heure, la chaîne, direct ou différé. Chaque matin, notre verdict. Jamais le score."
+}
