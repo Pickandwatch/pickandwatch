@@ -1,0 +1,57 @@
+{
+ "_statut": "validé le 23/11/2026 par Alexandre",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des dix matchs, blessures ESPN au 23/11/2026 vers 15h ; séries de la saison ESPN ; journaux de matchs ESPN des joueurs cités : minutes des Français, Holmgren et J. Williams sans match depuis le 25/10 ; calendriers ESPN : deuxième match en deux soirs pour Indiana, Oklahoma City, Chicago et Utah ; effectifs ESPN). Guide TV beIN SPORTS (XMLTV France, via data/nuits/2026-11-23.json) : Timberwolves – Nets en direct beIN SPORTS 1 à 1h30, rediffusion mardi 10h45 beIN SPORTS 1. Prime Video : aucun match « NBA on Prime » cette nuit dans le calendrier ESPN (diffusions nationales : NBCSN, NBA TV) ; agendatv-basket.com et bleublancdunk.com non lisibles cet après-midi (accès refusé à l'outil), recherche web sans annonce Prime Video France pour cette nuit.",
+ "matchs": {
+  "401910045": {
+   "stars": "3",
+   "score": "8 + 1 + 2 (événement : le Français Victor Wembanyama, 32 à 34 min à ses trois derniers matchs) = 11 ; meilleure note de la nuit, devant 76ers – Trail Blazers (10) ; aucune diffusion TV française pour l'un ni l'autre : ★★★",
+   "brief": "Troisième rencontre de la saison. Le Français Victor Wembanyama (incertain, dos), De'Aaron Fox (incertain, jambe) et Stephon Castle chez Domantas Sabonis et Zach LaVine. San Antonio sans Dylan Harper (hanche) ni Tobias Harris (mollet) ; Sacramento sans le Français Maxime Raynaud (genou)."
+  },
+  "401910037": {
+   "stars": "2",
+   "score": "5 + 3 + 2 (événement : le Français Sidy Cissoko, 23 à 32 min à ses trois derniers matchs) = 10, ramené à ★★ (un seul ★★★ par nuit : Kings – Spurs a la meilleure note)",
+   "brief": "Première rencontre de la saison : Joel Embiid, LeBron James et Tyrese Maxey (Jaylen Brown incertain, ischio-jambiers) face à Deni Avdija, Damian Lillard et le Français Sidy Cissoko. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou)."
+  },
+  "401910041": {
+   "stars": "2",
+   "score": "1 + 6 + 2 (événement : le Français Noa Essengue, 11 à 15 min à ses trois derniers matchs) = 9, ramené à ★★ (un seul ★★★ par nuit : Kings – Spurs a la meilleure note)",
+   "brief": "Deuxième duel en une semaine. Donovan Mitchell et James Harden, sans Evan Mobley (orteil), chez Josh Giddey, Matas Buzelis et le Français Noa Essengue, qui jouent leur deuxième match en deux soirs. Chicago sans Norman Powell (ischio-jambiers)."
+  },
+  "401910044": {
+   "stars": "2",
+   "score": "6 + 1 = 7 (pas d'événement) ; slide retenue à égalité avec Pacers – Thunder (7) : Oklahoma City sans ses trois meilleurs joueurs",
+   "brief": "Troisième rencontre de la saison. Luka Dončić et Walker Kessler, sans Austin Reaves (talon), reçoivent Keyonte George et le rookie Darryn Peterson, au deuxième match en deux soirs. Utah sans Lauri Markkanen (main) ni Jaren Jackson Jr. (genou)."
+  },
+  "401910038": {
+   "stars": "2",
+   "score": "2 + 5 = 7 (pas d'événement) ; Oklahoma City ramené de 7 à 5 ce soir (aura 3 → 1) : Shai Gilgeous-Alexander absent (dos, blessures ESPN), Chet Holmgren et Jalen Williams sans match depuis le 25/10 (journaux de matchs ESPN) (pas de slide : au plus 4)",
+   "brief": "Deuxième match en deux soirs pour les deux équipes. Le Thunder, finaliste de l'Ouest 2026, sans Shai Gilgeous-Alexander (dos), Chet Holmgren ni Jalen Williams, chez Pascal Siakam et Andrew Nembhard. Indiana sans Tyrese Haliburton (ischio-jambiers)."
+  },
+  "401910040": {
+   "stars": "2",
+   "score": "3 + 1 + 2 (événement : les Français Rudy Gobert, 22 à 35 min, et Joan Beringer, 13 à 26 min à leurs trois derniers matchs) = 6 ; Minnesota reste à 3 (Anthony Edwards absent) ; seul match en direct sur une chaîne française (beIN SPORTS 1) (pas de slide : au plus 4)",
+   "brief": "Les Français Rudy Gobert et Joan Beringer, avec LaMelo Ball, reçoivent Michael Porter Jr. et Julius Randle. Minnesota sans Anthony Edwards (genou) ; Brooklyn sans le Français Nolan Traoré (ischio-jambiers)."
+  },
+  "401910036": {
+   "stars": "1",
+   "score": "1 + 1 + 2 (événement : le Français Moussa Diabaté, 26 à 38 min à ses trois derniers matchs) = 4",
+   "brief": "Le Français Moussa Diabaté et Brandon Miller (incertain, genou) reçoivent Ty Jerome et Cedric Coward. Charlotte sans Kon Knueppel (ischio-jambiers)."
+  },
+  "401910039": {
+   "stars": "1",
+   "score": "3 + 1 = 4 (pas d'événement : le Français Ousmane Dieng absent, doigt)",
+   "brief": "Scottie Barnes, sans Kawhi Leonard (genou) ni RJ Barrett, reçoit Tyler Herro et Myles Turner. Milwaukee sans le Français Ousmane Dieng (doigt)."
+  },
+  "401910042": {
+   "stars": "1",
+   "score": "1 + 3 = 4 (pas d'événement)",
+   "brief": "Devin Booker chez Zion Williamson (incertain, cuisse) et Trey Murphy III (incertain, genou). Phoenix sans Mark Williams (épaule)."
+  },
+  "401910043": {
+   "stars": "1",
+   "score": "3 + 1 = 4 (pas d'événement)",
+   "brief": "Kevin Durant et Alperen Şengün reçoivent Darius Garland. Los Angeles sans Bradley Beal (genou)."
+  }
+ }
+}
