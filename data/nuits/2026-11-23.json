@@ -1,6 +1,6 @@
 {
   "night": "2026-11-23",
-  "generated_at": "2026-11-23T15:13+01:00",
+  "generated_at": "2026-11-23T15:19+01:00",
   "games": [
     {
       "id": "401910036",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Le Français Moussa Diabaté et Brandon Miller (incertain, genou) reçoivent Ty Jerome et Cedric Coward. Charlotte sans Kon Knueppel (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -70,8 +70,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Première rencontre de la saison : Joel Embiid, LeBron James et Tyrese Maxey (Jaylen Brown incertain, ischio-jambiers) face à Deni Avdija, Damian Lillard et le Français Sidy Cissoko. Portland sans Ja Morant (ischio-jambiers) ni Shaedon Sharpe (genou).",
       "commentators": null
     },
     {
@@ -106,8 +106,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Deuxième match en deux soirs pour les deux équipes. Le Thunder, finaliste de l'Ouest 2026, sans Shai Gilgeous-Alexander (dos), Chet Holmgren ni Jalen Williams, chez Pascal Siakam et Andrew Nembhard. Indiana sans Tyrese Haliburton (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -142,8 +142,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Scottie Barnes, sans Kawhi Leonard (genou) ni RJ Barrett, reçoit Tyler Herro et Myles Turner. Milwaukee sans le Français Ousmane Dieng (doigt).",
       "commentators": null
     },
     {
@@ -186,8 +186,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Les Français Rudy Gobert et Joan Beringer, avec LaMelo Ball, reçoivent Michael Porter Jr. et Julius Randle. Minnesota sans Anthony Edwards (genou) ; Brooklyn sans le Français Nolan Traoré (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -222,8 +222,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Deuxième duel en une semaine. Donovan Mitchell et James Harden, sans Evan Mobley (orteil), chez Josh Giddey, Matas Buzelis et le Français Noa Essengue, qui jouent leur deuxième match en deux soirs. Chicago sans Norman Powell (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -258,8 +258,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Devin Booker chez Zion Williamson (incertain, cuisse) et Trey Murphy III (incertain, genou). Phoenix sans Mark Williams (épaule).",
       "commentators": null
     },
     {
@@ -294,8 +294,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Kevin Durant et Alperen Şengün reçoivent Darius Garland. Los Angeles sans Bradley Beal (genou).",
       "commentators": null
     },
     {
@@ -330,8 +330,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Troisième rencontre de la saison. Luka Dončić et Walker Kessler, sans Austin Reaves (talon), reçoivent Keyonte George et le rookie Darryn Peterson, au deuxième match en deux soirs. Utah sans Lauri Markkanen (main) ni Jaren Jackson Jr. (genou).",
       "commentators": null
     },
     {
@@ -366,8 +366,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "3",
+      "brief": "Troisième rencontre de la saison. Le Français Victor Wembanyama (incertain, dos), De'Aaron Fox (incertain, jambe) et Stephon Castle chez Domantas Sabonis et Zach LaVine. San Antonio sans Dylan Harper (hanche) ni Tobias Harris (mollet) ; Sacramento sans le Français Maxime Raynaud (genou).",
       "commentators": null
     }
   ],
