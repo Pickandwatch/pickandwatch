@@ -1,0 +1,160 @@
+{
+ "cover": {
+  "title": "10 MATCHS CETTE NUIT",
+  "date": "LUNDI 23 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "KINGS",
+   "SPURS"
+  ],
+  "top_info": "04:00 · SACRAMENTO · NBA LEAGUE PASS",
+  "others": [
+   [
+    "HORNETS – GRIZZLIES",
+    "01:00",
+    "★"
+   ],
+   [
+    "76ERS – BLAZERS",
+    "01:00",
+    "★★"
+   ],
+   [
+    "PACERS – THUNDER",
+    "01:30",
+    "★★"
+   ],
+   [
+    "RAPTORS – BUCKS",
+    "01:30",
+    "★"
+   ],
+   [
+    "WOLVES – NETS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "BULLS – CAVALIERS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "PELICANS – SUNS",
+    "02:00",
+    "★"
+   ],
+   [
+    "ROCKETS – CLIPPERS",
+    "02:30",
+    "★"
+   ],
+   [
+    "LAKERS – JAZZ",
+    "04:00",
+    "★★"
+   ]
+  ],
+  "note": "TV : TIMBERWOLVES – NETS EN DIRECT SUR beIN SPORTS 1 À 01:30<br>LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200,
+  "other_size": 40
+ },
+ "matches": [
+  {
+   "venue": "SACRAMENTO · GOLDEN 1 CENTER",
+   "home": "Kings",
+   "home_city": "SACRAMENTO",
+   "home_bg": "#5A2D81",
+   "home_sec": "#63727A",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 23 AU 24 NOV. · 2/6",
+   "label": "★★★ L'AFFICHE DE LA NUIT",
+   "time": "04:00",
+   "brief": "Troisième rencontre de la saison. Le Français Victor Wembanyama (incertain, dos), De'Aaron Fox (incertain, jambe) et Stephon Castle chez Domantas Sabonis et Zach LaVine. Sacramento sans le Français Maxime Raynaud (genou).",
+   "chips": [
+    "V. Wembanyama",
+    "D. Fox",
+    "D. Sabonis",
+    "Z. LaVine"
+   ],
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "PHILADELPHIE · XFINITY MOBILE ARENA",
+   "home": "76ers",
+   "home_city": "PHILADELPHIA",
+   "home_bg": "#1D428A",
+   "home_sec": "#E01234",
+   "away": "Trail Blazers",
+   "away_city": "PORTLAND",
+   "away_c1": "#E03A3E",
+   "away_c2": "#000000",
+   "counter": "NUIT DU 23 AU 24 NOV. · 3/6",
+   "label": "★★ À SURVEILLER",
+   "time": "01:00",
+   "brief": "Première rencontre de la saison : Joel Embiid, LeBron James et Tyrese Maxey (Jaylen Brown incertain) face à Deni Avdija, Damian Lillard et le Français Sidy Cissoko. Portland sans Ja Morant ni Shaedon Sharpe.",
+   "chips": [
+    "J. Embiid",
+    "L. James",
+    "D. Avdija",
+    "S. Cissoko"
+   ],
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "CHICAGO · UNITED CENTER",
+   "home": "Bulls",
+   "home_city": "CHICAGO",
+   "home_bg": "#CE1141",
+   "home_sec": "#000000",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#BC945C",
+   "counter": "NUIT DU 23 AU 24 NOV. · 4/6",
+   "label": "★★ À SURVEILLER",
+   "time": "02:00",
+   "brief": "Deuxième duel en une semaine. Donovan Mitchell et James Harden, sans Evan Mobley (orteil), chez Josh Giddey, Matas Buzelis et le Français Noa Essengue, qui jouent leur deuxième match en deux soirs. Chicago sans Norman Powell.",
+   "chips": [
+    "D. Mitchell",
+    "J. Harden",
+    "J. Giddey",
+    "N. Essengue"
+   ],
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "LOS ANGELES · CRYPTO.COM ARENA",
+   "home": "Lakers",
+   "home_city": "LOS ANGELES",
+   "home_bg": "#552583",
+   "home_sec": "#FDB927",
+   "away": "Jazz",
+   "away_city": "UTAH",
+   "away_c1": "#4E008E",
+   "away_c2": "#79A3DC",
+   "counter": "NUIT DU 23 AU 24 NOV. · 5/6",
+   "label": "★★ À SURVEILLER",
+   "time": "04:00",
+   "brief": "Troisième rencontre de la saison. Luka Dončić et Walker Kessler, sans Austin Reaves (talon), reçoivent Keyonte George et le rookie Darryn Peterson, au deuxième match en deux soirs. Utah sans Lauri Markkanen ni Jaren Jackson Jr.",
+   "chips": [
+    "L. Dončić",
+    "W. Kessler",
+    "K. George",
+    "D. Peterson"
+   ],
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
