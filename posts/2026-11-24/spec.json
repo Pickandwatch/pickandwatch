@@ -1,0 +1,59 @@
+{
+ "theme": "cup",
+ "cover": {
+  "bandeau": "NBA CUP 2026 · PHASE DE GROUPES",
+  "title": "CE SOIR, NBA CUP",
+  "date": "MARDI 24 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": ["WIZARDS", "CELTICS"],
+  "top_info": "02:00 · WASHINGTON · beIN SPORTS 1",
+  "other_size": 44,
+  "others": [
+   ["MAGIC – PISTONS", "01:00", "★★"],
+   ["NUGGETS – MAVERICKS", "04:00", "★★"]
+  ],
+  "note": "TROIS MATCHS, TOUS DE CUP<br>TV : WIZARDS – CELTICS SUR beIN SPORTS 1 À 02:00<br>NUGGETS – MAVERICKS SUR beIN SPORTS 2 À 04:00<br>MAGIC – PISTONS SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "WASHINGTON · CAPITAL ONE ARENA",
+   "home": "Wizards", "home_city": "WASHINGTON", "home_bg": "#002B5C", "home_sec": "#E31837",
+   "away": "Celtics", "away_city": "BOSTON", "away_c1": "#008348", "away_c2": "#FFFFFF",
+   "counter": "NUIT DU 24 AU 25 NOV. · 2/5",
+   "label": "NBA CUP · ★★★ L'AFFICHE DE LA NUIT",
+   "time": "02:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Jayson Tatum et Paul George chez Trae Young, Anthony Davis, le rookie AJ Dybantsa et les Français Alex Sarr et Bilal Coulibaly, dans le groupe Est C. Boston sans Mitchell Robinson (malade).",
+   "chips": ["J. Tatum", "T. Young", "A. Sarr", "B. Coulibaly"],
+   "foot": "Rediff. mer. 9:15<br>beIN SPORTS 1"
+  },
+  {
+   "venue": "ORLANDO · KIA CENTER",
+   "home": "Magic", "home_city": "ORLANDO", "home_bg": "#0077C0", "home_sec": "#C4CED4",
+   "away": "Pistons", "away_city": "DETROIT", "away_c1": "#C8102E", "away_c2": "#1D42BA",
+   "counter": "NUIT DU 24 AU 25 NOV. · 3/5",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Franz Wagner et Desmond Bane, sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers), reçoivent les Pistons, premiers de l'Est la saison dernière. Cade Cunningham incertain (genou), Jalen Duren absent.",
+   "chips": ["F. Wagner", "D. Bane", "C. Cunningham", "A. Thompson"],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "DENVER · BALL ARENA",
+   "home": "Nuggets", "home_city": "DENVER", "home_bg": "#0E2240", "home_sec": "#FEC524",
+   "away": "Mavericks", "away_city": "DALLAS", "away_c1": "#00538C", "away_c2": "#B8C4CA",
+   "counter": "NUIT DU 24 AU 25 NOV. · 4/5",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "04:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 2",
+   "brief": "Nikola Jokić, Jamal Murray et DeMar DeRozan reçoivent Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher, dans le groupe Ouest A. Dallas sans Dereck Lively II (pied) ; P.J. Washington incertain (malade).",
+   "chips": ["N. Jokić", "J. Murray", "C. Flagg", "Z. Risacher"],
+   "foot": "Rediff. mer. 11:00<br>beIN SPORTS 1"
+  }
+ ]
+}

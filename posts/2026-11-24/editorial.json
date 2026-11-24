@@ -1,0 +1,22 @@
+{
+ "_statut": "proposé le 24 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des trois matchs : blessures et meneurs statistiques au 24/11/2026, 15h ; effectifs ESPN ; minutes des Français et d'AJ Dybantsa : gamelogs ESPN) ; guide TV beIN SPORTS (xmltvfr.fr, data/nuits/2026-11-24.json) recoupé avec agendatv-basket.com et bleublancdunk.com/diffusions (lus le 24/11 vers 15h05 : Celtics @ Wizards beIN SPORTS 1, Mavericks @ Nuggets beIN SPORTS 2, Magic – Pistons absent, aucun match Prime Video cette nuit) ; groupes : data/nba-cup-2026.json (NBA.com). Bilans 2025-26 et playoffs 2026 : data/grille-equipes.json.",
+ "matchs": {
+  "401909315": {
+   "stars": 3,
+   "score": "2 + 5 + 2 (événement : les Français Alex Sarr, 20 à 31 min, et Bilal Coulibaly, 16 à 26 min à leurs cinq derniers matchs) = 9 ; seul match à 9 ou plus : ★★★ (direct beIN SPORTS 1)",
+   "brief": "Jayson Tatum et Paul George chez Trae Young, Anthony Davis, le rookie AJ Dybantsa et les Français Alex Sarr et Bilal Coulibaly, dans le groupe Est C. Boston sans Mitchell Robinson (malade)."
+  },
+  "401909314": {
+   "stars": 2,
+   "score": "2 + 5 = 7 (Orlando reste à 1 en aura avec Wagner et Bane, Paolo Banchero absent ; le Français Noah Penda, blessé, absent : pas de bonus ; Cade Cunningham incertain) ; slide",
+   "brief": "Franz Wagner et Desmond Bane, sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers), reçoivent les Pistons, premiers de l'Est la saison dernière. Cade Cunningham incertain (genou), Jalen Duren absent."
+  },
+  "401909316": {
+   "stars": 2,
+   "score": "5 + 1 + 2 (événement : le Français Zaccharie Risacher, 14 à 29 min à ses six derniers matchs) = 8 ; slide (direct beIN SPORTS 2)",
+   "brief": "Nikola Jokić, Jamal Murray et DeMar DeRozan reçoivent Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher, dans le groupe Ouest A. Dallas sans Dereck Lively II (pied) ; P.J. Washington incertain (malade)."
+  }
+ }
+}
