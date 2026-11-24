@@ -1,6 +1,6 @@
 {
   "night": "2026-11-24",
-  "generated_at": "2026-11-24T15:45+01:00",
+  "generated_at": "2026-11-24T17:53+01:00",
   "games": [
     {
       "id": "401909314",
@@ -34,8 +34,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Franz Wagner et Desmond Bane, sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers), reçoivent les Pistons, premiers de l'Est la saison dernière. Cade Cunningham incertain (genou), Jalen Duren absent.",
       "commentators": null
     },
     {
@@ -78,8 +78,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Jayson Tatum et Paul George chez Trae Young, Anthony Davis, le rookie AJ Dybantsa et les Français Alex Sarr et Bilal Coulibaly, dans le groupe Est C. Boston sans Mitchell Robinson (malade).",
       "commentators": null
     },
     {
@@ -122,8 +122,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Nikola Jokić, Jamal Murray et DeMar DeRozan reçoivent Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher, dans le groupe Ouest A. Dallas sans Dereck Lively II (pied) ; P.J. Washington incertain (malade).",
       "commentators": null
     }
   ],
