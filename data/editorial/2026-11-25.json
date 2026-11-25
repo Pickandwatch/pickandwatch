@@ -1,0 +1,52 @@
+{
+  "_statut": "publié sans réponse (règle de 18h)",
+  "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+  "_sources": "Feuilles ESPN (summary des neuf matchs : blessures au 25/11/2026, 15h ; effectifs ESPN ; minutes des Français : gamelogs ESPN) ; blazersedge.com, 25/11/2026 (rapport de blessures Trail Blazers – Spurs : Wembanyama et Fox incertains, Morant absent) ; guide TV beIN SPORTS (xmltvfr.fr, data/nuits/2026-11-25.json) recoupé avec agendatv-basket.com et bleublancdunk.com/diffusions (lus le 25/11 vers 15h10 : 76ers – Heat et Thunder – Timberwolves beIN SPORTS, Trail Blazers – Spurs beIN SPORTS ; aucun match Prime Video cette nuit) ; groupes : data/nba-cup-2026.json (NBA.com). Bilans 2025-26 et playoffs 2026 : data/grille-equipes.json.",
+  "matchs": {
+    "401909325": {
+      "stars": 3,
+      "score": "3 + 8 + 2 (événement : les Français Victor Wembanyama, 32 à 35 min, et Sidy Cissoko, 23 à 32 min à leurs cinq derniers matchs ; Wembanyama incertain, dos) = 13 ; à égalité avec Knicks – Cavaliers (13), départagé par la diffusion TV française (direct beIN SPORTS 2) : ★★★",
+      "brief": "Victor Wembanyama, incertain (dos), et De'Aaron Fox, incertain (tibia), chez Deni Avdija et le Français Sidy Cissoko, dans le groupe Ouest C. Portland sans Ja Morant (ischio-jambiers) ; San Antonio sans Dylan Harper (hanche)."
+    },
+    "401909319": {
+      "stars": 2,
+      "score": "7 + 6 = 13 (Pacôme Dadiet et Mohamed Diawara, temps de jeu irrégulier, non comptés), ramené à ★★ (un seul ★★★ par nuit : Trail Blazers – Spurs l'emporte par la diffusion TV française) ; slide",
+      "brief": "Les champions en titre de Jalen Brunson et Karl-Anthony Towns, incertain (genou), retrouvent Donovan Mitchell et James Harden, battus en finale de l'Est, dans le groupe Est B. New York sans OG Anunoby (mollet) ; Cleveland sans Evan Mobley (orteil)."
+    },
+    "401909320": {
+      "stars": 2,
+      "score": "7 + 3 + 2 (événement : les Français Rudy Gobert, 22 à 35 min, et Joan Beringer, 13 à 26 min à leurs cinq derniers matchs) = 12, ramené à ★★ (un seul ★★★) ; Minnesota reste à 3 (Anthony Edwards absent) ; slide (direct beIN SPORTS 1)",
+      "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, reçoivent les Français Rudy Gobert et Joan Beringer, dans le groupe Ouest B. Minnesota sans Anthony Edwards (genou) ; OKC sans Jalen Williams (jambe)."
+    },
+    "401909317": {
+      "stars": 2,
+      "score": "5 + 3 = 8 (Rayan Rupert, temps de jeu marginal, non compté ; Embiid et Antetokounmpo incertains) ; slide (direct beIN SPORTS 1)",
+      "brief": "LeBron James, Tyrese Maxey, Jaylen Brown et Joel Embiid, incertain (malade), reçoivent Giannis Antetokounmpo, lui aussi incertain (aine), dans le groupe Est B."
+    },
+    "401909323": {
+      "stars": 2,
+      "score": "3 + 3 = 6 ; pas de slide (au plus 4)",
+      "brief": "Kevin Durant et Alperen Şengün face à Devin Booker. Phoenix sans Mark Williams (épaule)."
+    },
+    "401909318": {
+      "stars": 1,
+      "score": "1 + 1 + 2 (événement : le Français Moussa Diabaté, 26 à 38 min à ses cinq derniers matchs ; Tidjane Salaün et Noa Essengue, temps de jeu irrégulier, non comptés) = 4",
+      "brief": "Brandon Miller et le Français Moussa Diabaté face à Josh Giddey et Noa Essengue. Charlotte sans Kon Knueppel (ischio-jambiers)."
+    },
+    "401909321": {
+      "stars": 1,
+      "score": "1 + 1 = 2",
+      "brief": "Ty Jerome face à Darius Garland. Memphis sans Cameron Boozer (cheville), Los Angeles sans Bradley Beal (genou)."
+    },
+    "401909322": {
+      "stars": 1,
+      "score": "1 + 1 = 2 (Nolan Traoré absent ; Ousmane Dieng, temps de jeu irrégulier, non compté)",
+      "brief": "Tyler Herro et Myles Turner face à Julius Randle. Brooklyn sans le Français Nolan Traoré (ischio-jambiers)."
+    },
+    "401909324": {
+      "stars": 1,
+      "score": "1 + 1 = 2 (Maxime Raynaud absent : pas de bonus)",
+      "brief": "Draymond Green et Yaxel Lendeborg, sans Stephen Curry, face au rookie Darius Acuff Jr. et à Domantas Sabonis. Sacramento sans le Français Maxime Raynaud (genou)."
+    }
+  }
+}
