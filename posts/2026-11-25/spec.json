@@ -1,0 +1,156 @@
+{
+ "theme": "cup",
+ "cover": {
+  "bandeau": "NBA CUP 2026 · PHASE DE GROUPES",
+  "title": "CE SOIR, NBA CUP",
+  "date": "MERCREDI 25 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "TRAIL BLAZERS",
+   "SPURS"
+  ],
+  "top_info": "04:00 · PORTLAND · beIN SPORTS 2",
+  "other_size": 40,
+  "others": [
+   [
+    "76ERS – HEAT",
+    "23:00",
+    "★★"
+   ],
+   [
+    "HORNETS – BULLS",
+    "01:00",
+    "★"
+   ],
+   [
+    "KNICKS – CAVALIERS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "THUNDER – TIMBERWOLVES",
+    "01:30",
+    "★★"
+   ],
+   [
+    "GRIZZLIES – CLIPPERS",
+    "02:00",
+    "★"
+   ],
+   [
+    "BUCKS – NETS",
+    "02:00",
+    "★"
+   ],
+   [
+    "ROCKETS – SUNS",
+    "02:30",
+    "★★"
+   ],
+   [
+    "WARRIORS – KINGS",
+    "04:00",
+    "★"
+   ]
+  ],
+  "note": "NEUF MATCHS, TOUS DE CUP · TV : 76ERS – HEAT ET THUNDER – TIMBERWOLVES<br>SUR beIN SPORTS 1, TRAIL BLAZERS – SPURS SUR beIN SPORTS 2<br>LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "PORTLAND · MODA CENTER",
+   "home": "Trail Blazers",
+   "home_city": "PORTLAND",
+   "home_bg": "#E03A3E",
+   "home_sec": "#000000",
+   "away": "Spurs",
+   "away_city": "SAN ANTONIO",
+   "away_c1": "#000000",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 25 AU 26 NOV. · 2/6",
+   "label": "NBA CUP · ★★★ L'AFFICHE DE LA NUIT",
+   "time": "04:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 2",
+   "brief": "Victor Wembanyama, incertain (dos), et De'Aaron Fox, incertain (tibia), chez Deni Avdija et le Français Sidy Cissoko, dans le groupe Ouest C. Portland sans Ja Morant (ischio-jambiers) ; San Antonio sans Dylan Harper (hanche).",
+   "chips": [
+    "V. Wembanyama",
+    "D. Avdija",
+    "S. Cissoko",
+    "S. Castle"
+   ],
+   "foot": "Rediff. jeu. 13:30<br>beIN SPORTS 1"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Cavaliers",
+   "away_city": "CLEVELAND",
+   "away_c1": "#860038",
+   "away_c2": "#BC945C",
+   "counter": "NUIT DU 25 AU 26 NOV. · 3/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Les champions en titre de Jalen Brunson et Karl-Anthony Towns, incertain (genou), retrouvent Donovan Mitchell et James Harden, battus en finale de l'Est, dans le groupe Est B. New York sans OG Anunoby (mollet) ; Cleveland sans Evan Mobley (orteil).",
+   "chips": [
+    "J. Brunson",
+    "K.-A. Towns",
+    "D. Mitchell",
+    "J. Harden"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "OKLAHOMA CITY · PAYCOM CENTER",
+   "home": "Thunder",
+   "home_city": "OKLAHOMA CITY",
+   "home_bg": "#007AC1",
+   "home_sec": "#EF3B24",
+   "away": "Timberwolves",
+   "away_city": "MINNESOTA",
+   "away_c1": "#0C2340",
+   "away_c2": "#78BE20",
+   "counter": "NUIT DU 25 AU 26 NOV. · 4/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, reçoivent les Français Rudy Gobert et Joan Beringer, dans le groupe Ouest B. Minnesota sans Anthony Edwards (genou) ; OKC sans Jalen Williams (jambe).",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "R. Gobert",
+    "J. Beringer"
+   ],
+   "foot": "Rediff. jeu. 11:00<br>beIN SPORTS 1"
+  },
+  {
+   "venue": "PHILADELPHIE · XFINITY MOBILE ARENA",
+   "home": "76ers",
+   "home_city": "PHILADELPHIA",
+   "home_bg": "#1D428A",
+   "home_sec": "#E01234",
+   "away": "Heat",
+   "away_city": "MIAMI",
+   "away_c1": "#98002E",
+   "away_c2": "#F9A01B",
+   "counter": "NUIT DU 25 AU 26 NOV. · 5/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "23:00",
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "brief": "LeBron James, Tyrese Maxey, Jaylen Brown et Joel Embiid, incertain (malade), reçoivent Giannis Antetokounmpo, lui aussi incertain (aine), dans le groupe Est B.",
+   "chips": [
+    "L. James",
+    "T. Maxey",
+    "J. Embiid",
+    "G. Antetokounmpo"
+   ],
+   "foot": "Rediff. jeu. 9:15<br>beIN SPORTS 1"
+  }
+ ]
+}
