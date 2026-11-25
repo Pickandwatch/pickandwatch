@@ -1,6 +1,6 @@
 {
   "night": "2026-11-25",
-  "generated_at": "2026-11-25T15:10+01:00",
+  "generated_at": "2026-11-25T17:52+01:00",
   "games": [
     {
       "id": "401909317",
@@ -42,8 +42,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "LeBron James, Tyrese Maxey, Jaylen Brown et Joel Embiid, incertain (malade), reçoivent Giannis Antetokounmpo, lui aussi incertain (aine), dans le groupe Est B.",
       "commentators": null
     },
     {
@@ -78,8 +78,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Brandon Miller et le Français Moussa Diabaté face à Josh Giddey et Noa Essengue. Charlotte sans Kon Knueppel (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -114,8 +114,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les champions en titre de Jalen Brunson et Karl-Anthony Towns, incertain (genou), retrouvent Donovan Mitchell et James Harden, battus en finale de l'Est, dans le groupe Est B. New York sans OG Anunoby (mollet) ; Cleveland sans Evan Mobley (orteil).",
       "commentators": null
     },
     {
@@ -162,8 +162,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Shai Gilgeous-Alexander et le Thunder, premiers de l'Ouest la saison dernière, reçoivent les Français Rudy Gobert et Joan Beringer, dans le groupe Ouest B. Minnesota sans Anthony Edwards (genou) ; OKC sans Jalen Williams (jambe).",
       "commentators": null
     },
     {
@@ -198,8 +198,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Ty Jerome face à Darius Garland. Memphis sans Cameron Boozer (cheville), Los Angeles sans Bradley Beal (genou).",
       "commentators": null
     },
     {
@@ -234,8 +234,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Tyler Herro et Myles Turner face à Julius Randle. Brooklyn sans le Français Nolan Traoré (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -270,8 +270,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Kevin Durant et Alperen Şengün face à Devin Booker. Phoenix sans Mark Williams (épaule).",
       "commentators": null
     },
     {
@@ -306,8 +306,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Draymond Green et Yaxel Lendeborg, sans Stephen Curry, face au rookie Darius Acuff Jr. et à Domantas Sabonis. Sacramento sans le Français Maxime Raynaud (genou).",
       "commentators": null
     },
     {
@@ -362,8 +362,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Victor Wembanyama, incertain (dos), et De'Aaron Fox, incertain (tibia), chez Deni Avdija et le Français Sidy Cissoko, dans le groupe Ouest C. Portland sans Ja Morant (ischio-jambiers) ; San Antonio sans Dylan Harper (hanche).",
       "commentators": null
     }
   ],
