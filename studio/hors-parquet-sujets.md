@@ -100,3 +100,10 @@ Le numéro du 13/11, validé, n'est pas parti (statut `echec` : « jamais parti,
 Curry (« Portrait d'un artiste ») non repris : en ligne depuis le 10/11, plus d'actualité en France.
 Statut : validé par Alexandre le 20/11 (publication le 20/11 à 12h, sans encadré source, tags @disneyplusfr et @sds_paris).
 Publié le 20/11/2026 à 12h00 (media_id 18290235580294894).
+
+## Pour le numéro du vendredi 27 novembre 2026
+Aucun sujet envoyé par Alexandre. Préparé le 26/11 (brouillon, en attente de validation), angle « à un mois de Noël » :
+- **« Wembanyama, trois ans au sommet de la NBA »** (dossier, à lire) : Maxime Aubin (correspondant de L'Équipe aux États-Unis), Solar, paru le 1/10/2026, 19,90 €, préface de Rudy Gobert (BasketEurope 27/09, Fnac, ActuaLitté, Sport à lire). Nombre de pages contradictoire (235/240/160) : non cité. Contenu évoque l'issue des Finales 2026 : non repris.
+- **« The Baddest Speechwriter of All »** (à voir) : court métrage coréalisé par Stephen Curry et Ben Proudfoot, sur Clarence B. Jones ; Netflix le 8/12 (Tudum, 12/11), pays non précisés ; Grand prix du jury court métrage Sundance 2026 (Bleacher Report 29/01). Durée 29 ou 31 min selon la source → « une trentaine de minutes ».
+- **Livre d'or du basket 2026** (à offrir) : Sadik et Casseville, Solar, préface Nando De Colo, 128 p. (Sport Business Club 12/11, Sport à lire 30/10). Prix 29,90 / 29,99 € selon la source → « autour de 30 € ».
+Écartés : documentaire Ben Stiller sur les Knicks (HBO/A24, aucune date) ; Michael Jordan et les images de « The Last Dance » (une seule source, propos rapportés) ; série Kevin Durant sur Netflix (annoncée en 2025, aucune date).

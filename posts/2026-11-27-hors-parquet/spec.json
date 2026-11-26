@@ -1,0 +1,40 @@
+{
+  "couverture": {
+    "semaine": "23 AU 27 NOVEMBRE 2026",
+    "sommaire": [
+      ["LE DOSSIER · À LIRE", "Wembanyama, trois ans vus de près"],
+      ["À VOIR · SUR NETFLIX", "Stephen Curry passe à la réalisation"],
+      ["À OFFRIR · À UN MOIS DE NOËL", "Le Livre d'or du basket 2026"]
+    ],
+    "accroche": "Le basket, en dehors des matchs."
+  },
+  "sujets": [
+    {
+      "rubrique": "LE DOSSIER · À LIRE",
+      "titre": ["WEMBANYAMA,", "TROIS ANS VUS DE PRÈS"],
+      "chiffres": [["ÉDITEUR", "SOLAR"], ["PRÉFACE", "R. GOBERT"], ["PRIX", "19,90 €"]],
+      "texte": "Maxime Aubin, correspondant de L'Équipe aux États-Unis, a suivi Victor Wembanyama à San Antonio depuis son arrivée chez les Spurs en 2023. Son livre raconte les coulisses de ces trois saisons : la progression, le coach, les coéquipiers, la thrombose à l'épaule de février 2025. « C'est cette chronique, quasi quotidienne, que je vous livre ici », écrit l'auteur. Préface de Rudy Gobert.",
+      "lien": "https://www.basketeurope.com/un-livre-sur-victor-wembanyama-vu-de-linterieur/",
+      "lien_titre": "la présentation du livre sur BasketEurope"
+    },
+    {
+      "rubrique": "À VOIR · SUR NETFLIX",
+      "titre": ["STEPHEN CURRY,", "RÉALISATEUR"],
+      "chiffres": [["SUR NETFLIX", "MAR. 8/12"], ["DURÉE", "≈ 30 MIN"], ["PRIMÉ À", "SUNDANCE"]],
+      "texte": "« The Baddest Speechwriter of All » est le premier film coréalisé par Stephen Curry, avec Ben Proudfoot. Ce court métrage documentaire, en partie en aquarelles peintes à la main, raconte Clarence B. Jones, avocat et auteur de discours de Martin Luther King, mort en mai dernier. Grand prix du jury du court métrage à Sundance en janvier. Netflix annonce la sortie le 8 décembre, sans préciser les pays.",
+      "lien": "https://www.netflix.com/tudum/articles/the-baddest-speechwriter-of-all-release-date-news",
+      "lien_titre": "l'annonce de Netflix"
+    },
+    {
+      "rubrique": "À OFFRIR · À UN MOIS DE NOËL",
+      "titre": ["LE LIVRE D'OR", "DU BASKET 2026"],
+      "chiffres": [["PAGES", "128"], ["PRÉFACE", "DE COLO"], ["PARUTION", "OCT. 2026"]],
+      "texte": "Sami Sadik et Yann Casseville refont l'année du basket en reportages, portraits, interviews et photos : Wembanyama, l'équipe de France, la médaille d'argent des Bleues en Coupe du monde, Evan Fournier en Euroligue, Basket Landes. Préface de Nando De Colo. Aux éditions Solar, autour de 30 €.",
+      "lien": "https://www.sportbusiness.club/livres-le-livre-dor-du-basket-2026-de-sami-sadik-et-yann-casseville/",
+      "lien_titre": "la présentation du Livre d'or"
+    }
+  ],
+  "fin": {
+    "texte": "Un livre, un film, un événement basket près de chez toi ? Signale-le-nous en message privé : on vérifie, et on en parle vendredi prochain."
+  }
+}
