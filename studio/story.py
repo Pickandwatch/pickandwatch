@@ -145,9 +145,9 @@ def quand(iso: str, now: datetime) -> str:
 
 def ou_revoir(g: dict, now: datetime, slots: list[dict] | None = None) -> list[str]:
     out = []
-    for r in g.get("tv", {}).get("replays", []):
-        if datetime.fromisoformat(r["start"]) > now:
-            out.append(f"Rediffusion {quand(r['start'], now)} sur {r['channel']}")
+    futurs = [r for r in g.get("tv", {}).get("replays", []) if datetime.fromisoformat(r["start"]) > now]
+    for r in futurs[:3]:  # au-delà de trois, la carte déborde (26/11/2026)
+        out.append(f"Rediffusion {quand(r['start'], now)} sur {r['channel']}")
     fut = [x for x in slots or [] if datetime.fromisoformat(x["start"]) > now]
     if fut:  # le guide TV ne dit pas quel match : on ne devine pas
         out.append("Rediffusions de matchs de la nuit " + ", ".join(f"{quand(x['start'], now)} sur {x['channel']}" for x in fut)
