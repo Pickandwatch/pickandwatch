@@ -1,0 +1,62 @@
+{
+ "_statut": "proposé le 27 novembre 2026 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des onze matchs : blessures au 27/11/2026, 15h05) ; gamelogs ESPN (minutes des joueurs cités, dont les Français) ; agendatv-basket.com et bleublancdunk.com/diffusions (lus le 27/11 vers 15h05 : Knicks – Heat 1h et Spurs – Lakers 3h30 sur Prime Video ; aucun match beIN SPORTS cette nuit, prochain beIN : Wizards – Magic samedi 23h) ; groupes : data/nba-cup-2026.json (NBA.com) ; dernier soir de groupes : calendrier NBA Cup (studio/ROUTINE.md § 7). Bilans 2025-26 et playoffs 2026 : data/grille-equipes.json.",
+ "matchs": {
+  "401909333": {
+   "stars": 3,
+   "score": "8 + 6 + 2 (événement : le Français Victor Wembanyama, 32 à 35 min à ses cinq derniers matchs) = 16 ; direct Prime Video : ★★★",
+   "brief": "Victor Wembanyama et les finalistes 2026 reçoivent Luka Dončić, dans le groupe Ouest C, pour le dernier soir de la phase de groupes. Los Angeles sans Austin Reaves (talon) ; San Antonio sans Dylan Harper (hanche), De'Aaron Fox est incertain (jambe)."
+  },
+  "401909326": {
+   "stars": 2,
+   "score": "7 + 3 = 10 (Pacôme Dadiet et Mohamed Diawara, temps de jeu irrégulier, non comptés), ramené à ★★ (un seul ★★★ par nuit : Spurs – Lakers l'emporte) ; slide (direct Prime Video)",
+   "brief": "Les champions en titre de Jalen Brunson et Karl-Anthony Towns reçoivent Giannis Antetokounmpo, incertain (aine), dans le groupe Est B. New York sans OG Anunoby (mollet) ni Jordan Clarkson (pied)."
+  },
+  "401909330": {
+   "stars": 2,
+   "score": "5 + 3 = 8 ; slide",
+   "brief": "Jayson Tatum et Derrick White, deuxièmes de l'Est la saison dernière, reçoivent Jalen Johnson et Nickeil Alexander-Walker, dans le groupe Est C. Atlanta sans CJ McCollum (mollet)."
+  },
+  "401909328": {
+   "stars": 2,
+   "score": "2 + 5 = 7 ; slide",
+   "brief": "LeBron James, Tyrese Maxey et Joel Embiid, incertain (malade), chez Pascal Siakam, dans le groupe Est B. Philadelphie sans Jaylen Brown (ischio-jambiers) ; Indiana sans Tyrese Haliburton (ischio-jambiers)."
+  },
+  "401909327": {
+   "stars": 2,
+   "score": "5 + 1 = 6 (Ousmane Dieng, temps de jeu irrégulier, non compté ; Cade Cunningham absent jusqu'au 29/11, note de Detroit inchangée) ; pas de slide (au plus 4)",
+   "brief": "Les Pistons, premiers de l'Est la saison dernière, sans Cade Cunningham (genou) ni Jalen Duren (ischio-jambiers), face à Tyler Herro et Myles Turner, dans le groupe Est A."
+  },
+  "401909331": {
+   "stars": 2,
+   "score": "3 + 1 + 2 (événement : les Français Rudy Gobert, 22 à 35 min, et Joan Beringer, 13 à 26 min à leurs cinq derniers matchs) = 6 ; pas de slide",
+   "brief": "Les Français Rudy Gobert et Joan Beringer, sans Anthony Edwards (genou), face à Ty Jerome et Zach Edey, incertain (cheville), dans le groupe Ouest B."
+  },
+  "401909332": {
+   "stars": 2,
+   "score": "3 + 1 + 2 (événement : le Français Zaccharie Risacher, 18 à 29 min à ses cinq derniers matchs) = 6 ; pas de slide",
+   "brief": "Devin Booker face à Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher, dans le groupe Ouest A. Phoenix sans Mark Williams (épaule)."
+  },
+  "401909334": {
+   "stars": 2,
+   "score": "1 + 5 = 6 ; pas de slide",
+   "brief": "Nikola Jokić et Jamal Murray chez le rookie Darryn Peterson, dans le groupe Ouest A. Utah sans Lauri Markkanen (main) ni Jaren Jackson Jr. (genou)."
+  },
+  "401909336": {
+   "stars": 2,
+   "score": "3 + 1 + 2 (événement : le Français Sidy Cissoko, 23 à 32 min à ses cinq derniers matchs) = 6 ; pas de slide",
+   "brief": "Deni Avdija et le Français Sidy Cissoko, sans Ja Morant, face à des Warriors privés de Stephen Curry, Jimmy Butler et Kristaps Porziņģis, dans le groupe Ouest C."
+  },
+  "401909329": {
+   "stars": 1,
+   "score": "3 + 1 = 4 (Nolan Traoré absent, ischio-jambiers)",
+   "brief": "Scottie Barnes, sans Kawhi Leonard (genou) ni RJ Barrett (ischio-jambiers), face à Michael Porter Jr. et Julius Randle, dans le groupe Est A. Brooklyn sans le Français Nolan Traoré."
+  },
+  "401909335": {
+   "stars": 1,
+   "score": "1 + 1 = 2",
+   "brief": "Darius Garland face à Zion Williamson et Trey Murphy III, dans le groupe Ouest B. Los Angeles sans Bradley Beal (genou), New Orleans sans Dejounte Murray (cheville)."
+  }
+ }
+}

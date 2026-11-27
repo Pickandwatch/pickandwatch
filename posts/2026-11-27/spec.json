@@ -1,0 +1,166 @@
+{
+ "theme": "cup",
+ "cover": {
+  "bandeau": "NBA CUP 2026 · DERNIER SOIR DE GROUPES",
+  "title": "CE SOIR, NBA CUP",
+  "date": "VENDREDI 27 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "SPURS",
+   "LAKERS"
+  ],
+  "top_info": "03:30 · SAN ANTONIO · PRIME VIDEO (INCLUS DANS PRIME)",
+  "others": [
+   [
+    "KNICKS – HEAT",
+    "01:00",
+    "★★"
+   ],
+   [
+    "PISTONS – BUCKS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "PACERS – 76ERS",
+    "01:30",
+    "★★"
+   ],
+   [
+    "RAPTORS – NETS",
+    "01:30",
+    "★"
+   ],
+   [
+    "CELTICS – HAWKS",
+    "02:00",
+    "★★"
+   ],
+   [
+    "TIMBERWOLVES – GRIZZLIES",
+    "02:30",
+    "★★"
+   ],
+   [
+    "SUNS – MAVERICKS",
+    "03:00",
+    "★★"
+   ],
+   [
+    "JAZZ – NUGGETS",
+    "03:30",
+    "★★"
+   ],
+   [
+    "CLIPPERS – PELICANS",
+    "03:30",
+    "★"
+   ],
+   [
+    "TRAIL BLAZERS – WARRIORS",
+    "03:30",
+    "★★"
+   ]
+  ],
+  "note": "ONZE MATCHS, TOUS DE CUP · TV : KNICKS – HEAT ET SPURS – LAKERS<br>SUR PRIME VIDEO · LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200,
+  "row_size": 46,
+  "row_pad": 7
+ },
+ "matches": [
+  {
+   "venue": "SAN ANTONIO · FROST BANK CENTER",
+   "home": "Spurs",
+   "home_city": "SAN ANTONIO",
+   "home_bg": "#000000",
+   "home_sec": "#C4CED4",
+   "away": "Lakers",
+   "away_city": "LOS ANGELES",
+   "away_c1": "#552583",
+   "away_c2": "#FDB927",
+   "counter": "NUIT DU 27 AU 28 NOV. · 2/6",
+   "label": "NBA CUP · ★★★ L'AFFICHE DE LA NUIT",
+   "time": "03:30",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Victor Wembanyama et les finalistes 2026 reçoivent Luka Dončić, dans le groupe Ouest C, pour le dernier soir de la phase de groupes. Los Angeles sans Austin Reaves (talon) ; San Antonio sans Dylan Harper (hanche), De'Aaron Fox est incertain (jambe).",
+   "chips": [
+    "V. Wembanyama",
+    "S. Castle",
+    "L. Dončić"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "NEW YORK · MADISON SQUARE GARDEN",
+   "home": "Knicks",
+   "home_city": "NEW YORK",
+   "home_bg": "#1D428A",
+   "home_sec": "#F58426",
+   "away": "Heat",
+   "away_city": "MIAMI",
+   "away_c1": "#98002E",
+   "away_c2": "#F9A01B",
+   "counter": "NUIT DU 27 AU 28 NOV. · 3/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:00",
+   "channel": "Prime Video",
+   "mode": "EN DIRECT · INCLUS DANS PRIME",
+   "brief": "Les champions en titre de Jalen Brunson et Karl-Anthony Towns reçoivent Giannis Antetokounmpo, incertain (aine), dans le groupe Est B. New York sans OG Anunoby (mollet) ni Jordan Clarkson (pied).",
+   "chips": [
+    "J. Brunson",
+    "K.-A. Towns",
+    "G. Antetokounmpo"
+   ],
+   "foot": "Direct : Prime Video<br>Inclus dans Prime"
+  },
+  {
+   "venue": "BOSTON · TD GARDEN",
+   "home": "Celtics",
+   "home_city": "BOSTON",
+   "home_bg": "#007A33",
+   "home_sec": "#BA9653",
+   "away": "Hawks",
+   "away_city": "ATLANTA",
+   "away_c1": "#C8102E",
+   "away_c2": "#FDB927",
+   "counter": "NUIT DU 27 AU 28 NOV. · 4/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "02:00",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "Jayson Tatum et Derrick White, deuxièmes de l'Est la saison dernière, reçoivent Jalen Johnson et Nickeil Alexander-Walker, dans le groupe Est C. Atlanta sans CJ McCollum (mollet).",
+   "chips": [
+    "J. Tatum",
+    "D. White",
+    "J. Johnson",
+    "N. Alexander-Walker"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "INDIANAPOLIS · GAINBRIDGE FIELDHOUSE",
+   "home": "Pacers",
+   "home_city": "INDIANA",
+   "home_bg": "#002D62",
+   "home_sec": "#FDBB30",
+   "away": "76ers",
+   "away_city": "PHILADELPHIE",
+   "away_c1": "#006BB6",
+   "away_c2": "#ED174C",
+   "counter": "NUIT DU 27 AU 28 NOV. · 5/6",
+   "label": "NBA CUP · ★★ À SURVEILLER",
+   "time": "01:30",
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "brief": "LeBron James, Tyrese Maxey et Joel Embiid, incertain (malade), chez Pascal Siakam, dans le groupe Est B. Philadelphie sans Jaylen Brown (ischio-jambiers) ; Indiana sans Tyrese Haliburton (ischio-jambiers).",
+   "chips": [
+    "L. James",
+    "T. Maxey",
+    "J. Embiid",
+    "P. Siakam"
+   ],
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}

@@ -21,11 +21,12 @@ def cover(c, out):
     b += [line(c['top'][0] + ' – ' + c['top'][1], color=head, lh=0.84),
           mono(c['top_info'], sub, 22, 1)]
     rows = []
+    fs, pad = c.get('row_size', 54), c.get('row_pad', 12)  # nuits chargées (10 matchs et plus) : réduire
     # 22:00 avant 01:00 ; 4e élément facultatif = clé de tri (nuit du changement d'heure, ex. « 03:00 » pour 02:00 heure d'hiver)
     for t, info, st, *k in sorted(c['others'], key=lambda x: (int(x[1][:2]) < 12, x[3] if len(x) > 3 else x[1])):
-        rows.append(f'<div style="display: grid; grid-template-columns: 110px minmax(0, 1fr) auto; align-items: baseline; gap: 18px; padding: 12px 0; border-top: 1px solid {ink}">'
+        rows.append(f'<div style="display: grid; grid-template-columns: 110px minmax(0, 1fr) auto; align-items: baseline; gap: 18px; padding: {pad}px 0; border-top: 1px solid {ink}">'
                     f'<span style="font-family: \'IBM Plex Mono\', monospace; font-weight: 500; font-size: 30px; color: {head}">{info}</span>'
-                    f'<span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: 54px; line-height: 0.95; white-space: nowrap">{t}</span>'
+                    f'<span style="font-family: \'Barlow Condensed\', sans-serif; font-weight: 800; font-size: {fs}px; line-height: 0.95; white-space: nowrap">{t}</span>'
                     f'<span style="font-size: 34px; letter-spacing: 3px; color: {head}">{st}</span></div>')
     b += [f'<div style="display: flex; flex-direction: column; border-bottom: 2px solid {ink}">' + ''.join(rows) + '</div>',
           f'<div style="font-family: \'IBM Plex Mono\', monospace; font-size: 20px; letter-spacing: 1px; color: {sub}; text-align: center">{c["note"]}</div>']
