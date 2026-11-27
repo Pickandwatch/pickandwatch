@@ -1,6 +1,6 @@
 {
   "night": "2026-11-27",
-  "generated_at": "2026-11-27T15:08+01:00",
+  "generated_at": "2026-11-27T17:53+01:00",
   "games": [
     {
       "id": "401909326",
@@ -37,8 +37,8 @@
         "source": "agendatv-basket.com (« Primevideo ») et bleublancdunk.com/diffusions (« 01:00 · Prime Video » Miami Heat @ New York Knicks ; « 03:30 · Prime Video » Los Angeles Lakers @ San Antonio Spurs), lus le 27/11/2026 vers 15h05",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les champions en titre de Jalen Brunson et Karl-Anthony Towns reçoivent Giannis Antetokounmpo, incertain (aine), dans le groupe Est B. New York sans OG Anunoby (mollet) ni Jordan Clarkson (pied).",
       "commentators": null
     },
     {
@@ -73,8 +73,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Pistons, premiers de l'Est la saison dernière, sans Cade Cunningham (genou) ni Jalen Duren (ischio-jambiers), face à Tyler Herro et Myles Turner, dans le groupe Est A.",
       "commentators": null
     },
     {
@@ -109,8 +109,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "LeBron James, Tyrese Maxey et Joel Embiid, incertain (malade), chez Pascal Siakam, dans le groupe Est B. Philadelphie sans Jaylen Brown (ischio-jambiers) ; Indiana sans Tyrese Haliburton (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -145,8 +145,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Scottie Barnes, sans Kawhi Leonard (genou) ni RJ Barrett (ischio-jambiers), face à Michael Porter Jr. et Julius Randle, dans le groupe Est A. Brooklyn sans le Français Nolan Traoré.",
       "commentators": null
     },
     {
@@ -181,8 +181,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Jayson Tatum et Derrick White, deuxièmes de l'Est la saison dernière, reçoivent Jalen Johnson et Nickeil Alexander-Walker, dans le groupe Est C. Atlanta sans CJ McCollum (mollet).",
       "commentators": null
     },
     {
@@ -217,8 +217,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Les Français Rudy Gobert et Joan Beringer, sans Anthony Edwards (genou), face à Ty Jerome et Zach Edey, incertain (cheville), dans le groupe Ouest B.",
       "commentators": null
     },
     {
@@ -253,8 +253,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Devin Booker face à Cooper Flagg, Kyrie Irving et le Français Zaccharie Risacher, dans le groupe Ouest A. Phoenix sans Mark Williams (épaule).",
       "commentators": null
     },
     {
@@ -292,8 +292,8 @@
         "source": "agendatv-basket.com (« Primevideo ») et bleublancdunk.com/diffusions (« 01:00 · Prime Video » Miami Heat @ New York Knicks ; « 03:30 · Prime Video » Los Angeles Lakers @ San Antonio Spurs), lus le 27/11/2026 vers 15h05",
         "status": "annoncé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 3,
+      "brief": "Victor Wembanyama et les finalistes 2026 reçoivent Luka Dončić, dans le groupe Ouest C, pour le dernier soir de la phase de groupes. Los Angeles sans Austin Reaves (talon) ; San Antonio sans Dylan Harper (hanche), De'Aaron Fox est incertain (jambe).",
       "commentators": null
     },
     {
@@ -328,8 +328,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Nikola Jokić et Jamal Murray chez le rookie Darryn Peterson, dans le groupe Ouest A. Utah sans Lauri Markkanen (main) ni Jaren Jackson Jr. (genou).",
       "commentators": null
     },
     {
@@ -364,8 +364,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 1,
+      "brief": "Darius Garland face à Zion Williamson et Trey Murphy III, dans le groupe Ouest B. Los Angeles sans Bradley Beal (genou), New Orleans sans Dejounte Murray (cheville).",
       "commentators": null
     },
     {
@@ -400,8 +400,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": 2,
+      "brief": "Deni Avdija et le Français Sidy Cissoko, sans Ja Morant, face à des Warriors privés de Stephen Curry, Jimmy Butler et Kristaps Porziņģis, dans le groupe Ouest C.",
       "commentators": null
     }
   ],
