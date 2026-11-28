@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pick & Watch//pickandwatch.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA · Trail Blazers – Grizzlies
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:401909453@pickandwatch.fr
+DTSTAMP:20261128T061511Z
+DTSTART:20261206T030000Z
+DTEND:20261206T053000Z
+SUMMARY:NBA · Trail Blazers – Grizzlies
+DESCRIPTION:Où regarder : Prime Video. Match de NBA Cup. Le verdict sans
+  spoiler demain à 8h sur Instagram : @pickandwatch.fr. Programme : http
+ s://pickandwatch.fr
+URL:https://pickandwatch.fr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NBA · Trail Blazers – Grizzlies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
