@@ -1,0 +1,32 @@
+{
+ "_statut": "proposé le 28/11/2026 vers 15h30 (en attente de validation)",
+ "_grille": "Note par équipe (data/grille-equipes.json) : classement 2025-26 + playoffs 2026 + aura des stars. Match = somme + 2 si événement. 9 et plus = 3 étoiles, 6 à 8 = 2, 5 et moins = 1. Un seul ★★★ par nuit.",
+ "_sources": "Feuilles ESPN (summary des cinq matchs, blessures ESPN au 28/11/2026 vers 15h : Embiid et James forfaits samedi selon Kris Rhim (ESPN), Brown absent du déplacement, Banchero (cheville), Penda (ischio-jambiers), Holmgren (genou), Wallace (épaule), Traoré (ischio-jambiers, 8 à 10 semaines), Essengue probable (pouce) ; séries de la saison ESPN : troisième rencontre pour Wizards – Magic et Hornets – Nets, première pour les trois autres ; feuilles de match ESPN des trois derniers matchs de chaque équipe : minutes des Français, deuxième match en deux soirs pour Brooklyn, Indiana, Milwaukee et Philadelphie ; effectif ESPN : AJ Dybantsa rookie). Previews AP/Data Skrive des 27 et 28/11/2026. Maxey titulaire au All-Star Game 2026 (cbsnews.com, 19/01/2026). Guide TV beIN SPORTS (XMLTV France, via data/nuits/2026-11-28.json) : Wizards – Magic en direct beIN SPORTS 1 à 23h, rediffusion dimanche 10h45 beIN SPORTS 1. Prime Video : aucun match « NBA on Prime » cette nuit dans le calendrier ESPN (diffusion nationale : NBA TV pour Rockets – 76ers) ; samedis sur Prime Video à partir de février (Insidebasket 20/10/2026) ; agendatv-basket.com et bleublancdunk.com non lisibles cet après-midi (accès refusé à l'outil). Aucun match dimanche avant 18h (calendrier ESPN du 29/11 : premier match à 21h30, heure de Paris). Aucun match à 9 ou plus : pas de ★★★ ce soir.",
+ "matchs": {
+  "401910049": {
+   "stars": "2",
+   "score": "1 + 7 = 8 (pas d'événement : le Français Ousmane Dieng n'a pas joué ses trois derniers matchs) ; Oklahoma City reste à 7 (Shai Gilgeous-Alexander joue) ; meilleure note de la nuit, affiche de la nuit sans ★★★ (moins de 9)",
+   "brief": "Première rencontre de la saison. Shai Gilgeous-Alexander et Ajay Mitchell chez Tyler Herro et Myles Turner, au deuxième match en deux soirs. Oklahoma City sans Jalen Williams, Chet Holmgren (genou) ni Cason Wallace (épaule)."
+  },
+  "401910046": {
+   "stars": "2",
+   "score": "2 + 2 + 2 (événement : les Français Bilal Coulibaly, 22 à 25 min, et Alex Sarr, 20 à 26 min à leurs trois derniers matchs) = 6 ; Orlando reste à 2 (Wagner et Bane, Banchero absent) ; seul match en direct sur une chaîne française (beIN SPORTS 1, 23h)",
+   "brief": "Troisième rencontre de la saison. Anthony Davis, Trae Young, le rookie AJ Dybantsa et les Français Bilal Coulibaly et Alex Sarr reçoivent Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers)."
+  },
+  "401910050": {
+   "stars": "2",
+   "score": "3 + 4 = 7 (pas d'événement) ; Philadelphie ramené de 5 à 4 ce soir (aura 3 → 2 : Joel Embiid, LeBron James et Jaylen Brown absents, reste Tyrese Maxey, All-Star 2026)",
+   "brief": "Première rencontre de la saison. Kevin Durant et Alperen Şengün reçoivent Tyrese Maxey et VJ Edgecombe, au deuxième match en deux soirs. Philadelphie sans Joel Embiid (pied), LeBron James (dos) ni Jaylen Brown (ischio-jambiers)."
+  },
+  "401910047": {
+   "stars": "1",
+   "score": "1 + 1 + 2 (événement : le Français Moussa Diabaté, 30 à 38 min à ses trois derniers matchs) = 4",
+   "brief": "Le Français Moussa Diabaté et Brandon Miller reçoivent Michael Porter Jr. et Julius Randle, au deuxième match en deux soirs. Brooklyn sans le Français Nolan Traoré (ischio-jambiers) ; Charlotte sans Kon Knueppel."
+  },
+  "401910048": {
+   "stars": "1",
+   "score": "1 + 2 = 3 (pas d'événement : le Français Noa Essengue, 4 à 11 min à ses trois derniers matchs, probable, non compté) ; Indiana reste à 2 (Pascal Siakam, Haliburton absent)",
+   "brief": "Première rencontre de la saison : Josh Giddey et Matas Buzelis face à Pascal Siakam, au deuxième match en deux soirs. Indiana sans Tyrese Haliburton ; le Français Noa Essengue probable (pouce)."
+  }
+ }
+}

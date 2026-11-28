@@ -1,0 +1,109 @@
+{
+ "cover": {
+  "title": "5 MATCHS CETTE NUIT",
+  "date": "SAMEDI 28 NOVEMBRE · HEURE DE PARIS",
+  "top_label": "★★ L'AFFICHE DE LA NUIT",
+  "top": [
+   "BUCKS",
+   "THUNDER"
+  ],
+  "top_info": "02:00 · MILWAUKEE · NBA LEAGUE PASS",
+  "others": [
+   [
+    "WIZARDS – MAGIC",
+    "23:00",
+    "★★"
+   ],
+   [
+    "HORNETS – NETS",
+    "00:00",
+    "★"
+   ],
+   [
+    "BULLS – PACERS",
+    "02:00",
+    "★"
+   ],
+   [
+    "ROCKETS – 76ERS",
+    "02:30",
+    "★★"
+   ]
+  ],
+  "note": "TV : WIZARDS – MAGIC EN DIRECT SUR beIN SPORTS 1 À 23:00<br>DIFFÉRÉ DIM. 10:45 · LES AUTRES SUR NBA LEAGUE PASS",
+  "top_max": 200
+ },
+ "matches": [
+  {
+   "venue": "MILWAUKEE · FISERV FORUM",
+   "home": "Bucks",
+   "home_city": "MILWAUKEE",
+   "home_bg": "#00471B",
+   "home_sec": "#EEE1C6",
+   "away": "Thunder",
+   "away_city": "OKLAHOMA CITY",
+   "away_c1": "#007AC1",
+   "away_c2": "#EF3B24",
+   "counter": "NUIT DU 28 AU 29 NOV. · 2/5",
+   "label": "★★ L'AFFICHE DE LA NUIT",
+   "time": "02:00",
+   "brief": "Première rencontre de la saison. Shai Gilgeous-Alexander et Ajay Mitchell chez Tyler Herro et Myles Turner, au deuxième match en deux soirs. Oklahoma City sans Jalen Williams, Chet Holmgren (genou) ni Cason Wallace (épaule).",
+   "chips": [
+    "S. Gilgeous-Alexander",
+    "A. Mitchell",
+    "T. Herro"
+   ],
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "foot": "*Chaîne française<br>non confirmée"
+  },
+  {
+   "venue": "WASHINGTON · CAPITAL ONE ARENA",
+   "home": "Wizards",
+   "home_city": "WASHINGTON",
+   "home_bg": "#002B5C",
+   "home_sec": "#E31837",
+   "away": "Magic",
+   "away_city": "ORLANDO",
+   "away_c1": "#0077C0",
+   "away_c2": "#C4CED4",
+   "counter": "NUIT DU 28 AU 29 NOV. · 3/5",
+   "label": "★★ À SURVEILLER",
+   "time": "23:00",
+   "brief": "Troisième rencontre de la saison. Anthony Davis, Trae Young, le rookie AJ Dybantsa et les Français Bilal Coulibaly et Alex Sarr reçoivent Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers).",
+   "chips": [
+    "A. Davis",
+    "T. Young",
+    "B. Coulibaly",
+    "F. Wagner"
+   ],
+   "channel": "beIN SPORTS",
+   "mode": "EN DIRECT SUR beIN SPORTS 1",
+   "foot": "Rediffusion dim. 10:45<br>beIN SPORTS 1"
+  },
+  {
+   "venue": "HOUSTON · TOYOTA CENTER",
+   "home": "Rockets",
+   "home_city": "HOUSTON",
+   "home_bg": "#CE1141",
+   "home_sec": "#C4CED4",
+   "away": "76ers",
+   "away_city": "PHILADELPHIE",
+   "away_c1": "#006BB6",
+   "away_c2": "#ED174C",
+   "counter": "NUIT DU 28 AU 29 NOV. · 4/5",
+   "label": "★★ À SURVEILLER",
+   "time": "02:30",
+   "brief": "Première rencontre de la saison. Kevin Durant et Alperen Şengün reçoivent Tyrese Maxey et VJ Edgecombe, au deuxième match en deux soirs. Philadelphie sans Joel Embiid (pied), LeBron James (dos) ni Jaylen Brown (ischio-jambiers).",
+   "chips": [
+    "K. Durant",
+    "A. Şengün",
+    "T. Maxey",
+    "V. Edgecombe"
+   ],
+   "channel": "League Pass*",
+   "mode": "EN DIRECT · PUIS EN REPLAY",
+   "foot": "*Chaîne française<br>non confirmée"
+  }
+ ]
+}
