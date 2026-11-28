@@ -1,0 +1,197 @@
+{
+ "theme": "cup",
+ "couverture": {
+  "etiquette": "NBA CUP · RÉVÈLE LES QUALIFIÉS",
+  "titre": [
+   "LE TABLEAU DES QUARTS",
+   "8 ÉQUIPES, 4 AFFICHES"
+  ],
+  "lignes": [
+   [
+    "76ERS – HAWKS",
+    "SAM. 5/12 · 1H00"
+   ],
+   [
+    "SPURS – MAVERICKS",
+    "SAM. 5/12 · 3H30"
+   ],
+   [
+    "CELTICS – PISTONS",
+    "DIM. 6/12 · 1H30"
+   ],
+   [
+    "GRIZZLIES – TRAIL BLAZERS",
+    "DIM. 6/12 · 4H00"
+   ]
+  ],
+  "accroche": "Heures de Paris. Tout en direct sur Prime Video."
+ },
+ "slides": [
+  {
+   "etiquette": "NBA CUP · RÉVÈLE LES QUALIFIÉS",
+   "rubrique": "QUART DE FINALE · SAM. 5/12",
+   "titre": [
+    "76ERS – HAWKS",
+    "MAXEY CHEZ LES PREMIERS DE L'EST C"
+   ],
+   "chiffres": [
+    [
+     "DATE",
+     "SAM. 5/12"
+    ],
+    [
+     "HEURE DE PARIS",
+     "1H00"
+    ],
+    [
+     "CHEZ",
+     "ATLANTA"
+    ]
+   ],
+   "texte": "Deux premiers de groupe : Atlanta reçoit Philadelphie, Tyrese Maxey et LeBron James. Le match le plus tôt du week-end, à 1h du matin.",
+   "encadre": [
+    "EN DIRECT SUR",
+    "Prime Video",
+    ""
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · RÉVÈLE LES QUALIFIÉS",
+   "rubrique": "QUART DE FINALE · SAM. 5/12",
+   "titre": [
+    "SPURS – MAVERICKS",
+    "WEMBY CONTRE FLAGG"
+   ],
+   "chiffres": [
+    [
+     "DATE",
+     "SAM. 5/12"
+    ],
+    [
+     "HEURE DE PARIS",
+     "3H30"
+    ],
+    [
+     "CHEZ",
+     "DALLAS"
+    ]
+   ],
+   "texte": "Les Mavericks, seuls invaincus de la phase de groupes, reçoivent les Spurs, repêchés comme meilleurs deuxièmes de l'Ouest. L'affiche des quarts : Victor Wembanyama face à Cooper Flagg.",
+   "encadre": [
+    "EN DIRECT SUR",
+    "Prime Video",
+    ""
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · RÉVÈLE LES QUALIFIÉS",
+   "rubrique": "QUART DE FINALE · DIM. 6/12",
+   "titre": [
+    "CELTICS – PISTONS",
+    "BOSTON EN OUTSIDER"
+   ],
+   "chiffres": [
+    [
+     "DATE",
+     "DIM. 6/12"
+    ],
+    [
+     "HEURE DE PARIS",
+     "1H30"
+    ],
+    [
+     "CHEZ",
+     "DETROIT"
+    ]
+   ],
+   "texte": "Detroit, premier de l'Est A, reçoit Boston, qualifié comme meilleur deuxième de l'Est. Jayson Tatum face à Cade Cunningham.",
+   "encadre": [
+    "EN DIRECT SUR",
+    "Prime Video",
+    ""
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · RÉVÈLE LES QUALIFIÉS",
+   "rubrique": "QUART DE FINALE · DIM. 6/12",
+   "titre": [
+    "GRIZZLIES – TRAIL BLAZERS",
+    "LE CHOC DES PREMIERS"
+   ],
+   "chiffres": [
+    [
+     "DATE",
+     "DIM. 6/12"
+    ],
+    [
+     "HEURE DE PARIS",
+     "4H00"
+    ],
+    [
+     "CHEZ",
+     "PORTLAND"
+    ]
+   ],
+   "texte": "Premiers de leur groupe tous les deux : Portland reçoit Memphis et Ty Jerome, l'une des révélations du début de saison.",
+   "encadre": [
+    "EN DIRECT SUR",
+    "Prime Video",
+    ""
+   ]
+  },
+  {
+   "etiquette": "NBA CUP · RÉVÈLE LES QUALIFIÉS",
+   "rubrique": "LA SUITE",
+   "titre": [
+    "LE CHEMIN",
+    "JUSQU'À INDIANAPOLIS"
+   ],
+   "chiffres": [
+    [
+     "QUARTS · NUITS DU",
+     "4 & 5/12"
+    ],
+    [
+     "DEMIES · NUIT DU",
+     "8/12"
+    ],
+    [
+     "FINALE · NUIT DU",
+     "11/12"
+    ]
+   ],
+   "texte": "Les demies se jouent chez le mieux classé, la finale au Hinkle Fieldhouse d'Indianapolis. Les horaires des demies et de la finale arrivent dans nos programmes du soir.",
+   "encadre": [
+    "CHAQUE SOIR À 18H",
+    "Le programme de la nuit",
+    ""
+   ]
+  }
+ ],
+ "presentation": {
+  "etiquette": "PICK & WATCH",
+  "titre": [
+   "PICK & WATCH",
+   "TON PROGRAMME NBA. ZÉRO SPOILER."
+  ],
+  "texte": "Le programme NBA pensé pour les fans français : à l'heure de Paris, avec la chaîne de chaque match, et des verdicts qui ne révèlent jamais le score.",
+  "lignes": [
+   [
+    "18H",
+    "Les matchs de la nuit et où les voir"
+   ],
+   [
+    "8H",
+    "Le verdict sans score : replay, résumé ou zapper"
+   ],
+   [
+    "VENDREDI",
+    "Hors parquet : le basket au-delà des matchs"
+   ],
+   [
+    "LE SITE",
+    "Le programme de ton équipe et « + Agenda »"
+   ]
+  ]
+ }
+}
