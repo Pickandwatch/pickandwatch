@@ -1,6 +1,6 @@
 {
   "night": "2026-11-28",
-  "generated_at": "2026-11-28T15:13+01:00",
+  "generated_at": "2026-11-28T15:24+01:00",
   "games": [
     {
       "id": "401910046",
@@ -42,8 +42,8 @@
         "source": "guide TV beIN SPORTS (XMLTV France)",
         "status": "confirmé"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Troisième rencontre de la saison. Anthony Davis, Trae Young, le rookie AJ Dybantsa et les Français Bilal Coulibaly et Alex Sarr reçoivent Franz Wagner et Desmond Bane. Orlando sans Paolo Banchero (cheville) ni le Français Noah Penda (ischio-jambiers).",
       "commentators": null
     },
     {
@@ -78,8 +78,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Le Français Moussa Diabaté et Brandon Miller reçoivent Michael Porter Jr. et Julius Randle, au deuxième match en deux soirs. Brooklyn sans le Français Nolan Traoré (ischio-jambiers) ; Charlotte sans Kon Knueppel.",
       "commentators": null
     },
     {
@@ -114,8 +114,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "1",
+      "brief": "Première rencontre de la saison : Josh Giddey et Matas Buzelis face à Pascal Siakam, au deuxième match en deux soirs. Indiana sans Tyrese Haliburton ; le Français Noa Essengue probable (pouce).",
       "commentators": null
     },
     {
@@ -150,8 +150,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Première rencontre de la saison. Shai Gilgeous-Alexander et Ajay Mitchell chez Tyler Herro et Myles Turner, au deuxième match en deux soirs. Oklahoma City sans Jalen Williams, Chet Holmgren (genou) ni Cason Wallace (épaule).",
       "commentators": null
     },
     {
@@ -186,8 +186,8 @@
         "source": null,
         "status": "league-pass"
       },
-      "stars": null,
-      "brief": null,
+      "stars": "2",
+      "brief": "Première rencontre de la saison. Kevin Durant et Alperen Şengün reçoivent Tyrese Maxey et VJ Edgecombe, au deuxième match en deux soirs. Philadelphie sans Joel Embiid (pied), LeBron James (dos) ni Jaylen Brown (ischio-jambiers).",
       "commentators": null
     }
   ],
